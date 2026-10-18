@@ -274,14 +274,20 @@ routes.home = (root) => {
       <h1>Patent na patent</h1>
       <div class="sub">jachtowy sternik morski</div>
     </div>`));
-  const voyage = el(`<div class="voyage"><div class="sky"></div><div class="sea"><div class="waves"></div><div class="boat">${sprite('boat')}</div></div></div>`);
-  const sky = $('.sky', voyage);
-  SECTIONS.filter(s => s.id !== 'wylowione').forEach(s => {
+  const voyage = el(`<div class="voyage"><div class="track"><div class="waves"></div><div class="boat">${sprite('boat')}</div></div><div class="caption"></div></div>`);
+  const track = $('.track', voyage);
+  const ports = SECTIONS.filter(s => s.id !== 'wylowione');
+  let next = null;
+  ports.forEach((s, i) => {
     const st = secStats(s.id);
-    const done = st.total && (st.mastered || st.seen) >= st.total * 0.8;
-    sky.append(el(`<div class="port ${done ? 'done' : ''}" title="${esc(s.name)}"><div class="spr">${sprite('port')}</div><div class="lbl">${esc(s.short || s.name)}</div></div>`));
+    const p = st.total ? pct(st.withAns ? st.mastered : st.seen, st.total) : 0;
+    const done = p >= 80;
+    if (!done && !next) next = {s, p};
+    const m = el(`<div class="port-mark ${done ? 'done' : ''}" title="${esc(s.name)}" style="left:${((i + 0.5) / ports.length * 100).toFixed(1)}%">${sprite('port')}</div>`);
+    track.insertBefore(m, $('.boat', track));
   });
-  $('.boat', voyage).style.left = (4 + prog * 0.92) + '%';
+  $('.boat', voyage).style.left = (3 + prog * 0.94) + '%';
+  $('.caption', voyage).textContent = next ? `Następny port: ${next.s.name} · ${next.p}%` : 'Wszystkie porty zaliczone. Czas na egzamin!';
   root.append(voyage);
   root.append(el(`
     <div class="stat-tiles">
@@ -298,7 +304,6 @@ routes.home = (root) => {
   $('#h-learn', root).onclick = () => go('learn');
   $('#h-exam', root).onclick = () => go('exam');
   $('#h-review', root).onclick = () => go('review');
-  root.append(el(`<p class="small muted">Baza: ${total} pytań PZŻ (2016). Opracowane odpowiedzi: ${withAns}/${total}. Egzamin: 75 pytań, 120 min, próg 65.</p>`));
 };
 
 /* ---------- Learn: section list ---------- */
@@ -657,7 +662,7 @@ routes.stats = (root) => {
   $('#s-export', st).onclick = () => { const txt = JSON.stringify(S); const close = sheet(`<h3>Eksport</h3><textarea class="io" id="io" readonly></textarea><button class="btn primary" id="cp">Kopiuj</button><button class="btn ghost" data-close>Zamknij</button>`); $('#io').value = txt; $('#cp').onclick = () => { navigator.clipboard?.writeText(txt).then(() => toast('Skopiowane'), () => { $('#io').select(); toast('Zaznacz i skopiuj ręcznie'); }); }; };
   $('#s-import', st).onclick = () => { const close = sheet(`<h3>Import</h3><p class="small">Wklej tekst z eksportu. Zastąpi obecne postępy.</p><textarea class="io" id="io"></textarea><button class="btn primary" id="ok">Wczytaj</button><button class="btn ghost" data-close>Anuluj</button>`); $('#ok').onclick = () => { try { const o = JSON.parse($('#io').value); if (!o.q) throw 0; S = Object.assign(defaultState(), o); save(); applyTheme(); close(); toast('Wczytane'); route(); } catch (e) { toast('To nie wygląda na eksport z tej apki'); } }; };
   $('#s-reset', st).onclick = () => { const close = sheet(`<h3>Wyzerować wszystko?</h3><p class="small">Postępy, historia egzaminów i flagi znikną.</p><button class="btn" id="ok" style="color:var(--bad)">Tak, wyzeruj</button><button class="btn ghost" data-close>Nie</button>`); $('#ok').onclick = () => { S = defaultState(); save(); applyTheme(); close(); route(); }; };
-  root.append(el(`<p class="small muted">Źródło pytań: ${esc(DATA.meta.source)}. Wersja danych: ${esc(DATA.meta.version || 'robocza')}.</p>`));
+  root.append(el(`<p class="small muted">Baza: ${DATA.questions.length} pytań, źródło: ${esc(DATA.meta.source)}. Egzamin PZŻ: 75 pytań, 120 min, próg 65 poprawnych i zadanie nawigacyjne. Wersja danych: ${esc(DATA.meta.version || 'robocza')}.</p>`));
 };
 
 /* ---------- Boot ---------- */
