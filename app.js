@@ -247,6 +247,11 @@ function route(){
 $('#btn-back').onclick = () => history.length > 1 ? history.back() : go('home');
 addEventListener('hashchange', route);
 
+/* ---------- Disputed questions ---------- */
+const DISPUTE_RE = /^(sporne|nieaktualne|częściowo nieaktualne|uwaga|tekst-scalony|rysunek:|terminologia)/;
+function isDisputed(q){ return q.confidence === 'C' || (q.flags || []).some(f => DISPUTE_RE.test(f)); }
+function disputeReason(q){ const f = (q.flags || []).find(x => DISPUTE_RE.test(x)); return f || 'pewność C: odpowiedź do potwierdzenia u instruktora'; }
+
 /* ---------- Mastery ---------- */
 function secStats(sid){
   const list = sectionQuestions(sid);
@@ -404,9 +409,16 @@ function learnQuestion(root, sid, idxStr){
   const q = BYID[ids[idx]];
   setTitle(sec ? sec.name : 'Nauka');
   let selected = null, eliminated = [], revealed = false, buoyUsed = false;
+  const nextFn = () => {
+    if (idx === ids.length - 1) { S.learn[sid] = {idx: 0, order: null}; save(); toast('Dział przerobiony. Dobra robota!'); go('learn'); }
+    else go(`learn/${sid}/${idx + 1}`);
+  };
   const render = () => {
     root.innerHTML = '';
-    root.append(el(`<div class="row between"><div class="qhead"><span class="pill">${idx + 1} / ${ids.length}</span></div><div class="progress grow" style="height:10px"><i style="width:${pct(idx + 1, ids.length)}%"></i></div></div>`));
+    const top = el(`<div class="row navtop"><button class="minibtn" id="n-prev" ${idx === 0 ? 'disabled' : ''} aria-label="Poprzednie">◀</button><div class="qhead"><span class="pill">${idx + 1} / ${ids.length}</span></div><div class="progress grow" style="height:10px"><i style="width:${pct(idx + 1, ids.length)}%"></i></div><button class="minibtn" id="n-skip">Pomiń ▶</button></div>`);
+    root.append(top);
+    $('#n-prev', top).onclick = () => go(`learn/${sid}/${idx - 1}`);
+    $('#n-skip', top).onclick = nextFn;
     const flagged = S.flags.includes(q.id);
     const tools = el(`<div class="toolrow">
       <button class="btn" id="t-gull"><span class="spr">${sprite('mewa')}</span>Mewa</button>
@@ -427,16 +439,10 @@ function learnQuestion(root, sid, idxStr){
       eliminated = [wrong[Math.floor(Math.random() * wrong.length)]]; buoyUsed = true; render(); toast('Koło ratunkowe: jedna zła odpowiedź mniej');
     };
     $('#t-flag', tools).onclick = () => { const i = S.flags.indexOf(q.id); if (i >= 0) S.flags.splice(i, 1); else S.flags.push(q.id); save(); render(); };
-    const nav = el(`<div class="bottom-actions"><div class="navrow">
-      <button class="btn ghost" id="n-prev" ${idx === 0 ? 'disabled' : ''}>◀ Poprzednie</button>
-      <button class="btn primary" id="n-next">${idx === ids.length - 1 ? 'Koniec działu' : 'Dalej ▶'}</button>
-    </div></div>`);
-    root.append(nav);
-    $('#n-prev', nav).onclick = () => go(`learn/${sid}/${idx - 1}`);
-    $('#n-next', nav).onclick = () => {
-      if (idx === ids.length - 1) { S.learn[sid] = {idx: 0, order: null}; save(); toast('Dział przerobiony. Dobra robota!'); go('learn'); }
-      else go(`learn/${sid}/${idx + 1}`);
-    };
+    if (revealed) {
+      const nb = el(`<button class="btn primary" id="n-next">${idx === ids.length - 1 ? 'Koniec działu' : 'Dalej ▶'}</button>`);
+      nb.onclick = nextFn; root.append(nb);
+    }
   };
   render();
 }
@@ -471,13 +477,14 @@ routes.review = (root, idxStr) => {
   let selected = null, revealed = false;
   const render = () => {
     root.innerHTML = '';
-    root.append(el(`<div class="row between"><div class="qhead"><span class="pill">powtórka ${idx + 1} / ${ids.length}</span><span class="pill">pudełko ${qs(q.id).box}</span></div></div>`));
-    root.append(questionCard(q, {selected, reveal: revealed, onAnswer: (l) => { if (revealed) return; selected = l; revealed = true; recordAnswer(q, l); render(); }}));
+    const top = el(`<div class="row navtop"><div class="qhead"><span class="pill">powtórka ${idx + 1} / ${ids.length}</span><span class="pill">pudełko ${qs(q.id).box}</span></div><span class="grow"></span><button class="minibtn" id="g">Mewa</button><button class="minibtn" id="n-skip">Pomiń ▶</button></div>`);
+    root.append(top);
+    const card = questionCard(q, {selected, reveal: revealed, onAnswer: (l) => { if (revealed) return; selected = l; revealed = true; recordAnswer(q, l); render(); }});
+    root.append(card);
     if (revealed) root.append(feedbackBlock(q, selected));
-    const nav = el(`<div class="bottom-actions"><div class="navrow"><button class="btn ghost" id="g">Mewa</button><button class="btn primary" id="n">Dalej ▶</button></div></div>`);
-    root.append(nav);
-    $('#g', nav).onclick = () => { if (!$('.gull', root)) nav.before(gullHint(q)); };
-    $('#n', nav).onclick = () => go(`review/${idx + 1}`);
+    $('#g', top).onclick = () => { if (!$('.gull', root)) card.before(gullHint(q)); };
+    $('#n-skip', top).onclick = () => go(`review/${idx + 1}`);
+    if (revealed) { const nb = el('<button class="btn primary" id="n">Dalej ▶</button>'); nb.onclick = () => go(`review/${idx + 1}`); root.append(nb); }
   };
   render();
 };
@@ -621,6 +628,20 @@ routes.stats = (root) => {
   badges.forEach(b => $('.badges', bd).append(el(`<div class="badge ${b.ok ? 'earned' : ''}"><div class="spr">${sprite(b.spr)}</div><div class="lbl">${esc(b.lbl)}</div></div>`)));
   root.append(bd);
   if (S.exams.length) { const h = el('<div class="card"><h3>Historia egzaminów</h3><div class="histlist"></div></div>'); S.exams.slice().reverse().forEach(e => $('.histlist', h).append(el(`<div class="histitem ${e.passed ? 'pass' : 'fail'}"><span>${new Date(e.date).toLocaleString('pl-PL', {dateStyle: 'short', timeStyle: 'short'})}</span><span class="sc">${e.score}/${e.total}</span></div>`))); root.append(h); }
+  // pytania sporne
+  const disputed = DATA.questions.filter(isDisputed);
+  const dc = el(`<div class="card"><div class="row between"><h3>Pytania sporne i nieaktualne</h3><span class="big">${disputed.length}</span></div><p class="small muted">Pytania, przy których odpowiedź z klucza budzi wątpliwości albo przepis zmienił się od 2016 r. Warto omówić je z instruktorem.</p><button class="btn" id="s-disputed"><span class="spr">${sprite('flag')}</span>Pokaż listę</button></div>`);
+  root.append(dc);
+  $('#s-disputed', dc).onclick = () => {
+    const close = sheet(`<h3>Pytania sporne i nieaktualne</h3><p class="small muted">Dotknij pytania, żeby je otworzyć w trybie nauki.</p><div class="stack" id="d-list"></div><button class="btn ghost" data-close>Zamknij</button>`);
+    const list = $('#d-list');
+    disputed.forEach(q => {
+      const sec = SECTIONS.find(s => s.id === q.section);
+      const b = el(`<button class="opt"><span class="letter">${q.id}</span><span class="grow small"><b>odp. ${q.answer}</b> · ${esc(sec ? sec.name : q.section)}<br>${esc(disputeReason(q))}</span></button>`);
+      b.onclick = () => { close(); const ids = sectionQuestions(q.section).map(x => x.id); S.learn[q.section] = {idx: ids.indexOf(q.id), order: null}; save(); go(`learn/${q.section}/${ids.indexOf(q.id)}`); };
+      list.append(b);
+    });
+  };
   // ustawienia
   const st = el(`<div class="card"><h3>Ustawienia</h3>
     <div class="row between"><span>Motyw</span><select id="s-theme" class="kbd" style="font-size:16px;padding:6px"><option value="auto">Jak system</option><option value="day">Dzień</option><option value="night">Noc</option><option value="watch">Wachta (czerwony)</option></select></div>

@@ -1,5 +1,5 @@
 /* Service worker: apka działa offline. Pliki apki: sieć najpierw (aktualizacje docierają od razu), cache w razie braku sieci. Obrazki i fonty: cache najpierw. */
-const VERSION = 'pnp-v2';
+const VERSION = 'pnp-v3';
 const CORE = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest', 'data/questions.json', 'icons/icon-192.png', 'icons/icon-512.png'];
 
 self.addEventListener('install', (e) => {
