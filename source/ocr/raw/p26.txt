@@ -1,0 +1,75 @@
+POLSKI ZWIĄZEK ŻEGLARSKI
+
+al. ks. J. Poniatowskiego 1
+03-901 Warszawa
+tel. (227 54163 63; Tax (22) 541 63 69
+
+e-mail:pyabiuroG©pya.org.pl, www.pya.org.pl
+NAWIGACJA NIP 521-11-84-399, REGON 007014979
+
+178. Jaki znak ma poprawka na prąd w zależności od A Prąd z lewej burty poprawka "+", z prawej
+
+kursu jachtu i kierunku prądu burty poprawka "-"
+
+B Prąd z lewej burty poprawka
+burty poprawka "+"
+
+„zprawej
+
+Prąd z lewej burty poprawka "+", z prawej
+
+burty poprawka "-", ale jeżeli prąd jest
+C zgodny lub przeciwny do kursu to
+poprawka "0"
+179. Wykonujemy namiar na latarnię. Czy dla A Tak, zawsze
+obliczenia namiaru rzeczywistego potrzebny jest B Nie
+- 7
+odczyt kursu kompasowego w momencie namiaru? C_|To zależy od typu kompasu i namiernika
+180. Na jachcie jest echosonda. Co przede wszystkim A Czyczujnik sondy nie jest zabrudzony
+
+czy od lini wodnej, czy od czujnika
+
+Cc Czy sonda posiada opcję alarmu i jak jest
+ona ustawiona
+
+181. Jak prawidłowo powinna być oznakowana sonda A Węzłami co 5 metrów
+ręczna (system przyjety w Polsce) B Węzłamico1 m
+
+Znakami co 1 m i kolorowymi opaskami co
+C |5m niebieska-czerwona-biała-żólta
+(niebo-dach-ściana-piach)
+
+182. Dla jakich kątów przecięcia lini pozycyjnych A Kąt przecięcia od 300 do 1500
+pozycję można okreslić jako względnie dokładną? B Tylko dla kąta 900
+
+Nie ma to znaczenia, ważna jest tylko
+C dokładność wyznaczenia każdej linii
+
+pozycyjnej
+
+183. Zliczenie graficzne drogi polega na: (Uwaga
+skróty: Kąd drogi nad dnem - Kd, Kurs rzeczywisty - Kr,
+Kurs magnetyczny - Km)
+
+Wykreślaniu na mapie Kd i odmierzaniu na
+
+tym kursie przebytych odległości
+
+B Wykreślaniu na mapie Kk i odmierzaniu na
+tym kursie przebytych odległości
+
+C Wykreślaniu na mapie Km i odmierzaniu na
+tym kursie przebytych odległości
+
+184. Jacht żegluje kursem kompasowym (Kk) jak A Znaleźć w tabeli dewiację (dew) dla Kki
+obliczyć kurs rzeczywisty (Kr) obliczyć Kr ze wzoru Kr = Kk + dew
+
+Znaleźć w tabeli dewiację (dew) dla Kki
+B obliczyć Kr ze wzoru Kr = Kk + dekl. magn. +
+dew
+
+Znaleźć w tabeli dewiację (dew) dla Kki
+C obliczyć Kr ze wzoru Kr = Kk - dew - dekl.
+magn.
+
+Numer arkusza: 20160729_095536455_0 Strona 26/56

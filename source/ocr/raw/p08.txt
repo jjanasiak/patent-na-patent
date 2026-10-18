@@ -1,0 +1,67 @@
+POLSKI ZWIĄZEK ŻEGLARSKI
+al. ks. J. Poniatowskiego 1
+03-901 Warszawa
+a (22) A 8 63, fax (22) 541 63 69
+e-mail:pyabiuroG©pya.org.pl, www.pya.org.pl
+LOCJA NIP 521-11-84-399, REGON 007014979
+
+49. W tablicach pływów podawana jest strefa czasu A 11.20
+dla danego portu (Standart Port). Dla interesujacego B 12.20
+nas portu podano Time Zone - 0200, a z tablic C 1320
+odczytano moment wysokiej wody 1320. O której :
+godzinie czasu okrętowego wystąpi ta wysoka woda
+
+jeżeli czas okrętowy jest o 1 godzinę późniejszy od
+
+UTC (GMT)?
+
+50. Znajdujemy się na akwenie, gdzie wystepują A Tak
+prądy pływowe. Posługując się GPS/ploterem B Nie
+
+określono KD, ustawiono jacht w tym kierunku i
+odczytano na kompasie KK prowadzący do portu
+odległego o kilka godzin drogi. Czy utrzymywanie
+tego KK przez cały czas żeglugi gwarantuje nam
+osiągnięcie tego portu bez ewentualnych korekt
+
+Cc Tak, o ile na całej tej trasie deklinacja
+magnetyczna będzie taka sama
+
+kursu?
+51. Na rysunku pokazano fragment atlasu prądów A Tylko, że pokazany prąd płynie na NE
+pływowych. Jakie informacje można z niego Sytuacja odnośi się do 6 godziny po HW w
+odczytać? B Dover, a prąd ma szybkość 13,26 m/ min.i
+płynie na NE
+ri zł Sytuacja odnosi się do ok. 6 godziny po HW
+RI. w Dover, prąd płynie na NE, szybkość prądu
+C przy pływie kwadraturowym wynosi 1,3
+węzła i 2,6 węzła przy pływie syzygijnym.
+52. Dysponujemy TYLKO atlasem pływów i mapą A Tak, w atlasie podane są kierunki i
+
+danego akwenu. Czy jesteśmy w stanie ustalić
+kierunek i szybkość prądu dla danego momentu
+
+szybkości prądu
+Tak, na mapie są podane punkty (romby z
+
+żeglugi? B literą) pozwalajace na znalezienie w tabeli
+kierunku i szybkości prądu.
+C Nie
+53. Gdzie można znaleźć informacje o prądach A Tylko w Locjach danego akwenu
+pływowych? B W Tablicach Pływów
+W atlasach prądów pływowych, mapach
+C |morskich, na mapach wektorowych z
+funkcją prądy pływowe
+54. Z jakich źródeł można uzyskać dane dotyczące A Tylko z Admiralty Tide Tables
+pływów dla danego portu? Tylko z tablic pływów publikowanych w
+
+B różnych wydawnictwach (np. REED'S
+Almanac, Admiralty Tide Tables itp.
+
+Z rozmaitych Tablic Pływów, z Portali
+internetowych, z programów
+
+C komputerowych i z map wektorowych z
+funkcją pływy.
+
+Numer arkusza: 20160729_095536455_0 Strona 8/56

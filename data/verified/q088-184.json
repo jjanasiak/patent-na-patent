@@ -1,0 +1,2302 @@
+[
+  {
+    "id": 88,
+    "question": "Na rysunku pokazano diagram kierunku i prędkości wiatru dla jednej doby ( godziny od 08.00 do 08.00). Prognoza ICM. Jak zmieni się kierunek wiatru w ciągu tej doby?",
+    "question_image_note": "diagram prognozy ICM: wykres prędkości wiatru (m/s, linie i słupki niebieskie/czerwone) oraz rząd strzałek kierunku wiatru dla jednej doby",
+    "options": [
+      {
+        "letter": "A",
+        "text": "na początku okresu SE 3°B na końcu S-SW 2°B",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "na początku okresu SW 2°B na końcu S-SW 3°B",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "na początku okresu NW 3°B na końcu SE 2°B",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: SE 30B (A)",
+      "oryginał: SW 20B (B)",
+      "oryginał: NW 30B (C)",
+      "oryginał: zbędny cudzysłów po 'doby?'"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Jeżeli w prognozie radiowej słyszymy \"niż z nad Danii pogłębia się i przesuwa szybko na wschód\", to w ciągu najbliższej doby Zatoce Gdańskiej spodziewamy się:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Słabnących wiatrów z kierunków wschodnich",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Rosnącej siły wiatru z kierunków zachodnich",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Słabych wiatrów północnych",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 90,
+    "question": "Izobary kreślone na mapach pogody są to:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Linie łączące punkty o jednakowej temperaturze",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Linie łączące punkty o jednakowej wilgotności powietrza",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Linie łączące punkty o jednakowej wartości ciśnienia",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 91,
+    "question": "Gdzie na jachcie powinien być umieszczony termometr?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jest to obojętne byle był zabezpieczony przed uszkodzeniem",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W miejscu dogodnym do odczytu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W miejscu zacienionym, z dala od źródeł ciepła",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 92,
+    "question": "Powierzchnia (warstwa) rozdzielająca masę powietrza ciepłego od masy powietrza chłodnego w przypadku kiedy powietrze ciepłe napływa na chłodne to:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Front chłodny,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Front ciepły,",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Front zokludowany",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 93,
+    "question": "W ciągu dnia obserwowano chmury jak na rysunku. Po południu wiatr osłabł, a chmury powoli zanikają, ciśnienie nie zmieniało się. Jakiej pogody można się spodziewać?",
+    "question_image_note": "zdjęcie białych chmur kłębiastych (cumulus) na niebieskim niebie",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Podobnej pogody bez opadów i niewielkim zachmurzeniu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wzrostu zachmurzenia, przelotnych opadów",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Bardzo silnego wiatru przy niewielkim zachmurzeniu",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 94,
+    "question": "Wiatromierz pokazuje szybkość wiatru w węzłach. Jak przeliczyć w przybliżeniu tą szybkość na stopnie skali Beauforta?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie da się. Jedyna możliwość to skorzystać z tablic nawigacyjnych",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Skorzystać z przybliżonego wzoru °B = (węzły + 5)/5",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Trzeba przeliczyć węzły na m/sek. 3m/sek. = 1°B; 6m/sek. = 2°B; 9m/sek.= 3°B itd.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 95,
+    "question": "W jakich jednostkach podaje się szybkość wiatru w komunikatach meteorologicznych?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zawsze tylko w stopniach skali Beauforta",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zawsze tylko w km/godz",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "To zależy od przyjętego systemu w danym kraju ( najczęściej m/sek lub °B)",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: 0B (C)"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Wiatromierz na statku pokazuje tylko parametry wiatru pozornego, czy można na tej podstawie określić parametry wiatru rzeczywistego",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak jeżeli dysponujemy przyrządem mierzącym szybkość jachtu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tak, wystarczą tylko odpowiednie tablice, czy diagramy",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie jest to możliwe",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 97,
+    "question": "W trakcie rejsu na jachcie zaobserwowano nagły spadek ciśnienia w wysokości 3 hPa w ciągu godziny. Sytuacja taka świadczy o:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Świadczy o nadejściu wyżu i stabilizacji pogody",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Świadczy o nadejściu niżu i nadejściu silnego wiatru",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Świadczy o opadach przy słabym wietrze",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 98,
+    "question": "W komunikatach pogody nadawanych przez radio podawane są przede wszystkim poniższe informacje:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wilgotność względna",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Kierunek i siła wiatru, temperatura, opad",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Rodzaje występujących chmur",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 99,
+    "question": "Jaka jest zależność pomiędzy wilgotnością względną, a temperaturą punktu rosy?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Przy temperaturze punktu rosy wilgotność względna wynosi 100%",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Przy temperaturze punktu rosy wilgotność względna wynosi 0%",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie ma zależności pomiędzy temperaturą punktu rosy, a wilgotnością względną",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 100,
+    "question": "Jeżeli jacht żeglujący na obszarze niżowym płynie kursem fordewind to centrum niżu będzie znajdowało się (półkula północna):",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ok. 2 rumby przed lewym trawersem jachtu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Dokładnie przed dziobem jachtu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Po prawej ręce sternika",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: podwójny dwukropek ': :' na końcu pytania"
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Radiowy morski komunikat meteorologiczny posiada następujący schemat:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Prognoza na następne 24 godziny",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Ostrzeżenia, sytuacja baryczna, prognoza na 12 godzin, orientacyjna prognoza na następne 12 godzin",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Omówienie sytuacji barycznej, prognoza na 12 godzin",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 102,
+    "question": "Czy znajomość aktualnej wilgotności względnej powietrza może być przydatna dla prognozowania mgły?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie, bo wilgotność względna nie wpływa na możliwość tworzenia się mgły",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tak, szczególnie przy znajomości tendencji zmian temperatury",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, ale tylko jeżeli wilgotność względna jest niższa niż 20%",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 103,
+    "question": "Bryza dzienna to wiatr wiejący:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W nocy od morza do lądu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W dzień od morza do lądu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W dzień od lądu do morza",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 104,
+    "question": "Na mapie synoptycznej taki symbol oznacza:",
+    "question_image_note": "czerwona pozioma linia z czterema czerwonymi półkolami po jednej (górnej) stronie – symbol frontu na mapie synoptycznej",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Front ciepły",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Front zokludowany",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Front chłodny",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 105,
+    "question": "Wiatr przyziemny w niżu wieje (półkula północna):",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Prostopadle do izobar do centrum niżu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Od centrum niżu na zewnątrz odchylony przeciwnie do ruchu wskazówek zegara o kąt 20-40° do izobary",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Do środka niżu odchylony zgodnie z ruchem wskazówek zegara o kąt 20-40° do izobary",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 106,
+    "question": "Ile wynosi wilgotność względna powietrza zawierającego 5 g pary wodnej/m3 jeżeli w danej temperaturze ilość pary nasycającej 1 m3 powietrza wynosi 10 g?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "20%",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "80%",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "50%",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 107,
+    "question": "W jakich jednostkach podawane jest ciśnienie w komunikatach meteo w żegludze morskiej?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W barach",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W mm słupa rtęci",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W hektopaskalach (hPA)",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 108,
+    "question": "W komunikacie meteorologicznym podano, że nad środkowym Bałtykiem będzie przemieszczał się front chłodny z zachodu na wschód. Jakiej pogody można się spodziewać na północ od Rozewia?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bez opadów, małe zachmurzenie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Ciągły opad deszczu słabnący wiatr",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wzrost zachmurzenia, burze, szkwały",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 109,
+    "question": "Jakiej pogody można spodziewać się na obszarze wyżowym?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Duże zachmurzenie opady",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Burze, opady przelotne",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Małe zachmurzenie lub bezchmurnie, brak opadów",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 110,
+    "question": "Jakich jednostek i przyrządów używa się do określania wilgotności względnej powietrza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Gramy/ m3, wilgotnościomierzy",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Procenty, higrometry",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Promile, higrografy",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 111,
+    "question": "Wody śródlądowe. Mały statek idący pod żaglami powinien ustąpić:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Statkowi pasażerskiemu o napędzie mechanicznym,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Małemu statkowi o napędzie mechanicznym,",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wodolotowi płynącemu z dużą prędkością.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: z duża prędkością (C)"
+    ]
+  },
+  {
+    "id": 112,
+    "question": "Jacht żaglowy idzie do wejścia do kanału odległego ok. 300 m. Statek pasażerski wychodzący z kanału na wprost jachtu dał sygnał dźwiękowy dwa krótkie. Co powinien zrobić jacht.",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kontynuować swój kurs",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zmienić swój kurs w prawo",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zatrzymać się i rzucić kotwicę",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 113,
+    "question": "Jak jacht powinien przecinać system rozgraniczenia ruchu?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie wolno go w ogóle przecinać",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W dowolny sposób, ale jak najszybciej",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Możliwie prostopadle do toru nie przeszkadzając statkom korzystającym z systemu",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 114,
+    "question": "W jakim przedziale czasowym powinny być zapalone światła jachtu?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Od zmierzchu do świtu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Od jednej godziny przed zachodem słońca do jednej godziny po zachodzie słońca",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Od zachodu do wschodu słońca",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 115,
+    "question": "Na kursie zaobserwowano światła jak na rysunku. Jak należy postąpić?",
+    "question_image_note": "sylwetka statku nocą (widok z boku): na maszcie dziobowym dwa czerwone światła dookólne w pionie, na maszcie rufowym jedno białe światło",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ominąć ten statek w bezpiecznej odległości z dowolnej strony",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Można przejść blisko za rufą",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sprawdzić położenie na mapie i głębokości. Ominąć biorąc pod uwagę głębokości.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 116,
+    "question": "Na kursie zaobserwowano statek jak na rysunku. Światła żółte (gwiazdki) migają na przemian. Jakie działanie podjąć?",
+    "question_image_note": "sylwetka statku nocą: na maszcie dziobowym dwa migające żółte światła w pionie (narysowane jako gwiazdki, górna żółta, dolna pomarańczowa), poniżej na nadbudówce zielone światło; na maszcie rufowym światło czerwone nad żółtym",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zmienić kurs i przejść za rufą",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zmienić kurs i przejść w dużej odległości ( około 1 Mm)",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zatrzymać się i poczekać aż statek odpłynie",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: migaja",
+      "oryginał: odleglości (B)",
+      "oryginał: odplynie (C)"
+    ]
+  },
+  {
+    "id": 117,
+    "question": "Statek żaglowy o długości 8 m, na wodach śródlądowych idący pod żaglami powinien ustąpić",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Statkowi pasażerskiemu o nap. mech.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Motorówce o długości ok. 10 m",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Łodzi wiosłowej w ruchu",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 118,
+    "question": "Wody śródlądowe. Statek pasażerski nadał serię podwójnych krótkich dźwięków. Co to oznacza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie mogę manewrować",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Niebezpieczeństwo zderzenia",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Człowiek za burtą",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 119,
+    "question": "Wody śródlądowe. Statek pasażerski o długości mniejszej niż 20 m oznakowany jak na rysunku jest uważany za:",
+    "question_image_note": "żółty romb (znak dzienny) na szarym tle",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Statek",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Mały statek",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Statek motorowy",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 120,
+    "question": "Jacht zaobserwował ok. dwa rumby z prawej burty światła jak na rysunku. Odległość ok. 1 Mm. Co należy zrobić ?",
+    "question_image_note": "układ świateł na ciemnym tle: trzy zielone światła w trójkącie (jedno u góry, dwa niżej po bokach), pod nimi w środku białe światło; osobno w prawym dolnym rogu czerwone światło",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zmienić kurs zdecydowanie w prawo i przejść za rufą statku w odległości większej niż 1000 m.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zmienić kurs tak aby przejść za rufą statku",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zmienić kurs o 180° i oddalić się od tego statku",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: 1800 (C)"
+    ]
+  },
+  {
+    "id": 121,
+    "question": "Jacht idący pod żaglami wyprzedzający inny jacht idący pod żaglami",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ma prawo drogi względem jachtu wyprzedzanego",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Może go ominąć tylko po uzyskaniu jego zgody",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Ustępuje jachtowi wyprzedzanemu omijając go w bezpiecznej odległości",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 122,
+    "question": "Dwa krótkie dźwięki nadane przez statek oznaczają:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zmieniam kurs w prawo,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zmieniam kurs w lewo,",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Uwaga.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 123,
+    "question": "Jacht \"A\" pod żaglami płynie lewym halsem, drugi jacht \"B\" idzie pod żaglami prawym halsem, a na sztagu ma wywieszony czarny stożek. Kursy jachtów przecinają się tak, że powoduje to ryzyko zderzenia. Ustąpić powinien?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jacht A,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Jacht B,",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Ten który ma drugi jacht po lewej ręce.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 124,
+    "question": "Na wodach śródlądowych przy spotkaniu statku żeglugi pasażerskiej i małego jachtu żaglowego na kursach kolizyjnych:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Statek pasażerski ustępuje pierwszeństwa jachtowi,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Jacht żaglowy utrzymuje swój kurs,",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Jacht żaglowy ustępuje z drogi statkowi.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 125,
+    "question": "Jacht pod żaglami na zatoce Gdańskiej idzie kursem przecinającym się z kursem niewielkiego statku o napędzie mechanicznym ( który niesie sygnał dwa czarne stożki wierzchołkami do siebie) tak, że powoduje to ryzyko zderzenia. Co powinien zrobić?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Utrzymać kurs i szybkość",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Przejść mu blisko za rufą",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Ominąć go z daleka za rufą",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 126,
+    "question": "Idąc we mgle usłyszano na jachcie dwa dźwięki długie przed dziobem. Jak należy postąpić?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zmniejszyć szybkość, zmienić kurs w prawo, być w gotowości do manewrów",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie zmieniać kursu, nasłuchiwać w którą stronę przemieszcza się statek nadający sygnał",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Najlepiej zatrzymać się i poczekać, aż statek nadający sygnał oddali się",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 127,
+    "question": "Jacht idzie kanałem portowym i zbliża się do zakrętu, tor za zakrętem nie jest widoczny z uwagi na budynki na nabrzeżu. Przed dziobem usłyszano jeden dźwięk długi. Co powinien zrobić jacht?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zatrzymać się i oczekiwać na dalsze sygnały.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Kontynuować swój kurs i nadać sygnał dźwiękowy dwa długie dźwięki",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Trzymać się blisko prawej krawędzi kanału, zmniejszyć szybkość, gotowość do manewrów",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 128,
+    "question": "Podczas żeglugi we mgle przed dziobem usłyszano sygnał: dźwięk długi i dwa krótkie dźwięki, wkrótce potem: jeden długi dźwięk i trzy krótkie dźwięki. Co to oznacza i jak postępować.",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Statek inny niż o napędzie mechanicznym (np. żaglowy, poławiający), drugi sygnał może być nadany pomyłkowo. Zmniejszyć szybkość, być gotowym do manewrów.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Statek nadał sygnał zamierzam was wyprzedzić. Prowadzić obserwację, być gotowym do manewrów",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Pierwszy sygnał to statek holujący, drugi to holowany. Zmienić zdecydowanie kurs w tą stronę skąd słychać było drugi sygnał. Gotowość do manewrów",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 129,
+    "question": "Jeśli dwa statki o napędzie mechanicznym płyną kursami przecinającymi się tak, że istnieje ryzyko zderzenia, a nie jest to sytuacja wyprzedzania to:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Oba statki mają obowiązek zmienić kurs tak, aby ich kursy się nie przecięły,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Statek, który ma drugi statek z prawej burty, powinien ustąpić mu drogi,",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Statek nawietrzny ustępuje drogi statkowi zawietrznemu,",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 130,
+    "question": "Trzy krótkie dźwięki nadawane przez statek oznaczają:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zmieniam mój kurs w prawo,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zmieniam mój kurs w lewo,",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Moje maszyny pracują wstecz.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 131,
+    "question": "Jacht żegluje w cieśninach duńskich z lewej burty przed dziobem zaobserwowano statek jak na rysunku. Co powinien zrobić jacht?",
+    "question_image_note": "sylwetka statku w dzień (widok z boku) z czarnym walcem podniesionym na rei masztu dziobowego",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Utrzymać kurs, widać, że statek przejdzie nam przed dziobem",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "To statek ograniczony zanurzeniem, sprawdzić na mapie głębokości i opis toru, nie przeszkadzać w przejściu.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Statek wiezie niebezpieczny ładunek, dokładnie go obserwować",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 132,
+    "question": "Jacht idzie pod żaglami półwiatrem prawego halsu. Nieco w prawo od kursu zaobserwowano statek oznakowany jak na rysunku. Co te znaki oznaczają i co powinien zrobić jacht?",
+    "question_image_note": "sylwetka statku w dzień: na maszcie dziobowym dwa czarne stożki wierzchołkami do siebie, na maszcie rufowym (na sztagu) jeden czarny stożek wierzchołkiem w dół",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Statek poławiający. Sieci rozciągnięte ponad 150 m. zdecydowanie odpaść w lewo, mijać z daleka",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Statek poławiający dryfuje, przejść przed dziobem",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Statek poławiający stoi i wybiera sieci, przejść przed dziobem nie za blisko",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: poławiajacy (A)",
+      "oryginał: pławiający (B)"
+    ]
+  },
+  {
+    "id": 133,
+    "question": "Jacht idzie na silniku, z prawej burty dwa rumby od dziobu zaobserwowano światła jak na rysunku (odległość ok. 0,5 Mm). Co powinien zrobić jacht?",
+    "question_image_note": "układ świateł na ciemnym tle: światło zielone nad białym w pionie (u góry), niżej z lewej osobne białe światło",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Utrzymać kurs i prędkość",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zmienić kurs w lewo i minąć tą jednostkę prawą burtą",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Znacznie zmienić kurs w lewo i minąć tą jednostkę w odległości ponad 2 Mm",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: minąć ta jednostkę (B i C)"
+    ]
+  },
+  {
+    "id": 134,
+    "question": "Na torze wodnym zaobserwowano światła jak na rysunku. Co oznaczają i co powinien zrobić jacht?",
+    "question_image_note": "układ świateł na ciemnym tle: u góry w pionie czerwone-białe-czerwone, poniżej z lewej dwa czerwone światła w pionie, z prawej dwa zielone światła w pionie",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Statek o ograniczonej zdolności manewrowej, minąć dowolnie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Statek wykonujący prace podwodne, mijać od strony świateł zielonych",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Statek pchający barkę, mijać nie za blisko",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "brak-obrazka-w-drafcie",
+      "oryginał: zrobic",
+      "oryginał: pchajacy (C)"
+    ]
+  },
+  {
+    "id": 135,
+    "question": "Jacht idzie pod żaglami, z lewej burty na trawersie (odległość ok. 2 Mm) zaobserwowano światła jak na rysunku. Co powinien zrobić jacht?",
+    "question_image_note": "układ świateł na ciemnym tle: dwa białe światła w pionie (masztowe), poniżej z lewej zielone i z prawej czerwone światło (statek widziany od dziobu)",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Utrzymać kurs i prędkość",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zmienić kurs w prawo i czekać aż statek wyprzedzi jacht",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zmienić kurs w lewo i zwiększyć szybkość aby przejść za rufą statku",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 136,
+    "question": "W spotkaniu jachtów żeglujących tym samym halsem z drogi ustępuje jacht:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Znajdujący się od strony zawietrznej,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Znajdujący się od strony nawietrznej,",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Każdy z nich powinien zmienić kurs, aby uniknąć zderzenia.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 137,
+    "question": "Wody śródlądowe. Na burcie stojącego statku wywieszono sygnały jak na rysunku. Z której strony należy minąć ten statek?",
+    "question_image_note": "stojąca jednostka (pogłębiarka/ponton z ramą) widziana od dziobu: po lewej burcie czerwona flaga, po prawej burcie flaga czerwono-biała (czerwona u góry, biała u dołu)",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie wolno mijać takiego statku,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Od strony flagi czerwonej",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Od strony flagi czerwono-białej",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 138,
+    "question": "Jacht idzie na silniku, z prawej burty przed dziobem zaobserwowano światła jak na rysunku. Co powinien zrobić jacht?",
+    "question_image_note": "układ świateł na ciemnym tle: dwa białe światła masztowe (górne przesunięte w prawo względem dolnego), niżej z prawej czerwone światło burtowe",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Utrzymać kurs i prędkość",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zmienić kurs w prawo i przejść za rufą tej jednostki",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zmienić kurs w lewo i zwiększyć szybkość aby przejść przed dziobem statku",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 139,
+    "question": "Małemu statkowi idącemu pod żaglami na wodach śródlądowych ustępuje:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Statek żaglowy nie będący małym statkiem,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Statek pasażerski,",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Mały statek o napędzie mechanicznym.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 140,
+    "question": "Jacht płynący do portu Świnoujście blisko wejścia wchodzi na tor wodny. Za rufą jachtu na torze znajduje się prom też wchodzący do portu. Jak powinien zachować się jacht?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Utrzymywać swój kurs, gdyż jest statkiem wyprzedzanym",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Natychmiast zejść z toru, zatrzymać się i czekać na przejście promu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Iść prawą stroną toru blisko krawędzi, aby nie przeszkadzać wchodzącemu promowi.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: prawą strona toru (C)"
+    ]
+  },
+  {
+    "id": 141,
+    "question": "Poza torem wodnym na otwartych wodach zatoki gdańskiej jacht pod żaglami idzie kursem przecinającym się z kursem małego statku pasażerskiego tak, że powoduje to ryzyko zderzenia. Co powinien zrobić?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Przejść mu za rufą",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zmniejszyć szybkość i przepuścić go przed dziobem",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Utrzymać kurs i prędkość",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 142,
+    "question": "Jacht płynący pod żaglami po otwartych wodach morskich ustępuje:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jachtowi żaglowemu płynącemu na silniku,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Statkowi o ograniczonej zdolności manewrowej,",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Statkowi o napędzie mechanicznym w drodze.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 143,
+    "question": "Statek ma wywieszony sygnał jak na rysunku. Co oznacza i jak postępować?",
+    "question_image_note": "sylwetka kutra/motorówki w dzień z flagą sygnałową A (biało-niebieska z wycięciem) na maszcie",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wzywam pomocy, podejść i nawiązać łączność",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Mam nurka pod wodą, mijać ostrożnie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Stoję na mieliźnie, mijać daleko",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 144,
+    "question": "W warunkach ograniczonej widzialności należy:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zrzucić żagle i żeglować na silniku",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Stanąć w dryfie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zmniejszyć prędkość, wyznaczyć obserwatora i nadawać sygnały dźwiękowe.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 145,
+    "question": "Na podejściu do portu Gdańsk jacht zaobserwował statek, który podniósł sygnały jak na rysunku. Jak go wyminąć?",
+    "question_image_note": "jednostka z ramą (widok od dziobu) ze znakami dziennymi: w środku pionowo kula-romb-kula, po lewej stronie dwie czarne kule w pionie, po prawej dwa czarne romby w pionie",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Z dowolnej strony",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Od strony wystawionych kul",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Od strony wystawionych rombów",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 146,
+    "question": "Na kursie zaobserwowano światła jak na rysunku. Co oznaczają i jak postąpić?",
+    "question_image_note": "układ świateł na ciemnym tle: białe światło u góry, pod nim czerwone, niżej nieco z lewej zielone",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Statek poławiający, ominąć daleko",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Statek o ograniczonej zdolności manewrowej, ustąpić z drogi",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Statek pilotowy, utrzymać kurs i szybkość.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 147,
+    "question": "W nocy na kursie zauważono światła jak na rysunku. Co oznaczają i jak postępować?",
+    "question_image_note": "układ świateł na ciemnym tle: po lewej trzy białe światła w pionie, poniżej dwa czerwone światła – jedno tuż pod białymi, drugie daleko z prawej",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Statek poławiający sieciami dryfującymi ominąć daleko",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Statek holujący i holowany, lewe burty, zdecydowanie zmienić kurs w prawo (zestaw ma ponad 200 m).",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Statek o napędzie mechanicznym, a za nim jacht, utrzymać kurs",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 148,
+    "question": "Jacht idzie na silniku, nadeszła mgła. Jaki sygnał należy nadawać?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jeden dźwięk długi co 2 minuty",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Dwa dźwięki długie co 2 minuty",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Jeden dźwięk długi i dwa krótkie co 2 minuty",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 149,
+    "question": "W nocy na kursie zaobserwowano statek niosący światła jak na rysunku. Co to oznacza i jak postępować?",
+    "question_image_note": "sylwetka statku nocą (widok z boku) z dwoma czerwonymi światłami w pionie na maszcie dziobowym, bez innych świateł",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Statek nie odpowiada za swoje ruchy. Ominąć go z daleka",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Statek na mieliźnie, sprawdzić położenie na mapie i odpowiednio ominąć.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Statek wzywa pomocy, nawiązać łączność",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 150,
+    "question": "Jacht płynie na silniku, przeciwnym kursem zbliża się jacht pod żaglami niosący sygnał jak na rysunku. Jak należy postąpić?",
+    "question_image_note": "jacht żaglowy z postawionymi żaglami i czarnym stożkiem wierzchołkiem w dół na maszcie",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Utrzymać kurs",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zmienić kurs w prawo",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zmienić kurs w lewo",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 151,
+    "question": "Gdy dwa jachty żeglują pod żaglami różnymi halsami i kursami przecinającymi się tak, że powoduje to ryzyko zderzenia prawo drogi posiada:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Idący lewym halsem",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Idący ostrzejszym kursem",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Idący prawym halsem",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 152,
+    "question": "Jacht idzie kursem przecinającym kurs małej jednostki oznakowanej jak na rysunku tak, że powoduje to ryzyko zderzenia. Jak należy postąpić?",
+    "question_image_note": "sylwetka kutra w dzień z dwoma czarnymi stożkami wierzchołkami do siebie na sztagu",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Utrzymać kurs i szybkość",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Przejść mu blisko za rufą",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Ominąć go z daleka",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 153,
+    "question": "Na kursie jachtu jest jednostka, która podniosła sygnał jak na rysunku. Jak ją wyminąć?",
+    "question_image_note": "sylwetka kutra w dzień z jedną czarną kulą na sztagu",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie zbliżać się bliżej niż 2 Mm",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Minąć go daleko przed dziobem",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Minąć go z dowolnej strony w bezpiecznej odległości.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 154,
+    "question": "Jacht żaglowy płynący na żaglach i na silniku w dzień powinien nosić:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Czarną kulę",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Czarny stożek skierowany wierzchołkiem w dół,",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Czerwoną kulę.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 155,
+    "question": "Jacht płynący pod żaglami po otwartych wodach morskich idzie kursem przecinającym kurs statku o napędzie mechanicznym oznakowanym jak na rysunku tak, że powoduje to ryzyko zderzenia. Jak należy postąpić?",
+    "question_image_note": "jednostka z ramą (widok od dziobu) ze znakami dziennymi wywieszonymi pionowo po prawej stronie: kula-romb-kula",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Utrzymać kurs i szybkość",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Ustąpić temu statkowi mijając go w bezpiecznej odległości",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "To statek łowiący okrężnicą, ominąć go w znacznej odległości",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 156,
+    "question": "Najprostszą metodą pomiaru szybkości jachtu jest \"log burtowy\". Jaka będzie szybkość jachtu jeżeli długość jachtu wynosi 12 m, a zmierzony czas przy pomiarze tą metodą wyniósł 6 sekund?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "2 węzły",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "4 węzły",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "6 węzłów",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Najprostszą metoda"
+    ]
+  },
+  {
+    "id": 157,
+    "question": "Na jachcie mamy ploter z funkcją MOB. Jakie informacje z tego urządzenia będą nam NAJBARDZIEJ przydatne w przypadku manewru \"człowiek za burtą\", po wciśnięciu przycisku MOB.",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Współrzędne punktu gdzie wypadł człowiek",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Współrzędne jachtu podczas manewru i jego szybkość i kurs",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Namiar i odległość do punktu w którym wypadł człowiek",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 158,
+    "question": "Czy mapy w rzucie Merkatora są wiernoodległościowe?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, odległości odmierzane zależą tylko od skali mapy",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, skala odległości zmienia się z szerokością geograficzną",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, ale tylko dla obszarów podbiegunowych",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: sa"
+    ]
+  },
+  {
+    "id": 159,
+    "question": "W dawnej nawigacji do określania kursów używano skali rumbowej, obecnie używa się jej do określania kierunków wiatru. Która z podanych poniżej zależności jest prawdziwa",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "SE odpowiada 125°",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "SW odpowiada 225°",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "NNE odpowiada 30°",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: uzywa",
+      "oryginał: kierunkow"
+    ]
+  },
+  {
+    "id": 160,
+    "question": "Jak zamawiać potrzebne na rejs mapy?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W katalogu map (np. Admiralicji, czy innych wydawnictw) wybrać numery potrzebnych map i takie zamówić.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W katalogu map (np. Admiralicji, czy innych wydawnictw) wybrać tytuły map i skalę według tych danych zamówić mapy.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zamówić u dystrybutora map wszystkie mapy na dany akwen",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 161,
+    "question": "Jak należy odmierzać odległości na mapie w rzucie Merkatora?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Na bocznej ramce mapy ( 1 Mm = 1' szerokości geograficznej)",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Na dolnej ramce mapy ( 1 Mm = 1' długości geograficznej)",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Przy pomocy skali mapy - odpowiednio obliczjąc przy użyciu tablic nawigacyjnych",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: znak minut zapisany jako ` (A, B)",
+      "oryginał: obliczjąc (C)"
+    ]
+  },
+  {
+    "id": 162,
+    "question": "Największy wpływ na dryf jachtu - poprawkę na wiatr mają?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Szybkość jachtu i stan morza",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Długość linii wodnej i wyporność",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Typ otaklowania żaglowego jachtu",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: lini (B)"
+    ]
+  },
+  {
+    "id": 163,
+    "question": "Jacht z pozycji φ = 54° 35' N i λ = 24° 10' E przepłynął kursem KDd = 000° na pozycję φ = 54° 39' N i λ = 24° 10' E. Ile Mm przebył?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "3 Mm",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "4 Mm",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "5 Mm",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: znak minut zapisany jako `"
+    ]
+  },
+  {
+    "id": 164,
+    "question": "Zero mapy na wodach gdzie występują pływy ustalane jest jako:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Średni poziom morza",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Poziom średniej niskiej wody",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Poziom najniższego pływu astronomicznego",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: wystepują"
+    ]
+  },
+  {
+    "id": 165,
+    "question": "Godzina 15.00, pozycja jachtu na mapie w pobliżu znaku \"A\". W tablicach pływów znaleziono, że wysoka woda w Dover będzie o godzinie 18.04, pływ pośredni. Jaki jest aktualnie kierunek i szybkość prądu pływowego?",
+    "question_image_note": "wycinek tabeli prądów pływowych z mapy brytyjskiej \"Tidal Streams referred to HW at DOVER\", romb A (51°06'N 1°33.3'E), kolumny Hours / Dir / Rate(kn) Sp Np, widoczne wiersze 6–2 godz. przed HW (np. 3 h przed HW: 224°, 3.2/1.8)",
+    "options": [
+      {
+        "letter": "A",
+        "text": "224°, 1,8 węzła",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "224°, 3,2 węzła",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "224°, 2,5 węzła",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 166,
+    "question": "Czy izobatę można zawsze traktować jako względnie pewną linię pozycyjną?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, zawsze",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nigdy, bo pomiary głębokości obarczone są dużym błędem",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, pod warunkiem, że przebieg izobat jest regularny",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 167,
+    "question": "Odległość do obiektu o znanej wysokości h (w metrach) i zmierzonym kącie pionowym α (w minutach) można ustalić ( D w milach morskich ):",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "z Tablic Nawigacyjnych lub ze wzoru",
+        "image_note": "wzór matematyczny jako obrazek: D = 13/7 · h/α"
+      },
+      {
+        "letter": "B",
+        "text": "ze wzoru",
+        "image_note": "wzór matematyczny jako obrazek: D = 2√a + 2√h"
+      },
+      {
+        "letter": "C",
+        "text": "ze wzoru D = 2h tg α",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "brak-obrazka-w-drafcie (opcje A i B zawierają wzory jako grafikę)"
+    ]
+  },
+  {
+    "id": 168,
+    "question": "Przy pierwszym włączaniu nowo zainstalowanego GPS trzeba:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Włączyć zasilanie. Poza tym nie trzeba nic robić, urządzenie będzie działać",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Włączyć zasilanie, używając instrukcji obsługi ustawić podstawowe parametry",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Powinien to wykonać uprawniony serwis",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 169,
+    "question": "Jaka jest różnica pomiędzy mapą rastrową, a papierową ?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mapa rastrowa jest dokładniejsza",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W zastosowaniu do nawigacji nie ma żadnej",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Mapy rastrowe są mniej dokładne",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: sa (C)"
+    ]
+  },
+  {
+    "id": 170,
+    "question": "Po zakotwiczeniu i naniesieniu pozycji z GPS okazało się, że pozycja na mapie nie jest prawidłowa (pozycja jachtu na lądzie). Co może być najprawdopodobniej przyczyną takiej sytuacji? Jacht żegluje w nocy na akwenie z dużą ilością niebezpieczeństw, ale dobrze oznakowanym (pławy, latarnie sektorowe nabieżniki itp.). Jaka nawigacja na takim akwenie jest bezpieczniejsza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Błędne wskazania GPS",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Niezgodność systemu opracowania mapy z systemem GPS i nie uwzględnienie poprawek podanych na mapie (szczególnie stare wydania map)",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Uszkodzenie anteny GPS",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "tekst-scalony (treść pytania zawiera pełną treść pytania 171)"
+    ]
+  },
+  {
+    "id": 171,
+    "question": "Jacht żegluje w nocy na akwenie z dużą ilością niebezpieczeństw, ale dobrze oznakowanym (pławy, latarnie sektorowe nabieżniki itp.). Jaka nawigacja na takim akwenie jest bezpieczniejsza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wyłącznie w oparciu o ploter i GPS",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Dobrze przygotowana nawigacja pilotowa, ploter jako pomoc",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Typowa nawigacja zliczeniowa",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 172,
+    "question": "Kurs jachtu względem wody wynosi 120°, szybkość 5 w, kierunek prądu 300°, szybkość 1 w. Jaka będzie poprawka na prąd i jaki będzie wpływ prądu na szybkość jachtu?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Poprawka na prąd = 0°, szybkość jachtu względem dna wzrośnie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Poprawka na prąd = 300°, szybkość jachtu względem dna wzrośnie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Poprawka na prąd = 0°, szybkość jachtu względem dna zmaleje",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 173,
+    "question": "Przy przeliczaniu namiaru burtowego na namiar kompasowy, (pomiar w systemie okrężnym 0° - 360°) jeśli wynik przekroczy 360°, to:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Od sumy kąta kursowego i kursu kompasowego należy odjąć 360°",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Od sumy kąta kursowego i kursu kompasowego należy odjąć 180°",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Do sumy kąta kursowego i kursu kompasowego należy dodać 180°",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: 3600 (A)",
+      "oryginał: 1800 (B, C)"
+    ]
+  },
+  {
+    "id": 174,
+    "question": "Odbiornik nawigacji satelitarnej GPS pokazuje prędkość jachtu (jest tylko jedna opcja). Jaka to prędkość?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Względem wody",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Względem dna",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wypadkowa prędkości względem wody i dna",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 175,
+    "question": "Która para linii pozycyjnych da najdokładniejszą pozycję?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Dwa namiary na różne obiekty",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nabieżnik i krąg z kąta poziomego między dwoma obiektami",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Namiar i izobata",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: lini"
+    ]
+  },
+  {
+    "id": 176,
+    "question": "Na horyzoncie właśnie ukazało się zidentyfikowane światło latarni. Czy można określić odległość i w jaki sposób?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W ogóle jest to niemożliwe",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tak, trzeba tylko mieć Spis Świateł ( List of Lights)",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie, bo nie znamy wysokości latarni",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: własnie"
+    ]
+  },
+  {
+    "id": 177,
+    "question": "Wykonany został namiar kompasowy (Nk). Jak go wykreślić na mapie?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Przeliczyć na namiar rzeczywisty i wykreślić",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wykreślić Nk zgodnie z wykonanym namiarem",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Uwzględnić deklinację w danym obszarze żeglugi i wykreślić na mapie namiar",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 178,
+    "question": "Jaki znak ma poprawka na prąd w zależności od kursu jachtu i kierunku prądu",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Prąd z lewej burty poprawka \"+\", z prawej burty poprawka \"-\"",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Prąd z lewej burty poprawka \"-\", z prawej burty poprawka \"+\"",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Prąd z lewej burty poprawka \"+\", z prawej burty poprawka \"-\", ale jeżeli prąd jest zgodny lub przeciwny do kursu to poprawka \"0\"",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 179,
+    "question": "Wykonujemy namiar na latarnię. Czy dla obliczenia namiaru rzeczywistego potrzebny jest odczyt kursu kompasowego w momencie namiaru?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, zawsze",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "To zależy od typu kompasu i namiernika",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 180,
+    "question": "Na jachcie jest echosonda. Co przede wszystkim należy sprawdzić odnośnie wskazań tej sondy?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Czy czujnik sondy nie jest zabrudzony",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Czy sonda pokazuje głębokość pod kilem, czy od linii wodnej, czy od czujnika",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Czy sonda posiada opcję alarmu i jak jest ona ustawiona",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: lini (B)"
+    ]
+  },
+  {
+    "id": 181,
+    "question": "Jak prawidłowo powinna być oznakowana sonda ręczna (system przyjęty w Polsce)",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Węzłami co 5 metrów",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Węzłami co 1 m",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Znakami co 1 m i kolorowymi opaskami co 5 m niebieska-czerwona-biała-żółta (niebo-dach-ściana-piach)",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: przyjety",
+      "oryginał: żólta (C)"
+    ]
+  },
+  {
+    "id": 182,
+    "question": "Dla jakich kątów przecięcia linii pozycyjnych pozycję można określić jako względnie dokładną?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kąt przecięcia od 30° do 150°",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tylko dla kąta 90°",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie ma to znaczenia, ważna jest tylko dokładność wyznaczenia każdej linii pozycyjnej",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: lini",
+      "oryginał: okreslić",
+      "oryginał: od 300 do 1500 (A)",
+      "oryginał: 900 (B)"
+    ]
+  },
+  {
+    "id": 183,
+    "question": "Zliczenie graficzne drogi polega na: (Uwaga skróty: Kąt drogi nad dnem - Kd, Kurs rzeczywisty - Kr, Kurs magnetyczny - Km)",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wykreślaniu na mapie Kd i odmierzaniu na tym kursie przebytych odległości",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wykreślaniu na mapie Kk i odmierzaniu na tym kursie przebytych odległości",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wykreślaniu na mapie Km i odmierzaniu na tym kursie przebytych odległości",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Kąd drogi"
+    ]
+  },
+  {
+    "id": 184,
+    "question": "Jacht żegluje kursem kompasowym (Kk) jak obliczyć kurs rzeczywisty (Kr)",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Znaleźć w tabeli dewiację (dew) dla Kk i obliczyć Kr ze wzoru Kr = Kk + dew",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Znaleźć w tabeli dewiację (dew) dla Kk i obliczyć Kr ze wzoru Kr = Kk + dekl. magn. + dew",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Znaleźć w tabeli dewiację (dew) dla Kk i obliczyć Kr ze wzoru Kr = Kk - dew - dekl. magn.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  }
+]

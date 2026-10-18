@@ -1,0 +1,1426 @@
+Prawo drogi na morzu 
+Międzynarodowe Przepisy o Zapobieganiu Zderzeniom na Morzu 
+1972 rok, ze wszystkimi poprawkami (1981, 1987, 1989, 1993 , 2001) 
+ 
+Spis treści 
+CZĘŚĆ A - POSTANOWIENIA OGÓLNE .............................................................................................. 2 
+Prawidło 1. Zakres stosowania. .................................................................................................. 2 
+Prawidło 2. Odpowiedzialność. .................................................................................................. 3 
+Prawidło 3. Definicje. ................................................................................................................ 3 
+CZĘŚĆ B - PRAWIDŁA WYMIJANIA ..................................................................................................... 4 
+ROZDZIAŁ I - ZACHOWANIE SIĘ STATKÓW WE WSZELKICH WARUNKACH WIDZIALNOŚCI .............. 4 
+Prawidło 4. Zakres stosowania. .................................................................................................. 4 
+Prawidło 5. Obserwacja. ............................................................................................................ 4 
+Prawidło 6. Szybkość bezpieczna. .............................................................................................. 4 
+Prawidło 7. Ryzyko zderzenia. .................................................................................................... 5 
+Prawidło 8. Działania w celu uniknięcia zderzenia. ...................................................................... 5 
+Prawidło 9. Wąskie przejścia. ..................................................................................................... 6 
+Prawidło 10. Systemy rozgraniczania ruchu. ............................................................................... 7 
+ROZDZIAŁ II - ZACHOWANIE SIĘ STATKÓW WZAJEMNIE WIDOCZNYCH .......................................... 8 
+Prawidło 11. Zakres stosowania. ................................................................................................ 8 
+Prawidło 12. Statki żaglowe. ...................................................................................................... 8 
+Prawidło 13. Wyprzedzanie. ....................................................................................................... 8 
+Prawidło 14. Statki idące wprost na siebie. ................................................................................. 9 
+Prawidło 15. Kursy przecinające się............................................................................................ 9 
+Prawidło 16. Działanie statku ustępującego z drogi. .................................................................... 9 
+Prawidło 17. Działanie statku mającego pierwszeństwo drogi. .................................................... 9 
+Prawidło 18. Wzajemne obowiązki statków. .............................................................................. 10 
+ROZDZIAŁ III -ZACHOWANIE SIĘ STATKÓW PODCZAS OGRANICZONEJ WIDZIALNOŚCI ................ 10 
+Prawidło 19. Zachowanie się statków podczas ograniczonej widzialności. ................................. 10 
+CZĘŚĆ C - ŚWIATŁA I ZNAKI ............................................................................................................ 11 
+Prawidło 20. Zakres stosowania. .............................................................................................. 11 
+Prawidło 21. Definicje.............................................................................................................. 11 
+Prawidło 22. Widzialność świateł. ............................................................................................ 12 
+Prawidło 23. Statki o napędzie mechanicznym w drodze. .......................................................... 13 
+Prawidło 24. Holowanie i pchanie. ........................................................................................... 13 
+Prawidło 25. Statki żaglowe w drodze i statki wiosłowe. ............................................................ 15 
+Prawidło 26. Statki rybackie. .................................................................................................... 15 
+Prawidło 27. Statki nie odpowiadające za swoje ruchy lub statki o ograniczonej zdolności 
+manewrowej. .......................................................................................................................... 16 
+Prawidło 28. Statki ograniczone swym zanurzeniem. ................................................................ 17 
+Prawidło 29. Statki pilotowe. .................................................................................................... 17 
+Prawidło 30. Statki zakotwiczone i statki na mieliźnie. ............................................................... 18 
+Prawidło 31. Wodnosamoloty i ekranoplany. ............................................................................ 18 
+CZĘŚĆ D - SYGNAŁY DŹWIĘKOWE I ŚWIETLNE ................................................................................ 18 
+Prawidło 32. Definicje.............................................................................................................. 18 
+Prawidło 33. Wyposażenie w środki do sygnalizacji dźwiękowej. ............................................... 19 
+Prawidło 34. Sygnały manewrowe i ostrzegawcze. .................................................................... 19 
+Prawidło 35. Sygnały dźwiękowe podczas ograniczonej widzialności. ........................................ 20 
+Prawidło 36. Sygnały zwrócenia uwagi. .................................................................................... 21 
+Prawidło 37. Sygnały wzywania pomocy. .................................................................................. 21 
+CZĘŚĆ E - ZWOLNIENIA ................................................................................................................. 21 
+Prawidło 38. Zwolnienia. ......................................................................................................... 21 
+Załącznik I. Rozmieszczenie oraz szczegóły techniczne świateł i znaków. .......................................... 22 
+Załącznik II. Dodatkowe sygnały statków rybackich łowiących blisko siebie. ..................................... 28 
+Załącznik III. Szczegóły techniczne środków do sygnalizacji dźwiękowej. .......................................... 29 
+Załącznik IV. Sygnały wzywania pomocy. ......................................................................................... 31 
+ 
+ 
+CZĘŚĆ A - POSTANOWIENIA OGÓLNE 
+Prawidło 1. Zakres stosowania. 
+a. Niniejsze prawidła stosuje się do wszystkich statków na pełnym morzu i na wszystkich wodach z 
+nim połączonych dostępnych dla statków morskich. 
+b. żadne z postanowień niniejszych prawideł nie stoi na przeszkodzie stosowaniu wydanych przez 
+właściwy władzę przepisów szczególnych dotyczących red, portów, rzek, jezior lub 
+śródlądowych dróg wodnych połączonych z morzem pełnym i dostępnych dla statków morskich. 
+Takie przepisy szczególne powinny być, tak dalece, jak jest to możliwe, jak najbardziej 
+dostosowane do niniejszych prawideł. 
+c. żadne z postanowień niniejszych prawideł nie stoi na przeszkodzie stosowaniu wydanych przez 
+Rząd któregokolwiek Państwa przepisów szczególnych odnośnie do dodatkowych świateł 
+pozycyjnych, świateł sygnałowych, znaków lub sygnałów dawanych gwizdkiem dla okrętów 
+wojennych i statków w konwoju, a także odnośnie do dodatkowych świateł pozycyjnych lub 
+sygnałowych dla flotylli statków rybackich zajętych połowem. Te dodatkowe światła pozycyjne 
+lub sygnałowe, znaki lub sygnały dawane gwizdkiem powinny być w miarę możliwości takie, aby 
+nie można ich było pomylić z jakimkolwiek światłem, znakiem lub sygnałem ustalonym 
+gdziekolwiek w niniejszych prawidłach. 
+d. Dla celów niniejszych prawideł Organizacja może przyjąć systemy rozgraniczenia ruchu. 
+e. Jeżeli zainteresowany Rząd stwierdzi, że statek o specjalnej konstrukcji lub przeznaczeniu nie 
+może spełniać w pełni postanowień niniejszych prawideł w odniesieniu do liczby, miejsca 
+zamocowania, Zasięgu lub sektora widoczności świateł lub znaków, jak również w odniesieniu 
+do rozmieszczenia i charakterystyki urządzeń sygnalizacji dźwiękowej, to statek taki powinien 
+odpowiadać takim innym postanowieniom odnoszącym  się do liczby, miejsca zamocowania, 
+zasięgu lub sektora widoczności świateł lub znaków, jak równie w odniesieniu do rozmieszczenia 
+i charakterystyki urządzeń sygnalizacji dźwiękowej, wydanym przez jego Rząd, które w 
+odniesieniu do danego statku są najbardziej zbliżone do niniejszych prawideł. 
+Prawidło 2. Odpowiedzialność. 
+a. Żadne z postanowień niniejszych prawideł nie zwalnia statku lub jego armatora, kapitana bądź 
+załogi od następstw jakiegokolwiek zaniedbania przestrzegania niniejszych prawideł lub 
+zaniedbania zachowania środków ostrożności, których może wymagać zarówno zwykła praktyka 
+morska, jak i szczególne okoliczności danego wypadku. 
+b. Przy interpretowaniu i stosowaniu niniejszych prawideł należy uwzględniać wszystkie 
+niebezpieczeństwa żeglugi i zderzenia oraz wszelkie szczególne okoliczności, łącznie z 
+możliwościami danych statków, które w celu uniknięcia bezpośredniego niebezpieczeństwa 
+mogą uczynić konieczne odstąpienie od niniejszych prawideł. 
+Prawidło 3. Definicje. 
+a. Wyraz "statek" oznacza wszelkiego rodzaju urządzenie pływające, nie wyłączając urządzeń 
+bezwypornościowych, ekranoplanów (WIG) oraz wodnosamolotów, używanych lub nadających 
+się do użytku jako środek transportu wodnego. 
+b. Określenie "statek o napędzie mechanicznym" oznacza każdy statek wprowadzany w ruchu 
+przez maszynę. 
+c. Określenie "statek żaglowy" oznacza każdy statek pod żaglami pod warunkiem, że urządzenie 
+napędowe, jeżeli jest zainstalowane na statku, nie jest używane. 
+d. Określenie "statek zajęty połowem" oznacza każdy statek łowiący sieciami, sznurami 
+haczykowymi, włokami lub innymi narzędziami połowu, które ograniczają zdolność manewrową; 
+Określenie to nie obejmuje statku łowiącego włóczonymi sznurami haczykowymi lub innymi 
+narzędziami połowu, które nie ograniczają zdolności manewrowej. 
+e. Wyraz "wodnosamolot" oznacza każde urządzenie latające przystosowane do manewrowania na 
+wodzie. 
+f. Określenie "statek nie odpowiadający za swoje ruchy" oznacza statek, który wskutek 
+wyjątkowych okoliczności nie jest w stanie manewrować zgodnie z wymaganiami niniejszych 
+prawideł i dlatego nie może ustąpić z drogi innemu statkowi.  
+g. Określenie "statek o ograniczonej zdolności manewrowej" obejmuje, ale nie ogranicza się do 
+następujących statków, jak:  
+i. 
+statek zajęty układaniem, obsługą lub podnoszeniem znaku nawigacyjnego, podwodnego 
+kabla lub rurociągu; 
+ii. 
+statek zajęty pracami pogłębiarskimi, hydrograficznymi lub podwodnymi; 
+iii. 
+statek w drodze zajęty zaopatrywaniem lub przekazywaniem osób, zapasów lub ładunku; 
+iv. 
+statek zajęty wodowaniem lub podnoszeniem na pokład samolotów; 
+v. 
+statek zajęty trałowaniem min; 
+vi. 
+statek zajęty taką czynnością holowniczą, która poważnie ogranicza statek holujący oraz 
+obiekt holowany w ich zdolności do odchylania się od kursu jakim idzie.  
+h. Określenie "statek ograniczony swym zanurzeniem" oznacza statek o napędzie mechanicznym, 
+który z powodu swego zanurzenia w stosunku do dostępnej głębokości i szerokości akwenu 
+żeglownego jest poważnie ograniczony w swojej zdolności do odchylenia się od kursu jakim 
+idzie.  
+i. 
+Określenie "w drodze" oznacza, że statek nie stoi na kotwicy, nie jest przymocowany do lądu i nie 
+stoi na mieliźnie. 
+j. 
+Wyrazy "długość" i "szerokość" statku oznaczają jego długość całkowitą i największą szerokość. 
+k. Za „wzajemnie widoczne” należy uważać statki tylko wtedy, gdy jeden statek może być 
+obserwowany wzrokowo z drugiego statku 
+l. 
+Określenie "ograniczona widzialność" oznacza wszelkie warunki, w których widzialność jest 
+ograniczona wskutek mgły, oparów, padającego śniegu, ulewnego deszczu, burz piaskowych lub 
+jakichkolwiek innych podobnych przyczyn.  
+m. Określenie "ekranoplan" (Wing-In-Command – WIG) oznacza pojazd wielomodalny, którego 
+głównym eksploatacyjnym sposobem poruszania się jest lot tuż przy samej powierzchni 
+wykorzystując działanie dynamicznej poduszki powietrznej. 
+CZĘŚĆ B - PRAWIDŁA WYMIJANIA 
+ROZDZIAŁ I - ZACHOWANIE SIĘ STATKÓW WE WSZELKICH WARUNKACH 
+WIDZIALNOŚCI 
+Prawidło 4. Zakres stosowania. 
+Prawidła niniejszego rozdziału stosuje się do wszelkich warunków widzialności. 
+Prawidło 5. Obserwacja. 
+Każdy statek powinien stale prowadzić właściwą obserwację zarówno wzrokową i słuchową, jak i za 
+pomocą wszystkich dostępnych środków w istniejących okolicznościach i warunkach odpowiednich 
+do pełnej oceny sytuacji i ryzyka zderzenia.  
+Prawidło 6. Szybkość bezpieczna. 
+Każdy statek powinien stale iść z bezpieczną szybkością, tak aby mógł podjąć właściwe i skuteczne 
+działanie w celu uniknięcia zderzenia i zatrzymać się w odległości odpowiedniej do istniejących 
+okoliczności i warunków. 
+Przy ustalaniu bezpiecznej szybkości powinny być uwzględnione następujące czynniki:  
+a. przez wszystkie statki:  
+i. 
+widzialność; 
+ii. 
+natężenie ruchu, łącznie ze zgrupowaniami statków rybackich lub innych statków; 
+iii. 
+zdolność manewrowa statku, a zwłaszcza odległość potrzebna do zatrzymania się statku i 
+jego zwrotność w istniejących warunkach; 
+iv. 
+podczas nocy obecność na dalszym planie świateł, takich jak światła nabrzeżne lub 
+rozproszenie świateł własnych; 
+v. 
+stan wiatru, morza i prądu oraz bliskość niebezpieczeństw nawigacyjnych; 
+vi. 
+zanurzenie w stosunku do dostępnej głębokości wody; 
+b. ponadto przez statki używające radaru:  
+i. 
+charakterystyka, sprawność oraz ograniczenia urządzenia radarowego;  
+ii. 
+ograniczenia wynikające z użytej skali Zasięgu radaru;  
+iii. 
+wpływ stanu morza, pogody i innych zakłócających źródeł na wykrywanie radarem 
+obiektów;  
+iv. 
+możliwość niewykrywania przez radar w odpowiedniej odległości małych statków, lodów i 
+innych pływających obiektów;  
+v. 
+liczba, położenie i ruch statków wykrytych przez radar;  
+vi. 
+dokładniejsza ocena widzialności przy użyciu radaru do określania odległości do statków 
+lub innych obiektów znajdujących się w pobliżu. 
+Prawidło 7. Ryzyko zderzenia. 
+a. W celu ustalenia, czy istnieje ryzyko zderzenia, każdy statek powinien użyć wszelkich 
+dostępnych środków stosownych do istniejących okoliczności i warunków. Jeżeli istnieje 
+jakakolwiek wątpliwość co do istnienia ryzyka zderzenia, należy przyjąć, że ono istnieje. 
+b. W celu uzyskania wczesnego ostrzeżenia o ryzyku zderzenia należy w sposób właściwy używać 
+znajdujących się na statku zdatnych do użytku urządzeń radarowych, łącznie z przeszukiwaniem 
+na dalekim zasięgu, oraz właściwie korzystać z nakresów, lub równoważnej, systematycznej 
+obserwacji wykrytych obiektów. 
+c. Nie wolno dokonywać oceny sytuacji na podstawie skąpych informacji, szczególnie skąpych 
+informacji radarowych. 
+d. Przy ustalaniu, czy istnieje ryzyko zderzenia, należy w szczególności uwzględnić, co następuje:  
+i. 
+należy przyjąć że ryzyko zderzenia istnieje, jeżeli namiar kompasowy na zbliżający się 
+statek nie zmienia się wyraźnie; 
+ii. 
+ryzyko takie może czasami istnieć nawet wówczas, gdy widoczna jest wyraźna zmiana 
+namiaru, szczególnie przy zbliżaniu się do bardzo dużego statku, zespołu holowniczego 
+lub przy zbliżaniu się do statku na małą odległość. 
+Prawidło 8. Działania w celu uniknięcia zderzenia. 
+a. Każde działanie podjęte w celu uniknięcia zderzenia powinno być zgodne z prawidłami niniejszej 
+Części oraz jeżeli okoliczności na to pozwalają, powinno być zdecydowane, wykonane 
+wystarczająco wcześnie i z należytym uwzględnieniem zasad dobrej praktyki morskiej. 
+b. Jeżeli okoliczności na to pozwalają, każda zmiana kursu i szybkości, w celu uniknięcia zderzenia 
+powinna być dostatecznie duża, aby była łatwo widoczna dla innego statku obserwującego 
+wzrokowo lub za pomocą radaru. Należy unikać kolejno następujących po sobie małych zmian 
+kursu i szybkości. 
+c. Jeżeli istnieje wystarczająca przestrzeń na morzu, wówczas sama zmiana kursu może być 
+najskuteczniejszym działaniem w celu uniknięcia sytuacji nadmiernego zbliżenia pod 
+warunkiem, że będzie ona znaczna, wykonana w porę i nie wyniknie z niej inna sytuacja 
+nadmiernego zbliżenia. 
+d. Działanie podjęte w celu uniknięcia zderzenia z innym statkiem powinno być takie, aby minięcie 
+się statków nastąpiło w bezpiecznej odległości. Skuteczność takiego działania należy starannie 
+sprawdzać, aż do chwili przejścia i oddalenia się innego statku.  
+e. Jeżeli jest to konieczne w celu uniknięcia zderzenia lub uzyskania dłuższego czasu na ocenę 
+sytuacji, statek powinien zmniejszyć swoją szybkość, wytracić bieg przez zatrzymanie swych 
+środków napędu lub dać bieg wstecz. 
+f.  
+i. 
+Statek, który w myśl któregokolwiek z niniejszych prawideł jest zobowiązany do nie 
+przeszkadzania przejściu innego statku powinien, gdy tego wymagają okoliczności 
+przypadku, podjąć zawczasu takie działanie, aby pozostawić wystarczająco miejsca na 
+morzu, dla bezpiecznego przejścia innego statku.  
+ii. 
+Statek zobowiązany do nie przeszkadzania w przejściu lub bezpiecznemu przejściu innego 
+statku nie jest zwolniony od tego obowiązku, gdy zbliża się do innego statku w taki sposób, 
+że powoduje to ryzyko zderzenia, a gdy podejmuje działanie, to powinien w pełni 
+uwzględniać działanie, jakie może być wymagane prawidłami niniejszej części. 
+iii. 
+Statek, którego przejściu nie należy przeszkadzać, pozostaje w pełni zobowiązany do 
+przestrzegania prawideł niniejszej części, gdy dwa statki zbliżają się do siebie w taki 
+sposób, że powoduje to ryzyko zderzenia. 
+Prawidło 9. Wąskie przejścia.  
+a. Statek idący wzdłuż wąskiego przejścia lub toru wodnego powinien trzymać się tak blisko, jak 
+dalece jest to bezpieczne i wykonalne, zewnętrznej granicy takiego przejścia lub toru, leżącego z 
+jego prawej burty.  
+b. Statek o długości mniejszej niż 20 m lub statek żaglowy nie powinien przeszkadzać przejściu 
+statku, który może bezpiecznie nawigować tylko w granicach wąskiego przejścia lub toru 
+wodnego. 
+c. Statek zajęty połowem nie powinien przeszkadzać przejściu jakiegokolwiek innego statku 
+nawigującego w granicach wąskiego przejścia lub toru wodnego. 
+d. Statek nie powinien przecinać wąskiego przejścia lub toru wodnego, jeżeli takie przecięcie 
+przeszkadza przejściu statku, który może bezpiecznie nawigować tylko w granicach takiego 
+przejścia lub toru. Ten ostatni statek, jeżeli ma wątpliwości co do zamiarów statku 
+przecinającego przejście lub tor, może używać sygnału dźwiękowego przewidzianego prawidłem 
+34 d).  
+e.  
+i. 
+Jeżeli wyprzedzanie w wąskim przejściu lub na torze wodnym może nastąpić tylko wtedy, 
+gdy statek wyprzedzany podejmie działanie pozwalające na bezpieczne przejście, 
+wówczas statek zamierzając wyprzedzić powinien okazać swój zamiar odpowiednim 
+sygnałem dźwiękowym przewidzianym prawidłem 34 c) i). Statek, który ma być 
+wyprzedzany, jeżeli się na to zgadza, powinien dać odpowiedni sygnał dźwiękowy 
+przewidziany prawidłem 34 c) ii) i podjąć działanie pozwalające na bezpieczne przejście, a 
+jeżeli ma wątpliwości, dawać sygnały przewidziane prawidłem 34 d).  
+ii. 
+Prawidło niniejsze nie zwalnia statku wyprzedzającego od obowiązku przestrzegania 
+prawidła 13.  
+f. Statek zbliżający się do zakrętu lub obszaru wąskiego przejścia lub toru wodnego, gdzie inne 
+statki mogą być zasłonięte istniejącą przeszkodą, powinien nawigować ze szczególną czujnością 
+i ostrożnością oraz dawać odpowiedni sygnał dźwiękowy określony prawidłem 34e). 
+g. Jeżeli okoliczności na to pozwalają, każdy statek powinien unikać kotwiczenia w wąskim 
+przejściu.  
+Prawidło 10. Systemy rozgraniczania ruchu. 
+a. Niniejsze prawidło stosuje się do systemów rozgraniczeń ruchu przyjętych przez Organizację i nie 
+zwalnia żadnego statku od obowiązku przestrzegania jakiegokolwiek innego prawidła.  
+b. Statek korzystający z systemu rozgraniczenia ruchu powinien:  
+i. 
+iść właściwym torem kierunkowym w ogólnym kierunku ruchu tego toru; 
+ii. 
+tak dalece, jak to jest możliwe, trzymać się z daleka od linii lub strefy rozgraniczającej;  
+iii. 
+wchodzić na tor kierunkowy lub wychodzić z niego na końcach toru, a gdy wejście lub 
+wyjście następuje z któregokolwiek boku toru, wykonać je pod jak najmniejszym kątem w 
+stosunku do ogólnego kierunku ruchu. 
+c. Tak dalece, jak to jest możliwe, statek powinien unikać przecinania torów kierunkowych, a jeżeli 
+musi to uczynić, to powinien przecinać je idąc kursem najbardziej, jak to jest możliwie, 
+zbliżonym do kąta prostego w stosunku do ogólnego kierunku ruchu.  
+d.  
+i. 
+Statek nie powinien korzystać ze strefy ruchu przybrzeżnego, jeżeli może bezpiecznie 
+korzystać z odpowiedniego toru kierunkowego w granicach przyległego systemu 
+rozgraniczenia ruchu. Jednakże, statki o długości mniejszej niż 20 metrów, statki żaglowe i 
+statki zajęte połowem mogą korzystać ze strefy ruchu przybrzeżnego. 
+ii. 
+Bez względu na postanowienia powyższego podpunktu i), statek może korzystać ze strefy 
+ruchu przybrzeżnego, gdy jest w drodze do lub z portu, instalacji lub konstrukcji 
+przybrzeżnej, stacji pilotowej lub każdego innego miejsca położonego w granicach strefy 
+ruchu przybrzeżnego lub w celu uniknięcia bezpośredniego niebezpieczeństwa. 
+e. Statek, który nie przecina toru kierunkowego lub statek, który nie wchodzi lub nie wychodzi z 
+toru, nie powinien zasadniczo wchodzić w strefę rozgraniczającą lub przecinać linii 
+rozgraniczającej, z wyjątkiem:  
+i. 
+nagłych wypadków w celu uniknięcia bezpośredniego niebezpieczeństwa; 
+ii. 
+zajęcia się połowem w obrębie strefy rozgraniczającej. 
+f. Statek nawigujący w obszarach leżących blisko końców systemów rozgraniczenia ruchu 
+powinien nawigować ze szczególną ostrożnością.  
+g. Tak dalece jak to jest możliwe, statek powinien unikać kotwiczenia w systemie rozgraniczenia 
+ruchu lub na obszarach położonych blisko jego końców. 
+h. Statek nie korzystający z systemu rozgraniczenia ruchu powinien trzymać się możliwie jak 
+najdalej od niego.  
+i. 
+Statek zajęty połowem nie powinien przeszkadzać przejściu jakiegokolwiek statku idącego torem 
+kierunkowym. 
+j. 
+Statek o długości mniejszej niż 20 m lub statek żaglowy nie powinien przeszkadzać 
+bezpiecznemu przejściu statku o napędzie mechanicznym, idącego torem kierunkowym.  
+k. Statek o ograniczonej zdolności manewrowej, gdy jest zajęty w strefie rozgraniczenia ruchu 
+wykonywaniem czynności mających na celu utrzymanie bezpieczeństwa nawigacji, jest 
+zwolniony od przestrzegania postanowień niniejszego prawidła w takim stopniu, w jakim jest to 
+konieczne dla wykonania tych czynności.  
+l. 
+statek o ograniczonej zdolności manewrowej, gdy jest zajęty w obrębie systemu rozgraniczenia 
+ruchu układaniem, obsługą lub podnoszeniem kabla podwodnego, jest zwolniony od 
+przestrzegania postanowień niniejszego prawidła w takim stopniu, w jakim jest to konieczne dla 
+wykonania tych czynności. 
+ROZDZIAŁ II - ZACHOWANIE SIĘ STATKÓW WZAJEMNIE WIDOCZNYCH 
+Prawidło 11. Zakres stosowania. 
+Prawidła niniejszego rozdziału stosuje się do statków wzajemnie widocznych.  
+Prawidło 12. Statki żaglowe. 
+a. Jeżeli dwa statki żaglowe zbliżają się do siebie w taki sposób, że powoduje to ryzyko zderzenia, 
+wówczas jeden z nich powinien ustąpić z drogi drugiemu, jak następuje:  
+i. 
+jeżeli obydwa statki mają wiatr z różnych burt, statek, który ma wiatr z lewej burty, 
+powinien ustąpić z drogi drugiemu statkowi; 
+ii. 
+jeżeli obydwa statki mają wiatr z tej samej burty, statek znajdujący się od strony 
+nawietrznej powinien ustąpić z drogi statkowi znajdującemu się od strony zawietrznej;  
+iii. 
+jeżeli statek mający wiatr z lewej burty widzi statek znajdujący się od strony nawietrznej, a 
+nie może z pewnością ustalić, czy statek ten ma wiatr z lewej, czy z prawej burty, powinien 
+ustąpić z drogi temu statkowi.  
+b. W rozumieniu niniejszego prawidła za burtę nawietrzną należy uważać burtę przeciwną do tej, na 
+której statek niesie główny żagiel, a na statku o ożaglowaniu rejowym -burtę przeciwną do tej, na 
+której niesie największy żagiel skośny. 
+Prawidło 13. Wyprzedzanie. 
+a. Bez względu na którekolwiek z postanowień zawartych w prawidłach części B, rozdziałów I i II 
+każdy statek wyprzedzający inny statek powinien ustąpić z drogi statkowi wyprzedzanemu. 
+b. Za wyprzedzający należy uważać taki statek, zbliżający się do innego statku z kierunku więcej niż 
+22.5 stopnia z tyłu jego trawersu, to znaczy będący w takiej pozycji w stosunku do statku 
+wyprzedzanego, że podczas nocy mógłby widzieć tylko światło rufowe tego statku, a nie 
+którekolwiek z jego świateł burtowych. 
+c. Jeżeli statek ma jakąkolwiek wątpliwość co do tego, czy jest statkiem wyprzedzającym, powinien 
+uznać się za taki statek i działać odpowiednio. 
+d. Wszelkie następne zmiany namiaru między dwoma statkami nie mogą uczynić statku 
+wyprzedzającego statkiem przecinającym kurs w rozumieniu niniejszych prawideł lub zwolnić go 
+od obowiązku trzymania się z daleka od statku wyprzedzanego aż do ostatecznego wyprzedzenia 
+i oddalenia się. 
+Prawidło 14. Statki idące wprost na siebie.  
+a. Jeżeli dwa statki o napędzie mechanicznym idą przeciwnymi, lub prawie przeciwnymi kursami w 
+taki sposób, że powoduje to ryzyko zderzenia, wówczas każdy z nich powinien zmienić kurs w 
+prawo w taki sposób, aby mógł przejść z lewej burty drugiego. 
+b. Należy przyjąć, że taka sytuacja istnieje, gdy statek widzi inny statek przed dziobem, lub prawie 
+przed dziobem, a podczas nocy mógłby widzieć światła masztowe innego statku w nabieżniku 
+lub prawie w nabieżniku i obydwa światła burtowe tego statku, a podczas dnia widzieć ten statek 
+w odpowiadający temu sposób. 
+c. Jeżeli statek ma jakąkolwiek wątpliwość co do tego, czy sytuacja taka istnieje, powinien przyjść, 
+że ona istnieje, i działać odpowiednio.  
+Prawidło 15. Kursy przecinające się. 
+Jeżeli dwa statki o napędzie mechanicznym przecinają swoje kursy w taki sposób, że powoduje to 
+ryzyko zderzenia, wówczas statek, który ma drugi statek ze swej prawej burty, powinien ustąpić mu z 
+drogi i jeżeli okoliczności na to pozwalają, unikać przecinania kursu przed jego dziobem.  
+Prawidło 16. Działanie statku ustępującego z drogi. 
+Każdy statek, który zgodnie z niniejszymi prawidłami ma ustąpić z drogi innemu statkowi, powinien w 
+miarę możliwości podjąć zawczasu odpowiednie działanie, aby trzymać się w znacznej odległości.  
+Prawidło 17. Działanie statku mającego pierwszeństwo drogi. 
+a.  
+i. 
+Jeżeli jeden z dwóch statków ma ustąpić z drogi, to drugi statek powinien zachowa swój 
+kurs i szybkość. 
+ii. 
+Ten drugi statek może jednak podjąć działanie w celu uniknięcia zderzenia jedynie 
+własnym manewrem, skoro tylko stanie się oczywiste dla niego, że statek obowiązany do 
+ustąpienia z drogi nie podejmuje właściwego działania stosownie do niniejszych prawideł. 
+b. Jeżeli z jakiejkolwiek przyczyny statek obowiązany do zachowania swego kursu i szybkości 
+znajdzie się tak blisko, że nie można uniknąć zderzenia tylko przez działanie statku ustępującego 
+z drogi, wówczas powinien on podjąć takie działanie, które najlepiej przyczynią się do uniknięcia 
+zderzenia. 
+c. Statek o napędzie mechanicznym, który w sytuacji przecinania się kursów podejmuje działanie 
+zgodne z ustępem a) ii) niniejszego prawidła w celu uniknięcia zderzenia z innym statkiem, 
+powinien, jeżeli okoliczności na to pozwalają, nie zmieniać kursu w lewo, jeżeli z lewej jego burty 
+znajduje się statek. 
+d. Niniejsze prawidło nie zwalnia statku mającego ustąpić z drogi od dopełnienia tego obowiązku.  
+Prawidło 18. Wzajemne obowiązki statków.  
+Jeżeli prawidła 9, 10, i 13 nie stanowią inaczej:  
+a. Statek o napędzie mechanicznym w drodze powinien ustąpić z drogi:  
+i. 
+statkowi, który nie odpowiada za swoje ruchy; 
+ii. 
+statkowi o ograniczonej zdolności manewrowej;  
+iii. 
+statkowi zajętemu połowem; 
+iv. 
+statkowi żaglowemu.  
+b. Statek żaglowy w drodze powinien ustąpić z drogi:  
+i. 
+statkowi, który nie odpowiada za swoje ruchy; 
+ii. 
+statkowi o ograniczonej zdolności manewrowej; 
+iii. 
+statkowi zajętemu połowem.  
+c. Statek zajęty połowem w drodze powinien w miarę możności ustąpić z drogi:  
+i. 
+statkowi, który nie odpowiada za swoje ruchy; 
+ii. 
+statkowi o ograniczonej zdolności manewrowej.  
+d.  
+i. 
+Każdy statek inny niż statek nie odpowiadający za swoje ruchy lub statek o ograniczonej 
+zdolności manewrowej powinien, jeżeli okoliczności na to pozwalają, unikać 
+przeszkadzania bezpiecznemu przejściu statku ograniczonego swoim zanurzeniem i 
+pokazującego sygnały przewidziane w prawidle 28;  
+ii. 
+statek ograniczony swoim zanurzeniem powinien nawigować ze szczególną ostrożnością, 
+uwzględniając w pełni swoją szczególną sytuację. 
+e. Wodnosamolot na wodzie powinien w zasadzie trzymać się w znacznej odległości od wszystkich 
+statków i unikać przeszkadzania im w nawigowaniu. Jeżeli jednak istnieje ryzyko zderzenia, 
+powinien on przestrzegać prawideł niniejszej części.  
+f.  
+i. 
+Ekranoplnan (WIG) podczas startowania, lądowania i lotu blisko powierzchni powinien 
+trzymać się z dala od wszystkich innych statków i unikać przeszkadzania im w nawigacji; 
+ii. 
+ekranoplan (WIG) używany na powierzchni wody powinien przestrzegać prawideł niniejszej 
+Części tak jak statek o napędzie mechanicznym. 
+ROZDZIAŁ III -ZACHOWANIE SIĘ STATKÓW PODCZAS OGRANICZONEJ 
+WIDZIALNOŚCI  
+Prawidło 19. Zachowanie się statków podczas ograniczonej widzialności.  
+a. Niniejsze prawidło stosuje się do statków, które nie są wzajemnie widoczne i nawigują w strefie 
+ograniczonej widzialności lub w jej pobliżu. 
+b. Każdy statek powinien iść z bezpieczną szybkością, dostosowaną do istniejących warunków 
+ograniczonej widzialności. Statek o napędzie mechanicznym powinien utrzymywać swoje 
+maszyny gotowe do wykonania natychmiastowego manewru. 
+c. Każdy statek, stosując prawidła rozdziału I niniejszej części, powinien należycie uwzględniać 
+istniejące okoliczności i warunki ograniczonej widzialności. 
+d. Statek, który wykryje tylko za pomocą radaru obecność innego statku, powinien ustalić, czy 
+powstaje sytuacja nadmiernego zbliżenia lub czy istnieje ryzyko zderzenia, a jeżeli tak, to 
+powinien wystarczająco wcześnie podjąć działania zapobiegawcze, z tym że jeżeli składa się ono 
+ze zmiany kursu, to należy unikać w miarę możności:  
+i. 
+zmiany kursu w lewo, jeżeli z przodu trawersu znajduje się inny statek nie będący statkiem 
+wyprzedzanym; 
+ii. 
+zmiany kursu w kierunku statku na trawersie lub z tyłu trawersu. 
+e. Z wyjątkiem wypadku kiedy uznano, że ryzyko zderzenia nie istnieje, każdy statek, który usłyszy 
+przypuszczalnie sprzed swego trawersu sygnał mgłowy innego statku, lub który nie może 
+uniknąć sytuacji nadmiernego zbliżenia do innego statku będącego przed trawersem, powinien 
+zmniejszyć swą szybkość do minimum koniecznego do utrzymania się na swoim kursie. W razie 
+konieczności powinien zatrzymać się, a w każdym razie nawigować z najwyższą ostrożnością, 
+dopóki niebezpieczeństwo zderzenia nie minie. 
+CZĘŚĆ C - ŚWIATŁA I ZNAKI 
+Prawidło 20. Zakres stosowania.  
+a. Prawidła niniejszej części powinny być przestrzegane podczas każdej pogody. 
+b. Prawidła dotyczące świateł powinny być przestrzegane od zachodu do wschodu słońca i w tym 
+czasie nie wolno pokazywać żadnych innych świateł, z wyjątkiem takich, które nie będą mogły 
+być mylone ze światłami podanymi w niniejszych prawidłach i nie będą zmniejszały ich 
+widzialności, zmieniały ich odróżniającego charakteru lub przeszkadzały w utrzymaniu właściwej 
+obserwacji. 
+c. światła określone niniejszymi prawidłami, jeżeli statek je nosi, powinny być pokazywane również 
+od wschodu do zachodu słońca podczas ograniczonej widzialności i mogą one być pokazywane 
+we wszelkich innych okolicznościach, w których uważa się to za konieczne. 
+d. Prawidła dotyczące znaków powinny być przestrzegane podczas dnia. 
+e. światła i znaki wymienione w niniejszych prawidłach powinny być zgodne z postanowieniami 
+Załącznika I do niniejszych Przepisów.  
+Prawidło 21. Definicje. 
+a. Określenie "światło masztowe" oznacza białe światło umieszczone ponad osiš symetrii statku, 
+oświetlające nieprzerwanie łuk widnokręgu równy 225 stopniom i tak ustawione, aby świeciło od 
+kierunku prosto w przód do 22.5 stopnia poza trawers każdej burty statku. 
+b. Określenie "światła burtowe" oznacza zielone światło z prawej burty i czerwone światło z lewej 
+burty, każde oświetlające nieprzerwanie łuk widnokręgu równy 112.5 stopnia i tak ustawione, 
+aby świeciło od kierunku prosto w przód do 22.5 stopnia poza trawers odpowiedniej burty. Na 
+statkach o długości mniejszej niż 20 metrów światła burtowe mogą być połączone w jednej 
+latarni niesionej w osi symetrii statku. 
+c. Określenie "światło rufowe" oznacza białe światło umieszczone jak najbliżej rufy, oświetlające 
+nieprzerwanie łuk widnokręgu równy 135 stopniom i tak ustawione, aby świeciło od kierunku 
+prosto w tył do 67.5 stopnia z każdej burty statku. 
+d. Określenie "światło holowania" oznacza żółte światło o tej samej charakterystyce co światło 
+rufowe określone w ustępie c) niniejszego prawidła. 
+e. Określenie "światło widoczne dookoła widnokręgu" oznacza światło oświetlające nieprzerwanie 
+łuk widnokręgu równy 360 stopniom. 
+f. Określenie "światło błyskowe" oznacza światło o błyskach regularnie powtarzanych z 
+częstotliwością 120 lub więcej błysków na minutę. 
+Prawidło 22. Widzialność świateł. 
+Światła przewidziane niniejszymi prawidłami powinny mieć natężenie określone w ustępie 8 
+Załącznika I do niniejszych Przepisów, tak aby były widzialne co najmniej z następujących odległości:  
+a. na statkach o długości 50 metrów lub większej:  
+1. -światło masztowe -6 mil, 
+2. -światło burtowe -3 mile,  
+3. -światło rufowe -3 mile,  
+4. -światło holowania -3 mile,  
+5. -światło białe, czerwone, zielone lub żółte, widoczne dookoła widnokręgu -3 mile; 
+b. na statkach o długości 12 metrów lub większej, lecz mniejszej niż 50 metrów:  
+1. -światło masztowe -5 mil, a jeżeli długość statku jest mniejsza niż 20 metrów -3 mile,  
+2. -światło burtowe -2 mile,  
+3. -światło rufowe -2 mile , 
+4. -światło holowania -2 mile,  
+5. -światło białe, czerwone, zielone lub żółte widoczne dookoła widnokręgu -2 mile; 
+c. na statkach o długości mniejszej niż 12 metrów:  
+1. -światło masztowe -2 mile,  
+2. -światło burtowe -1 mila,  
+3. -światło rufowe -2 mile,  
+4. -światło holowania -2 mile,  
+5. -światło białe, czerwone, zielone lub żółte widoczne dookoła widnokręgu -2 mile. 
+d. Na holowanych, trudno zauważalnych, częściowo zalewanych statkach, lub obiektach:  
+1. -światło białe widoczne dookoła widnokręgu -3 mile. 
+Prawidło 23. Statki o napędzie mechanicznym w drodze. 
+a. Statek o napędzie mechanicznym w drodze powinien pokazywać:  
+i. 
+światło masztowe z przodu; 
+ii. 
+drugie światło masztowe z tyłu przedniego i wyżej od niego, z tym że statek o długości 
+mniejszej niż 50 metrów nie jest obowiązany do pokazywania tego światła, lecz może je 
+pokazywać; 
+iii. 
+światła burtowe; 
+iv. 
+światło rufowe. 
+b. Poduszkowiec poruszający się w stanie bezwypornościowym powinien, oprócz świateł 
+przewidzianych w ustępie a) niniejszego prawidła, pokazywać żółte światło błyskowe widoczne 
+dookoła widnokręgu.  
+c. Ekranoplan tylko wtedy kiedy startuje, ląduje i leci w pobliżu powierzchni powinien, oprócz 
+świateł przewidzianych w ustępie a) niniejszego prawidła, dodatkowo pokazywać czerwone 
+światło błyskowe o dużym natężeniu widoczne dookoła widnokręgu. 
+d.  
+i. 
+Statek o napędzie mechanicznym o długości mniejszej niż 12 metrów może zamiast 
+świateł przewidzianych w ustępie a) niniejszego prawidła pokazywać białe światło 
+widoczne dookoła widnokręgu i światła burtowe. 
+ii. 
+Statek o napędzie mechanicznym o długości mniejszej niż 7 metrów, którego maksymalna 
+prędkość nie przekracza 7 węzłów, może zamiast świateł przewidzianych w ustępie a) 
+niniejszego prawidła pokazywać białe światło widoczne dookoła widnokręgu oraz 
+powinien, jeżeli jest to możliwe, pokazywać także światła burtowe. 
+iii. 
+Światło masztowe lub światło białe widoczne dookoła widnokręgu na statku o napędzie 
+mechanicznym o długości mniejszej niż 12 metrów, jeżeli nie może być umieszczone w 
+płaszczyźnie symetrii statku, to może być przesunięte od tej płaszczyzny, pod warunkiem, 
+że światła burtowe są umieszczone w jednej latarni, która powinna być noszona w 
+płaszczyźnie symetrii statku lub umieszczona tak blisko niej, jak jest to możliwe w tej 
+samej płaszczyźnie dziób-rufa co latarnia masztowa lub białe światło widoczne dookoła 
+widnokręgu. 
+Prawidło 24. Holowanie i pchanie. 
+a. Statek o napędzie mechanicznym podczas holowania powinien pokazywać:  
+i. 
+dwa światła masztowe umieszczone w linii pionowej zamiast światła przewidzianego w 
+prawidle 23 a) i) lub a) ii). Jeżeli długość zespołu holowniczego, mierzona od rufy statku 
+holującego do tylnego krańca zespołu przekracza 200 m, statek powinien pokazywać trzy 
+takie światła umieszczone w linii pionowej; 
+ii. 
+światła burtowe; 
+iii. 
+światło rufowe; 
+iv. 
+światło holowania umieszczone w linii pionowej nad światłem rufowym; 
+v. 
+znak w kształcie rombu w miejscu, skąd będzie najlepiej widoczny, jeżeli długość zespołu 
+holowniczego przekracza 200 metrów. 
+b. Gdy statek pchający i statek pchany w przód są sztywno połączone w jednostkę zespoloną, 
+powinny być uważane za statek o napędzie mechanicznym i pokazywać światła przewidziane w 
+prawidle 23. 
+c. Statek o napędzie mechanicznym podczas pchania w przód lub holowania przy burcie, lecz nie 
+tworzący jednostki zespolonej, powinien pokazywać:  
+i. 
+dwa światła masztowe z przodu umieszczone w linii pionowej zamiast światła 
+przewidzianego w prawidle 23 a) i) lub 23 a) ii); 
+ii. 
+światła burtowe; 
+iii. 
+światło rufowe. 
+d. Statek o napędzie mechanicznym, do którego mają zastosowania ustępy a) lub c) niniejszego 
+prawidła, powinien również przestrzegać prawidła 23 a) ii). 
+e. Statek lub obiekt holowany, inny niż wymieniony w ustępie g) niniejszego prawidła, powinien 
+pokazywać:  
+i. 
+światła burtowe; 
+ii. 
+światło rufowe; 
+iii. 
+znak w kształcie rombu w miejscu, skąd będzie najlepiej widoczny, gdy długość zespołu 
+holowniczego przekracza 200 metrów. 
+f. Z wyjątkiem kilku statków holowanych przy burcie lub pchanych w grupie, które powinny być 
+oświetlone jako jeden statek:  
+i. 
+statek pchany nie będący częścią jednostki zespolonej powinien pokazywać w swej 
+przedniej części światła burtowe;  
+ii. 
+statek holowany przy burcie powinien pokazywać światło rufowe, a w swej przedniej części 
+światła burtowe. 
+g. Holowany, trudno zauważalny, częściowo zalewany statek lub obiekt, lub zestaw takich statków 
+lub obiektów, gdy są holowane, powinny pokazywać:  
+i. 
+jeżeli szerokość jest mniejsza niż 25 metrów -jedno białe światło widoczne dookoła 
+widnokręgu umieszczone na lub w pobliżu przedniego krańca, z wyjątkiem elastycznych 
+pojemników (drakonów), które nie potrzebują pokazywać światła na lub w pobliżu 
+przedniego krańca; 
+ii. 
+jeżeli szerokość wynosi 25 m lub więcej - dwa dodatkowe światła białe widoczne dookoła 
+widnokręgu w miejscu lub w pobliżu największej swej szerokości; 
+iii. 
+jeżeli długość przekracza 100 m - dodatkowe białe światła widoczne dookoła widnokręgu 
+umieszczone między światłami wymaganymi punktami i) oraz ii) w taki sposób, aby 
+odległość między światłami nie przekraczała 100 m; 
+iv. 
+znak w kształcie rombu na lub w pobliżu najbardziej do tyłu wysuniętej części ostatniego 
+statku lub obiektu holowanego, a jeżeli długość zespołu holowniczego przekracza 200 m 
+dodatkowy znak w kształcie rombu w miejscu, skąd będzie najlepiej widoczny tak daleko 
+ku przodowi na ile jest to możliwe. 
+h. Gdy z jakiejkolwiek wystarczającej przyczyny holowany statek lub obiekt nie jest w stanie 
+pokazywać świateł lub znaków przewidzianych w ustępie e) lub g) niniejszego prawidła, należy 
+przedsięwziąć wszelkie możliwe środki w celu oświetlenia holowanego statku lub obiektu, lub co 
+najmniej w celu wskazania obecności takiego obiektu. 
+i. 
+Gdy z jakiejkolwiek wystarczającej przyczyny statek nie zajmujący się zazwyczaj pracami 
+holowniczymi nie jest w stanie pokazywać świateł przewidzianych w ustępach a) lub c) 
+niniejszego prawidła to statek taki nie jest obowiązany pokazywać tych świateł, gdy zajęty 
+jest holowaniem innego statku, znajdującego się w niebezpieczeństwie lub 
+potrzebującego pomocy. Należy przedsięwziąć wszelkie możliwe środki w celu pokazania 
+rodzaju powiązania między statkiem holującym a holowanym, zwłaszcza przez oświetlenie 
+liny holowniczej, do czego upoważnia prawidło 36.  
+Prawidło 25. Statki żaglowe w drodze i statki wiosłowe.  
+a. Statek żaglowy w drodze powinien pokazywać:  
+i. 
+światła burtowe; 
+ii. 
+światła rufowe. 
+b. Na statku żaglowym o długości mniejszej niż 12 metrów światła przewidziane w ustępie a) 
+niniejszego prawidła mogą być połączone w jednej latarni noszonej na szczycie lub w pobliżu 
+szczytu masztu, w miejscu, skąd będzie ona najlepiej widoczna.  
+c. Statek żaglowy w drodze może, oprócz świateł przewidzianych w ustępie a) niniejszego prawidła, 
+pokazywać na szczycie masztu, w miejscu, skąd będą najlepiej widoczne, dwa światła widoczne 
+dookoła widnokręgu, umieszczone w linii pionowej, górne czerwone, a dolne zielone, z tym, że 
+światła te nie powinny być pokazywane łącznie z latarnią kombinowaną, dozwoloną ustępem b) 
+niniejszego prawidła. 
+d.  
+i. 
+Statek żaglowy o długości mniejszej niż 7 metrów powinien, jeżeli to jest możliwe, 
+pokazywać światła przewidziane w ustępie a) lub b) niniejszego prawidła, lecz jeżeli ich nie 
+pokazuje, to powinien mieć przygotowaną do szybkiego użycia latarkę elektryczną lub 
+zapaloną latarnię świecącą białym światłem, które powinno być pokazywane 
+wystarczająco wcześnie, aby zapobiec zderzeniu.  
+ii. 
+Statek wiosłowy może pokazywać światła przewidziane w niniejszym prawidle dla statków 
+żaglowych, lecz jeżeli ich nie pokazuje, to powinien mieć przygotowaną do szybkiego 
+użycia latarkę elektryczną lub zapaloną latarnię świecącą białym światłem, które powinno 
+być pokazywane wystarczająco wcześnie, aby zapobiec zderzeniu. 
+e. Jeżeli statek idący pod żaglami jest również napędzany przez maszynę, powinien pokazywać z 
+przodu, w miejscu, skąd będzie najlepiej widoczny, znak w kształcie stożka skierowanego 
+wierzchołkiem w dół.  
+Prawidło 26. Statki rybackie. 
+a. Statek zajęty połowem, w drodze lub stojący na kotwicy, powinien pokazywać tylko światła i 
+znaki przewidziane w niniejszym prawidle.  
+b. Statek zajęty trałowaniem, przez które rozumie się ciągnienie sieci trałowej w wodzie lub innego 
+sprzętu używanego jako narzędzie połowu, powinien pokazywać:  
+i. 
+dwa światła widoczne dookoła widnokręgu, umieszczone w linii pionowej, górne zielone, a 
+dolne białe, albo znak składający się z dwóch stożków skierowanych wierzchołkami do 
+siebie i umieszczonych w linii pionowej jeden nad drugim; 
+ii. 
+światło masztowe, umieszczone za światłem zielonym widocznym dookoła widnokręgu i 
+wyżej od niego; statek o długości mniejszej niż 50 m nie jest obowiązany pokazywać 
+takiego światła, lecz może to czynić; 
+iii. 
+gdy posuwa się po wodzie - światła burtowe i światło rufowe, oprócz świateł 
+przewidzianych w niniejszym ustępie.  
+c. Statek zajęty połowem, inny niż trałujący, powinien pokazywać:  
+i. 
+dwa światła widoczne dookoła widnokręgu, umieszczone w linii pionowej, górne 
+czerwone, a dolne białe, albo znak składający się z dwóch stożków skierowanych 
+wierzchołkami do siebie i umieszczonych w linii pionowej jeden nad drugim; 
+ii. 
+jeżeli statek ma wystawione narzędzie połowu rozciągające się na odległość w poziomie 
+większą niż 150 m od statku - światło białe widoczne dookoła widnokręgu albo stożek 
+skierowany wierzchołkiem w górę, umieszczony w kierunku narzędzia połowu; 
+iii. 
+gdy posuwa się po wodzie - światła burtowe i światło rufowe, oprócz świateł 
+przewidzianych w niniejszym ustępie. 
+d. Dodatkowe sygnały określone w Załączniku II do niniejszych Przepisów mają zastosowanie do 
+statku zajętego połowem w bliskim sąsiedztwie innych statków również zajętych połowem. 
+e. Statek nie zajęty połowem nie powinien pokazywać świateł i znaków przewidzianych niniejszym 
+prawidłem, lecz tylko światła i znaki przewidziane dla statku o jego długości.  
+Prawidło 27. Statki nie odpowiadające za swoje ruchy lub statki o ograniczonej 
+zdolności manewrowej. 
+a. Statek nie odpowiadający za swoje ruchy powinien pokazywać:  
+i. 
+dwa czerwone światła widoczne dookoła widnokręgu, umieszczone w linii pionowej w 
+miejscu, skąd będą najlepiej widoczne; 
+ii. 
+dwie kule lub podobne znaki, umieszczone w linii pionowej w miejscu, skąd będą najlepiej 
+widoczne; 
+iii. 
+gdy posuwa się po wodzie - światła burtowe i światło rufowe, oprócz świateł 
+przewidzianych w niniejszym ustępie. 
+b. Statek o ograniczonej zdolności manewrowej, z wyjątkiem statku zajętego czyszczeniem z min, 
+powinien pokazywać:  
+i. 
+trzy światła widoczne dookoła widnokręgu, umieszczone w linii pionowej w miejscu, skąd 
+będą najlepiej widoczne; światła górne i dolne powinny być czerwone, a środkowe białe; 
+ii. 
+trzy znaki umieszczone w linii pionowej w miejscu, skąd będą najlepiej widoczne; górny i 
+dolny znak powinny mieć kształt kuli, a środkowy -rombu; 
+iii. 
+gdy posuwa się po wodzie światło, lub światła masztowe, światła burtowe i światło rufowe, 
+oprócz świateł przewidzianych w punkcie i); 
+iv. 
+gdy stoi na kotwicy - światła lub znaki przewidziane w prawidle 30, oprócz świateł lub 
+znaków przewidzianych w punktach i) i ii). 
+c. Statek o napędzie mechanicznym zajęty czynnością holowniczą, która poważnie ogranicza 
+statek holujący oraz obiekt holowany w ich zdolności do odchylania się od ich kursu, powinien, 
+oprócz świateł lub znaków przewidzianych w prawidle 24 a), pokazywać dodatkowo światła i 
+znaki przewidziane w punktach b) i) oraz ii) niniejszego prawidła. 
+d. Statek zajęty pracami pogłębiarskimi lub podwodnymi, ograniczony w swej zdolności 
+manewrowej, powinien pokazywać światła i znaki przewidziane w punktach b) i) ii) oraz iii) 
+niniejszego prawidła, a jeżeli istnieje przeszkoda, pokazywać ponadto:  
+i. 
+dwa czerwone światła widoczne dookoła widnokręgu albo dwie kule umieszczone w linii 
+pionowej - aby wskazać stronę, po której znajduje się przeszkoda; 
+ii. 
+dwa zielone światła widoczne dookoła widnokręgu albo dwa romby umieszczone w linii 
+pionowej - aby wskazać stronę, po której może przejść inny statek; 
+iii. 
+gdy stoi na kotwicy - światła i znaki przewidziane w niniejszym ustępie, zamiast świateł 
+przewidzianych w prawidle 30. 
+e. Ilekroć wielkość statku zajętego pracami nurkowymi uniemożliwia pokazywanie wszystkich 
+świateł i znaków przewidzianych w ustępie d) niniejszego prawidła, to powinien pokazywać:  
+i. 
+trzy światła widoczne dookoła widnokręgu w miejscu skąd będą one widoczne najlepiej; 
+ii. 
+światła najwyższe i najniższe powinny być czerwone, a środkowe białe; 
+iii. 
+sztywną replikę flagi sygnałowej "A" międzynarodowego Kodu Sygnałowego na wysokości 
+nie mniejszej niż 1 metr; należy przedsięwziąć środki do zapewnienia widoczności tego 
+sygnału dookoła widnokręgu. 
+f. Statek zajęty oczyszczaniem z min powinien dodatkowo oprócz świateł przewidzianych w 
+prawidle 23. dla statku o napędzie mechanicznym lub znaku przewidzianego w prawidle 30. Dla 
+statku stojącego na kotwicy, pokazywać odpowiednio albo trzy zielone światła widoczne 
+dookoła widnokręgu, albo trzy kule. Jedno z tych świateł lub jeden z tych znaków powinien być 
+pokazywany w pobliżu szczytu przedniego masztu i po jednym na każdym końcu rei przedniego 
+masztu. Te światła lub znaki oznaczają, że niebezpieczne jest dla innego statku zbliżanie się w 
+granicach 1000 metrów do statku zajętego oczyszczaniem z min. 
+g. Statki o długości mniejszej niż 12 metrów, z wyjątkiem statków zajętych pracami nurkowymi, nie 
+są obowiązane pokazywać świateł i znaków wymaganych niniejszym prawidłem. 
+h. Sygnały przewidziane w niniejszym prawidle nie są sygnałami statków znajdujących się w 
+niebezpieczeństwie i żądających pomocy. Sygnały te są podane w Załączniku IV do niniejszych 
+Przepisów.  
+Prawidło 28. Statki ograniczone swym zanurzeniem. 
+Statek ograniczony swym zanurzeniem może, oprócz świateł przewidzianych w prawidle 23 dla statków 
+o napędzie mechanicznym, pokazywać w miejscu, skąd będą najlepiej widoczne, trzy czerwone 
+światła widoczne dookoła widnokręgu, umieszczone w linii pionowej, albo walec.  
+Prawidło 29. Statki pilotowe. 
+a. Statek pełniący służbę pilotową powinien pokazywać:  
+i. 
+dwa światła widoczne dookoła widnokręgu, umieszczone w linii pionowej na szczycie lub 
+w pobliżu szczytu masztu, górne białe, a dolne czerwone; 
+ii. 
+gdy jest w drodze -dodatkowe światła burtowe i światło rufowe; 
+iii. 
+gdy stoi na kotwicy -dodatkowo do świateł przewidzianych w punkcie i) -światło, światła 
+lub znak przewidziany w prawidle 30 dla statków stojących na kotwicy. 
+b. Statek pilotowy, jeżeli nie pełni służby pilotowej, powinien pokazywać światła lub znaki 
+przewidziane dla podobnego statku jego długości. 
+Prawidło 30. Statki zakotwiczone i statki na mieliźnie. 
+a. Statek stojący na kotwicy powinien pokazywać w miejscu, skąd będzie najlepiej widoczne:  
+i. 
+białe światło widoczne dookoła widnokręgu albo kulę - w przedniej części statku; 
+ii. 
+białe światło widoczne dookoła widnokręgu na rufie lub w jej pobliżu i poniżej światła 
+przewidzianego w punkcie i). 
+b. Zamiast świateł przewidzianych w ustępie a) niniejszego prawidła statek o długości mniejszej niż 
+50 metrów może pokazywać białe światło widoczne dookoła widnokręgu, w miejscu skąd będzie 
+najlepiej widoczne. 
+c. Statek stojący na kotwicy może, a statek o długości 100 metrów lub więcej powinien także 
+używać dostępnych świateł roboczych lub równoznacznych do oświetlenia swych pokładów. 
+d. Statek na mieliźnie powinien pokazywać światła przewidziane w ustępach a) lub b) niniejszego 
+prawidła, a ponadto - w miejscu, skąd będą najlepiej widoczne:  
+i. 
+dwa czerwone światła widoczne dookoła widnokręgu, umieszczone w linii pionowej; 
+ii. 
+trzy kule umieszczone w linii pionowej. 
+e. Statek o długości mniejszej niż 7 metrów, stojący na kotwicy lub na mieliźnie, lecz nie na wąskim 
+przejściu lub w jego pobliżu, na torze wodnym lub kotwicowisku albo gdzie normalnie inne statki 
+nawigują, nie jest obowiązany do pokazywania świateł lub znaków przewidzianych w ustępach a) 
+i b) niniejszego prawidła. 
+f. Statek o długości mniejszej niż 12 metrów stojący na mieliźnie nie jest obowiązany do 
+pokazywania świateł lub znaków wymaganych ustępami d) i) oraz ii) niniejszego prawidła. 
+Prawidło 31. Wodnosamoloty i ekranoplany. 
+Jeżeli wodnosamolot lub ekranoplan nie jest w stanie pokazywać świateł i znaków o charakterystyce 
+lub rozmieszczeniu przewidzianych w prawidłach niniejszej części, to powinien on, jeżeli to jest 
+możliwe, pokazywać światła i znaki jak najbardziej podobne do takiej charakterystyki i rozmieszczenia.  
+CZĘŚĆ D - SYGNAŁY DŹWIĘKOWE I ŚWIETLNE 
+Prawidło 32. Definicje. 
+a. Wyraz "gwizdek" oznacza każdy przyrząd do sygnalizacji dźwiękowej zdolny do wytwarzania 
+przewidzianych dźwięków i odpowiadający warunkom określonym w załączniku III do niniejszych 
+Przepisów. 
+b. Określenie "dźwięk krótki" oznacza dźwięk trwający około jednej sekundy. 
+c. Określenie "dźwięk długi" oznacza dźwięk trwający od czterech do sześciu sekund.  
+Prawidło 33. Wyposażenie w środki do sygnalizacji dźwiękowej. 
+a. Statek o długości 12 metrów lub większej powinien być zaopatrzony w gwizdek, statek o długości 
+20 metrów lub większej powinien oprócz gwizdka, być dodatkowo zaopatrzony w dzwon, a statek 
+o długości 100 metrów lub większej powinien być dodatkowo zaopatrzony w gong, którego ton i 
+dźwięk nie mogą być mylone z tonem i dźwiękiem dzwonu. Gwizdek, dzwon i gong powinny 
+odpowiadać wymaganiom określonym w Załączniku III do niniejszych Przepisów. Dzwon lub 
+gong albo obydwa te przyrządy mogą być zastąpione innymi środkami o odpowiednio takiej 
+samej charakterystyce dźwiękowej, z tym, że zawsze będzie możliwe ręczne nadawanie 
+wymaganych sygnałów.  
+b. Statek o długości mniejszej niż 12 metrów nie jest obowiązany do posiadania środków do 
+sygnalizacji dźwiękowej przewidzianych w ustępie a) niniejszego prawidła, lecz jeżeli ich nie 
+posiada, powinien być zaopatrzony w inne środki do nadawania donośnego sygnału 
+dźwiękowego.  
+Prawidło 34. Sygnały manewrowe i ostrzegawcze. 
+a. Gdy statki są wzajemnie widoczne, statek o napędzie mechanicznym w drodze, wykonując 
+manewr dozwolony lub wymagany niniejszymi prawidłami, powinien wskazać ten manewr za 
+pomocą następujących sygnałów nadanych gwizdkiem:  
+1. - jeden dźwięk krótki - dla oznaczenia "Zmieniam mój kurs w prawo", 
+2. - dwa dźwięki krótkie -dla oznaczenia "Zmieniam mój kurs w lewo",  
+3. - trzy dźwięki krótkie -dla oznaczenia "Daj. bieg wstecz". 
+b. Każdy statek może uzupełnić sygnały nadawane gwizdkiem, przewidziane w ustępie a) 
+niniejszego prawidła, sygnałami świetlnymi odpowiednio powtarzanymi w czasie wykonywania 
+manewru:  
+i.   te świetlne sygnały powinny mieć następujące znaczenie:  
+1. - jeden błysk -dla oznaczenia "Zmieniam mój kurs w prawo", 
+2. - dwa błyski -dla oznaczenia "Zmieniam mój kurs w lewo",  
+3. - trzy błyski -dla oznaczenia "Daj. bieg wstecz",  
+ii.   każdy błysk światła powinien trwać około jednej sekundy, przerwa między błyskami powinna trwać 
+około jednej sekundy, a przerwa między kolejnymi sygnałami - nie mniej niż 10 sekund; 
+iii.   światło używane do tego sygnału, jeżeli jest założone, powinno być białym światłem, widzianym z 
+odległości co najmniej 5 mil i powinno odpowiadać postanowieniom załącznika I do niniejszych 
+Przepisów. 
+c. Gdy statki są wzajemnie widoczne w wąskim przejściu lub na torze wodnym, wówczas:  
+i.  statek, który zamierza wyprzedzić inny statek, powinien zgodnie z prawidłem 9 e) i) wskazać 
+swój zamiar za pomocą następujących sygnałów gwizdkiem:  
+1. - dwa dźwięki długie z następującym po nich jednym dźwiękiem krótkim dla 
+oznaczenia "Zamierzam was wyprzedzić z waszej prawej burty"; 
+2. - dwa dźwięki długie z następującymi po nich dwoma dźwiękami krótkimi dla 
+oznaczenia "Zamierzam was wyprzedzić z waszej lewej burty"; 
+ii.  statek, który ma być wyprzedzony, jeżeli działa zgodnie z prawidłem 9 e) i), powinien wskazać 
+swoją zgodę za pomocą następującego sygnału gwizdkiem:  
+1. - jeden dźwięk długi, jeden krótki, jeden długi i jeden krótki, nadane w tej kolejności. 
+d. Gdy statki wzajemnie widoczne zbliżają się do siebie i z jakiejkolwiek przyczyny którykolwiek z 
+nich nie rozumie zamiarów lub działań drugiego statku lub ma wątpliwości, czy drugi statek 
+podejmie wystarczające działanie w celu uniknięcia zderzenia, statek mający wątpliwość 
+powinien wskazać ją przez nadanie gwizdkiem co najmniej pięciu krótkich i szybko po sobie 
+następujących dźwięków. Taki sygnał może być uzupełniony sygnałem świetlnym o co najmniej 
+pięciu krótkich i szybko po sobie następujących błyskach. 
+e. Statek zbliżający się do zakrętu lub do obszaru przejścia toru wodnego, gdzie inne statki mogą 
+być zasłonięte występującą przeszkodą, powinien nadać jeden długi dźwięk. Każdy zbliżający się 
+statek znajdujący się poza zakrętem lub przeszkodą powinien odpowiedzieć na taki sygnał 
+jednym długim dźwiękiem. 
+f. Jeżeli gwizdki są zainstalowane na statku w odległości większej niż 100 metrów od siebie, 
+wówczas tylko jeden gwizdek powinien być używany do nadawania sygnałów manewrowych lub 
+ostrzegawczych.  
+Prawidło 35. Sygnały dźwiękowe podczas ograniczonej widzialności.  
+W strefie ograniczonej widzialności lub w jej pobliżu podczas dnia lub w nocy sygnały przewidziane w 
+niniejszym prawidle powinny być nadawane, jak następuje:  
+a. Statek o napędzie mechanicznym posuwający się po wodzie powinien nadawać z przerwami nie 
+większymi niż 2 minuty jeden długi dźwięk. 
+b. Statek o napędzie mechanicznym w drodze, lecz mający silniki zatrzymane i nie posuwający się 
+po wodzie, powinien nadawać z przerwami nie większymi niż 2 minuty dwa długie dźwięki 
+następujące po sobie z przerwą około 2 sekund między nimi. 
+c. Statek nie odpowiadający za swoje ruchy, statek o ograniczonej zdolności manewrowej, statek 
+ograniczony swym zanurzeniem, statek żaglowy, statek zajęty połowem i statek zajęty 
+holowaniem lub pchaniem innego statku powinien zamiast sygnałów przewidzianych w 
+ustępach a) lub b) niniejszego prawidła nadawać z przerwami nie większymi niż 2 minuty trzy 
+następujące po sobie dźwięki: jeden długi i dwa krótkie.  
+d. Statek zajęty połowem, gdy stoi na kotwicy i statek o ograniczonej zdolności manewrowej, 
+wykonujący swą pracę stojąc na kotwicy, powinien zamiast sygnałów przewidzianych w ustępie 
+g) niniejszego prawidła nadawa. sygnał dźwiękowy przepisany w ustępie c) niniejszego prawidła.  
+e. Statek holowany lub gdy więcej statków jest holowanych, to ostatni statek zespołu 
+holowniczego, jeżeli jest on obsadzony załogę, powinien nadawać cztery następujące po sobie 
+dźwięki: jeden długi i trzy krótkie z przerwami nie większymi niż 2 minuty. Jeżeli to możliwe, 
+sygnał ten powinien być nadawany bezpośrednio po sygnale nadanym przez statek holujący.  
+f. Gdy statek pchający i statek pchany w przód są połączone ze sobą sztywno w jednostkę 
+zespoloną, to powinny być traktowane jako statek o napędzie mechanicznym i nadawać sygnały 
+przewidziane w ustępach a) lub b) niniejszego prawidła.  
+g. Statek stojący na kotwicy powinien z przerwami nie większymi niż jedna minuta gwałtownie bić 
+w dzwon przez około 5 sekund. Na statku o długości 100 metrów lub większej sygnał dzwonem 
+należy nadawać w przedniej części statku, a bezpośrednio po tym należy gwałtownie bić w gong 
+przez około 5 sekund w tylnej części statku. Statek stojący na kotwicy może dodatkowo nadawać 
+trzy następujące po sobie dźwięki, a mianowicie jeden krótki, jeden długi i jeden krótki, aby 
+ostrzec zbliżający się statek o swojej pozycji i możliwości zderzenia. 
+h. Statek na mieliźnie powinien nadawać sygnał dzwonem i w razie potrzeby sygnał gongiem 
+przewidziany w ustępie g) niniejszego prawidła, a ponadto powinien nadawać trzy oddzielne i 
+wyraźne uderzenia w dzwon bezpośrednio przed i po każdym gwałtownym biciu w dzwon. Statek 
+na mieliźnie może ponadto nadawać odpowiedni sygnał gwizdkiem.  
+i. 
+Statek o długości mniejszej niż 12 metrów lub większej, lecz mniejszej niż 20 metrów, nie jest 
+obowiązany do nadawania dzwonem sygnałów przewidzianych w ustępach g) oraz h) niniejszego 
+prawidła. Jednakże jeżeli ich nie nadaje, to powinien nadawać inny wystarczająco donośny 
+sygnał dźwiękowy z przerwami nie większymi niż 2 minuty.  
+j. 
+Statek o długości mniejszej niż 12 metrów nie jest obowiązany do nadawania wymienionych 
+sygnałów, lecz jeżeli ich nie nadaje, to powinien nadawać inny dostatecznie donośny sygnał 
+dźwiękowy z przerwami nie większymi niż 2 minuty. 
+k. Statek pilotowy pełniący służbę pilotową może, oprócz sygnałów przewidzianych w ustępach a), 
+b) lub g) niniejszego prawidła, nadawać sygnał rozpoznawczy składający się z czterech krótkich 
+dźwięków.  
+Prawidło 36. Sygnały zwrócenia uwagi. 
+Jeżeli jest to konieczne w celu zwrócenia uwagi innego statku, każdy statek może nadawać sygnały 
+świetlne lub dźwiękowe, których nie można pomylić z jakimkolwiek sygnałem przewidzianym 
+gdziekolwiek w niniejszych prawidłach lub może skierować światło reflektora poszukiwacza w kierunku 
+niebezpieczeństwa w taki sposób, aby nie przeszkadzać innemu statkowi. Jakiekolwiek światło dla 
+zwrócenia uwagi innego statku powinno być takie, aby nie mogło być pomylone z jakimkolwiek 
+światłem stanowiącym pomoc nawigacyjną. Przy stosowaniu niniejszego prawidła nie powinno się 
+stosować świateł przerywanych lub obrotowych o wysokim natężeniu, takich jak światła 
+stroboskopowe.  
+Prawidło 37. Sygnały wzywania pomocy. 
+Jeżeli statek znajduje się w niebezpieczeństwie i żąda pomocy, powinien nadawać sygnały 
+przewidziane w Załączniku IV do niniejszych Przepisów.  
+CZĘŚĆ E - ZWOLNIENIA 
+Prawidło 38. Zwolnienia. 
+Każdy statek (lub kategoria statków), który spełnia wymagania międzynarodowych przepisów o 
+zapobieganiu zderzeniom na morzu z 1960 roku i którego stępkę położono lub który znajdował się w 
+odpowiednim stadium budowy przed wejściem w życie niniejszych Przepisów, może być zwolniony od 
+ich przestrzegania w odniesieniu do:  
+a. instalacji świateł, których zasięg określono w prawidle 22, do upływu czterech lat, licząc od daty 
+wejścia w życie niniejszych Przepisów; 
+b. instalacji świateł o charakterystyce barwy określonej w punkcie 7 załącznika I, do upływu 
+czterech lat, licząc od daty wejścia w życie niniejszych Przepisów;  
+c. zmiany rozmieszczenia świateł, wynikających z przejścia z brytyjskiego systemu miar na system 
+metryczny i z zaokrąglania liczb miar -zwolnienie stałe; 
+d.  
+i. 
+zmiany rozmieszczenia świateł masztowych na statkach o długości mniejszej niż 150 
+metrów, wynikającej z postanowień punktu 3 a) załącznika I do niniejszych Przepisów 
+zwolnienie stałe; 
+ii. 
+zmiany rozmieszczenia świateł masztowych na statkach o długości 150 metrów lub 
+większej, wynikającej z postanowień punktu 3 a) załącznika I do niniejszych Przepisów - do 
+upływu dziewięciu lat, licząc od daty wejścia w życie niniejszych Przepisów;  
+iii. 
+zmiany rozmieszczenia świateł masztowych, wynikające z postanowień punktu 2 b) 
+załącznika I do niniejszych Przepisów - do upływu dziewięciu lat, licząc od daty wejścia w 
+życie niniejszych Przepisów;  
+iv. 
+zmiany rozmieszczenia świateł burtowych, wynikających z postanowień punktu 2g) i 3 b) 
+Załącznika I do niniejszych Przepisów - do upływu dziewięciu lat, licząc od daty wejścia w 
+życie niniejszych Przepisów; 
+v. 
+wymagać co do środków sygnalizacji dźwiękowej określonych w Załączniku III do 
+niniejszych Przepisów - do upływu dziewięciu lat, licząc od daty wejścia w życie 
+niniejszych Przepisów;  
+vi. 
+zmiany rozmieszczeń świateł widocznych dookoła widnokręgu, wynikającej z postanowień 
+punktu 9 b) Załącznika I do niniejszych Przepisów - zwolnienie stałe. 
+Załącznik I. Rozmieszczenie oraz szczegóły techniczne 
+świateł i znaków. 
+1. Definicja.  
+1. Określenie "wysokość nad kadłubem" oznacza wysokość nad najwyższym nieprzerwanym 
+pokładem. Wysokość ta powinna być mierzona pionowo w dół od miejsca umieszczenia 
+światła. 
+2. Pionowe rozmieszczenie świateł i odległość między nimi.  
+a. 
+Na statku o napędzie mechanicznym o długości 20 metrów lub większej światła masztowe 
+powinny być umieszczone, jak następuje:  
+i. 
+przednie światło masztowe, a jeżeli jest niesione tylko jedno światło masztowe, to 
+powinno być ono niesione na wysokości nie mniejszej niż 6 metrów nad kadłubem, a 
+jeżeli szerokość statku przekracza 6 metrów - na wysokości nie mniejszej niż 
+szerokość statku, z tym jednak że światło to nie musi znajdować się na wysokości 
+większej niż 12 metrów nad kadłubem; 
+ii. 
+jeżeli są niesione dwa światła masztowe, wówczas tylne światło powinno znajdować 
+się co najmniej o 4,5 metra w linii pionowej wyżej od przedniego. 
+b. 
+Pionowa odległość między światłami masztowymi statku o napędzie mechanicznym powinna 
+być taka, aby w każdych normalnych warunkach przegłębienia tylne światło było widoczne nad 
+przednim światłem i oddzielnie od niego z odległości 1000 metrów od dziobnicy przy obserwacji z 
+poziomu morza. 
+c. 
+światło masztowe statku o napędzie mechanicznym o długości 12 metrów lub większej, lecz 
+mniejszej niż 20 metrów, powinno być umieszczone 2,5 metra nad okrężnicą. 
+d. 
+Statek o napędzie mechanicznym o długości mniejszej niż 12 metrów może nie ć najwyższe 
+światło na wysokości mniejszej niż 2,5 metra nad okrężnicą. Jeżeli jednak światło masztowe jest 
+niesione oprócz świateł burtowych i światła rufowego, lub gdy światło widoczne dookoła widnokręgu 
+przewidziane prawidłem 23 c) i) jest niesione oprócz świateł burtowych, to wówczas takie światło 
+masztowe, lub światło widoczne dookoła widnokręgu, powinno być niesione co najmniej 1 metr wyżej 
+niż światła burtowe.  
+e. 
+Jedno z dwóch lub trzech świateł masztowych przewidzianych dla statku o napędzie 
+mechanicznym zajętego holowaniem lub pchaniem innego statku powinno być umieszczone w tym 
+samym miejscu , w którym znajduje się przednie albo tylne światło masztowe; jeżeli są noszone na 
+tylnym maszcie, to najniższe tylne światło masztowe powinno być co najmniej o 4,5 metra pionowo 
+wyżej od przedniego światła masztowego. 
+f. 
+ 
+i. 
+światło lub światła masztowe przewidziane w prawidle 23 a) powinny być tak 
+umieszczone, aby znajdowały się ponad wszystkimi innymi światłami i przeszkodami 
+i z dala od nich, z wyjątkiem jak przewidziano w punkcie ii)  
+ii. 
+jeżeli nie jest możliwe noszenie świateł widocznych dookoła widnokręgu 
+przewidzianych w prawidle 27 b) i) lub w prawidle 28 poniżej świateł masztowych, to 
+mogą one być noszone nad tylnym światłem (światłami) masztowym lub pionowo 
+między przednim światłem (światłami) masztowym a tylnym światłem (światłami) 
+masztowym, jednakże w tym ostatnim przypadku pod warunkiem, że będą 
+spełnione wymagania zawarte w punkcie 3 c) niniejszego Załącznika. 
+g. 
+światła burtowe statku o napędzie mechanicznym powinny być umieszczone nad kadłubem na 
+wysokości nie większej niż 3/4 wysokości przedniego światła masztowego. światła te nie powinny 
+znajdować się zbyt nisko, aby nie były pomylone ze światłami pokładowymi. 
+h. 
+światła burtowe, jeżeli znajdują się w latarni kombinowanej na statku o napędzie 
+mechanicznym o długości mniejszej niż 20 metrów, powinny być umieszczone co najmniej 1 metr 
+poniżej światła masztowego. 
+i. 
+Jeżeli prawidła wymagają, aby dwa lub trzy światła były umieszczone w linii pionowej, wówczas 
+odstęp między nimi powinien być następujący:  
+i. 
+na statku o długości 20 metrów lub większej odstęp między takimi światłami 
+powinien wynosić nie mniej niż 2 metry, a najniższe z nich, z wyjątkiem statku 
+obowiązanego do niesienia światła holowania, powinno być umieszczone na 
+wysokości nie mniejszej niż 4 metry nad kadłubem; 
+ii. 
+na statku o długości mniejszej niż 20 metrów odstęp między takimi światłami 
+powinien wynosić nie mniej niż 1 metr, a najniższe z nich, z wyjątkiem statku 
+obowiązanego do niesienia światła holowania, powinno być umieszczone na 
+wysokości nie mniejszej niż 2 metry nad okrężnicą; 
+iii. 
+jeżeli niesione są trzy światła, wówczas odstępy między nimi powinny być 
+jednakowe. 
+j. 
+Z dwóch świateł widocznych dookoła widnokręgu, przewidzianych dla statku zajętego 
+połowem, dolne powinno być umieszczone nad światłami burtowymi na wysokości co najmniej 
+dwukrotnie większej od odległości między dwoma światłami pionowymi. 
+k. 
+Przednie światło kotwiczne przewidziane w prawidle 30 a) i), jeżeli są niesione dwa, powinno 
+znajdować się nie mniej niż 4,5 metra nad tylnym światłem. Na statku o długości 50 metrów lub 
+większej przednie światło kotwiczne powinno być umieszczone na wysokości nie mniejszej niż 6 
+metrów nad kadłubem. 
+3. Poziome rozmieszczenie świateł i odległość między nimi.  
+a. 
+Jeżeli dwa światła masztowe są przewidziane dla statku o napędzie mechanicznym, wówczas 
+pozioma odległość między nimi powinna wynosić nie mniej niż połowę długości statku, lecz nie musi 
+być większa niż 100 metrów. Przednie światło powinno być umieszczone w nie większej odległości od 
+dziobnicy niż ćwierć długości statku. 
+b. 
+Na statku o napędzie mechanicznym o długości 20 metrów lub większej światła burtowe nie 
+powinny być umieszczone przed przednimi światłami masztowymi. światła te powinny być 
+umieszczone na burcie statku lub w jej pobliżu. 
+c. 
+Jeżeli światła przewidziane w prawidle 27 b) i) lub prawidle 28 są umieszczone pionowo między 
+przednim światłem (światłami) masztowym a tylnym światłem (światłami) masztowym, to te światła 
+widoczne dookoła widnokręgu powinny być umieszczone w odległości poziomej nie mniejszej niż 2 
+metry w kierunku poprzecznym od płaszczyzny symetrii statku. 
+d. 
+Jeżeli tylko jedno światło masztowe jest przewidziane dla statku o napędzie mechanicznym, 
+światło to powinno być pokazywane z przodu od śródokręcia; z tym, że statek o długości mniejszej niż 
+20 metrów nie potrzebuje pokazywać tego światła z przodu od śródokręcia, lecz powinien pokazywać 
+je tak dalece z przodu jak to jest możliwe.  
+4. Szczegóły dotyczące rozmieszczenia świateł kierunkowych na statkach rybackich, 
+pogłębiarkach i statkach zajętych pracami podwodnymi.  
+a. 
+światło wskazujące kierunek na wystawione narzędzie połowu ze statku zajętego połowem, 
+przewidziane w prawidle 26 c) ii), powinno znajdować się w odległości poziomej nie mniejszej niż 2 
+metry i nie większej niż 6 metrów od dwóch świateł widocznych dookoła widnokręgu - czerwonego i 
+białego. światło to powinno być umieszczone nie wyżej niż białe światło widoczne dookoła 
+widnokręgu, przewidziane w prawidle 26 c) i), i nie niżej niż światła burtowe. 
+b. 
+światła i znaki statku zajętego pogłębianiem lub pracami podwodnymi, wskazujące burtę, z 
+której istnieje przeszkoda, lub burtę, z której można przejść bezpiecznie, przewidziane w prawidle 27 d) 
+i) oraz ii), powinny być umieszczone w możliwie największej odległości w poziomie, lecz w żadnym 
+wypadku nie mniejszej niż 2 metry od świateł lub znaków przewidzianych w prawidle 27 b) i) oraz ii). W 
+żadnym wypadku górne z tych świateł lub znaków nie może znajdować się na większej wysokości niż 
+dolne z trzech świateł lub znaków przewidzianych w prawidle 27 b) i) oraz ii). 
+5. Osłony dla świateł burtowych.  
+Światła burtowe statków o długości 20 metrów lub większej powinny mieć od strony statku osłony 
+pomalowane czarną matową farbą i powinny spełniać wymagania punktu 9 niniejszego Załącznika. 
+Na statkach o długości mniejszej niż 20 metrów, w razie konieczności spełnienia wymagań 
+zawartych w punkcie 9 niniejszego Załącznika, światła burtowe powinny być wyposażone od strony 
+statku w osłony pomalowane czarną matową farbą. W odniesieniu do latarni kombinowanej, o 
+pojedynczym pionowym żarniku i bardzo wąskiej przegrodzie między zielonym i czerwonym 
+sektorem, osłony zewnętrzne są zbędne.  
+6. Znaki.  
+a. 
+Znaki powinny być czarne i mieć następujące wymiary:  
+i. 
+kula powinna mieć średnicę co najmniej 0,6 metra; 
+ii. 
+stożek powinien mieć podstawę o średnicy co najmniej 0,6 metra, a wysokość 
+równą swojej średnicy; 
+iii. 
+walec powinien mieć średnicę co najmniej 0,6 metra, a wysokość równą dwukrotnej 
+średnicy; 
+iv. 
+romb powinien składać się z dwóch stożków określonych wyżej w punkcie ii) i 
+mających wspólną podstawę. 
+b. 
+odległość pionowa między znakami powinna wynosić co najmniej 1,5 metra. 
+c. 
+Na statku o długości mniejszej niż 20 metrów mogą być używane znaki o mniejszych 
+wymiarach, lecz proporcjonalne do wielkości statku, a odległość między nimi może być odpowiednio 
+zmniejszona. 
+7. Specyfikacja barwy świateł.  
+Chromatyczność wszystkich świateł nawigacyjnych powinna odpowiadać następującym normom 
+mieszczącym się w granicach obszarów wskazanych dla każdej barwy na wykresie międzynarodowej 
+Komisji Oświetleniowej (CIE). Granice obszarów każdej barwy są określone współrzędnymi punktów 
+narożnych, które są następujące:  
+i. Biała  
+X 
+ 0.525  0.525  0.452  0.310  0.310  0.443 
+Y 
+ 0.382  0.440  0.440  0.348  0.283  0.382 
+ii.Zielona  
+X 
+ 0.028  0.009  0.300  0.203  
+Y 
+ 0.385  0.723  0.511  0.356  
+iii.Czerwona  
+X 
+ 0.680  0.660  0.735  0.721  
+Y 
+ 0320  0.320  0.265  0.259  
+iv.Żółta  
+X 
+ 0.612  0.618  0.575  0.575  
+Y 
+ 0.382  0.382  0.425  0.406  
+8. Natężenie świateł.  
+a. 
+Minimalne natężenie świateł powinno być obliczone za pomocą wzoru:  
+I = 3,43 x 106 x Tx D2 x K-D  
+gdzie:  
+I - oznacza natężenie świetlne w kandelach w warunkach eksploatacji, 
+T - oznacza próg widzialności 2 x 10-7 luksów,  
+D - oznacza zasięg widzialności światła (zasięg świetlny) w milach morskich, 
+K - oznacza współczynnik przepuszczalności atmosferycznej. 
+Wartość K dla przewidzianych świateł powinna wynosić 0,8 co odpowiada widzialności 
+meteorologicznej około 13 mil morskich. 
+b. 
+Wartości wynikające z powyższego wzoru przedstawia następująca tabela:  
+Zasięg widzialności 
+(zasięg świetlny) światła 
+w milach morskich 
+Natężenie świetlne światła w 
+kandelach dla K = 0.8 DI 
+1 
+0.8 
+2 
+4.3 
+3 
+12 
+4 
+27 
+5 
+52 
+6 
+94 
+ 
+Uwaga: Maksymalne natężenie świetlne świateł nawigacyjnych powinno być ograniczone w 
+celu uniknięcia nadmiernej jaskrawości. Nie powinno się tego dokonywać przez stosowanie 
+zmiennej regulacji natężenia świetlnego. 
+9. Sektory poziome.  
+a. 
+ 
+i. 
+światła burtowe zainstalowane na statku powinny mieć wymagane minimalne 
+natężenie w kierunku w przód. Natężenie to powinno zmniejszyć się aż do zaniku 
+między1 a 3 stopniem poza przepisanymi sektorami. 
+ii. 
+Minimalne wymagane natężenie dla świateł rufowych i świateł masztowych oraz w 
+obrębie 22,5 stopnia poza trawersem dla świateł burtowych powinno być utrzymane 
+na łuku widnokręgu aż do 5 stopni wewnątrz granic sektorów przewidzianych w 
+prawidle 21. Od 5 stopni wewnątrz przewidzianych sektorów natężenie może się 
+zmniejszać o 50 procent do granic tych sektorów; następnie natężenie powinno się 
+stale zmniejszać, aż do osiągnięcia praktycznego zaniku, nie dalej niż 5 stopni poza 
+przewidzianymi sektorami. 
+b. 
+ 
+i. 
+światła widoczne dookoła widnokręgu powinny być tak umieszczone, aby nie były 
+zasłaniane przez maszty, stengi lub nadbudówki w sektorach kątowych większych 
+niż 6 stopni, z wyjątkiem świateł kotwicznych, które nie muszą być umieszczone zbyt 
+wysoko nad kadłubem. 
+ii. 
+jeżeli nie jest możliwe spełnienie wymagań ustępu b) i) niniejszego punktu przez 
+pokazywanie tylko jednego światła widocznego dookoła widnokręgu, powinny być 
+użyte dwa światła widoczne dookoła widnokręgu należycie umieszczone lub 
+rozdzielone ekranem, tak aby były one, tak dalece jak to jest możliwe, widoczne jako 
+jedno światło z odległości jednej mili. 
+10. Sektory pionowe.  
+a. 
+Sektory pionowe świateł elektrycznych, z wyjątkiem świateł statków żaglowych w drodze, 
+powinny zapewniać, aby:  
+i. 
+co najmniej minimalne wymagane natężenie było utrzymane w granicach kąta od 5 
+stopni ponad widnokręgiem do 5 stopni poniżej widnokręgu, 
+ii. 
+co najmniej 60 procent minimalnego wymaganego natężenia było utrzymane w 
+granicach kąta od 7,5 stopnia ponad widnokręgiem do 7,5 stopnia poniżej 
+widnokręgu. 
+b. 
+Na statkach żaglowych w drodze sektory pionowe zainstalowanych świateł elektrycznych 
+powinny zapewniać, aby:  
+i. 
+co najmniej minimalne wymagane natężenie było utrzymane w granicach kąta od 5 
+stopni ponad widnokręgiem do 5 stopni poniżej widnokręgu, 
+ii. 
+co najmniej 50 procent minimalnego wymaganego natężenia było utrzymane w 
+granicach kąta od 25 stopni ponad widnokręgiem do 25 stopni poniżej widnokręgu. 
+iii. 
+W odniesieniu do świateł innych niż elektryczne powyższe postanowienia powinny 
+być przestrzegane tak ściśle, jak to jest możliwe.  
+11. Natężenie świateł nieelektrycznych.  
+Światła nieelektryczne powinny w miarę możliwości mieć minimalne natężenie, określone w tabeli 
+podanej w punkcie 8 niniejszego Załącznika. 
+12. Światło manewrowe.  
+Bez względu na postanowienia punktu 2 f) niniejszego Załącznika światło manewrowe określone w 
+prawidle 34 b) powinno być umieszczone w tej samej płaszczyźnie pionowej symetrii statku co 
+światło lub światła masztowe i jeżeli jest to możliwe, na wysokości co najmniej 2 metrów pionowo 
+ponad przednim światłem masztowym, z tym że będzie ono niesione nie mniej niż 2 metry pionowo 
+poniżej lub powyżej tylnego światła masztowego. Na statku noszącym tylko jedno światło masztowe 
+światło manewrowe powinno być noszone w miejscu, skąd będzie najlepiej widoczne, w odległości 
+pionowej co najmniej 2 metrów od światła masztowego. 
+13. Statek szybkobieżny.  
+a. 
+światło masztowe statku szybkobieżnego może być umieszczone na wysokości względem 
+szerokości statku niżej niż przewidziano w punkcie 2 a) i) niniejszego Załącznika, pod warunkiem, że 
+kąt przy podstawie trójkąta równoramiennego utworzonego przez światła burtowe i światło masztowe 
+widoczne od przodu w rzucie pionowym, nie jest mniejszy niż 27 stopni. 
+b. 
+Na statku szybkobieżnym o długości 50 metrów lub większej, pionowa odległość 4,5 metra 
+między przednim i tylnym światłem masztowym wymagana w punkcie 2 a) ii) niniejszego Załącznika, 
+może być zmodyfikowana pod warunkiem, że odległość taka nie będzie mniejsza od wartości 
+określonej według następującego wzoru:  
+y = (a + 17F)C/1000 + 2  
+gdzie:  
+y oznacza wysokość głównego światła masztowego powyżej przedniego światła 
+masztowego w metrach; 
+a oznacza wysokość przedniego światła masztowego nad poziomem wody w metrach, 
+w warunkach eksploatacyjnych; 
+F oznacza przegłębienie w warunkach eksploatacyjnych, w stopniach; 
+C oznacza odległość poziomą między światłami masztowymi w metrach. 
+14. Zatwierdzenie.  
+Konstrukcja świateł i znaków oraz instalacja świateł na statku powinny odpowiadać wymaganiom 
+właściwego organu Państwa, którego banderę statek ma prawo podnosić. 
+Załącznik II. Dodatkowe sygnały statków rybackich 
+łowiących blisko siebie. 
+1. Postanowienia ogólne.  
+Światła wymienione w niniejszym Załączniku, jeżeli są pokazywane zgodnie z postanowieniami 
+prawidła 26 d), powinny być umieszczone w miejscu, skąd będą najlepiej widoczne, w odległości co 
+najmniej 0,9 metra od siebie i poniżej świateł przewidzianych w prawidle 26 b) i) oraz c) i). światła 
+powinny być widoczne dookoła widnokręgu z odległości co najmniej 1 mili, lecz z odległości 
+mniejszej niż światło przewidziane niniejszymi prawidłami dla statków rybackich. 
+2. Sygnały trawlerów.  
+a. Statki o długości 20 metrów lub większej, gdy są zajęte trałowaniem za pomocą sprzętu 
+dennego lub pelagicznego, powinny pokazywać:  
+i. 
+gdy wydają swoje sieci - dwa białe światła w linii pionowej, 
+ii. 
+gdy wybierają swoje sieci - jedno białe światło nad jednym światłem czerwonym w 
+linii pionowej, 
+iii. 
+gdy sieć uwięzła na przeszkodzie - dwa czerwone światła w linii pionowej. 
+b. Każdy ze statków o długości 20 metrów lub większej zajętych trałowaniem parami 
+powinien pokazywać:  
+i. 
+w nocy - światło reflektora skierowane w przód i w kierunku drugiego statku, z którym 
+trałuje w parze, 
+ii. 
+gdy statki wydają lub wybierają swoje sieci albo gdy ich sieci uwięzły na przeszkodzie 
+światła przewidziane w powyższym punkcie 2 a). 
+c. Statek o długości mniejszej niż 20 metrów zajety trałowaniem za pomocš sprzętu dennego 
+lub pelagicznego czy też zajęty trałowaniem parami może pokazywać odpowiednie światła 
+przewidziane w punktach 2 a) lub 2 b). 
+3. Sygnały świetlne sejnerów.  
+Statki zajęte połowem siecią okrężnicą mogą pokazywać dwa żółte światła w linii pionowej. światła 
+te powinny na przemian dawać błysk co sekundę, a czas trwania światła i przerwy powinny być 
+jednakowe. światła te mogą być pokazywane tylko wtedy, gdy sprzęt połowowy przeszkadza statkowi 
+w manewrach. 
+Załącznik III. Szczegóły techniczne środków do sygnalizacji 
+dźwiękowej. 
+1. Gwizdki.  
+a. Częstotliwość i zasięg słyszalności.  
+Podstawowa częstotliwość sygnału powinna mieścić się w granicach 70-700 Hz. Zasięg 
+słyszalności sygnału danego gwizdkiem powinien być określony przez te częstotliwości, które 
+mogą obejmować częstotliwość podstawową i/lub jedną lub więcej wyższych częstotliwości, 
+które mieszczą się w granicach 180-700 Hz (+/-1%) dla statku o długości 20 metrów lub 
+większej lub 180-2100 Hz (+/-1%) dla statku o długości mniejszej niż 20 metrów i które 
+zapewniają poziom ciśnienia akustycznego określony w punkcie 1 c), jak niżej. 
+b. Granice podstawowych częstotliwości.  
+W celu zapewnienia znacznej różnorodności charakterystyki gwizdka podstawowa 
+częstotliwość gwizdka powinna mieścić się w następujących granicach: 
+i. 
+70 - 200 Hz - dla statku o długości 200 metrów lub większej, 
+ii. 
+130 - 350 Hz - dla statku o długości 75 metrów lub większej, lecz mniejszej niż 200 
+metrów, 
+iii. 
+250 - 700 Hz -dla statku o długości mniejszej niż 75 metrów. 
+c. Natężenie sygnału dźwiękowego i Zasięg słyszalności.  
+Gwizdek zainstalowany na statku powinien zapewniać w kierunku największego natężenia 
+dźwięku gwizdka i w odległości 1 metra od niego poziom ciśnienia akustycznego w paśmie o 
+wartości co najmniej 1/3 oktawy w granicach częstotliwości 180-700 Hz (+/-1%) dla statku o 
+długości 20 metrów lub większej, lub 180-2100 Hz (+/-1%) dla statku o długości mniejszej niż 
+20 metrów, nie mniejszy niż to odpowiednio podaje poniższa tabela:  
+Długość statku w 
+metrach  
+Pasmo 1/3 oktawy poziom w odległości 
+1 metra w dB w odniesieniu do 2x10-5 N/m2  
+Zasięg słyszalności 
+w milach morskich 
+200 lub więcej 
+143 
+2 
+od 75 lecz mniej niż 200 
+138 
+1.5 
+od 20 lecz mniej niż 75 
+130 
+1 
+mniej niż 20 
+120 *1 
+115 *2 
+111 *3 
+0,5 
+*1 Gdy mierzone częstotliwości mieszczą się w granicach 180-450 Hz  
+*2 Gdy mierzone częstotliwości mieszczą się w granicach 450-800 Hz 
+*3 Gdy mierzone częstotliwości mieszczą się w granicach 800-2100 Hz 
+Zasięg słyszalności podano w powyższej tabeli dla informacji. Jest on w przybliżeniu 
+zasięgiem, przy którym gwizdek może być słyszany na jego osi wzdłużnej z 90-procentowym 
+prawdopodobieństwem podczas spokojnego powietrza na pokładzie statku, na którym panuje 
+średni poziom tła hałasu na stanowiskach nasłuchu (to jest 68 dB w paśmie oktawy 
+ześrodkowanej na częstotliwości 250 Hz i 63 dB w paśmie oktawy ześrodkowanej na 500 Hz). 
+W praktyce Zasięg, w którym gwizdek może być słyszalny, jest nadzwyczaj zmienny i zależy w 
+znacznym stopniu od warunków pogody. Podane wartości można uważać za typowe, lecz 
+podczas silnego wiatru lub wysokiego poziomu hałasu otoczenia na stanowisku nasłuchu 
+Zasięg ten może ulec silnemu zmniejszeniu. 
+d. Właściwości kierunkowe.  
+We wszystkich kierunkach w płaszczyźnie horyzontalnej, objętych sektorem +/-45 stopni w 
+stosunku do osi, poziom ciśnienia akustycznego gwizdka kierunkowego nie powinien być niższy 
+niż o 4 dB poniżej poziomu ciśnienia akustycznego w osi. We wszystkich innych kierunkach w 
+płaszczyźnie horyzontalnej poziom ciśnienia akustycznego nie powinien być niższy niż o 10 dB 
+poniżej poziomu ciśnienia akustycznego w osi i taki, aby Zasięg we wszystkich kierunkach 
+równy był co najmniej połowie Zasięgu w osi. Poziom ciśnienia akustycznego powinien być 
+mierzony w paśmie jednej trzeciej oktawy określającej Zasięg słyszalności. 
+e. Miejsce gwizdków.  
+Jeżeli gwizdek kierunkowy ma być używany jako jedyny gwizdek na statku, powinien być tak 
+zainstalowany, aby największe natężenie jego dźwięku skierowane było prosto w przód. 
+Gwizdek powinien być umieszczony tak wysoko na statku, jak to jest możliwe, w celu 
+zmniejszenia przeszkód w rozchodzeniu się emitowanego dźwięku, a również w celu 
+zredukowania do minimum ryzyka zakłóceń w słyszeniu przez personel. Poziom ciśnienia 
+akustycznego własnego sygnału statku na stanowiskach nasłuchu nie powinien przekraczać 
+110 dB (A), a jeżeli to możliwe, nie powinien przekraczać 100 dB (A). 
+f. Instalacja kilku gwizdków.  
+Jeżeli gwizdki zainstalowano w odległości większej niż 100 metrów od siebie, należy zapewnić, 
+aby gwizdki nie działały równocześnie. 
+g. Kombinowane systemy gwizdków.  
+Jeżeli z powodu obecności przeszkód w polu akustycznym pojedynczego gwizdka lub jednego z 
+gwizdków wymienionych wyżej w punkcie 1 f) może występować strefa znacznie obniżonego 
+poziomu sygnału, zaleca się zainstalowanie kombinowanego systemu gwizdków w sposób 
+zapobiegający obniżeniu tego poziomu. W rozumieniu niniejszych prawideł kombinowany 
+system gwizdków należy uważać za jeden gwizdek. Gwizdki wchodzące w skład 
+kombinowanego systemu powinny być umieszczone w odległości nie większej niż 100 metrów 
+od siebie; powinny być tak urządzone, by działały równocześnie. Częstotliwość każdego z tych 
+gwizdków powinna się różnić od częstotliwości pozostałych co najmniej o 10 Hz. 
+2.  Dzwon i gong.  
+a. Natężenie sygnału.  
+Dzwon, gong lub inny przyrząd o podobnej charakterystyce dźwięku powinny wytwarzać 
+poziom ciśnienia akustycznego nie niższy niż 110 dB w odległości 1 metra od niego. 
+b. Konstrukcja.  
+Dzwony i gongi powinny być skonstruowane z materiału odpornego na korozję i zdolne do 
+dawania jasnego tonu. średnica kielicha dzwonu powinna być nie mniejsza niż 300 mm dla 
+statków o długości niż 20 metrów lub większej. Zaleca się, gdzie jest to wykonalne, stosować 
+serce dzwonu o napędzie mechanicznym w celu zapewnienia stałej siły uderzenia, z tym żeby 
+możliwe było ręczne jego uruchomienie. Masa serca dzwonu powinna być nie mniejsza niż 3 
+procent masy dzwonu. 
+c. Zatwierdzenie.  
+Konstrukcja środków do sygnalizacji dźwiękowej, ich wykonanie oraz ich instalacja na statku 
+powinny odpowiadać wymaganiom właściwego organu Państwa, którego banderę statek ma 
+prawo podnosić. 
+Załącznik IV. Sygnały wzywania pomocy. 
+1. Następujące sygnały, używane lub pokazywane łącznie albo z osobna, wskazują 
+niebezpieczeństwo i potrzebę pomocy:  
+a. 
+wystrzał armatni lub inny sygnał detonacyjny dawany w odstępach około 1 minuty, 
+b. 
+nieprzerwany dźwięk dawany za pomocą dowolnego sygnalizacyjnego przyrządu mgłowego, 
+c. 
+rakiety lub pociski wyrzucające czerwone gwiazdy, wystrzeliwane pojedynczo w krótkich 
+odstępach czasu, 
+d. 
+sygnał składający się z grupy • • • − − − • • • (SOS) nadawany znakami Morse'a za pomocą 
+radiotelegrafu lub jakiegokolwiek innego sposobu sygnalizacji, 
+e. 
+sygnał nadany za pomocą radiotelefonu, składający się z wypowiedzianego słowa "Mayday", 
+f. sygnał wzywania pomocy N C według Międzynarodowego Kodu Sygnałowego, 
+ 
+ 
+g. 
+sygnał składający się z kwadratowej flagi mający nad nią lub pod nią kulę lub przedmiot 
+podobny do kuli, 
+h. 
+płomień na statku (jak np. paląca się beczka smoły, oleju itp.), 
+i. 
+rakieta spadochronowa lub pochodnia ręczna paląca się czerwonym płomieniem, 
+j. 
+sygnał dymny wydzielający dym o barwie pomarańczowej, 
+k. 
+powolne i powtarzalne podnoszenie i opuszczanie obu ramion wyprostowanych w bok, 
+l. 
+radiotelegraficzny sygnał alarmowy, (zobacz GMDSS), 
+m. 
+radiotelefoniczny sygnał alarmowy, (zobacz GMDSS), 
+n. 
+sygnały nadawane przez pławy radiowe wskazujące niebezpieczeństwo i pozycję, (zobacz 
+EPIRB, GMDSS), 
+o. 
+stwierdzone sygnały nadawane za pomocą systemów łączności radiowej włączając w to 
+transpondery radarowe łodzi ratunkowych, (zobacz SART). 
+2. Używanie lub pokazywanie któregokolwiek z powyższych sygnałów w innym celu niż dla 
+wskazania niebezpieczeństwa i potrzeby pomocy oraz używanie innych sygnałów, które można 
+byłoby pomylić z którymkolwiek z powyższych sygnałów, jest zabronione. 
+3. Należy zwrócić uwagę na odpowiednie działy Międzynarodowego Kodu Sygnałowego i Poradnika 
+poszukiwania i ratowania dla statków handlowych oraz na następujące sygnały:  
+a. kawał płótna pomarańczowego z czarnym kwadratem i kołem lub z innym odpowiednim 
+symbolem (dla identyfikacji z powietrza), 
+b. barwny znak. 

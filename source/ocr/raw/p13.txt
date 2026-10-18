@@ -1,0 +1,70 @@
+POLSKI ZWIĄZEK ŻEGLARSKI
+al. ks. J. Poniatowskiego 1
+03-901 Warszawa
+tel. (227 54163 63; Tax (22) 541 63 69
+
+e-mail:pyabiuroGDpya.org.pl, „pya.org.pl
+METEOROLOGIA NIP 521-11-84-309, REGON 007014979
+81. W jakich źródłach możemy znaleźć informacje A W locjach danego akwenu
+potrzebne do odbioru morskich radiowych B_ W biuletynach Morskich Biur Pogody
+
+komunikatów pogodowych? W Spisach Radiostacji Nautycznych
+
+(Admiralty List of Radio Signals) i/lub
+C innych wydawnictwach (almanachach) dla
+żeglarzy podajacych te informacje.
+
+82. Na ekranie odbiornika NAVTEX odczytano A  Prognozana 12 godzin, wiatr SW 5 do 6,
+komunikat jak na rysunku. Jaka jest prognoza, na jaki region Fisher
+?
+
+okres! Prognoza na 12 godzin, wiatr SW 5 potem
+B 6,stan morza umiarkowany, region German
+Cc Prognoza na 12 godzin, wiatr SW 5 do 6,
+
+widzialność umiarkowana, stan morza 5 - 6
+83. Jakie dane dotyczace ustawień należy A Symbol typu wiadomości i symbol stacji z
+
+wprowadzić do odbiornika NAVTEX aby odbierać
+komunikaty pogodowe?
+
+której chcemy odbierać komunikaty
+
+B Nic nie trzeba wprowadzać urządzenie
+działa automatycznie
+
+c Wystarczy symbol stacji, komunikaty
+pogodowe są zawsze odbierane
+
+84. W prognozie pogody sformułowanie "wiatr SW 3 - A Wiatr południowo-wschodni, umiarkowany
+4" oznacza: p Wiatr południowo-zachodni, słaby, 3-4
+węzłów
+
+c Wiatr południowo-zachodni, umiarkowany,
+3-4 stopni Beauforta
+
+85. W komunikacie meteorologicznym wywieszonym A W barachi jest niższe od średniego
+
+w kapitanacie portu podano: niż nad Bałtykiem 990, W hektopascalach ( HPa) i jest niższe od
+
+przesuwa się na wschód. W jakich jednostkach B średniego
+
+podane jest ciśnienie i czy jest ono wyższe czy niższe = -
+
+od średniego cisnienia na poziomie morza? c W hektopascalach (HPa) i jest wyższe od
+średniego
+
+86. Na polskiej mapie synoptycznej poszczególne A Wiatry północne (North), wiatry zachodnie
+
+(West)
+
+B Centrum niżu, centrum wyżu
+C Chmury niskie, chmury wysokie
+
+skróty " N, W" oznaczają kolejno :
+
+87. Na rysunku pokazano fragment mapy , , A Opady, sine wiatry z N - NE
+synoptycznej. Jakiej pogody możemy spodziewać się B Duże zachmurzenie, wiatr SW - W
+w Polsce! V C Brak lub małr zachmurzenie, wiatr SE - S
+
+Numer arkusza: 20160729_095536455_0 Strona 13/56

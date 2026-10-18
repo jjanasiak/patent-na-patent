@@ -1,0 +1,298 @@
+[
+ {
+  "id": 294,
+  "answer": "C",
+  "rule": "SOLAS IV/2.1.12 (obszar morski A1), zasięg VHF w linii widzenia",
+  "reason": "Łączność UKF (156–174 MHz) jest łącznością w zasięgu optycznym; obszar A1 definiuje się jako zasięg stacji brzegowej VHF ok. 20–30 Mm, a przy wysokich antenach stacji brzegowej realny maksymalny zasięg to ok. 30–40 Mm. Zasięgi 60–80 Mm są nieosiągalne na UKF.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 295,
+  "answer": "B",
+  "rule": "RR Załącznik (Appendix) 15; RR Art. 31",
+  "reason": "Częstotliwości fonii w niebezpieczeństwie to 2182 kHz (MF) i 156,8 MHz = kanał 16 (VHF). 2187,5 kHz i kanał 70 są zarezerwowane wyłącznie dla DSC, a kanał 6 to kanał międzystatkowy/SAR.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 296,
+  "answer": "B",
+  "rule": "RR Art. 32 (32.9 i n.), ITU-R M.493 / M.541 (automatyczne powtarzanie alertu DSC)",
+  "reason": "Alert DSC w niebezpieczeństwie jest po nadaniu automatycznie powtarzany w losowych odstępach 3,5–4,5 min, dopóki radiotelefon nie odbierze potwierdzenia (DSC acknowledgement) albo operator nie przerwie powtarzania (anulowanie/‘STOP’/wyłączenie). Nie jest to ani jedno nadanie, ani stała liczba trzech powtórzeń.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 297,
+  "answer": "A",
+  "rule": "RR Art. 32 (32.1–32.13C), RR Appendix 15",
+  "reason": "W obszarze A1 wezwanie w niebezpieczeństwie (distress alert) nadaje się cyfrowo DSC na kanale 70, a następnie wezwanie i zawiadomienie w niebezpieczeństwie na fonii (MAYDAY) na kanale 16. Kanał 70 służy wyłącznie DSC, a kanał 16 wyłącznie fonii.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 298,
+  "answer": "B",
+  "rule": "MPZZM Załącznik IV pkt 1 lit. k; prawidło 37",
+  "reason": "Powolne i powtarzane podnoszenie i opuszczanie obu wyprostowanych w bok ramion jest sygnałem wzywania pomocy z Załącznika IV MPZZM, więc należy podejść i nawiązać łączność/udzielić pomocy (SOLAS V/33).",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 299,
+  "answer": "B",
+  "rule": "Rozporządzenie MSiT/MGMiŻŚ (Dz.U. 2016 poz. 1557) załącznik nr 1 cz. I pkt 4",
+  "reason": "Jacht w rejonie 3 (żegluga pełnomorska) musi mieć 12 rakiet spadochronowych czerwonych i 1 pławkę dymną pomarańczową. 8 rakiet to za mało, więc stan jest niezgodny z przepisami niezależnie od atestu czy stanu technicznego.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 300,
+  "answer": "C",
+  "rule": "RR Art. 18 (licencja stacji) i Art. 47 (świadectwo operatora); Prawo telekomunikacyjne art. 143 i 150",
+  "reason": "Stacja statkowa musi mieć licencję (pozwolenie radiowe) wydaną przez administrację państwa bandery (RR 18.1), a jej obsługę musi kontrolować osoba posiadająca świadectwo operatora, np. SRC (RR 47.2). Sama licencja (B) nie wystarcza.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 301,
+  "answer": "C",
+  "rule": "Międzynarodowy Kod Sygnałowy (IMO, 1965 z poprawkami); zał. nr 1 cz. III przypis 7 rozporządzenia o jachtach morskich",
+  "reason": "Sygnały jednoliterowe i grupy sygnałowe wraz ze znaczeniami oraz procedurami ich nadawania są zawarte w publikacji „Międzynarodowy Kod Sygnałowy”, która powinna być na wyposażeniu jachtu. Locje i ALRS nie zawierają kodu MKS.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 302,
+  "answer": "A",
+  "rule": "MPZZM prawidło 36 (sygnały zwrócenia uwagi)",
+  "reason": "Prawidło 36 pozwala statkowi skierować światło reflektora poszukiwacza „w kierunku niebezpieczeństwa”, tak aby nie przeszkadzać innemu statkowi. Reflektor skierowany przed dziób jachtu oznacza więc, że statek sygnalizuje coś zaobserwowanego w tym kierunku; MPZZM nie przewidują sygnału reflektorem o treści „nie zmieniaj kursu”.",
+  "confidence": "medium",
+  "doubt": "Za A: prawidło 36 wprost mówi o reflektorze skierowanym w kierunku niebezpieczeństwa, a nie na statek-adresata; sygnałem wątpliwości co do zamiarów jest 5 krótkich dźwięków/błysków (prawidło 34 d), a nie reflektor. Za C: intuicyjne odczytanie jako ostrzeżenie dla jachtu, ale brak podstawy w przepisach. B (pilot) nie ma żadnej podstawy. Wybieram A, bo jest jedyną odpowiedzią zgodną z literą prawidła 36."
+ },
+ {
+  "id": 303,
+  "answer": "B",
+  "rule": "MPZZM prawidło 34 lit. d",
+  "reason": "Co najmniej pięć krótkich, szybko po sobie następujących dźwięków oznacza, że statek nie rozumie zamiarów lub działań drugiego statku albo wątpi, czy podejmie on wystarczające działanie dla uniknięcia zderzenia. Trzy krótkie to bieg wstecz (34 a), statek pilotowy nadaje 4 krótkie dźwięki jako sygnał identyfikacyjny (35 k).",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 304,
+  "answer": "B",
+  "rule": "MPZZM prawidło 33 lit. a; zał. nr 1 cz. II rozporządzenia o jachtach morskich",
+  "reason": "Dzwon jest wymagany dopiero na statku o długości 20 m lub większej; jachty prowadzone przez sternika morskiego (poniżej 20 m) nie muszą mieć dzwonu. Próg 12 m (odp. A) dotyczy gwizdka, a odp. C jest sprzeczna z prawidłem 33.",
+  "confidence": "medium",
+  "doubt": "Żadna odpowiedź nie jest w pełni ścisła: prawidło 33 a wymaga dzwonu na statkach ≥ 20 m, więc jachty 20 m i dłuższe muszą go mieć. Za B: dla jachtów typowych (do 18–20 m) dzwon nie jest wymagany, a A podaje błędny próg 12 m (to próg dla gwizdka, celowy dystraktor wobec pytania 305). Za A: autor mógł pomylić progi. Wybieram B jako odpowiedź spójną z prawidłem 33 dla jachtów objętych patentem."
+ },
+ {
+  "id": 305,
+  "answer": "C",
+  "rule": "MPZZM prawidło 33 lit. a i b; Załącznik III MPZZM",
+  "reason": "Statek o długości 12 m lub większej musi mieć gwizdek odpowiadający Załącznikowi III; statek krótszy niż 12 m nie jest do tego obowiązany, ale musi mieć inne środki do nadawania donośnego sygnału dźwiękowego.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 306,
+  "answer": "B",
+  "rule": "RR Art. 32 sekcja III (korespondencja w niebezpieczeństwie; SEELONCE MAYDAY / SEELONCE DISTRESS)",
+  "reason": "Nakaz ciszy obowiązuje na częstotliwości, na której prowadzona jest korespondencja w niebezpieczeństwie (tu kanał 16); stacje nieuczestniczące w akcji nie mogą na niej nadawać, ale mogą prowadzić normalną pracę na innych kanałach, o ile nie zakłóca to korespondencji w niebezpieczeństwie. Łączność z mariną na kanale 69 jest więc dozwolona.",
+  "confidence": "medium",
+  "doubt": "Za B: zgodne z literą RR (cisza dotyczy częstotliwości korespondencji w niebezpieczeństwie, nie całego pasma). Za C: dobra praktyka – pozostać w nasłuchu kanału 16 (RR nakazuje śledzić korespondencję w niebezpieczeństwie, jeśli to możliwe) i dopiero w przerwie przejść na 69; przy radiotelefonie bez dual-watch przejście na 69 oznacza utratę nasłuchu 16. A jest typowym błędnym przekonaniem. Egzaminator PZŻ najpewniej uznaje B."
+ },
+ {
+  "id": 307,
+  "answer": "B",
+  "rule": "RR Art. 32 sekcja III (SEELONCE FEENEE – koniec korespondencji w niebezpieczeństwie)",
+  "reason": "Komunikat „All stations x3, this is (stacja kontrolująca), (czas), (nazwa statku w niebezpieczeństwie), SEELONCE FEENEE” ogłasza zakończenie korespondencji w niebezpieczeństwie i powrót do normalnej pracy na danej częstotliwości. Częściowe wznowienie to PRUDONCE.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 308,
+  "answer": "C",
+  "rule": "RR 32.53A; ITU-R M.541 Annex 1 §4 (anulowanie niezamierzonego alertu DSC); IMO Res. A.814(19)",
+  "reason": "Po omyłkowym alercie DSC należy natychmiast przerwać powtarzanie alertu (anulować w radiotelefonie lub wyłączyć/włączyć urządzenie), a następnie na kanale 16 nadać do wszystkich stacji: „All stations x3, this is (nazwa) x3, MMSI, cancel my distress alert of (data, czas UTC)”. Nie czeka się biernie na zgłoszenie stacji brzegowej (A, B).",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 309,
+  "answer": "C",
+  "rule": "RR Art. 32 sekcja III (SEELONCE MAYDAY – stacja w niebezpieczeństwie/kontrolująca; SEELONCE DISTRESS – inna stacja)",
+  "reason": "„Seelonce distress” to nakaz zachowania ciszy radiowej nadany przez stację inną niż stacja w niebezpieczeństwie lub kontrolująca, ponieważ na tej częstotliwości trwa korespondencja w niebezpieczeństwie. Należy natychmiast przerwać wywołanie.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 310,
+  "answer": "C",
+  "rule": "MPZZM Załącznik IV pkt 1 lit. i; LSA Code rozdz. 3.2 (pochodnie ręczne) i instrukcja producenta",
+  "reason": "Pochodnię ręczną odpala się po zdjęciu zabezpieczenia, trzymając ją w wyciągniętej ręce z dala od ciała i jachtu (zawietrzna burta), wylotem w górę, ściśle wg instrukcji na obudowie – pochodnia wyrzuca gorący żużel. Wylot w dół (A) lub nieokreślony „spust” (B) są niebezpieczne.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 311,
+  "answer": "C",
+  "rule": "Ustawa o bezpieczeństwie morskim art. 116–117; Konwencja SAR 1979",
+  "reason": "Służba SAR ma ustawowy obowiązek ratowania życia ludzkiego, nie mienia, więc holowania nie można żądać; jednostka ratownicza może jednak holować jacht, jeżeli jest to sposób uratowania ludzi (np. ewakuacja byłaby groźniejsza), i o tym decyduje sama jednostka ratownicza.",
+  "confidence": "medium",
+  "doubt": "Za C: zgodne z praktyką SAR i z art. 116 (ratowanie osób) – holowanie jako środek ratowania ludzi, decyzja po stronie jednostki ratowniczej; pełniejsze ujęcie. Za B: literalnie SAR ratuje tylko ludzi, holowanie jachtu to ratownictwo mienia (odpłatne), a pytanie mówi o „żądaniu”. Odpowiedź C precyzuje, że nie jest to roszczenie jachtu, lecz decyzja ratowników – egzaminator PZŻ najpewniej uznaje C."
+ },
+ {
+  "id": 312,
+  "answer": "A",
+  "rule": "Ustawa o bezpieczeństwie morskim art. 116–117 (Służba SAR, MRCK Gdynia koordynuje akcje)",
+  "reason": "Sygnał MAYDAY na kanale 16 odbiera stacja brzegowa/MRCK (Gdynia, dawniej też MRCP Świnoujście), które potwierdzają odbiór, koordynują akcję i informują o rodzaju wysłanej pomocy (SAR, śmigłowiec). Kapitanat portu nie koordynuje akcji SAR, a bierne oczekiwanie bez łączności jest błędne.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 313,
+  "answer": "C",
+  "rule": "RR 32.19–32.20 (distress alert relay), 32.23 i 32.28 (potwierdzenie przez statek, powiadomienie RCC); SOLAS V/33",
+  "reason": "Jeżeli wezwania MAYDAY nie potwierdziła stacja brzegowa w rozsądnym czasie, statek, który je odebrał, ma nadać MAYDAY RELAY, aby zaalarmować stację brzegową/RCC, a będąc w stanie pomóc – nawiązać łączność z jednostką w niebezpieczeństwie i iść jej na pomoc (obowiązek z SOLAS V/33). Odp. C łączy oba obowiązki; A pomija obowiązek pomocy, B pomija alarmowanie SAR.",
+  "confidence": "medium",
+  "doubt": "Za C: pełna procedura – relay do stacji brzegowej (wezwanie mogło nie dotrzeć do brzegu) oraz pomoc; spójne z kluczem konstrukcji odp. C w pytaniu 329. Za B: wg RR 32.23 statek w pobliżu najpierw potwierdza wezwanie jednostce w niebezpieczeństwie i rusza na pomoc, a pożar wymaga natychmiastowego działania; jednak B całkowicie pomija powiadomienie RCC. Za A: relay jest obowiązkiem, ale „dalszą akcją zajmie się stacja brzegowa” narusza SOLAS V/33. Zastrzeżenie: w C nawiązanie kontaktu z jednostką uwarunkowano brakiem odzewu stacji brzegowej, co nie jest ścisłe wobec RR."
+ },
+ {
+  "id": 314,
+  "answer": "C",
+  "rule": "MPZZM Załącznik IV pkt 1 lit. j; LSA Code rozdz. 3.3 (pławki dymne) i instrukcja producenta",
+  "reason": "Pławkę dymną uruchamia się po odkręceniu zabezpieczenia i pociągnięciu linki zapłonu, po czym wrzuca się ją do wody po zawietrznej; dym jest gorący i toksyczny, więc nie trzyma się jej w ręku, a samoczynnego uruchomienia pławka nie ma.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 315,
+  "answer": "C",
+  "rule": "MPZZM Załącznik IV pkt 1 lit. i; LSA Code rozdz. 3.1 (rakiety spadochronowe) i instrukcja producenta",
+  "reason": "Rakietę odpala się po zdjęciu zabezpieczenia, trzymając ją wylotem w górę, z wiatrem w plecy, celując z dala od takielunku i żagli, zgodnie z instrukcją na obudowie (rakieta może zahaczyć o olinowanie i zapalić żagle). A i B pomijają kontrolę kierunku względem takielunku.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 316,
+  "answer": "C",
+  "rule": "Rozporządzenie Dz.U. 2016 poz. 1557 § 6 pkt 3 oraz § 13 (rozkład alarmowy, zał. nr 3 pkt 18)",
+  "reason": "Kapitan ma obowiązek zaznajomić całą załogę ze sposobami wzywania pomocy i przeszkolić ją w posługiwaniu się środkami bezpieczeństwa, w jakie jacht jest wyposażony (§ 6 pkt 3), najlepiej przy omawianiu rozkładu alarmowego (§ 13). Ograniczenie obsługi do kapitana lub posiadaczy certyfikatów nie ma podstawy prawnej.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 317,
+  "answer": "B",
+  "rule": "Rozporządzenie Dz.U. 2016 poz. 1557 § 6 pkt 2–3 i 7; LSA Code rozdz. 3 (pirotechnika w wodoszczelnym opakowaniu)",
+  "reason": "Środki pirotechniczne muszą być w razie zagrożenia natychmiast dostępne dla całej załogi, dlatego przechowuje się je w jednym, znanym wszystkim, łatwo dostępnym miejscu, w wodoszczelnym pojemniku chroniącym przed wilgocią. Rozpraszanie po szafkach lub brak zasad (A, C) nie jest zgodne z dobrą praktyką morską.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 318,
+  "answer": "B",
+  "rule": "RR Appendix 15 i RR 31.17 (156,8 MHz – distress, safety and calling)",
+  "reason": "Kanał 16 (156,8 MHz) jest międzynarodową częstotliwością wywoławczą oraz częstotliwością łączności w niebezpieczeństwie, pilności i bezpieczeństwa na fonii. Nie służy wyłącznie korespondencji w niebezpieczeństwie.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 319,
+  "answer": "A",
+  "rule": "SOLAS IV/15.9 i IMO MSC.1/Circ.1040/Rev.2 (coroczne testy EPIRB); instrukcja producenta",
+  "reason": "Sprawność EPIRB wymaga sprawdzenia daty ważności baterii (w ateście/na obudowie), daty ważności zwalniaka hydrostatycznego (HRU, oznaczenie na obudowie, zwykle 2 lata) oraz wykonania testu wewnętrznego (self-test). Sam test (B) nie wykryje przedatowanej baterii ani HRU.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 320,
+  "answer": "C",
+  "rule": "RR Art. 33 sekcja III (wywołanie SECURITE na kanale 16, komunikat na kanale roboczym stacji brzegowej)",
+  "reason": "Wywołanie bezpieczeństwa nadaje się na kanale 16, a sam komunikat (ostrzeżenie o sztormie) na kanale roboczym stacji brzegowej; po zapowiedzi „working channels” należy ustawić kanał roboczy najbliższej stacji (ALRS tom 3 / locja / lista stacji) i słuchać. Nie wywołuje się stacji nadającej (B) ani nie czeka na kanale 16 (A).",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 321,
+  "answer": "A",
+  "rule": "RR Art. 33 sekcja I (pilność – PAN PAN) i sekcja III (bezpieczeństwo – SECURITE)",
+  "reason": "SECURITE poprzedza ważne ostrzeżenia nawigacyjne i meteorologiczne oraz inne wiadomości dotyczące bezpieczeństwa; PAN PAN poprzedza bardzo pilną wiadomość dotyczącą bezpieczeństwa jednostki lub osoby, gdy nie jest potrzebna natychmiastowa pomoc. PAN PAN nie ogranicza się do pomocy lekarskiej (C) ani do wezwań adresowanych do konkretnych stacji (B).",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 322,
+  "answer": "A",
+  "rule": "RR Art. 32 (niebezpieczeństwo – poważne i bezpośrednie zagrożenie, wymagana natychmiastowa pomoc) i Art. 33 sekcja I (pilność)",
+  "reason": "MAYDAY stosuje się wyłącznie, gdy jednostka lub osoba znajduje się w poważnym i bezpośrednim niebezpieczeństwie i potrzebuje natychmiastowej pomocy; PAN PAN – gdy potrzebna jest pomoc, ale nie natychmiastowa. Ostrzeganie innych jednostek to SECURITE (C), a pomoc techniczna sama w sobie nie definiuje pilności (B).",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 323,
+  "answer": "A",
+  "rule": "RR 32.13B (wezwanie w niebezpieczeństwie na fonii) i 32.13C (zawiadomienie w niebezpieczeństwie)",
+  "reason": "Wezwanie w niebezpieczeństwie to: MAYDAY x3, this is, nazwa x3, sygnał wywoławczy/MMSI; zawiadomienie w niebezpieczeństwie to następujące po nim: MAYDAY, nazwa, sygnał wywoławczy/MMSI, pozycja, rodzaj niebezpieczeństwa, żądana pomoc i inne informacje.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 324,
+  "answer": "B",
+  "rule": "Międzynarodowy Kod Sygnałowy – flaga K (Kilo)",
+  "reason": "Flaga podzielona pionowo żółto-niebieska to flaga K, której znaczenie jako sygnału jednoliterowego brzmi: „Chcę nawiązać z wami łączność”. „Trzymajcie się z daleka, manewruję z trudem” to flaga D, a „Zatrzymać się natychmiast” to flaga L.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 325,
+  "answer": "A",
+  "rule": "Międzynarodowy Kod Sygnałowy – flaga O (Oscar)",
+  "reason": "Flaga podzielona po przekątnej na część czerwoną (górną prawą) i żółtą (dolną lewą) to flaga O, oznaczająca „Człowiek za burtą”. Flaga K oznacza chęć nawiązania łączności, flaga L – nakaz natychmiastowego zatrzymania.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 326,
+  "answer": "C",
+  "rule": "RR Art. 32: 32.9 (alert DSC), 32.13B (wezwanie) i 32.13C (zawiadomienie w niebezpieczeństwie); ITU-R M.541",
+  "reason": "Przy VHF z DSC nadaje się najpierw alert DSC przyciskiem DISTRESS (kanał 70), a następnie na kanale 16 wezwanie (MAYDAY x3, this is, nazwa x3, sygnał wywoławczy/MMSI) i bezpośrednio po nim zawiadomienie w niebezpieczeństwie: pozycję, rodzaj niebezpieczeństwa, liczbę osób, potrzebną pomoc. Zawiadomienia nie odkłada się do czasu uzyskania odpowiedzi (B), a odp. A pomija DSC, sygnał wywoławczy i pozycję.",
+  "confidence": "medium",
+  "doubt": "Za C: zgodne z RR 32.13B–C – zawiadomienie nadaje się natychmiast po wezwaniu, bez czekania na odpowiedź; w sytuacji zatonięcia zwłoka z podaniem pozycji jest niebezpieczna. Za B: oddzielenie wezwania od zawiadomienia odpowiada starszej dydaktyce (najpierw wezwanie, potem pełny komunikat), ale warunek „po usłyszeniu odpowiedzi” nie ma oparcia w RR. Za A: najprostsza, ale pomija alert DSC (obowiązkowy przy VHF DSC) i pozycję. Zastrzeżenie: w odp. C brak powtórzenia słowa MAYDAY przed zawiadomieniem i widoczna literówka „C.” na końcu."
+ },
+ {
+  "id": 327,
+  "answer": "A",
+  "rule": "MPZZM Załącznik IV pkt 1 lit. g; prawidła 26 i 27 (znaki dzienne i światła)",
+  "reason": "Kwadratowa flaga z kulą (lub przedmiotem podobnym do kuli) nad nią lub pod nią to sygnał wzywania pomocy z Załącznika IV. Rysunek B pokazuje znaki dzienne statku rybackiego (dwa stożki wierzchołkami do siebie) i statku żaglowego idącego na silniku (stożek w dół), a rysunek C – dwa czerwone światła w pionie statku nieodpowiadającego za swoje ruchy (prawidło 27 a).",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 328,
+  "answer": "C",
+  "rule": "Międzynarodowy Kod Sygnałowy – flaga H (Hotel)",
+  "reason": "Flaga podzielona pionowo biało-czerwona to flaga H: „Mam pilota na pokładzie”. „Manewruję z trudem” to flaga D, a nurka pod wodą sygnalizuje flaga A (biało-niebieska z wycięciem).",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 329,
+  "answer": "C",
+  "rule": "MPZZM Załącznik IV pkt 1 lit. d (SOS); SOLAS V/33; RR 32.19–32.20 (MAYDAY RELAY)",
+  "reason": "Trzy krótkie, trzy długie, trzy krótkie błyski to sygnał SOS – sygnał wzywania pomocy z Załącznika IV. Kapitan ma obowiązek iść z pomocą (SOLAS V/33), prowadzić nasłuch na kanale 16, a jeśli stacja brzegowa nie reaguje – nadać MAYDAY RELAY, aby zaalarmować służbę SAR. Odp. A i B są tylko fragmentami tej procedury.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 330,
+  "answer": "B",
+  "rule": "MPZZM Załącznik IV pkt 1 lit. n (EPIRB); SOLAS IV/7 (EPIRB 406 MHz); rozporządzenie zał. nr 1 cz. IV",
+  "reason": "Gdy wezwanie VHF pozostaje bez odpowiedzi i nie ma jednostek w zasięgu wzroku, jedynym skutecznym środkiem zaalarmowania SAR jest EPIRB 406 MHz (system COSPAS-SARSAT); należy ją uruchomić, przygotować załogę i tratwę do opuszczenia jachtu oraz pozostawić UKF włączony na kanale 16 (alert DSC jest powtarzany, ktoś może odpowiedzieć). Pirotechnika i sygnały optyczne bez obserwatorów w zasięgu (A, C) nie sprowadzą pomocy.",
+  "confidence": "high",
+  "doubt": null
+ }
+]

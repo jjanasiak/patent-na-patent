@@ -1,0 +1,72 @@
+POLSKI ZWIĄZEK ZEGLARSKI
+al. ks. J. Poniatowskiego 1
+03-901 Warszawa
+tel. (227 54163 63; Tax (22) 541 63 69
+
+NAWIGACJA NP 52-11.84100, REGON OD70 4979
+170. Po zakotwiczeniu i naniesieniu pozycji z GPS A Błędne wskazania GPS
+
+okazało się, że pozycja na mapie nie jest prawidłowa Niezgodność systemu opracowania mapy z
+(pozycja jachtu na lądzie). Co może być . systemem GPS i nie uwzględnienie
+najprawdopodobniej przyczyną takiej sytuacji? Jacht B poprawek podanych na mapie (szczególnie
+niebezpieczeństw, ale dobrze oznakowanym (pławy,
+
+latarnie sektorowe nabieżniki itp.). Jaka nawigacja na C Uszkodzenie anteny GPS
+
+takim akwenie jest bezpieczniejsza?
+
+171. Jacht żegluje w nocy na akwenie z dużą ilością A Wyłącznie w oparciu o ploter i GPS
+niebezpieczeństw, ale dobrze oznakowanym (pławy, Dobrze przygotowana nawigacja pilotowa,
+latarnie sektorowe nabieżniki itp.). Jaka nawigacja na B ploter jako pomoc
+
+takim akwenie jest bezpieczniejsza? =" R" -
+C Typowa nawigacja zliczeniowa
+
+172. Kurs jachtu względem wody wynosi 120*, A Poprawka na prąd =", szybkość jachtu
+szybkość 5 w, kierunek prądu 300*, szybkość 1 w. Jaka względem dna wzrośnie
+będzie poprawka na prąd i jaki będzie wpływ prądu
+
+na szybkość jachtu? B Poprawka na prąd = 300", szybkość jachtu
+
+względem dna wzrośnie
+
+Cc Poprawka na prąd =0*, szybkość jachtu
+względem dna zmaleje
+
+173. Przy przeliczaniu namiaru burtowego na namiar A Od sumy kąta kursowego i kursu
+kompasowy, (pomiar w systemie okrężnym O* - 360*) kompasowego należy odjąć 3600
+
+Jeśli wynik przekroczy 360”, to: B Od sumy kąta kursowego i kursu
+
+kompasowego należy odjąć 1800
+
+C Do sumy kąta kursowego i kursu
+kompasowego należy dodać 1800
+
+174. Odbiornik nawigacji satelitarnej GPS pokazuje A Względem wody
+prędkość jachtu (jest tylko jedna opcja). Jaka to B Względem dna
+prędkość?
+
+C Wypadkowa prędkości względem wody i
+dna
+
+175. Która para lini pozycyjnych da najdokładniejszą A _ Dwa namiary na różne obiekty
+pozycję? B Nabieżnik i krąg z kąta poziomego między
+dwoma obiektami
+
+C Namiariizobata
+
+176. Na horyzoncie własnie ukazało się A W ogólejest to niemożliwe
+zidentyfikowane światło latarni. Czy można określić Tak, trzeba tylko mieć Spis Świateł ( List of
+odległość i w jaki sposób? B Lights)
+
+C_ Nie, bo nie znamy wysokości latarni
+
+177. Wykonany został namiar kompasowy (Nk). Jak go A _ Przeliczyć na namiar rzeczywisty i wykreślić
+wykreślić na mapie? B Wykreślić Nk zgodnie z wykonanym
+namiarem
+
+Cc Uwzględnić deklinację w danym obszarze
+żeglugi i wykreślić na mapie namiar
+
+Numer arkusza: 20160729_095536455_0 Strona 25/56

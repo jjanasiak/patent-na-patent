@@ -1,0 +1,63 @@
+POLSKI ZWIĄZEK ZEGLARSKI
+al. ks. J. Poniatowskiego 1
+03-901 Warszawa
+tel. (227 54163 63; Tax (22) 541 63 69
+
+r e-mail:pyabiuroGDpya.org.pl, „pya.org.
+SYGNALIZACJA I ŁĄCZNOŚĆ NIP 521-11-04-300, REGON ODU CŻO
+319. Przejmując jacht i przygotowując się do rejsu Czy bateria nie jest przedatowana (spr. w
+chcemy się upewnić co do sprawności radioplawy ateście), czy zwalniak hydrostatyczny nie
+EPIRB. Na co należy zwrócic uwagę? A jest przedatowany (spr. oznaczenie na
+
+obudowie), wykonać test sprawdzający
+
+B Wykonac test sprawdzający, jeżeli jest
+pozytywny nie trzeba nic wiecej robić
+
+Cc Sprawdzic świadectwo radiopławy i
+wykonac test sprawdzający
+
+320. Usłyszano komunikat na kanale 16: Securite, A Pozostać na kanale 16 i czekac na podanie
+securite, securite, All stations, All stations, All stations, komunikatu.
+
+gale warning, working channels. Co nalezy zrobić? Nawiązać łączność ze stacja nadającą
+
+B  komunikati ustalić kanał do odbioru
+komunikatu
+
+Sprawdzić na jakim kanale pracuje
+najbliższa stacja (np.Admiralty List of
+
+C RadioSignals tom 3), ustawić ten kanał i
+słuchać komunikatu
+
+321. Kiedy należy używać procedury SECURITE, a SECURITE dla wiadomości dot.
+kiedy procedury PAN PAN? bezpieczeństwa i ostrzeżeń, PAN PAN dla
+A pilnych wiadomości dotyczacych
+bezpieczeństwa lub niebezpieczenstwa, ale
+bez wzywania natychmiastowej pomocy.
+
+SECURITE tylko do ostrzeżeń, PAN PAN dla
+B pilnych wiadomości adresowanych do
+konkretnych stacji.
+
+SECURITE dla wiadomości dot.
+bezpieczeństwa i ostrzeżeń, PAN PAN dla
+
+C pilnych wiadomości dotyczacych tylko
+pomocy lekarskiej.
+
+322. Kiedy należy używać procedury MAY DAY, a MAY DAY tylko przy bezpośrednim
+kiedy procedury PAN PAN? zagrożeniu życia lub jednostki, PAN PAN
+A jeżeli potrzebna jest pomoc, ale nie
+natychmiastowa
+
+MAY DAY tylko przy bezpośrednim
+B zagrożeniu dot. jednostki, PAN PAN jeżeli
+potrzebna jest pomoc techniczna
+
+MAY DAY tylko przy bezpośrednim
+C zagrożeniu życia lub jednostki, PAN PAN
+tylko do ostrzegania innych jednostek.
+
+Numer arkusza: 20160729_095537455_0 Strona 49/56

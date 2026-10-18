@@ -1,0 +1,564 @@
+{
+ "section": "ratownictwo",
+ "sources_legend": {
+  "MPZZM": "Międzynarodowe Przepisy o Zapobieganiu Zderzeniom na Morzu (COLREG 1972 z poprawkami), tekst polski",
+  "ROZP-2012": "Rozporządzenie MTBiGM z 28.02.2012 r. w sprawie bezpiecznego uprawiania żeglugi przez jachty morskie (tekst jednolity Dz.U. 2016 poz. 1557)",
+  "UBM": "Ustawa z 18.08.2011 r. o bezpieczeństwie morskim",
+  "IAMSAR": "Podręcznik IAMSAR, tom III (procedury dla statków: sygnały ratownicze, współpraca ze śmigłowcem)",
+  "ERC": "Wytyczne Europejskiej Rady Resuscytacji (ERC 2021): podstawowe zabiegi resuscytacyjne i pierwsza pomoc",
+  "RR": "Regulamin Radiokomunikacyjny ITU (procedury GMDSS)",
+  "SOLAS": "Konwencja SOLAS 1974 z poprawkami",
+  "UKE-SRC": "Urząd Komunikacji Elektronicznej, materiały do egzaminu testowego na świadectwo operatora SRC",
+  "SAR-PL": "Morska Służba Poszukiwania i Ratownictwa, sar.gov.pl (MRCK Gdynia: nasłuch i stacje ratownicze)",
+  "LSA": "Międzynarodowy kodeks środków ratunkowych (Kodeks LSA) i instrukcje producentów"
+ },
+ "answers": [
+  {
+   "id": 244,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Pożar w zamkniętej komorze silnika dusi się sam z braku tlenu; szerokie otwarcie pokrywy wpuszcza powietrze i powoduje gwałtowne rozgorzenie, a strumień gaśnicy traci skuteczność. Dlatego wyłącza się silnik (odcina paliwo i wentylację), uchyla pokrywę tylko na tyle, żeby wprowadzić dyszę gaśnicy, i gasi od razu. Woda na palące się paliwo i instalację elektryczną jest nieskuteczna i niebezpieczna (rozlewa paliwo, grozi porażeniem).",
+   "sources": [
+    "LSA / zasady ochrony przeciwpożarowej na statkach: ograniczenie dopływu tlenu, gaśnice do pożarów grupy B i urządzeń elektrycznych",
+    "ROZP-2012, § 14 (plan ochrony pożarowej, sprzęt gaśniczy)"
+   ],
+   "hint": "Ogień potrzebuje trzech rzeczy: paliwa, ciepła i tlenu. Co się stanie z tlenem, gdy szeroko otworzysz komorę?"
+  },
+  {
+   "id": 245,
+   "answer": "A",
+   "confidence": "A",
+   "explanation": "Wytyczne pierwszej pomocy ERC: oparzenie należy jak najszybciej chłodzić chłodną (nie lodowatą) wodą przez co najmniej 10–20 minut, a następnie luźno osłonić jałowym opatrunkiem. Tłuszcze, oliwa i maści zatrzymują ciepło w tkance i utrudniają późniejsze leczenie, a alkohol dodatkowo drażni i uszkadza oparzoną skórę.",
+   "sources": [
+    "ERC, wytyczne pierwszej pomocy 2021 (oparzenia termiczne: chłodzenie wodą, jałowy opatrunek)"
+   ],
+   "hint": "Pierwsze słowo w leczeniu oparzeń brzmi „chłodzić”. Czym i jak długo?"
+  },
+  {
+   "id": 246,
+   "answer": "A",
+   "confidence": "A",
+   "explanation": "Algorytm resuscytacji ERC: u osoby nieprzytomnej najpierw udrażnia się drogi oddechowe (odchylenie głowy i uniesienie żuchwy), bo bez tego wdechy ratownicze nie docierają do płuc, a język zapadnięty w gardle sam blokuje oddech. Dopiero potem ocenia się oddech i prowadzi oddechy ratownicze oraz uciśnięcia. Ochrona przed utratą ciepła i podłoże są ważne, ale drugorzędne wobec drożności dróg oddechowych.",
+   "sources": [
+    "ERC, wytyczne 2021, podstawowe zabiegi resuscytacyjne (BLS): sekwencja udrożnienie dróg oddechowych, ocena oddechu, uciśnięcia i oddechy"
+   ],
+   "hint": "Schemat ABC: A jak „airway”. Co trzeba zrobić, zanim powietrze w ogóle dotrze do płuc?"
+  },
+  {
+   "id": 247,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "EPIRB (radiopława awaryjna) nadaje na częstotliwości 406 MHz sygnał alarmowy odbierany przez satelity systemu COSPAS-SARSAT, zawierający identyfikator jednostki i pozycję (z GPS lub wyznaczaną dopplerowsko), a dodatkowo sygnał naprowadzający 121,5 MHz dla jednostek ratowniczych. Służy więc zarówno do alarmowania, jak i do lokalizacji. Lokalizacja radarem to zadanie transpondera SART, a UKF to zakres radiotelefonu, nie radiopławy.",
+   "sources": [
+    "SOLAS, rozdz. IV, prawidło 7 (satelitarna radiopława awaryjna)",
+    "UKE-SRC, pytania o radiopławy COSPAS-SARSAT"
+   ],
+   "hint": "Rozwiń skrót EPIRB: Emergency Position-Indicating Radio Beacon. Które dwa zadania są w samej nazwie?"
+  },
+  {
+   "id": 248,
+   "answer": "A",
+   "confidence": "A",
+   "explanation": "Transponder radarowy SART (Search and Rescue Transponder) po pobudzeniu impulsem radaru 9 GHz (pasmo X) odpowiada serią sygnałów, które na ekranie radaru statku poszukującego tworzą charakterystyczną linię 12 kropek wskazującą kierunek na rozbitków. Służy więc do lokalizacji tratwy lub rozbitków przez radar innego statku. RACON to transponder na pławach i latarniach, a identyfikację statku zapewnia AIS.",
+   "sources": [
+    "SOLAS, rozdz. IV, prawidło 7 (urządzenie lokalizacyjne do celów poszukiwania i ratowania)",
+    "UKE-SRC, pytania 13–14 (lokalizacja rozbitków za pomocą transpondera radarowego, pasmo 9 GHz)"
+   ],
+   "hint": "W skrócie SART litery S i R to „search and rescue”. Kto szuka i czym?"
+  },
+  {
+   "id": 249,
+   "answer": "B",
+   "confidence": "C",
+   "explanation": "Radiopława EPIRB w rozumieniu SOLAS to satelitarna radiopława 406 MHz pracująca w systemie COSPAS-SARSAT, który dzięki satelitom biegunowym, geostacjonarnym i nawigacyjnym obejmuje całą kulę ziemską; alarm dociera do centrum koordynacyjnego niezależnie od odległości od lądu i obecności innych statków. Odpowiedź C myli radiopławę z radiotelefonem UKF. Odpowiedź A („zależy od typu”) ma sens tylko wobec dawnych radiopław VHF DSC (kanał 70, zasięg jak UKF) i Inmarsat-E (wycofane w 2006 r.), których na jachtach praktycznie nie ma; niezależna weryfikacja wskazała jednak A jako możliwy klucz. Zestaw pytań traktuje EPIRB jako urządzenie satelitarne (por. pytanie 247), dlatego wybieramy B, z zastrzeżeniem.",
+   "sources": [
+    "SOLAS, rozdz. IV (system COSPAS-SARSAT w GMDSS)",
+    "UKE-SRC, pytania o satelity systemu COSPAS-SARSAT"
+   ],
+   "hint": "Kto odbiera sygnał z EPIRB: stacja brzegowa w zasięgu, czy coś, co lata nad całym globem?",
+   "flags": [
+    "sporne: niezależna weryfikacja wskazała A (zależy od typu radiopławy: dawne radiopławy VHF DSC miały zasięg lokalny); dla standardowej radiopławy 406 MHz COSPAS-SARSAT odpowiedź B jest prawdziwa"
+   ]
+  },
+  {
+   "id": 250,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Polski obszar odpowiedzialności SAR (polska strefa SAR) obejmuje południowy Bałtyk wzdłuż polskiego wybrzeża: polskie wody terytorialne i wyłączną strefę ekonomiczną aż po granice obszarów Niemiec, Danii, Szwecji i Rosji; Bornholm wraz z wodami wokół niego (łuk 16 Mm od lotniska w Rønne) należy do duńskiego obszaru SAR. Strefa jest więc znacznie większa niż morze terytorialne, ale nie obejmuje całego Bałtyku. Granice ustala Plan SAR zgodnie z Konwencją SAR 1979.",
+   "sources": [
+    "Konwencja SAR 1979 i Plan SAR (polski obszar odpowiedzialności: południowy Bałtyk przy polskim wybrzeżu, bez Bornholmu)",
+    "SAR-PL (MRCK Gdynia: polska strefa odpowiedzialności SAR obejmuje polską wyłączną strefę ekonomiczną)"
+   ],
+   "hint": "Bałtyk jest podzielony między kraje nadbrzeżne. Do kogo należy Bornholm i wody wokół niego?"
+  },
+  {
+   "id": 251,
+   "answer": "B",
+   "confidence": "C",
+   "explanation": "W chwili powstania pytania (2016) nasłuch i łączność w niebezpieczeństwie w polskiej strefie SAR zapewniała radiostacja brzegowa Witowo Radio w Jarosławcu (operator Emitel) z siecią dziewięciu stacji nadawczo-odbiorczych rozmieszczonych wzdłuż całego wybrzeża (stąd „ekspozytury”), współpracująca z MRCK Gdynia; to odpowiedź B i taki jest zapewne klucz PZŻ. Witowo Radio zakończyło pracę 31.12.2019 r., a od 1.01.2020 r. jego rolę pełni Polish Rescue Radio (sygnał SPL), stacja prowadzona przez Urząd Morski w Gdyni (centrum VTS Zatoka Gdańska), która wraz z MRCK Gdynia utrzymuje nasłuch na kanale 16, DSC 70 i 2187,5 kHz. Kapitanaty portów (A) nigdy nie pełniły tej funkcji. Niezależna weryfikacja wskazała C jako bliższe stanowi obecnemu; w teście z tymi opcjami zaznacz B.",
+   "sources": [
+    "SAR-PL (MRCK Gdynia: nasłuch VHF 16 „Polish Rescue Radio”, DSC 70 w strefie A1, 2187,5 kHz w strefie A2)",
+    "Urząd Morski w Gdyni, VTS Zatoka Gdańska: Polish Rescue Radio (od 1.01.2020 następca Witowo Radio)",
+    "Komunikaty o zakończeniu pracy Witowo Radio 31.12.2019 (gospodarkamorska.pl, magazynwiatr.pl)"
+   ],
+   "hint": "Kto w Polsce słuchał kanału 16 przez całą dobę, gdy pisano te pytania: port, czy radiostacja brzegowa z siecią stacji wzdłuż wybrzeża i konkretną nazwą własną?",
+   "flags": [
+    "nieaktualne: Witowo Radio zakończyło pracę 31.12.2019, od 2020 nasłuch prowadzi Polish Rescue Radio (Urząd Morski w Gdyni) i MRCK Gdynia; klucz PZŻ z 2016 najpewniej B",
+    "sporne: niezależna weryfikacja wskazała C"
+   ]
+  },
+  {
+   "id": 252,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Stacja brzegowa, która odebrała alarm (DSC lub Mayday na fonii), potwierdza go i natychmiast przekazuje do Morskiego Ratowniczego Centrum Koordynacyjnego właściwego dla obszaru (w Polsce MRCK Gdynia). To centrum organizuje i koordynuje akcję, wyznacza jednostki i kieruje nimi (art. 116 ust. 3 ustawy o bezpieczeństwie morskim), a łączność z jednostką w niebezpieczeństwie utrzymuje stacja brzegowa i wysłane jednostki ratownicze. Stacja nie prowadzi akcji sama i nie kończy swojej roli na przekazaniu alarmu.",
+   "sources": [
+    "UBM, art. 116 ust. 3 pkt 1 (MRCK organizuje i koordynuje akcje)",
+    "RR, art. 32 (potwierdzenie alarmu przez stację brzegową i przekazanie do RCC)"
+   ],
+   "hint": "Stacja brzegowa to ucho i usta systemu, a kto jest mózgiem? Art. 116 ustawy o bezpieczeństwie morskim."
+  },
+  {
+   "id": 253,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "W GMDSS na UKF alarmowanie cyfrowe odbywa się na kanale 70 (DSC), a korespondencja w niebezpieczeństwie na fonii na kanale 16. Po nawiązaniu łączności centrum koordynacyjne lub jednostka kierująca akcją może przenieść korespondencję na inny uzgodniony kanał (w Polsce łączność operacyjna Służby SAR to kanał 11, w akcjach ze statkami powietrznymi także kanał 6). Odpowiedzi A i C pomijają tę możliwość.",
+   "sources": [
+    "RR, art. 32 i załącznik 18 (kanał 70 DSC, kanał 16 fonia)",
+    "SAR-PL (MRCK Gdynia: kanał 11 łączność operacyjna Służby SAR)",
+    "UKE-SRC (zalecane kanały do łączności w akcjach SAR)"
+   ],
+   "hint": "Alarm i rozmowa to dwa kanały, ale czy cała akcja musi toczyć się na szesnastce? Sprawdź, jakiego kanału używa polska Służba SAR do łączności operacyjnej."
+  },
+  {
+   "id": 254,
+   "answer": "C",
+   "confidence": "B",
+   "explanation": "Sztag trzyma maszt od przodu; gdy jego okucie pęka, maszt może runąć do tyłu. Natychmiast odpada się na pełny baksztag lub fordewind, bo wtedy wiatr w grocie pcha maszt do przodu, a baksztag go trzyma, co zastępuje sztag. Zrzuca się żagle przednie (obciążają sztag), stawia zastępcze sztagi z fałów lub spinakerowego fału napiętych na dziobie, sprawdza możliwość wpięcia sztagu do innego okucia i dopiero wtedy decyduje o dalszej żegludze. Odpowiedź A pomija kluczową zmianę kursu, a B niepotrzebnie zrzuca grota, który pomaga trzymać maszt.",
+   "sources": [
+    "Wiedza podręcznikowa: awarie takielunku (podręczniki żeglarstwa morskiego, np. „Jachtowy sternik morski”, rozdział o awariach)",
+    "Mechanika takielunku: sztag i baksztag jako para przeciwstawnych podpór masztu"
+   ],
+   "hint": "Sztag ciągnie maszt do przodu. Który kurs sprawi, że wiatr w grocie sam popchnie maszt do przodu, zanim ktoś zdąży zamocować zastępczy sztag?"
+  },
+  {
+   "id": 255,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Wanta nawietrzna przenosi całe obciążenie masztu; pęknięte druty oznaczają, że może zerwać się w każdej chwili. Pierwszy ruch to natychmiastowy zwrot przez sztag, który przenosi uszkodzoną wantę na stronę zawietrzną, gdzie jest nieobciążona (zwrot przez rufę utrzymałby obciążenie przez cały manewr). Potem zrzuca się żagle, stawia prowizoryczną wantę (np. z fału) i po ocenie sytuacji płynie na silniku lub bardzo ostrożnie. Dalsza żegluga na żaglach z uszkodzoną wantą, nawet zredukowanych, grozi złamaniem masztu, a ocena „mniej niż 50% drutów” nie jest żadnym kryterium bezpieczeństwa.",
+   "sources": [
+    "Wiedza podręcznikowa: awarie takielunku stałego (podręczniki żeglarstwa morskiego)",
+    "Zasada: uszkodzoną wantę odciąża się przez przeniesienie jej na zawietrzną"
+   ],
+   "hint": "Która wanta pracuje, a która odpoczywa? Jaki manewr najszybciej zamienia je miejscami, nie trzymając obciążenia przez cały czas?"
+  },
+  {
+   "id": 256,
+   "answer": "C",
+   "confidence": "B",
+   "explanation": "Alarm „człowiek za burtą” ogłasza natychmiast ta osoba, która pierwsza zauważyła wypadnięcie, głośnym okrzykiem „Człowiek za burtą!” z podaniem burty. Każda sekunda zwłoki to kilka metrów oddalenia jachtu i ryzyko utraty człowieka z oczu, więc nie czeka się na kapitana. Tak przewidują rozkłady alarmowe jachtów (§ 13 rozporządzenia: sposób postępowania i zadania załogi na wypadek alarmu).",
+   "sources": [
+    "ROZP-2012, § 13 (rozkład alarmowy: sygnały alarmowe i zadania załogi)",
+    "Wiedza podręcznikowa: procedura MOB (alarm ogłasza pierwszy obserwator)"
+   ],
+   "hint": "Ile metrów przepłynie jacht z prędkością 6 węzłów, zanim ktoś pobiegnie po kapitana? Kto więc krzyczy pierwszy?"
+  },
+  {
+   "id": 257,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "Osobę nieprzytomną, która oddycha, układa się w pozycji bezpiecznej (bocznej ustalonej), aby zapobiec zapadaniu języka i zachłyśnięciu, zabezpiecza przed utratą ciepła (po wyłowieniu z wody grozi hipotermia) i wzywa pomoc, obserwując oddech. Resuscytację rozpoczyna się tylko u osoby, która nie oddycha. Samo płynięcie do portu bez zabezpieczenia poszkodowanego jest błędem.",
+   "sources": [
+    "ERC, wytyczne 2021, BLS i pierwsza pomoc (osoba nieprzytomna oddychająca: pozycja bezpieczna, wezwanie pomocy)",
+    "ROZP-2012, § 6 pkt 3 (procedury alarmowe w przypadku wypadnięcia człowieka za burtę)"
+   ],
+   "hint": "Nieprzytomny, ale oddycha: czego mu nie wolno robić (uciskać klatki), a co mu grozi, jeśli zostawisz go na plecach?"
+  },
+  {
+   "id": 258,
+   "answer": "A",
+   "confidence": "A",
+   "explanation": "Załącznik nr 1 do rozporządzenia o bezpiecznym uprawianiu żeglugi przez jachty morskie: pasy lub kamizelki ratunkowe dla każdej osoby znajdującej się na jachcie (pkt 1 lit. c i pkt 2 lit. b) oraz pasy bezpieczeństwa dla wszystkich osób na jachcie w Rejonach 1–4 (pkt 3); tylko na akwenach treningowych (Rejon T) wystarczą pasy bezpieczeństwa dla połowy osób. Odpowiedzi B i C nie odpowiadają żadnemu rejonowi żeglugi morskiej.",
+   "sources": [
+    "ROZP-2012, załącznik nr 1, cz. I pkt 1 lit. c), pkt 2 lit. b) i pkt 3"
+   ],
+   "hint": "Załącznik nr 1 rozporządzenia o jachtach morskich, część „Środki ratunkowe”, punkt 3: dla ilu osób pasy bezpieczeństwa w żegludze morskiej?"
+  },
+  {
+   "id": 259,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Tratwa pneumatyczna napełnia się po szarpnięciu linki operacyjnej, która jednocześnie trzyma tratwę przy burcie. Kolejność: upewnić się, że linka operacyjna jest przywiązana do mocnego punktu na jachcie, odpiąć tratwę z łoża, wyrzucić pojemnik za burtę (najlepiej po zawietrznej), wybrać linkę do oporu aż do szarpnięcia uruchamiającego butlę, a po napełnieniu dociągnąć tratwę do burty i wsiadać suchą nogą. Wyrzucenie bez linki to utrata tratwy; napełnianie na pokładzie (C) jest niemożliwe do opanowania i uszkodzi tratwę.",
+   "sources": [
+    "LSA, rozdz. 4 (tratwy pneumatyczne: linka operacyjna, uruchamianie), instrukcja producenta na pojemniku",
+    "ROZP-2012, załącznik nr 1, cz. I pkt 1 lit. a) (tratwy ratunkowe)"
+   ],
+   "hint": "Co łączy tratwę z jachtem po wyrzuceniu za burtę i co uruchamia butlę z gazem? To ta sama linka."
+  },
+  {
+   "id": 260,
+   "answer": "C",
+   "confidence": "B",
+   "explanation": "Dla pięciu osób potrzeba pasów ratunkowych dla każdej osoby, a przy kamizelkach pneumatycznych dodatkowo 10% zapasu, nie mniej niż jedna sztuka (uwaga 8 do załącznika nr 1), czyli 6 kamizelek wystarcza; uprząż z linką zastępuje pasy bezpieczeństwa (pkt 3). Warunkiem jest jednak, by w żegludze całodobowej (a taka jest żegluga pełnomorska) pasy miały lampki odpowiadające wymaganiom Kodeksu LSA (uwaga 5) oraz spełniały standard dopuszczony dla Rejonu 3 (pas SOLAS lub EN ISO 12402-2, 275 N). Z tych warunków pytanie sprawdza lampki, stąd odpowiedź C.",
+   "sources": [
+    "ROZP-2012, załącznik nr 1, cz. I pkt 1 lit. c), pkt 3 oraz uwagi ogólne 5, 7 i 8 (lampki wg Kodeksu LSA, automatyczne uruchamianie, 10% zapasu)",
+    "ROZP-2012, załącznik nr 1, tabela dopuszczonych standardów pasów/kamizelek"
+   ],
+   "hint": "Policz: 5 osób plus zapas 10% (nie mniej niż 1). A potem uwagi pod tabelą w załączniku nr 1: czego wymaga się od pasów w żegludze całodobowej?"
+  },
+  {
+   "id": 261,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "Pławka dymna jest sygnałem pływającym: po zdjęciu zabezpieczenia i pociągnięciu linki zapalnika wrzuca się ją natychmiast do wody po zawietrznej, gdzie przez około 3 minuty wydziela gęsty pomarańczowy dym (sygnał wzywania pomocy z Załącznika IV lit. j). Postawiona na pokładzie rozgrzewa się, oślepia dymem załogę i może zapalić pokład; nie ma w niej przycisku ani lontu do zapalania zapałkami.",
+   "sources": [
+    "MPZZM, Załącznik IV pkt 1 lit. j)",
+    "LSA, rozdz. 3.3 (pławki dymne), instrukcja producenta"
+   ],
+   "hint": "Pławka pływa, więc gdzie powinna wylądować po uruchomieniu?"
+  },
+  {
+   "id": 262,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Każda kamizelka pneumatyczna ma rurkę do napełniania ustami (zwykle pod klapą lub zamkiem po lewej stronie), przewidzianą właśnie na wypadek niezadziałania naboju CO2 lub do dopompowania. W wodzie należy więc rozpiąć osłonę, odnaleźć rurkę i nadmuchać kamizelkę; wcześniej warto szarpnąć ręczny cyngiel, jeśli zawiódł tylko automat. Wymiana naboju w wodzie jest praktycznie niewykonalna, a „nic się nie da zrobić” jest nieprawdą.",
+   "sources": [
+    "LSA, rozdz. 2.2 (pasy ratunkowe pneumatyczne: dwa niezależne sposoby napełniania, w tym ustne)",
+    "Instrukcja producenta kamizelki (rurka do napełniania ustami)"
+   ],
+   "hint": "Producent przewidział, że nabój może zawieść. Co dlatego każda kamizelka pneumatyczna ma pod klapą?"
+  },
+  {
+   "id": 263,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Przygotowanie do sztormu 8–9°B to przede wszystkim: usunięcie z pokładu wszystkiego, co może porwać fala (niepotrzebne żagle, luźny sprzęt), sklarowanie i zamocowanie rzeczy pod pokładem, wczesne zarefowanie i przygotowanie żagli sztormowych oraz sprawdzenie silnika, pomp i zamknięć. Dryfkotwa i pirotechnika to środki na później, a sam silnik i gotowość do zrzucenia żagli (C) to za mało.",
+   "sources": [
+    "Wiedza podręcznikowa: przygotowanie jachtu do sztormu (podręczniki żeglarstwa morskiego)",
+    "ROZP-2012, § 6 pkt 1 i 2 (planowanie podróży z uwzględnieniem prognoz, sprawdzenie stanu jachtu i wyposażenia)"
+   ],
+   "hint": "Wyobraź sobie falę przewalającą się przez pokład i przechył 45° w kabinie. Która lista usuwa najwięcej tego, co wtedy poleci?"
+  },
+  {
+   "id": 264,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Sztormowanie na żaglach z jednoczesnym wspomaganiem silnikiem stosuje się wtedy, gdy trzeba utrzymać ostry kurs względem wiatru i realnie posuwać się do przodu, bo za rufą jest zawietrzny brzeg i nie wolno dać się zdryfować. Silnik dodaje mocy i sterowności w bejdewindzie, gdzie sam jacht pod zarefowanymi żaglami traciłby wysokość. Utrzymanie dużej prędkości nie jest celem sztormowania, a obawa o porwanie żagli nie uzasadnia łączenia napędów.",
+   "sources": [
+    "Wiedza podrękowa: techniki sztormowania (sztormowanie na wiatr, z wiatrem, w dryfie, na dryfkotwie) w podręcznikach żeglarstwa morskiego"
+   ],
+   "hint": "Kiedy sztormując nie możesz sobie pozwolić na dryf z wiatrem? Co wtedy jest po zawietrznej?"
+  },
+  {
+   "id": 265,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Zwinięty częściowo na rolerze fok ma brzydki, brzuchaty profil (im bardziej zwinięty, tym gorszy), środek ożaglowania wysoko i do przodu, a cały układ obciąża sztag i mechanizm rolera, który w sztormie bywa zawodny (zablokowanie, rozwinięcie żagla). Mały, mocno uszyty fok sztormowy na wewnętrznym sztagu ma płaski profil, niski środek ożaglowania bliżej masztu i poprawia zrównoważenie jachtu. Dlatego przy tym samym zmniejszeniu powierzchni lepszy jest fok sztormowy na baby sztagu.",
+   "sources": [
+    "Wiedza podręcznikowa: żagle sztormowe i ożaglowanie w sztormie (podręczniki żeglarstwa morskiego, zalecenia ISAF/World Sailing OSR dotyczące żagli sztormowych na osobnym sztagu)"
+   ],
+   "hint": "Porównaj profil żagla zwiniętego do jednej trzeciej na rolerze z profilem żagla uszytego specjalnie na sztorm. Gdzie wtedy jest środek ożaglowania?"
+  },
+  {
+   "id": 266,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Pierwsze czynności oficera wachtowego po wypadnięciu człowieka: ogłosić alarm, natychmiast rzucić środki ratunkowe (koło, tyczkę, pławkę świetlną), nacisnąć przycisk MOB na GPS lub ploterze (zapisuje pozycję i prowadzi do niej), uruchomić silnik, aby mieć pełną manewrowość niezależnie od żagli, i wyznaczyć obserwatora, który nie spuszcza człowieka z oczu; dalej działa się na komendę kapitana według rozkładu alarmowego. Odpowiedź B pomija obserwatora i silnik, a bierne czekanie (C) marnuje najcenniejsze sekundy.",
+   "sources": [
+    "ROZP-2012, § 6 pkt 3 i § 13 (procedury alarmowe w przypadku wypadnięcia człowieka za burtę, rozkład alarmowy)",
+    "Wiedza podręcznikowa: procedura MOB (alarm, środki ratunkowe, MOB w GPS, obserwator, silnik)"
+   ],
+   "hint": "Trzy rzeczy, które trzeba zrobić w pierwszych dziesięciu sekundach, żeby nie stracić człowieka z oczu i z pamięci urządzeń. Która odpowiedź ma je wszystkie?"
+  },
+  {
+   "id": 267,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "Tablica sygnałów ratowniczych (dawne prawidło V/16 SOLAS, obecnie podręcznik IAMSAR tom III): odpowiedź stacji ratowniczej lub jednostki ratowniczej na sygnał wzywania pomocy to w dzień pomarańczowy sygnał dymny lub trzy pojedyncze sygnały świetlno-dźwiękowe w odstępach około minuty, a w nocy trzy białe rakiety; znaczenie: „Widzimy was, pomoc będzie udzielona możliwie najszybciej”. Inna jednostka wzywająca pomocy też użyłaby pomarańczowego dymu, ale w kontekście nadanego Mayday i położenia przy brzegu jest to odpowiedź ratowników.",
+   "sources": [
+    "IAMSAR, tom III, sygnały ratownicze: odpowiedź stacji ratowniczych na sygnały wzywania pomocy",
+    "SOLAS, dawne prawidło V/16 (sygnały ratownicze)"
+   ],
+   "hint": "Tablica sygnałów ratowniczych ma osobną rubrykę „odpowiedź stacji ratowniczej”. Co oznacza tam pomarańczowy dym?"
+  },
+  {
+   "id": 268,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Sygnały dla lądowania małych łodzi (tablica sygnałów ratowniczych IAMSAR): zielona rakieta lub pionowe ruchy białej flagi albo ramion oznaczają „tu jest najlepsze miejsce do lądowania”; czerwona rakieta lub poziome ruchy białej flagi albo ramion oznaczają „lądowanie tutaj jest nadzwyczaj niebezpieczne”. Czerwona rakieta wystrzelona z brzegu ostrzega więc przed wejściem w to miejsce.",
+   "sources": [
+    "IAMSAR, tom III, sygnały ratownicze: sygnały lądowania dla małych łodzi z rozbitkami"
+   ],
+   "hint": "Na brzegu obowiązuje prosty kod kolorów: zielony zaprasza, czerwony ostrzega."
+  },
+  {
+   "id": 269,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Sygnały statku powietrznego kierującego statek do miejsca akcji (IAMSAR, tom III): samolot okrąża statek co najmniej raz, przelatuje nisko przed dziobem przechylając skrzydła lub zmieniając obroty silnika, a następnie odlatuje w kierunku, w którym chce poprowadzić statek. Oznacza to „Jesteś kierowany w stronę statku lub samolotu w niebezpieczeństwie”. Należy zmienić kurs na wskazany (tu około 30°) i potwierdzić zrozumienie.",
+   "sources": [
+    "IAMSAR, tom III, sygnały ratownicze: sygnały stosowane przez statki powietrzne biorące udział w akcji poszukiwawczo-ratowniczej"
+   ],
+   "hint": "Samolot nie ma jak krzyknąć, więc okrąża, przelatuje nisko i odlatuje w jedną stronę. Dokąd Cię zaprasza?"
+  },
+  {
+   "id": 270,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Tablica sygnałów ratowniczych (IAMSAR, tom III), sygnały lądowania: czerwona rakieta wystrzelona pionowo, a następnie biała rakieta w kierunku lepszego miejsca lądowania oznacza „Lądowanie tutaj jest nadzwyczaj niebezpieczne; lepsze miejsce do lądowania jest we wskazanym kierunku”. Jacht powinien więc kierować się w stronę wskazaną białą rakietą.",
+   "sources": [
+    "IAMSAR, tom III, sygnały ratownicze: sygnały lądowania dla małych łodzi (czerwona rakieta pionowo i biała w kierunku lepszego miejsca)"
+   ],
+   "hint": "Czerwona mówi „nie tu”, a biała dodaje informację kierunkową. Połącz obie."
+  },
+  {
+   "id": 271,
+   "answer": "A",
+   "confidence": "A",
+   "explanation": "Odpowiedź jednostki ratowniczej lub stacji ratowniczej na sygnał wzywania pomocy w nocy to biała rakieta gwiazdowa złożona z trzech pojedynczych sygnałów wystrzeliwanych w odstępach około minuty (w dzień pomarańczowy dym): „Widzimy was, pomoc będzie udzielona możliwie najszybciej”. Trzy kolejne białe rakiety od strony nadpływającej jednostki ratowniczej oznaczają więc „widzę was i płynę do was”.",
+   "sources": [
+    "IAMSAR, tom III, sygnały ratownicze: odpowiedź stacji i jednostek ratowniczych na sygnały wzywania pomocy (trzy białe rakiety w odstępach około 1 minuty)"
+   ],
+   "hint": "To ten sam sygnał „widzimy was” co pomarańczowy dym w dzień, tylko w wersji nocnej. Ile rakiet i jakiego koloru?"
+  },
+  {
+   "id": 272,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Procedury współpracy ze śmigłowcem (IAMSAR, tom III): nawiązać łączność na UKF (zwykle kanał 16 lub 6/67 wskazany przez załogę śmigłowca), zrzucić żagle i oczyścić pokład ze wszystkiego, co może zaczepić linę lub zostać porwane przez podmuch wirnika, iść na silniku stałym, wolnym kursem z wiatrem około 30° od lewego dziobu (śmigłowiec podchodzi od lewej burty i rufy), nie dotykać liny przed jej uziemieniem w wodzie i wykonywać ściśle polecenia załogi śmigłowca. Jacht w dryfie kołysze się i obraca, a żegluga z wiatrem sprawia, że śmigłowiec musi lecieć w swoim spalinach i tyłem do wiatru.",
+   "sources": [
+    "IAMSAR, tom III, rozdz. 2 (współpraca statek–śmigłowiec: kurs względem wiatru, przygotowanie pokładu, łączność, lina statyczna)"
+   ],
+   "hint": "Śmigłowiec zawisa najstabilniej pod wiatr. Jak ma więc płynąć jacht, żeby mu to ułatwić, i kto wydaje polecenia?"
+  },
+  {
+   "id": 273,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Płomień w bakiście rufowej (zwykle paliwo, gaz, farby) gasi się tak jak pożar w komorze silnika: zamknąć klapę, żeby odciąć tlen, ogłosić alarm, ustawić jacht w bejdewindzie, by wiatr zdmuchiwał dym i płomienie za rufę, z dala od kokpitu i załogi, przygotować gaśnice i gasić przez lekko uchyloną klapę. Po ugaszeniu zbadać bakistę, bo pożar może odżyć. Szerokie otwieranie i oglądanie podsyca ogień, a woda na paliwo jest nieskuteczna.",
+   "sources": [
+    "LSA / zasady ochrony przeciwpożarowej: odcięcie dopływu tlenu, gaszenie gaśnicą pożarów paliw",
+    "ROZP-2012, § 14 (plan ochrony pożarowej)"
+   ],
+   "hint": "Zamknięta klapa to brak tlenu; kurs bejdewind to dym lecący za rufę. Która odpowiedź wykorzystuje obie rzeczy?"
+  },
+  {
+   "id": 274,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Pokład po stronie nawietrznej jest wyżej (jacht przechylony na zawietrzną), suchszy i w razie potknięcia upada się do wewnątrz jachtu, a nie w stronę wody; po zawietrznej burta jest nisko, często pod falą, a upadek kończy się na relingu lub za burtą. Dlatego w żegludze przemieszcza się po pokładzie burtą nawietrzną, wpiętym pasem bezpieczeństwa.",
+   "sources": [
+    "Wiedza podręcznikowa: bezpieczeństwo na pokładzie (podręczniki żeglarstwa morskiego)"
+   ],
+   "hint": "Przy przechyle jedna burta jest wysoko i sucho, druga nisko i mokro. Z której spadasz na pokład, a z której za burtę?"
+  },
+  {
+   "id": 275,
+   "answer": "C",
+   "confidence": "B",
+   "explanation": "Lifeliny (jackstays): taśmy lub liny rozpięte wzdłuż pokładu od dziobu do rufy pozwalają wpiąć pas bezpieczeństwa raz i przejść cały pokład bez odpinania się, co jest kluczowe w ciężkich warunkach. Pojedyncze uchwyty wymagają przepinania (chwila bez asekuracji), a relingi nadbudówki służą do trzymania się, nie do wpinania.",
+   "sources": [
+    "Wiedza podręcznikowa: pasy bezpieczeństwa i lifeliny (podręczniki żeglarstwa morskiego; zalecenia World Sailing OSR dotyczące jackstays)"
+   ],
+   "hint": "Co pozwala przejść z kokpitu na dziób bez ani jednej sekundy bez wpięcia?"
+  },
+  {
+   "id": 276,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "Zasady pierwszej pomocy przy złamaniu: unieruchomić kończynę wraz z dwoma sąsiednimi stawami (powyżej i poniżej miejsca złamania), ułożyć poszkodowanego wygodnie, podać dostępne środki przeciwbólowe, kontrolować ukrwienie i czucie poniżej złamania, i jak najszybciej uzyskać pomoc lekarską (radiowa porada medyczna, ewakuacja). Samo ułożenie w koi lub pozycja bezpieczna nie zabezpiecza odłamów kości.",
+   "sources": [
+    "ERC, wytyczne pierwszej pomocy 2021 (urazy kończyn: unieruchomienie)",
+    "Zasada unieruchamiania dwóch sąsiednich stawów (standard pierwszej pomocy)"
+   ],
+   "hint": "Złamana kość porusza się w dwóch sąsiednich stawach. Co trzeba zrobić z tymi stawami?"
+  },
+  {
+   "id": 277,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Polski obszar odpowiedzialności SAR obejmuje polskie obszary morskie, w tym morskie wody wewnętrzne, a więc także Zatokę Gdańską i Zalew Szczeciński. Akcje koordynuje Morskie Ratownicze Centrum Koordynacyjne w Gdyni (z pomocniczym centrum w Świnoujściu), a jednostki stacjonują w morskich stacjach ratowniczych w portach wzdłuż wybrzeża, m.in. w Świbnie, Władysławowie, Trzebieży i Dziwnowie. WOPR działa na wodach śródlądowych i kąpieliskach.",
+   "sources": [
+    "UBM, art. 116–117 (Służba SAR, MRCK)",
+    "SAR-PL (sieć morskich stacji ratowniczych: m.in. Świbno, Władysławowo, Trzebież, Dziwnów)"
+   ],
+   "hint": "Zajrzyj na listę stacji ratowniczych Służby SAR: czy są wśród nich porty nad Zatoką Gdańską i Zalewem Szczecińskim?"
+  },
+  {
+   "id": 278,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "Załącznik IV do MPZZM, pkt 1 lit. g): sygnałem wzywania pomocy jest kwadratowa flaga mająca nad nią lub pod nią kulę lub przedmiot podobny do kuli. Jacht wzywa więc pomocy, a każdy statek ma obowiązek jej udzielić (SOLAS V/33): podejść, nawiązać łączność i działać stosownie do sytuacji. Statek na mieliźnie pokazywałby trzy kule w pionie (prawidło 30 d).",
+   "sources": [
+    "MPZZM, Załącznik IV pkt 1 lit. g)",
+    "SOLAS, rozdz. V, prawidło 33 (obowiązek udzielenia pomocy)"
+   ],
+   "hint": "Flaga i kula razem to sygnał z Załącznika IV do MPZZM. Trzy kule to coś zupełnie innego (prawidło 30)."
+  },
+  {
+   "id": 279,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Silny ból klatki piersiowej nasilający się przy wdechu po upadku sugeruje złamanie lub stłuczenie żeber. Poszkodowanego sadza się w pozycji półsiedzącej (łatwiej oddychać) w miejscu o najmniejszym kołysaniu, podaje środki przeciwbólowe i obserwuje oddech; opaska stabilizująca klatkę piersiową to dawna praktyka opisana w podręcznikach. Pozycja bezpieczna jest dla nieprzytomnych, a ciepłe płyny i środki przeciwkaszlowe nie leczą urazu. Uwaga: według obecnych zaleceń nie zakłada się ciasnych opasek okrężnych na klatkę piersiową, bo ograniczają oddychanie i sprzyjają zapaleniu płuc; w teście wybrać A ze względu na pozycję i leki przeciwbólowe.",
+   "sources": [
+    "ERC, wytyczne pierwszej pomocy (urazy klatki piersiowej: pozycja półsiedząca, kontrola oddechu)",
+    "Wiedza podręcznikowa: pierwsza pomoc na jachcie (podręczniki żeglarstwa morskiego)"
+   ],
+   "hint": "Jak ułożyć kogoś, komu boli przy każdym wdechu, żeby oddychało mu się najłatwiej? Pozycja bezpieczna jest dla kogo innego.",
+   "flags": [
+    "częściowo nieaktualne: opaska okrężna na klatkę piersiową z odpowiedzi A nie jest już zalecana; pozycja półsiedząca i leki przeciwbólowe pozostają poprawne"
+   ]
+  },
+  {
+   "id": 280,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Oparzenie kwasem akumulatorowym (kwas siarkowy) należy natychmiast i długo (co najmniej 15–20 minut) płukać dużą ilością czystej wody, aby rozcieńczyć i spłukać żrącą substancję, zdjąć nasiąkniętą odzież, a potem osłonić jałowym opatrunkiem i zasięgnąć porady lekarskiej. Odpowiedź B jako jedyna zawiera obfite płukanie wodą; wzmianka o roztworze sody to dawna praktyka neutralizacji, dziś niezalecana, ale nie zmienia wyboru. Suchy opatrunek bez płukania (A) zostawia kwas na skórze, a okład alkaliczny bez płukania (C) wywołuje reakcję egzotermiczną.",
+   "sources": [
+    "ERC, wytyczne pierwszej pomocy 2021 (oparzenia chemiczne: obfite płukanie wodą, bez neutralizacji)",
+    "Karta charakterystyki elektrolitu akumulatorowego (postępowanie przy kontakcie ze skórą: płukać wodą)"
+   ],
+   "hint": "Przy substancji żrącej liczy się jedno: usunąć ją ze skóry jak najszybciej i jak najdokładniej. Czym się to robi?",
+   "flags": [
+    "częściowo nieaktualne: zgodnie z obecnymi wytycznymi oparzenia chemiczne płucze się tylko wodą, bez roztworu sody"
+   ]
+  },
+  {
+   "id": 281,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "Skręcenie stawu skokowego (ból, obrzęk, zasinienie) leczy się według schematu: odpoczynek, chłodzenie zimnym okładem przez 15–30 minut (powtarzane), unieruchomienie i lekki ucisk bandażem elastycznym, uniesienie kończyny, środki przeciwbólowe. Ciasny bandaż i ogrzewanie nasilają obrzęk, a unieruchomienie całej kończyny i natychmiastowe wezwanie pomocy lekarskiej nie są konieczne przy skręceniu bez objawów złamania.",
+   "sources": [
+    "ERC, wytyczne pierwszej pomocy 2021 (urazy stawów: chłodzenie, unieruchomienie, uniesienie)"
+   ],
+   "hint": "Schemat na skręcenie: odpoczynek, lód, ucisk, uniesienie. Co z tego jest w odpowiedziach, a co jest dokładnie na odwrót (ciepło, ciasno)?"
+  },
+  {
+   "id": 282,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Podczas ewakuacji śmigłowcem akcją na miejscu kieruje załoga śmigłowca (pilot i operator wciągarki), która widzi całą sytuację i zna ograniczenia maszyny. Kapitan jachtu nawiązuje łączność, przygotowuje jacht (żagle zrzucone, pokład oczyszczony, stały kurs i prędkość wskazane przez śmigłowiec), załogę i poszkodowanego oraz wykonuje polecenia. MRCC koordynuje całą akcję z lądu, ale nie kieruje manewrami nad pokładem.",
+   "sources": [
+    "IAMSAR, tom III, rozdz. 2 (współpraca ze śmigłowcem: polecenia załogi śmigłowca, przygotowanie statku)"
+   ],
+   "hint": "Kto widzi linę, wirnik i maszt jednocześnie i zna limity maszyny? Ten wydaje polecenia."
+  },
+  {
+   "id": 283,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Przed opuszczeniem jachtu załoga ubiera się jak najcieplej (w tratwie główny wróg to wychłodzenie), zakłada pasy ratunkowe i zabiera: ręczny radiotelefon UKF, EPIRB i SART, pirotechnikę, wodę i żywność, apteczkę, leki, dokumenty. Pirotechnikę odpala się dopiero wtedy, gdy ktoś może ją zobaczyć (C marnuje ją natychmiast), a lekkie ubranie (A) to szybka hipotermia. Nasłuch na kanale 16 jest słuszny, ale odpowiedź C jako całość jest gorsza od B.",
+   "sources": [
+    "IAMSAR, tom III (opuszczanie statku: wyposażenie zabierane do tratwy)",
+    "ROZP-2012, § 6 pkt 3 (procedury na wypadek konieczności opuszczenia jachtu)"
+   ],
+   "hint": "W tratwie zabija zimno, a ratuje łączność. Która lista to uwzględnia i nie marnuje rakiet, gdy nikt nie patrzy?"
+  },
+  {
+   "id": 284,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "W Zatoce Hanö, na północ od Bornholmu, przy wietrze NE 10°B jacht ma otwarte morze od strony nawietrznej i wyspę po zawietrznej. Najbezpieczniej jest sztormować z wiatrem na foku sztormowym, schodząc na SW, i wejść w osłonę zachodniej strony Bornholmu (ląd zasłania od wiatru i fali), a stamtąd ewentualnie do portu schronienia (Rønne). Dryfowanie bez żagli przy 10°B niesie jacht na skały, a próba pójścia pod szwedzki brzeg to żegluga na wiatr w sztormie w stronę lądu nawietrznego z silnym prądem przybrzeżnym.",
+   "sources": [
+    "Wiedza podręcznikowa: techniki sztormowania i wybór akwenu osłoniętego (podręczniki żeglarstwa morskiego)",
+    "Locja Bałtyku: Bornholm i Zatoka Hanö"
+   ],
+   "hint": "Spójrz na mapę: gdzie przy wietrze NE jest najbliższa osłona od wiatru i fali, i którym kursem da się tam dojść bez walki z wiatrem?"
+  },
+  {
+   "id": 285,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Na jachcie z wysoką burtą człowieka przytomnego wciąga się mechanicznie: podaje się pętlę z grubej liny (lub uprząż ewakuacyjną), którą zakłada pod pachy, i wciąga wolnym fałem przez kabestan; fał grota lub spinakera daje przełożenie i stały punkt wysoko nad pokładem. Siła dwóch ludzi na śródokręciu zwykle nie wystarcza, by wyciągnąć mokrego, ciężkiego człowieka ponad wysoką burtę, a wiązanie przez rozbitka węzła na sobie w zimnej wodzie często się nie udaje i może się zacisnąć.",
+   "sources": [
+    "Wiedza podręcznikowa: podejmowanie człowieka z wody (podręczniki żeglarstwa morskiego, zalecenia dotyczące procedur MOB)"
+   ],
+   "hint": "Masz na jachcie kabestany i fały, czyli dźwig. Co podać rozbitkowi, żeby ten dźwig dało się bezpiecznie użyć?"
+  },
+  {
+   "id": 286,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Przed sztormem na pełnym morzu najważniejsze jest, by woda nie dostała się do środka (szczelne zamknięcie luków, bulajów, klap i zejściówki), by dało się ją usunąć (sprawdzenie pomp zęzowych), by nic nie porwała fala (usunięcie zbędnego sprzętu z pokładu) i by jacht dało się prowadzić (postawienie lub przygotowanie żagli sztormowych). Pirotechnika, pasy i apteczka powinny być gotowe zawsze, a posiłek i baterie są ważne, ale drugorzędne.",
+   "sources": [
+    "Wiedza podręcznikowa: przygotowanie jachtu do sztormu (podręczniki żeglarstwa morskiego)",
+    "ROZP-2012, § 6 pkt 2 (sprawdzenie stanu jachtu i wyposażenia)"
+   ],
+   "hint": "Od czego tonie jacht w sztormie: od braku ciepłego posiłku czy od wody wlewającej się przez niezamknięty luk?"
+  },
+  {
+   "id": 287,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Gdy prąd pływowy płynie przeciwnie do wiatru (wind against tide), fale wiatrowe są hamowane przez prąd: stają się krótsze, wyższe, bardziej strome i nieregularne, łatwo się załamują. Przy prądzie zgodnym z wiatrem fala się wydłuża i łagodnieje. Sam moment niskiej wody nie zmienia charakteru fali, chyba że odsłania płycizny.",
+   "sources": [
+    "Wiedza podręcznikowa: fala na wodach pływowych, zjawisko „wind against tide” (podręczniki nawigacji i żeglarstwa morskiego)"
+   ],
+   "hint": "Fala biegnąca z wiatrem wpada na wodę płynącą jej naprzeciw. Co się dzieje z jej długością i wysokością?"
+  },
+  {
+   "id": 288,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Gdy silny wiatr szybko zmienia kierunek (np. przy przejściu frontu chłodnego) o 45–90° względem już rozwiniętej fali, powstaje nowa fala wiatrowa nakładająca się na starą z innego kierunku: fale się krzyżują, sumują i tworzą nieregularne, strome, piramidalne grzbiety, najtrudniejsze dla małego jachtu. Wyjście na otwarte morze z reguły wydłuża i regularyzuje falę, a zbliżanie do brzegu nawietrznego daje coraz mniejszą falę (krótszy rozbieg).",
+   "sources": [
+    "Wiedza podręcznikowa: meteorologia i falowanie, fala krzyżowa po zmianie kierunku wiatru (podręczniki żeglarstwa morskiego)"
+   ],
+   "hint": "Stara fala z jednego kierunku, nowa z drugiego. Jak wygląda morze, kiedy spotykają się dwa systemy fal?"
+  },
+  {
+   "id": 289,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "W ciężkiej pogodzie unika się miejsc, gdzie prąd przyspiesza: przylądków, cieśnin, ujść i płycizn, bo tam fala wiatrowa spotyka silny prąd (często przeciwny) i staje się stroma, łamiąca i chaotyczna (tzw. race), a dodatkowo zmniejsza się głębokość. Prąd zgodny z wiatrem raczej łagodzi falę, a duża głębokość aż do brzegu jest dla fali korzystna (brak spłycenia).",
+   "sources": [
+    "Wiedza podręcznikowa: żegluga w ciężkiej pogodzie, prądy przy przylądkach i w cieśninach (podręczniki nawigacji i żeglarstwa morskiego)"
+   ],
+   "hint": "Na mapie przy przylądkach bywa napis „race” albo „overfalls”. Co się tam dzieje z prądem i falą?"
+  },
+  {
+   "id": 290,
+   "answer": "C",
+   "confidence": "B",
+   "explanation": "Służba SAR utrzymuje wzdłuż polskiego wybrzeża sieć morskich (brzegowych) stacji ratowniczych, m.in. w Dziwnowie, Kołobrzegu, Darłowie, Ustce, Łebie, Władysławowie, Świbnie i Sztutowie, wyposażonych w łodzie ratownicze, pojazdy terenowe i sprzęt do ratownictwa brzegowego, a akcje przy brzegu wspierają też śmigłowce. Przy sztrandowaniu na polskim wybrzeżu można więc liczyć na pomoc bezpośrednio z lądu, nie tylko z powietrza.",
+   "sources": [
+    "SAR-PL (sieć morskich stacji ratowniczych i ich wyposażenie)",
+    "UBM, art. 116 (struktura Służby SAR)"
+   ],
+   "hint": "Sprawdź, gdzie wzdłuż wybrzeża stoją stacje ratownicze Służby SAR i czym dysponują. Czy to tylko śmigłowce?"
+  },
+  {
+   "id": 291,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "DW (dual watch) to funkcja podwójnego nasłuchu: radiotelefon naprzemiennie skanuje kanał 16 i jeden wybrany kanał roboczy, dzięki czemu można pracować na kanale roboczym nie tracąc nasłuchu alarmowego. Potwierdzają to oficjalne materiały UKE do egzaminu SRC (podwójny nasłuch kanału 16 i dowolnego roboczego). Moc nadajnika przełącza się przyciskiem HI/LO (1 W / 25 W), a nasłuch dwóch dowolnych kanałów to funkcja skanowania.",
+   "sources": [
+    "UKE-SRC, pytanie 112 (funkcja podwójnego nasłuchu: kanał 16 i dowolny roboczy)",
+    "Instrukcje obsługi radiotelefonów VHF (DW, HI/LO, SCAN)"
+   ],
+   "hint": "Jeden z dwóch kanałów w podwójnym nasłuchu jest zawsze ten sam. Który i dlaczego?"
+  },
+  {
+   "id": 292,
+   "answer": "A",
+   "confidence": "A",
+   "explanation": "Jeden długi dźwięk co najwyżej co 2 minuty to statek o napędzie mechanicznym posuwający się po wodzie (prawidło 35 a). Prawidło 19 e): statek, który słyszy sygnał mgłowy innego statku sprzed swojego trawersu, zmniejsza szybkość do minimum potrzebnego do utrzymania sterowności, w razie potrzeby zatrzymuje się i nawiguje z najwyższą ostrożnością, dopóki niebezpieczeństwo nie minie. Jacht sam też nadaje swoje sygnały mgłowe (prawidło 35) i śledzi, w którą stronę przemieszcza się sygnał. Kontynuowanie kursu z pełną prędkością narusza prawidło 19, a bierne zatrzymanie w dryfie bez sygnałów i obserwacji jest niewystarczające.",
+   "sources": [
+    "MPZZM, prawidło 35 a)",
+    "MPZZM, prawidło 19 b) i e)"
+   ],
+   "hint": "Prawidło 19 e) mówi, co robi statek, który słyszy sygnał mgłowy sprzed trawersu. A prawidło 35 mówi, że Ty też masz coś nadawać."
+  },
+  {
+   "id": 293,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Sygnały manewrowe (jeden, dwa, trzy krótkie dźwięki) stosuje się według prawidła 34 a) tylko wtedy, „gdy statki są wzajemnie widoczne”. We mgle statki nie widzą się, więc obowiązują wyłącznie sygnały mgłowe z prawidła 35 i zasady prawidła 19; nadawanie trzech krótkich dźwięków mogłoby wprowadzić w błąd inne statki. Akwen i typ statku nie mają tu znaczenia.",
+   "sources": [
+    "MPZZM, prawidło 34 a) (sygnały manewrowe tylko przy wzajemnej widoczności)",
+    "MPZZM, prawidło 35 (sygnały dźwiękowe podczas ograniczonej widzialności)"
+   ],
+   "hint": "Pierwsze słowa prawidła 34 a) brzmią „gdy statki są wzajemnie widoczne”. Czy we mgle ten warunek jest spełniony?"
+  }
+ ]
+}

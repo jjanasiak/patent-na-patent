@@ -1,0 +1,69 @@
+POLSKI ZWIĄZEK ŻEGLARSKI
+al. ks. J. Poniatowskiego 1
+03-901 Warszawa
+e (22) GH 8 63, Tax (22) 541 63 69
+e-mail: pyabiuro©pya.org.pl, www.pya.org.pl
+LOCJA NiP 521-11-84-399, REGON 007014979
+
+75. Jacht płynący kursem 170* zaobserwował na A Zmienić kurs w lewo i minąć obie pławy
+kursie pławy jak na rysunku, najpierw pierwszę a dalej prawą burtą
+w prawo od kursu kolejną.. Jak płynąć aby ominąć
+
+niebezpieczeństwo? Zmienić kurs w lewo i ominąć pierwszą
+
+B |pławę prawą burtą, a drugą pławę lewą
+burtą
+
+Sprawdzić na mapie położenie
+niebezpieczeństwa. Po upewnieniu się
+
+C zmienić kurs w prawo i minąć obie pławy
+
+lewą burtą.
+METEOROLOGIA
+76. Istnieje możliwość pobrania map różnych A Specjalny odbiornik do pobierania tych
+parametrów pogody (system GRIB) na kilka dni danych
+
+naprzód i korzystania z nich na morzu. Jakie
+wyposażenie jest potrzebne, aby z tego korzystać na B
+jachcie.
+
+Radioodbiornik z odpowiednim zakresem
+częstotliwości i komputer
+
+C Tylko dostęp do internetu i komputer
+
+77. Czy skala Petersena powiązana jest ze skalą A__ Nie, są to całkowicie rózne skale
+Beauforta? B Są wzajemine zależne i ściśle powiązane
+
+Cc Obie skale sa równoważne, określaja te
+same parametry, różnią się tylko nazwą
+
+78. Z jakich źródeł można uzyskać mapy synoptyczne A__ Jedynie w kapitanatach portów
+podczas postoju w porcie? B Jedynie z internetu
+
+W kapitanatach portów oraz z urządzeń
+C zainstalowanych na jachcie jak faksy
+pogodowe lub z Internetu
+
+79. Jakie dane zawsze zawarte są w morskim A Tylko prognoza siły i kierunku wiatru
+
+komunikacie pogodowym? Ostrzeżenia, sytuacja baryczna, prognoza
+B siłyi kierunku wiatru, widzialność, stan
+morza, opady
+
+Cc Prognoza siły i kierunku wiatru, prognoza
+orientacyjna na nastepny okres
+
+80. Jakie dane będą nam potrzebne do odbioru A Tylko moment (czas) nadawania i nazwa
+komunikatów pogodowych przez radiostację UKF? stacji nadającej
+
+Nazwa stacji i jej położenie oraz moment
+B (czas) nadawania i kanał roboczy na
+którym pracuje stacja nadająca
+
+Tylko moment (czas) nadawania, bo
+C prognozy podawane są wyłącznie na
+kanale 16
+
+Numer arkusza: 20160729_095536455_0 Strona 12/56

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<title>Patent na patent</title>
+<meta name="description" content="Nauka do egzaminu na jachtowego sternika morskiego: pytania PZŻ, tryb nauki, egzamin próbny, powtórki.">
+<meta name="theme-color" content="#0b1d33">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Patent">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="app" class="app">
+  <header class="topbar">
+    <button class="iconbtn invisible" id="btn-back" aria-label="Wstecz">◀</button>
+    <div class="topbar-title" id="topbar-title">Patent na patent</div>
+    <button class="iconbtn" id="btn-theme" aria-label="Zmień motyw" title="Motyw: dzień / noc / wachta">☀</button>
+  </header>
+
+  <main id="screen" class="screen"></main>
+
+  <nav class="tabbar" id="tabbar">
+    <a href="#home" data-tab="home"><span class="tab-ico" data-sprite="port"></span><span>Port</span></a>
+    <a href="#learn" data-tab="learn"><span class="tab-ico" data-sprite="book"></span><span>Nauka</span></a>
+    <a href="#exam" data-tab="exam"><span class="tab-ico" data-sprite="chart"></span><span>Egzamin</span></a>
+    <a href="#review" data-tab="review"><span class="tab-ico" data-sprite="anchor"></span><span>Powtórki</span></a>
+    <a href="#stats" data-tab="stats"><span class="tab-ico" data-sprite="flag"></span><span>Dziennik</span></a>
+  </nav>
+
+  <div class="toast" id="toast" hidden></div>
+  <div class="sheet-backdrop" id="sheet-backdrop" hidden></div>
+  <div class="sheet" id="sheet" hidden role="dialog" aria-modal="true"></div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

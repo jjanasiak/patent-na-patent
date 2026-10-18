@@ -1,0 +1,54 @@
+POLSKI ZWIĄZEK ZEGLARSKI
+al. ks. J. Poniatowskiego 1
+03-901 Warszawa
+tel. (227 54163 63; Tax (22) 541 63 69
+
+e-mail:pyabiuroGpya.org.pl, www.pya.org.pl
+NAWIGACJA NIP 521-11-84-399, REGON 007014979
+164. Zero mapy na wodach gdzie wystepują pływy A _ Średni poziom morza
+ustalane jest jako: B Poziom średniej niskiej wody
+
+C Poziom najniższego pływu
+astronomicznego
+
+165. Godzina 15.00, pozycja jachtu na mapie w A 224”, 1,8 węzła
+pobliżu znaku "A". W tablicach pływów znaleziono, B 224%, 3,2 węzła
+że wysoka woda w Dover będzie o godzinie 18.04, C 224% 25 wezła
+pływ pośredni. Jaki jest aktualnie kierunek i szybkość 22 WĘ
+prądu pływowego?
+
+166. Czy izobatę można zawsze traktować jako A Tak, zawsze
+względnie pewną linię pozycyjną? p Nigdy, bo pomiary głębokości obarczone są
+dużym błędem
+
+C Tak, pod warunkiem, że przebieg izobat
+jest regularny
+
+167. Odległość do obiektu o znanej wysokości h (w z Tablic Nawigacyjnych lub ze wzoru
+metrach) i zmierzonym kącie pionowym a_ (w
+minutach) można ustalić ( D w milach morskich ): A 13 h
+
+D=—-
+7a
+
+ze wzoru
+
+* D=2 Va+2 Vh
+
+C zewzoruD=2h tga
+
+168. Przy pierwszym włączaniu nowo A Włączyć zasilanie. Poza tym nie trzeba nic
+zainstalowanego GPS trzeba: robić, urządzenie będzie działać
+
+B Włączyć zasilanie, używając instrukcji
+obsługi ustawić podstawowe parametry
+
+C Powinien to wykonać uprawniony serwis
+
+169. Jaka jest różnica pomiędzy mapą rastrową, a A Mapa rastrowa jest dokładniejsza
+papierową ? p W zastosowaniu do nawigacji nie ma
+żadnej
+
+C Mapy rastrowe sa mniej dokładne
+
+Numer arkusza: 20160729_095536455_0 Strona 24/56

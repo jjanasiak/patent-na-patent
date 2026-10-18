@@ -1,0 +1,3331 @@
+ 
+ 
+ 
+Urząd Komunikacji Elektronicznej 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Świadectwo operatora łączności 
+bliskiego zasięgu 
+ 
+SRC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Materiały do egzaminu testowego 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REGULAMINY  I  PODSTAWOWE  TERMINY  ANGLOJĘZYCZNE 
+STOSOWANE  W  SŁUŻBIE  RADIOKOMUNIKACYJNEJ  MORSKIEJ 
+ 
+1. 
+Zgodnie z kolejnością pierwszeństwa łączności: 
+A. 
+łączność ostrzegawcza ma pierwszeństwo przed łącznością pilną 
+B. 
+łączność ostrzegawcza ma pierwszeństwo przed łącznością publiczną 
+C. 
+łączność pilna ma pierwszeństwo przed łącznością w niebezpieczeństwie 
+ 
+2. 
+Łączność publiczna to łączność: 
+A. 
+dla uzyskania porady medycznej 
+B. 
+pomiędzy stacją statkową i stacją nadbrzeżną 
+C. 
+do przekazywania ostrzeżeń 
+ 
+3. 
+Stacja nadbrzeżna to stacja: 
+A. 
+w służbie radiokomunikacyjnej lądowej, prowadząca łączność w rejonie wybrzeża 
+morskiego 
+B. 
+w służbie radiokomunikacyjnej lotniczej, prowadząca łączność w rejonie 
+wybrzeża morskiego 
+C. 
+w służbie radiokomunikacyjnej ruchomej morskiej, prowadząca łączność w relacji 
+statek-brzeg, brzeg-statek 
+ 
+4. 
+Ratowniczy Ośrodek Koordynacyjny odpowiedzialny jest za: 
+A. 
+prowadzenie łączności na miejscu akcji ratowniczej 
+B. 
+przygotowanie służb portowych 
+C. 
+kierowanie akcją SAR 
+ 
+5. 
+Pasmo VHF obejmuje częstotliwości: 
+A. 
+3 ÷ 30 MHz 
+B. 
+30 ÷ 300 MHz 
+C. 
+10 ÷ 100 MHz 
+ 
+6. 
+Fale z pasma VHF to inaczej fale: 
+A. 
+milimetrowe 
+B. 
+centymetrowe 
+C. 
+metrowe 
+ 
+7. 
+Morski zakres V obejmuje częstotliwości: 
+A. 
+10 ÷ 30 MHz 
+B. 
+300 ÷ 3000 kHz 
+C. 
+156 ÷ 174 MHz 
+ 
+8. 
+Radiotelefoniczna stacja statkowa może być identyfikowana przez: 
+A. 
+numer seryjny radiotelefonu VHF 
+B. 
+znak wywoławczy lub nazwę stacji 
+C. 
+nazwę armatora/właściciela 
+ 
+9. 
+Simpleks to sposób pracy w kanale radiowym przy którym: 
+A. 
+nadawanie jest możliwe jednocześnie w obu kierunkach łączności 
+B. 
+obie stacje pracują simpleksem wykorzystując kanał dupleksowy 
+C. 
+nadawanie jest możliwe jedynie na zmianę w każdym kierunku łączności 
+ 
+ 
+ 
+10. 
+Semidupleks to sposób pracy w kanale radiowym przy którym: 
+A. 
+nadawanie jest możliwe jednocześnie w obu kierunkach łączności 
+B. 
+nadawanie jest możliwe jedynie na zmianę w każdym kierunku łączności 
+C. 
+jedna stacja pracuje simpleksem a druga dupleksem 
+ 
+11. 
+Dupleks to sposób pracy w kanale radiowym przy którym: 
+A. 
+nadawanie jest możliwe jednocześnie w obu kierunkach łączności 
+B. 
+nadawanie jest możliwe jedynie na zmianę w każdym kierunku łączności 
+C. 
+jedna stacja pracuje simpleksem a druga dupleksem 
+ 
+12. 
+Kanał simpleksowy to kanał w którym: 
+A. 
+nadajemy i odbieramy na tej samej częstotliwości 
+B. 
+tylko nadajemy na określonej częstotliwości 
+C. 
+tylko odbieramy na określonej częstotliwości 
+ 
+13. 
+Kanał dupleksowy to kanał w którym: 
+A. 
+nadajemy i odbieramy na tej samej częstotliwości 
+B. 
+tylko nadajemy na określonej częstotliwości 
+C. 
+nadajemy i odbieramy na różnych częstotliwościach 
+ 
+14. 
+Kanał 16 VHF jest kanałem: 
+A. 
+dupleksowym 
+B. 
+jednoczęstotliwościowym 
+C. 
+dwuczęstotliwościowym 
+ 
+15. 
+Kanał 6 VHF jest kanałem: 
+A. 
+dupleksowym 
+B. 
+dwuczęstotliwościowym 
+C. 
+simpleksowym 
+ 
+16. 
+Kanał 15 VHF jest kanałem: 
+A. 
+dupleksowym 
+B. 
+jednoczęstotliwościowym 
+C. 
+semidupleksowym 
+ 
+17. 
+Kanał 13 VHF jest kanałem: 
+A. 
+dupleksowym 
+B. 
+duosimpleksowym 
+C. 
+simpleksowym 
+ 
+18. 
+Kanał 70 VHF jest kanałem: 
+A. 
+dupleksowym 
+B. 
+jednoczęstotliwościowym 
+C. 
+semidupleksowym 
+ 
+19. 
+W zakresie VHF, do wywołań ogólnych DSC można stosować kanał: 
+A. 
+26 
+B. 
+6 
+C. 
+70 
+ 
+20. 
+W zakresie VHF, do wywołań międzystatkowych DSC można stosować kanał: 
+ 
+ 
+A. 
+15 
+B. 
+27 
+C. 
+70 
+ 
+21. 
+Znak wywoławczy stacji statkowej to identyfikacja stosowana w łączności: 
+A. 
+jedynie publicznej 
+B. 
+radiotelefonicznej 
+C. 
+DSC 
+ 
+22. 
+MMSI to identyfikacja stosowana w łączności: 
+A. 
+międzystatkowej i ze stacją nadbrzeżną 
+B. 
+radiotelefonicznej 
+C. 
+jedynie międzystatkowej 
+ 
+23. 
+Znak wywoławczy stacji statkowej to identyfikacja przyznawana: 
+A. 
+przez właściciela jednostki 
+B. 
+tylko do łączności bezpieczeństwa 
+C. 
+przez administrację krajową z międzynarodowej serii znaków wywoławczych 
+ 
+24. 
+Obszar morza w którym zapewniona jest pewna łączność DSC i radiotelefoniczna, 
+przynajmniej z jedną stacją brzegową VHF to obszar: 
+A. 
+AOR 
+B. 
+A3 
+C. 
+A1 
+ 
+25. 
+Ratowniczy Ośrodek Koordynacyjny oznacza się skrótem: 
+A. 
+RSC 
+B. 
+OSC 
+C. 
+RCC 
+ 
+26. 
+Podcentrum Ratownicze oznacza się skrótem: 
+A. 
+RSC 
+B. 
+OSC 
+C. 
+RCC 
+ 
+27. 
+Stację nadbrzeżną zaangażowaną w akcję SAR oznacza się skrótem: 
+A. 
+RSC 
+B. 
+OSC 
+C. 
+CRS 
+ 
+28. 
+Jednostkę koordynującą poszukiwanie i ratowanie na miejscu akcji oznacza się 
+skrótem: 
+A. 
+RSC 
+B. 
+OSC 
+C. 
+RCC 
+ 
+29. 
+Zalecanym kanałem VHF do łączności w akcjach SAR jest kanał: 
+A. 
+26 
+B. 
+69 
+C. 
+6 
+ 
+ 
+ 
+30. 
+Znak wywoławczy polskiej stacji statkowej może rozpoczynać się od jednego z 
+prefiksów: 
+A. 
+GD, SZ, KO, PL, EU 
+B. 
+PL1 – PL9 
+C. 
+HF, SN, SO, SP, SQ, SR, 3Z 
+ 
+31. 
+Alarmowanie w niebezpieczeństwie zawiera: 
+A. 
+identyfikację i pozycję jednostki zagrożonej 
+B. 
+identyfikację, pozycję jednostki zagrożonej i liczbę osób na pokładzie jednostki 
+C. 
+znak wywoławczy, pozycję jednostki zagrożonej i liczbę rannych 
+ 
+32. 
+W zakresie VHF, do radiotelefonicznych wywołań ogólnych można stosować kanał: 
+A. 
+6 
+B. 
+16 
+C. 
+66 
+ 
+33. 
+Alarmowanie w niebezpieczeństwie DSC adresowane jest: 
+A. 
+jedynie do najbliższej stacji nadbrzeżnej 
+B. 
+do wszystkich stacji 
+C. 
+jedynie do najbliższej stacji statkowej 
+ 
+34. 
+Operator stacji statkowej po odbiorze pośredniego alarmowania DSC nadanego przez 
+stację nadbrzeżną powinien: 
+A. 
+natychmiast potwierdzić odbiór za pomocą DSC 
+B. 
+potwierdzić odbiór za pomocą radiotelefonii 
+C. 
+tylko dokonać zapisu w dzienniku radiowym 
+ 
+35. 
+Operator stacji statkowej może nadać pośrednie alarmowanie w niebezpieczeństwie w 
+sytuacji gdy: 
+A. 
+jednostka zagrożona sama nie jest w stanie nadać alarmowania 
+B. 
+tylko na prośbę stacji zagrożonej 
+C. 
+tylko na polecenie RCC 
+ 
+36. 
+W zakresie VHF, operator stacji statkowej może nadać pośrednie alarmowanie DSC po 
+odbiorze alarmowania DSC: 
+A. 
+nie wolno mu tego uczynić 
+B. 
+tylko na prośbę stacji zagrożonej 
+C. 
+tylko na prośbę RCC 
+ 
+37. 
+W zakresie VHF, operator stacji statkowej może nadać potwierdzenie odbioru 
+alarmowania DSC: 
+A. 
+po 3 minutach od odebrania alarmowania 
+B. 
+po 4 minutach od odebrania alarmowania 
+C. 
+po 5 minutach od odebrania alarmowania i powiadomieniu o tym stacji 
+nadbrzeżnej 
+ 
+38. 
+W zakresie VHF, operator stacji statkowej może nadać potwierdzenie odbioru 
+alarmowania DSC za pomocą: 
+A. 
+tylko DSC 
+B. 
+radiotelefonii lub DSC 
+C. 
+tylko radiotelefonii 
+ 
+ 
+ 
+39. 
+Operator stacji nadbrzeżnej może nadać potwierdzenie odbioru alarmowania DSC za 
+pomocą: 
+A. 
+radiotelefonii lub DSC 
+B. 
+tylko DSC 
+C. 
+tylko radiotelefonii 
+ 
+40. 
+Przed każdym wywołaniem poprzedzającym korespondencję w niebezpieczeństwie 
+należy użyć sygnału niebezpieczeństwa: 
+A. 
+PAN PAN 
+B. 
+MAYDAY 
+C. 
+DISTRESS 
+ 
+41. 
+Stację zakłócającą korespondencję w niebezpieczeństwie może uciszać: 
+A. 
+tylko RCC 
+B. 
+każda stacja statkowa i nadbrzeżna 
+C. 
+OSC 
+ 
+42. 
+Sygnałem uciszania stacji zakłócającej korespondencje w niebezpieczeństwie jest 
+sygnał: 
+A. 
+PAN PAN 
+B. 
+SEELONCE MAYDAY 
+C. 
+MAYDAY 
+ 
+43. 
+Informację o zakończeniu korespondencji w niebezpieczeństwie może nadać: 
+A. 
+tylko RCC 
+B. 
+każda stacja statkowa i nadbrzeżna 
+C. 
+OSC 
+ 
+44. 
+Sygnałem zakończenia korespondencji w niebezpieczeństwie jest sygnał: 
+A. 
+PAN PAN 
+B. 
+SEELONCE MAYDAY 
+C. 
+SEELONCE FEENEE 
+ 
+45. 
+Korespondencją na miejscu akcji ratunkowej kieruje: 
+A. 
+RCC 
+B. 
+wyłącznie stacja nadbrzeżna 
+C. 
+OSC 
+ 
+46. 
+Korespondencją koordynacyjną SAR kieruje: 
+A. 
+wyłącznie stacja zagrożona 
+B. 
+OSC 
+C. 
+wyłącznie stacja nadbrzeżna 
+ 
+47. 
+Łączność pilną stosuje się dla uzyskania: 
+A. 
+porady i pomocy medycznej 
+B. 
+pomocy nawigacyjnej 
+C. 
+ostrzeżeń meteorologicznych 
+ 
+48. 
+W zakresie VHF, wywołanie pilne DSC można nadać na kanale: 
+A. 
+26 
+ 
+ 
+B. 
+13 
+C. 
+70 
+ 
+49. 
+Wywołanie pilne DSC powinno zawierać kategorię: 
+A. 
+URGENCY 
+B. 
+SAFETY 
+C. 
+DISTRESS 
+ 
+50. 
+Przy braku potwierdzenia odbioru wywołania pilnego DSC do jednej stacji, może być 
+ono powtórzone po: 
+A. 
+3 a następnie 10 minutach 
+B. 
+5 a następnie 10 minutach 
+C. 
+5 a następnie 15 minutach 
+ 
+51. 
+Radiotelefonicznym sygnałem pilności jest sygnał: 
+A. 
+URGENCY 
+B. 
+PAN PAN 
+C. 
+DISTRESS 
+ 
+52. 
+W radiotelefonii sygnał pilności wymawia się: 
+A. 
+1 raz 
+B. 
+2 razy 
+C. 
+3 razy 
+ 
+53. 
+Łączność ostrzegawczą stosuje się dla: 
+A. 
+nadania porady medycznej 
+B. 
+odbioru ostrzeżeń pogodowych 
+C. 
+nadania alarmowania w niebezpieczeństwie 
+ 
+54. 
+W zakresie VHF, wywołanie ostrzegawcze DSC można nadać na kanale: 
+A. 
+12 
+B. 
+6 
+C. 
+70 
+ 
+55. 
+Wywołanie ostrzegawcze DSC powinno zawierać kategorie: 
+A. 
+URGENCY 
+B. 
+SAFETY 
+C. 
+DISTRESS 
+ 
+56. 
+Radiotelefonicznym sygnałem ostrzegawczym jest sygnał: 
+A. 
+URGENCY 
+B. 
+PAN PAN 
+C. 
+SECURITE 
+ 
+57. 
+W radiotelefonii sygnał ostrzegawczy wymawia się: 
+A. 
+1 raz 
+B. 
+2 razy 
+C. 
+3 razy 
+ 
+58. 
+Jeżeli urządzenie DSC nie jest podłączone do urządzeń nawigacyjnych, operator 
+powinien wprowadzać do niego aktualną pozycję statku co najmniej: 
+ 
+ 
+A. 
+co 1 godzinę 
+B. 
+2 razy na dobę 
+C. 
+co 4 godziny 
+ 
+59. 
+W zakresie VHF, radiotelefoniczne wezwanie w niebezpieczeństwie powinno być 
+nadane na kanale: 
+A. 
+13 
+B. 
+16 
+C. 
+6 
+ 
+60. 
+Wezwanie w niebezpieczeństwie nadane na kanale 16 VHF powinno rozpoczynać się 
+od wywołania zawierającego sygnał niebezpieczeństwa MAYDAY wymówiony: 
+A. 
+1 raz 
+B. 
+2 razy 
+C. 
+3 razy 
+ 
+61. 
+Korespondencja w niebezpieczeństwie nadana na kanale 16 VHF powinna rozpoczynać 
+się od sygnału niebezpieczeństwa MAYDAY wymówionego: 
+A. 
+1 raz 
+B. 
+2 razy 
+C. 
+3 razy 
+ 
+62. 
+Potwierdzenie odbioru zawiadomienia w niebezpieczeństwie nadanego na kanale 16 
+VHF powinno być nadane na kanale: 
+A. 
+13 
+B. 
+26 
+C. 
+16 
+ 
+63. 
+Potwierdzenie odbioru zawiadomienia w niebezpieczeństwie nadane na kanale 16 VHF 
+powinno rozpoczynać się od sygnału niebezpieczeństwa MAYDAY wymówionego: 
+A. 
+1 raz 
+B. 
+2 razy 
+C. 
+3 razy 
+ 
+64. 
+Nadanie radiotelefonicznego zawiadomienia o niebezpieczeństwie przez stację w nim 
+nie będącą powinno być poprzedzone sygnałem: 
+A. 
+MAYDAY 
+B. 
+MAYDAY MAYDAY MAYDAY 
+C. 
+C. MAYDAY RELAY     MAYDAY RELAY    MAYDAY RELAY 
+ 
+65. 
+Sygnał pilności PAN PAN należy stosować przed wywołaniem dotyczącym: 
+A. 
+wypadnięcia człowieka za burtę 
+B. 
+uzyskania porady medycznej 
+C. 
+uzyskania ostrzeżenia nawigacyjnego 
+ 
+66. 
+Jeżeli stacja statkowa VHF nie posiada urządzenia DSC, wywołanie pilne (PAN PAN) 
+powinno być nadane na kanale: 
+A. 
+12 
+B. 
+6 
+C. 
+16 
+ 
+ 
+ 
+67. 
+Sygnał ostrzegawczy SECURITE należy stosować przed wywołaniem dotyczącym: 
+A. 
+wypadnięcia człowieka za burtę 
+B. 
+uzyskania porady medycznej 
+C. 
+nadania ostrzeżenia 
+ 
+68. 
+Jeżeli stacja statkowa VHF nie posiada urządzenia DSC, wywołanie ostrzegawcze 
+(SECURITE) powinno być nadane na kanale: 
+A. 
+12 
+B. 
+6 
+C. 
+16 
+ 
+69. 
+Kanał 75 VHF jest kanałem: 
+A. 
+do łączności w niebezpieczeństwie 
+B. 
+zabronionym dla zwykłej łączności publicznej 
+C. 
+bezpieczeństwa 
+ 
+70. 
+Kanał 76 VHF jest kanałem: 
+A. 
+do łączności w niebezpieczeństwie 
+B. 
+zabronionym dla zwykłej łączności publicznej 
+C. 
+bezpieczeństwa 
+ 
+71. 
+Kanał 15 VHF jest kanałem: 
+A. 
+do łączności w niebezpieczeństwie 
+B. 
+zabronionym dla łączności publicznej 
+C. 
+do łączności wewnątrzstatkowej z mocą zredukowaną do 1 W 
+ 
+72. 
+Kanał 17 VHF jest kanałem: 
+A. 
+do łączności wewnątrzstatkowej z mocą zredukowaną do 1 W 
+B. 
+zabronionym dla łączności publicznej 
+C. 
+do łączności w niebezpieczeństwie 
+ 
+73. 
+Kanał 13 VHF w pierwszej kolejności jest kanałem: 
+A. 
+do łączności związanej z bezpieczeństwem żeglugi 
+B. 
+zabronionym dla łączności publicznej 
+C. 
+wyłącznie do łączności międzystatkowej z mocą zredukowaną do 1 W 
+ 
+74. 
+Kanał 6 VHF w pierwszej kolejności jest kanałem: 
+A. 
+do łączności związanej z bezpieczeństwem żeglugi 
+B. 
+zabronionym dla łączności publicznej 
+C. 
+do łączności SAR z samolotami 
+ 
+75. 
+Kanał 16 VHF w pierwszej kolejności jest kanałem: 
+A. 
+do łączności w niebezpieczeństwie 
+B. 
+zabronionym dla łączności publicznej 
+C. 
+do łączności międzystatkowej z mocą zredukowaną do 1 W 
+ 
+76. 
+Kanał 70 VHF jest kanałem: 
+A. 
+do łączności radiotelefonicznej 
+B. 
+zabronionym dla łączności publicznej 
+C. 
+do alarmowania w niebezpieczeństwie 
+ 
+ 
+ 
+77. 
+Kanały „amerykańskie” (US): 
+A. 
+można wykorzystywać tylko do łączności związanej z bezpieczeństwem żeglugi 
+B. 
+są zabronione na Bałtyku 
+C. 
+nie są zabronione na wodach Unii Europejskiej 
+ 
+78. 
+Gdy jednostka jest w morzu, testowanie  wewnętrzne urządzenia VHF DSC powinno 
+być przeprowadzone: 
+A. 
+codziennie 
+B. 
+dwa razy w tygodniu 
+C. 
+raz w miesiącu 
+ 
+79. 
+W zakresie VHF, testowanie urządzenia DSC polega na przeprowadzeniu testu: 
+A. 
+„wewnętrznego i zewnętrznego” 
+B. 
+tylko „wewnętrznego” 
+C. 
+„wewnętrznego albo zewnętrznego” 
+ 
+80. 
+Testowanie „zewnętrzne” urządzenia DSC w zakresie VHF powinno być 
+przeprowadzane: 
+A. 
+codziennie 
+B. 
+zabronione jest takie testowanie 
+C. 
+raz w tygodniu 
+ 
+81. 
+W zakresie VHF, radiotelefoniczne odwołanie fałszywego alarmowania DSC powinno 
+być nadane na kanale: 
+A. 
+13 
+B. 
+70 
+C. 
+16 
+ 
+82. 
+Odwołanie fałszywego alarmowania nadanego za pomocą DSC powinno być 
+skierowane: 
+A. 
+do najbliższej stacji nadbrzeżnej 
+B. 
+do najbliższej stacji statkowej 
+C. 
+do wszystkich stacji 
+ 
+83. 
+Odwołanie fałszywego alarmowania nadanego za pomocą EPIRB powinno być 
+skierowane do: 
+A. 
+stacji nadbrzeżnej 
+B. 
+najbliższej stacji statkowej 
+C. 
+wszystkich stacji 
+ 
+84. 
+Odwołując fałszywe alarmowanie należy podać następujące informacje: 
+A. 
+pozycję jednostki, rodzaj odwoływanego alarmowania, godzinę nadania i 
+odwołania fałszywego alarmowania 
+B. 
+rodzaj odwoływanego alarmowania, godzinę nadania i ostatni port postoju 
+jednostki 
+C. 
+tylko godzinę nadania fałszywego alarmowania i ostatni port postoju jednostki 
+ 
+85. 
+Dla 
+radiotelefonów 
+osobistych 
+(przenośnych), 
+wykorzystywanych 
+w 
+służbie 
+radiokomunikacyjnej morskiej, posiadających DSC, nadaje się numer identyfikacyjny: 
+A. 
+taki sam jak MMSI jednostki pływającej, na której aktualnie jest wykorzystywany 
+ 
+ 
+B. 
+dziewięciocyfrowy o postaci: 8MIDXXXXX, gdzie MID to trzycyfrowy kod 
+kraju, X to cyfra od 0 do 9 
+C. 
+dziewięciocyfrowy, określany przez producenta urządzenia 
+ 
+86. 
+Nadając wywołanie publiczne DSC należy wybrać priorytet (kategorie): 
+A. 
+DISTRESS 
+B. 
+URGENCY 
+C. 
+ROUTINE 
+ 
+87. 
+Stacja statkowa VHF nadając wywołanie publiczne DSC do innej stacji statkowej 
+powinna użyć kanału: 
+A. 
+70 
+B. 
+67 
+C. 
+26 
+ 
+88. 
+Stacja statkowa nadając wywołanie publiczne DSC do innej stacji statkowej: 
+A. 
+może podać kanał roboczy 
+B. 
+nie powinna podawać kanału roboczego 
+C. 
+musi podać kanał roboczy 
+ 
+89. 
+Stacja statkowa nadając wywołanie publiczne DSC do stacji nadbrzeżnej: 
+A. 
+powinna podać kanał roboczy 
+B. 
+nie powinna podawać kanału roboczego 
+C. 
+może podać kanał roboczy 
+ 
+90. 
+Po przejściu na kanał roboczy, łączność publiczną inicjuje: 
+A. 
+stacja wywołująca za pomocą DSC 
+B. 
+zawsze stacja wywoływana za pomocą DSC 
+C. 
+stacja wywoływana za pomocą DSC jeżeli tak podano w wywołaniu DSC 
+ 
+91. 
+Stacja statkowa VHF nadając wywołanie publiczne do innej stacji statkowej może użyć 
+kanału: 
+A. 
+25 
+B. 
+16 
+C. 
+26 
+ 
+92. 
+Stacja statkowa VHF nadając wywołanie publiczne do stacji nadbrzeżnej może użyć 
+kanału: 
+A. 
+15 
+B. 
+16 
+C. 
+6 
+ 
+93. 
+Radiotelefoniczne wywołanie publiczne w zakresie VHF powinno mieć formę: 
+A. 
+nazwa stacji wywoływanej (1x) This is nazwa stacji wywołującej (2x) 
+B. 
+nazwa stacji wywoływanej (1x) This is nazwa stacji wywołującej (3x) 
+C. 
+nazwa stacji wywoływanej (2x) This is nazwa stacji wywołującej (2x) 
+ 
+94. 
+Radiotelefoniczna odpowiedź na wywołanie publiczne w zakresie VHF powinna mieć 
+formę: 
+A. 
+nazwa stacji wywołującej (1x) This is nazwa stacji wywoływanej (2x) 
+B. 
+nazwa stacji wywoływanej (4x) This is nazwa stacji wywołującej (4x) 
+ 
+ 
+C. 
+nazwa stacji wywołującej (2x) This is nazwa stacji wywoływanej (2x) 
+ 
+95. 
+Wywołanie i odpowiedź na wywołanie na kanale 16 VHF nie powinny przekraczać: 
+A. 
+1 minuty 
+B. 
+2 minut 
+C. 
+3 minut 
+ 
+96. 
+Stacja statkowa VHF z DSC, gdy znajduje się w morzu, utrzymuje ciągły nasłuch 
+radiowy na kanale: 
+A. 
+26 
+B. 
+70 
+C. 
+6 
+ 
+97. 
+W łączności stacji statkowej ze stacją nadbrzeżną, o przebiegu korespondencji 
+decyduje: 
+A. 
+stacja statkowa 
+B. 
+RCC 
+C. 
+stacja nadbrzeżna 
+ 
+98. 
+Wykaz korespondencji (traffic list) nadawany jest przez: 
+A. 
+stację statkową 
+B. 
+RCC 
+C. 
+stację nadbrzeżną 
+ 
+99. 
+Jeżeli wywoływana stacja nie odpowiada na wywołanie publiczne DSC, kolejne można 
+powtórzyć po: 
+A. 
+3 minutach 
+B. 
+5 minutach 
+C. 
+8 minutach 
+ 
+100. Jeżeli wywoływana stacja nie odpowiada na radiotelefoniczne wywołanie publiczne, 
+kolejne można powtórzyć po: 
+A. 
+4 minutach, a następne po 1 minucie 
+B. 
+5 minutach, a następne po 10 minutach 
+C. 
+2 minutach, a następne po 3 minutach 
+ 
+101. Jednostka pływająca może zrealizować radiotelefoniczną łączność publiczną z 
+abonentem telekomunikacyjnej sieci lądowej: 
+A. 
+bezpośrednio przez telekomunikacyjną sieć lądową 
+B. 
+za pośrednictwem innej, większej stacji statkowej 
+C. 
+za pośrednictwem stacji nadbrzeżnej 
+ 
+102. Radiotelefoniczną łączność publiczną z telekomunikacyjną siecią lądową, prowadzi się 
+na kanale: 
+A. 
+16 
+B. 
+13 
+C. 
+wskazanym przez stację nadbrzeżną 
+ 
+103. Prowadząc łączność radiotelefoniczną, sygnałem zakończenia wypowiedzi jest sygnał: 
+A. 
+PAN PAN 
+B. 
+OVER 
+ 
+ 
+C. 
+STOP 
+ 
+104. Prowadząc łączność radiotelefoniczną, sygnałem zakończenia łączności jest sygnał: 
+A. 
+OVER AND OUT 
+B. 
+OVER 
+C. 
+STOP 
+ 
+105. Po przejściu na kanał roboczy, radiotelefoniczne wywołanie publiczne powinno mieć 
+formę: 
+A. 
+nazwa stacji wywoływanej (4x) This is nazwa stacji wywołującej (4x) 
+B. 
+nazwa stacji wywoływanej (1x) This is nazwa stacji wywołującej (1x) 
+C. 
+nazwa stacji wywoływanej (2x) This is nazwa stacji wywołującej (2x) 
+ 
+106. Stacja nadbrzeżna pytając stację statkową o jej położenie może użyć skrótu: 
+A. 
+QRJ 
+B. 
+AAIC 
+C. 
+QTH 
+ 
+107. Publikacja ITU „Spis stacji nadbrzeżnych” zawiera podstawowe dane o: 
+A. 
+stacjach nadbrzeżnych otwartych dla korespondencji publicznej 
+B. 
+tylko stacjach nadbrzeżnych nadających MSI 
+C. 
+tylko stacjach nadbrzeżnych nadających prognozy pogody 
+ 
+108. Publikacja ITU „Spis stacji nadbrzeżnych” zawiera podstawowe dane o: 
+A. 
+tylko stacjach nadbrzeżnych otwartych dla korespondencji publicznej 
+B. 
+stacjach nadbrzeżnych nadających MSI 
+C. 
+RSC 
+ 
+109. W Polsce, dokument „Pozwolenie radiowe na stację statkową” wydaje: 
+A. 
+PRS 
+B. 
+Urząd Morski (UM) 
+C. 
+Urząd Komunikacji Elektronicznej (UKE) 
+ 
+110. Dokument „Pozwolenie radiowe na stację statkową” poświadcza o zgodności 
+zainstalowanych na jednostce urządzeń radiowych z 
+A. 
+przepisami PRS 
+B. 
+postanowieniami Regulaminu Radiokomunikacyjnego ITU 
+C. 
+prawidłami Konwencji SOLAS 
+ 
+111. W Polsce, dokument „Karta bezpieczeństwa” jest przyznawany przez 
+A. 
+PRS 
+B. 
+Urząd Komunikacji Elektronicznej (UKE) 
+C. 
+Urząd Morski (UM) 
+ 
+112. „Świadectwo operatora łączności bliskiego zasięgu (SRC)” upoważnia do obsługi 
+urządzeń radiowych wykorzystujących częstotliwości i techniki stosowane w GMDSS 
+na statkach morskich niepodlegających Konwencji SOLAS: 
+A. 
+w pasmach częstotliwości VHF, MF i HF 
+B. 
+na obszarze morza A1 
+C. 
+tylko w paśmie częstotliwości VHF 
+ 
+ 
+ 
+113. W „Dzienniku radiowym” należy odnotowywać 
+A. 
+przynajmniej raz dziennie pozycję jednostki 
+B. 
+liczbę członków załogi 
+C. 
+pozycję jednostki minimum trzy razy na dobę 
+ 
+114. Zapewnienie tajemnicy korespondencji polega na tym, że: 
+A. 
+tylko informacja wychodząca ze stacji nie może trafić do osób trzecich 
+B. 
+tylko informacja przychodząca do stacji nie może trafić do osób trzecich 
+C. 
+informacja przychodząca i wychodząca ze stacji nie może trafić do osób trzecich 
+ 
+Podstawowe terminy anglojęzyczne stosowane w radiokomunikacyjnej służbie morskiej 
+ 
+115. Potrzebuję asysty. 
+A. 
+I require assistance. 
+B. 
+I require escort. 
+C. 
+I need attention. 
+ 
+116. Pożar w nadbudówce. 
+A. 
+Superstructure is fireing. 
+B. 
+I am having fire in superstructure. 
+C. 
+Superstructure on fire. 
+ 
+117. Nabieram wody. 
+A. 
+I am flooding. 
+B. 
+I am making water 
+C. 
+I am taking water. 
+ 
+118. Czy możecie udzielić pomocy? 
+A. 
+Are you helping me? 
+B. 
+Can you render assistance? 
+C. 
+Do you help me? 
+ 
+119. Czy możesz podjąć rozbitków? 
+A. 
+Can you receive survivors? 
+B. 
+Can you require survivors? 
+C. 
+Can you pick up survivors? 
+ 
+120. Widzialność jest zmniejszona z powodu mgły. 
+A. 
+Visibility is getting foggy. 
+B. 
+Visibility is reduced by fog. 
+C. 
+Visibility is reduced by snow. 
+ 
+121. Podaj liczbę rannych. 
+A. 
+Say injured persons. 
+B. 
+Inform injured. 
+C. 
+Report injured persons. 
+ 
+122. Stan rozbitków jest dobry. 
+A. 
+Survivors in good condition. 
+B. 
+Survivors are good. 
+C. 
+Survivors in bad condition. 
+ 
+ 
+ 
+123. Przechodzę na kanał … UKF. 
+A. 
+I am coming to canal ... VHF. 
+B. 
+I am going to channel ... UKF. 
+C. 
+Changing to channel ... VHF. 
+ 
+124. Śruba statku jest uszkodzona. 
+A. 
+Propeller damaged. 
+B. 
+Bolt damaged. 
+C. 
+Propeller are damaged. 
+ 
+125. Zalecam ci przejść na kanał UKF 
+A. 
+I recommend to come to channel VHF. 
+B. 
+I recommend to switch on to UKF channel. 
+C. 
+Advise go to VHF channel. 
+ 
+126. Dryfuję z prędkością 2 węzłów. 
+A. 
+I am adrift. 
+B. 
+I am drifting at 2 knots. 
+C. 
+I am proceeding with drift. 
+ 
+127. Brak zasilania. 
+A. 
+No current. 
+B. 
+No feedback. 
+C. 
+No power supply. 
+ 
+128. Kiedy nadejdzie pomoc? 
+A. 
+When is assistance going? 
+B. 
+When help is to come? 
+C. 
+When will assistance arrive? 
+ 
+129. Mam kłopoty z silnikiem głównym. 
+A. 
+I do not have main engine. 
+B. 
+I have difficulty with main engine 
+C. 
+I have problems with main engine. 
+ 
+130. Mam niebezpieczny przechył na lewą burtę. 
+A. 
+I have dangerous list to port. 
+B. 
+I am having a heel to left side. 
+C. 
+I am heel dangerously to port. 
+ 
+131. Mam problemy z urządzeniem sterowym. 
+A. 
+I have problems with steering gear. 
+B. 
+I have problems with rudder. 
+C. 
+I have problems with steering. 
+ 
+132. I read you (dobrze). 
+A. 
+fair 
+B. 
+good 
+C. 
+very well 
+ 
+ 
+ 
+133. Nie odpowiadam za swoje ruchy. 
+A. 
+I am not responsible for my movements. 
+B. 
+I do not have responsibility for my moving. 
+C. 
+I am not under command. 
+ 
+134. How do you (odbierasz mnie)? 
+A. 
+listen to me 
+B. 
+read me 
+C. 
+receive me 
+ 
+135. I am sinking (po zalaniu). 
+A. 
+after flowing. 
+B. 
+before flooding. 
+C. 
+after flooding. 
+ 
+136. Odebrałem twój sygnał Mayday. 
+A. 
+I can read your Mayday message. 
+B. 
+I have copied your Mayday signal. 
+C. 
+I have received your Mayday signal. 
+ 
+137. Muszę opuścić statek po zderzeniu. 
+A. 
+I have to leave vessel before collision. 
+B. 
+I have to abandon ship after crash. 
+C. 
+I must abandon vessel after collision. 
+ 
+138. Utrzymuj kontakt radiowy na kanale. 
+A. 
+Stay in touch on radio on channel. 
+B. 
+Remain contact on radio channel. 
+C. 
+Stand by on radio channel. 
+ 
+139. Jakie jest wasze obecne maksymalne zanurzenie? 
+A. 
+What is your present maximum freeboard? 
+B. 
+What is your present air draft? 
+C. 
+What is your present maximum draft? 
+ 
+140. Nie mogę płynąć bez pomocy. 
+A. 
+I do not have to sail without assistance. 
+B. 
+I cannot proceed without assistance. 
+C. 
+I can’t proceeded without assistance. 
+ 
+141. Załoga opuściła statek. 
+A. 
+Crew left ship. 
+B. 
+Crew are abandoning vessel. 
+C. 
+Crew has abandoned vessel. 
+ 
+142. Mam poważne uszkodzenia przyrządów nawigacyjnych. 
+A. 
+I have major damage to navigational instruments. 
+B. 
+I have seriously damaged my navigational instruments. 
+C. 
+My navigational instruments have damaged seriously. 
+ 
+143. Utrzymuj nasłuch na kanale UKF. 
+ 
+ 
+A. 
+Stand by on channel VHF. 
+B. 
+Keep listening on channel UKF. 
+C. 
+Keep watch on channel UKF. 
+ 
+144. Proszę o holownik i karetkę dla ofiar wypadku 
+A. 
+Give me tug and ambulance. 
+B. 
+Send tug and ambulance for survivors. 
+C. 
+Send tug and ambulance for casualties. 
+ 
+145. Powiedz jeszcze raz proszę. 
+A. 
+Tell me once more please. 
+B. 
+Say again please. 
+C. 
+Repeat please. 
+ 
+146. Przewidywane jest pogorszenie widzialności. 
+A. 
+Visibility is getting bad. 
+B. 
+Visibility is deteriorating. 
+C. 
+Visibility is expected to decrease. 
+ 
+147. Stan rozbitków jest zły. 
+A. 
+Condition of castaways is not bad. 
+B. 
+Survivors in bad condition. 
+C. 
+Survivors are bad. 
+ 
+148. Mój radar jest uszkodzony. 
+A. 
+My radar is damaged.. 
+B. 
+My radar has damaged. 
+C. 
+My radar brake down. 
+ 
+149. Zderzyłem się z nieznanym obiektem. 
+A. 
+I have collided with unknown vessel. 
+B. 
+I have collided with unknown object. 
+C. 
+I have collided with unknown derelict. 
+ 
+150. Jakie masz problemy? 
+A. 
+What problems do you have? 
+B. 
+What have you problems? 
+C. 
+What problems is been? 
+ 
+151. Widzialność jest zmniejszona z powodu rzadkiej mgły. 
+A. 
+Visibility is smaller by hail. 
+B. 
+Visibility is reduced by mist. 
+C. 
+Visibility is limited by drizzle. 
+ 
+152. Muszę zejść z toru wodnego. 
+A. 
+I must get rid of fairway. 
+B. 
+I must leave fairway. 
+C. 
+I have to left fairway. 
+ 
+153. Koniec przekazu. 
+A. 
+Finished. 
+ 
+ 
+B. 
+Over and out. 
+C. 
+Out. 
+ 
+154. Mam przeciek poniżej linii wodnej. 
+A. 
+I am leaking above water line. 
+B. 
+I have a leak below water line. 
+C. 
+I have a leak under water line. 
+ 
+155. Pożar opanowany. 
+A. 
+Fire been extinguished. 
+B. 
+Fire is putted out. 
+C. 
+Fire is under control. 
+ 
+156. Kiedy przybędziesz na pozycję statku w niebezpieczeństwie? 
+A. 
+When will you run to position in danger? 
+B. 
+When will you go to ship in dangerous? 
+C. 
+When will you arrive at distress position? 
+ 
+157. Odbieram ciebie słabo. 
+A. 
+I read you bad. 
+B. 
+I read you loud and clear. 
+C. 
+I read you poor. 
+ 
+158. Osłońcie mnie od wiatru. 
+A. 
+Make a lee for me. 
+B. 
+Shelter me. 
+C. 
+Keep wind away of me. 
+ 
+159. Musicie utrzymywać ciszę radiową na tym obszarze. 
+A. 
+Radio must be silent in this area. 
+B. 
+You must keep radio silence in this area.. 
+C. 
+Be quiet in this area. 
+ 
+160. Z mego statku wypadł człowiek za burtę. 
+A. 
+I have lost person overboard. 
+B. 
+A person felt overboard. 
+C. 
+My vessel threw person overboard. 
+ 
+161. Manewruję z trudnością. 
+A. 
+I am steering with problem. 
+B. 
+I am manoeuvring with difficulty. 
+C. 
+I was maneuvering with difficulty. 
+ 
+162. Błąd, poprawka. 
+A. 
+Mistake, advice. 
+B. 
+Error, improvement. 
+C. 
+Mistake, correction. 
+ 
+163. Stanowicie przeszkodę dla ruchu. 
+A. 
+You are obstructing other traffic. 
+B. 
+You disturb other vessels. 
+ 
+ 
+C. 
+You hamper other ships. 
+ 
+164. Próbuję płynąć bez pomocy. 
+A. 
+I try proceed without help. 
+B. 
+I try to sail without attendance. 
+C. 
+I try to proceed without assistance. 
+ 
+165. Jaka jest twoja wysokość nadwodna? 
+A. 
+What is your height over waterline? 
+B. 
+What is your height over water? 
+C. 
+What is your air draft? 
+ 
+166. Czy możesz zejść z mielizny w czasie przypływu? 
+A. 
+Can you refloat in ebb tide? 
+B. 
+Can you aground during tide? 
+C. 
+Can you refloat when tide rises? 
+ 
+167. Czy jesteś w drodze? 
+A. 
+Are you in a way? 
+B. 
+Are you under way? 
+C. 
+Have you on your way? 
+ 
+168. Pława świetlna nie świeci. 
+A. 
+Lightbuoy not illuminated. 
+B. 
+Lightbeacon unlighted. 
+C. 
+Lightbuoy unlit. 
+ 
+169. Na torze wodnym znajdują się sieci rybackie. 
+A. 
+Fairway in fishing gear. 
+B. 
+Fishing nets fouled fairway. 
+C. 
+Fishing nets in fairway. 
+ 
+170. Ogień rozprzestrzenia się. 
+A. 
+Fire is decreasing. 
+B. 
+Fire is increasing. 
+C. 
+Fire is spreading. 
+ 
+171. Wasz sygnał zrozumiany, odbiór. 
+A. 
+Your signal understand, over. 
+B. 
+Your signal understood, over. 
+C. 
+I get your message, over. 
+ 
+172. Jest odpływ. 
+A. 
+Tide falling. 
+B. 
+Tide dropping. 
+C. 
+Tide reducing. 
+ 
+173. Proszę o potwierdzenie odbioru wiadomości. 
+A. 
+Please acknowledge message. 
+B. 
+Message over. 
+C. 
+I got your message. 
+ 
+ 
+ 
+174. Mam niebezpieczny przechył na prawą burtę. 
+A. 
+I am on starboard. 
+B. 
+I have dangerous list to port. 
+C. 
+I have dangerous list to starboard. 
+ 
+ 
+ 
+OGÓLNA  WIEDZA  O  PODSYSTEMACH  I  URZĄDZENIACH  
+RADIOWYCH  GMDSS,  STOSOWANYCH  NA  OBSZARZE  MORZA  
+A1 
+ 
+1. 
+Utworzony system GMDSS pozwala na: 
+A. 
+efektywne alarmowanie w relacji statek -  brzeg 
+B. 
+automatyczne alarmowanie w relacji statek - samolot 
+C. 
+automatyczne wykrywanie katastrof 
+ 
+2. 
+System GMDSS do alarmowania stosuje: 
+A. 
+radiotelegrafię na kanale 16 
+B. 
+radiotelegrafię na kanale 70 
+C. 
+cyfrowe selektywne wywołanie 
+ 
+3. 
+Koncepcja systemu GMDSS pozwala na organizację ratownictwa przez: 
+A. 
+statki będące w okolicy katastrofy 
+B. 
+centrum poszukiwań SAR 
+C. 
+statki w porozumieniu z RCC i SAR 
+ 
+4. 
+Definicja obszaru morza A1 to: 
+A. 
+A1- obszar w promieniu 20 mil morskich od nadbrzeżnej stacji VHF w którym 
+statki mają możliwość pewnej i skutecznej łączności radiowej 
+B. 
+Obszar A1 to obszar w otoczeniu radiotelegraficznej stacji VHF pracującej na 
+częstotliwości 156,8 MHz (kanał 16) 
+C. 
+Obszar radiotelefonicznego zasięgu co najmniej jednej stacji brzegowej VHF,  
+w którym jest zapewniona ciągła łączność alarmowa za pomocą DSC i który jest 
+określony przez administrację 
+ 
+5. 
+Średni zasięg łączności alarmowej za pomocą DSC w obszarze A1 wynosi około: 
+A. 
+5 NM 
+B. 
+30 NM 
+C. 
+100 NM 
+ 
+6. 
+Nadawanie sygnałów alarmowych w GMDSS w obszarze A1 jest możliwe za pomocą: 
+A. 
+NAVTEX 
+B. 
+DSC 
+C. 
+EGC 
+ 
+7. 
+Do nadawania sygnałów alarmowych w obszarze A1 stosowane są: 
+A. 
+kanał 13 
+B. 
+kanał 6 
+C. 
+kanał 70 
+ 
+8. 
+Realizacja komunikacji dla celów pilnych jest możliwa z wykorzystaniem systemów: 
+A. 
+DSC 
+B. 
+MSI 
+C. 
+EGC 
+ 
+9. 
+Realizacja komunikacji dla celów bezpieczeństwa jest możliwa z wykorzystaniem 
+systemów: 
+ 
+ 
+A. 
+DSC 
+B. 
+WWNWS 
+C. 
+MSI 
+ 
+10. 
+Informacje zawarte w sygnale alarmowym to: 
+A. 
+długość statku i wyporność 
+B. 
+rodzaj zagrożenia i położenie geograficzne 
+C. 
+rodzaj przewożonego ładunku 
+ 
+11. 
+Łączność koordynacyjna to łączność do: 
+A. 
+zapewnienia koordynacji działań statków i lotnictwa 
+B. 
+koordynacji ruchu statku 
+C. 
+koordynacji kolejności działań środków radiokomunikacyjnych 
+ 
+12. 
+Łączność na miejscu akcji jest utrzymywana z wykorzystaniem częstotliwości: 
+A. 
+8414 kHz 
+B. 
+156,8 MHz 
+C. 
+9 GHz 
+ 
+13. 
+Lokalizacja rozbitków jest dokonywana za pomocą: 
+A. 
+systemów namiarowych 
+B. 
+DSC kanał 70 
+C. 
+transpondera radarowego 
+ 
+14. 
+Uzyskanie namiaru na transponder radarowy SART uzyskuje się za pomocą radaru 
+pracującego na częstotliwościach pasma: 
+A. 
+9 GHz 
+B. 
+3 GHz 
+C. 
+12 GHz 
+ 
+15. 
+Rozpowszechnianie morskich informacji bezpieczeństwa dotyczy: 
+A. 
+informacji komercyjnych 
+B. 
+pilnych informacji nawigacyjnych i meteorologicznych 
+C. 
+prognoz optymalnych częstotliwości propagacyjnych 
+ 
+16. 
+Realizacja łączności pomiędzy dwoma mostkami statków jest możliwa za pomocą: 
+A. 
+radiotelefonii na częstotliwości 2182 kHz 
+B. 
+radiotelefonii na kanale 6 i 13 
+C. 
+radiotelefonii na kanale 70 
+ 
+17. 
+W skład wyposażenia statku pływającego w obszarze A1 wchodzi: 
+A. 
+urządzenie nadawczo-odbiorcze na kanale 70 
+B. 
+urządzenie nadawczo-odbiorcze na częstotliwości 2187,5 kHz 
+C. 
+urządzenie nadawczo-odbiorcze na częstotliwości 406 MHz 
+ 
+18. 
+System cyfrowego selektywnego wywołania to system: 
+A. 
+do transmisji ostrzeżeń pogodowych 
+B. 
+do transmisji ostrzeżeń nawigacyjnych 
+C. 
+do automatycznego ustanawiania połączeń radiowych i alarmowania 
+ 
+19. 
+W DSC stosowana jest transmisja: 
+ 
+ 
+A. 
+cyfrowa 
+B. 
+analogowa 
+C. 
+impulsowa 
+ 
+20. 
+Do transmisji radiowej sygnału DSC w paśmie VHF stosuje się częstotliwość kanału: 
+A. 
+16-go 
+B. 
+70-go 
+C. 
+6-go 
+ 
+21. 
+Do transmisji radiowej sygnału DSC w paśmie VHF stosuje się: 
+A. 
+modulację amplitudy 
+B. 
+modulację impulsową 
+C. 
+modulację fazy 
+ 
+22. 
+Czas trwania całkowitego pojedynczego wywołania DSC w paśmie VHF wynosi: 
+A. 
+6,2 s - 7,2 s 
+B. 
+0,45 s - 0,63 s 
+C. 
+3 s - 4 s 
+ 
+23. 
+Pole „kategorii” definiuje: 
+A. 
+priorytet sekwencji wywoławczej 
+B. 
+adres sekwencji wywoławczej 
+C. 
+zastosowany rodzaj adresu 
+ 
+24. 
+Wywołania alarmowe DSC nadawane na kanale 70 zawierają następujące 
+dane/informacje: 
+A. 
+numer MMSI, pozycja, czas aktualności pozycji 
+B. 
+pozycja, czas aktualności pozycji, posiadane środki ratunkowe 
+C. 
+rodzaj zagrożenia, pozycja, czas aktualności pozycji, rodzaj oczekiwanej pomocy 
+ 
+25. 
+Nadanie przez statek sygnału alarmowego w paśmie VHF fonicznie lub w DSC może 
+być realizowane na: 
+A. 
+jednej częstotliwości 
+B. 
+dwóch częstotliwościach 
+C. 
+trzech częstotliwościach 
+ 
+26. 
+Zasady potwierdzania odbioru wywołania w niebezpieczeństwie w paśmie VHF przez 
+stację nadbrzeżną to: 
+A. 
+potwierdzenie 
+odbioru 
+wywołania 
+w 
+niebezpieczeństwie 
+powinno 
+być 
+zainicjowane ręcznie- na tej samej częstotliwości na której odebrano to 
+wywołanie z opóźnieniem co najmniej jednominutowym 
+B. 
+potwierdzenie 
+odbioru 
+wywołania 
+w 
+niebezpieczeństwie 
+powinno 
+być 
+zainicjowane ręcznie na częstotliwości kanału 70 
+C. 
+potwierdzenie 
+odbioru 
+wywołania 
+w 
+niebezpieczeństwie 
+powinno 
+być 
+zainicjowane ręcznie- na tej samej częstotliwości na której odebrano to 
+wywołanie z opóźnieniem- nie większym jednak niż 2,75 min 
+ 
+27. 
+Nadanie korespondencji typu pośrednictwo w niebezpieczeństwie przez statek w 
+paśmie VHF polega na: 
+ 
+ 
+A. 
+nadaniu typu pośrednictwo w niebezpieczeństwie do wszystkich statków lub 
+wybranej stacji 
+B. 
+nadaniu typu pośrednictwo w niebezpieczeństwie do właściwej stacji nadbrzeżnej 
+C. 
+nadaniu typu pośrednictwo w niebezpieczeństwie do wszystkich stacji 
+nadbrzeżnych 
+ 
+28. 
+Przedstaw możliwości stosowania kanałów DSC w korespondencji publicznej w 
+paśmie VHF. 
+A. 
+w paśmie VHF kanał 70 stosowany jest zarówno do wywołań DSC w 
+niebezpieczeństwie jak i do celów zapewnienia bezpieczeństwa. Jest również 
+stosowany do wywołań DSC w celu zrealizowania korespondencji publicznej 
+B. 
+w paśmie VHF kanał 70 nie może być stosowany w celu zrealizowania 
+korespondencji publicznej 
+C. 
+w paśmie VHF kanał 70 nie może być stosowany do celów zapewnienia 
+bezpieczeństwa 
+ 
+29. 
+Testowanie zewnętrzne aparatury DSC w paśmie VHF, zgodnie z przepisami ITU oraz 
+Konwencji STCW, ma być realizowane: 
+A. 
+tak często jak to jest niezbędne 
+B. 
+testowanie jest zabronione 
+C. 
+raz na tydzień 
+ 
+30. 
+System NAVTEX służy do: 
+A. 
+transmisji map synoptycznych 
+B. 
+transmisji ostrzeżeń nawigacyjnych 
+C. 
+łączności z publiczną siecią telefoniczną 
+ 
+31. 
+Stacje systemu NAVTEX pracują na częstotliwości: 
+A. 
+2177 kHz 
+B. 
+490 kHz 
+C. 
+156,8 MHz 
+ 
+32. 
+Podstawową częstotliwością transmisji w systemie NAVTEX jest: 
+A. 
+518 kHz 
+B. 
+4125 kHz 
+C. 
+500 kHz 
+ 
+33. 
+Zasięg stacji systemu NAVTEX wynosi: 
+A. 
+50-100 Mm 
+B. 
+350 – 1000 Mm 
+C. 
+200 – 400 Mm 
+ 
+34. 
+Zasięg stacji systemu NAVTEX jest największy: 
+A. 
+w dzień 
+B. 
+w nocy 
+C. 
+rano 
+ 
+35. 
+W jaki sposób dokonuje się w odbiorniku NAVTEX ustawienia stacji: 
+ 
+ 
+A. 
+przez wpisanie nazwy stacji 
+B. 
+przez podanie pozycji geograficznej odbiornika 
+C. 
+przez ustawienie litery odpowiadającej nazwie stacji 
+ 
+36. 
+W jaki sposób dokonuje się w odbiorniku NAVTEX ustawienia rodzaju odbieranych 
+informacji: 
+A. 
+przez wpisanie numeru informacji  
+B. 
+przez ustawienie litery odpowiadającej typowi informacji 
+C. 
+w odbiorniku nie ma możliwości wyboru odbieranych informacji 
+ 
+37. 
+„ZCZC JA23” w nagłówku komunikatu odebranego ze stacji NAVTEX oznacza że: 
+A. 
+komunikat nadany został przez stację „A” 
+B. 
+komunikat nadany został przez stację „J” 
+C. 
+komunikat dotyczy ostrzeżenia meteorologicznego 
+ 
+38. 
+„ZCZC UB66” w nagłówku komunikatu odebranego ze stacji NAVTEX oznacza że: 
+A. 
+komunikat nadany został przez stację „U” 
+B. 
+komunikat nadany został przez stację „J” 
+C. 
+komunikat dotyczy ostrzeżenia nawigacyjnego 
+ 
+39. 
+Jakie komunikaty będą zawsze wyświetlane/drukowane przez odbiornik systemu 
+NAVTEX: 
+A. 
+ostrzeżenia meteorologiczne 
+B. 
+prognozy pogody 
+C. 
+raporty lodowe 
+ 
+40. 
+Druga litera B w nagłówku komunikatu stacji NAVTEX (np. LB47) oznacza, że jest to: 
+A. 
+ostrzeżenie meteorologiczne 
+B. 
+informacja dotycząca ataku piratów 
+C. 
+prognoza pogody 
+ 
+41. 
+Stacje systemu NAVTEX nadają komunikaty: 
+A. 
+dwa razy na dobę 
+B. 
+o godz. 0700 i 2300 UTC  
+C. 
+nie częściej niż co cztery godziny 
+ 
+42. 
+Sekwencja „NNN” w wydruku komunikatu odbiornika NAVTEX oznacza: 
+A. 
+komunikat pilny 
+B. 
+komunikat odebrany poprawnie 
+C. 
+komunikat odebrany niepoprawnie 
+ 
+43. 
+Sekwencja „NNNN” w wydruku komunikatu odbiornika NAVTEX oznacza: 
+A. 
+komunikat pilny 
+B. 
+komunikat który odebrany został ze stopą błędu mniejszą od 4% 
+C. 
+komunikat odebrany niepoprawnie 
+ 
+44. 
+Komunikaty transmitowane na częstotliwości 518 kHz nadawane są w języku: 
+A. 
+angielskim 
+B. 
+angielskim i francuskim 
+C. 
+w języku państwa, z terenu którego nadaje stacja NAVTEX 
+ 
+ 
+ 
+45. 
+„ZCZC BB01” w nagłówku komunikatu odebranego ze stacji NAVTEX oznacza: 
+A. 
+ostrzeżenie nawigacyjne 
+B. 
+ostrzeżenie meteorologiczne 
+C. 
+komunikat nadany został dla obszaru morza A1 
+ 
+46. 
+Odbiornik systemu NAVTEX wyświetla/drukuje: 
+A. 
+wszystkie komunikaty z zaprogramowanych stacji 
+B. 
+wszystkie komunikaty dotyczące ostrzeżeń nawigacyjnych, meteorologicznych i 
+informacji o akcjach SAR z wszystkich stacji w zasięgu odbioru 
+C. 
+wszystkie komunikaty dotyczące ostrzeżeń nawigacyjne, meteorologicznych i 
+informacji o akcjach SAR z zaprogramowanych stacji 
+ 
+47. 
+Częstotliwość 490 kHz jest stosowana w systemie NAVTEX do: 
+A. 
+transmisji komunikatów w obszarach tropikalnych 
+B. 
+transmisji komunikatów w rejonach polarnych 
+C. 
+transmisji komunikatów w języku lokalnym 
+ 
+48. 
+W systemie NAVTEX sygnały transmitowane są: 
+A. 
+w trybie teleksowym FEC 
+B. 
+z zastosowaniem modulacji G2B 
+C. 
+głosowo 
+ 
+49. 
+W nocy zasięg odbioru sygnałów w systemie NAVTEX jest: 
+A. 
+większy niż w dzień 
+B. 
+taki sam jak w dzień 
+C. 
+mniejszy niż w dzień 
+ 
+50. 
+W rejonach tropikalnych zasięg odbioru sygnałów transmitowanych na częstotliwości 
+518 kHz: 
+A. 
+zależy od pory doby 
+B. 
+wynosi 75 Mm 
+C. 
+nie zależy od pory doby 
+ 
+51. 
+Nadanie komunikatowi NAVTEX numeru 00 (np. JD00) spowoduje: 
+A. 
+że komunikat o tym numerze zostanie zignorowany 
+B. 
+że wszystkie odbiorniki NAVTEX znajdujące się w zasięgu stacji nadającej 
+wydrukują tak oznaczony komunikat, niezależnie od dokonanego przez 
+użytkownika ustawienia stacji 
+C. 
+że komunikat nadany został o godz. 00:00 
+ 
+52. 
+Stacje NAVTEX powtarzają w kolejnych transmisjach komunikaty: 
+A. 
+tak długo, dopóki nie ustanie powód z którego dany komunikat jest nadawany 
+B. 
+przez 7 dni 
+C. 
+dwa razy 
+ 
+53. 
+Informacje o rozmieszczeniu, zasięgach i czasach nadawania stacji NAVTEX można 
+znaleźć w: 
+A. 
+List of Coast Stations and Special Service Stations - ITU 
+B. 
+Admirality List of Radio Signals Vol. 1 
+C. 
+List of Ship Stations - ITU 
+ 
+ 
+ 
+54. 
+Zainstalowanie na statku odbiornika systemu NAVTEX wymaga zgody: 
+A. 
+Urzędu Komunikacji Elektronicznej 
+B. 
+Urzędu Morskiego 
+C. 
+żadnego z powyższych 
+ 
+55. 
+Koordynatorem odpowiedzialnym za gromadzenie i dystrybucję morskich informacji 
+bezpieczeństwa w obszarze polskiej strefy ekonomicznej jest: 
+A. 
+Urząd Morski w Gdyni 
+B. 
+Urząd Morski w Szczecinie 
+C. 
+Biuro Hydrograficzne Marynarki Wojennej 
+ 
+56. 
+Informacje o transmisjach morskich informacji bezpieczeństwa za pomocą innych 
+systemów niż NAVTEX znaleźć można w: 
+A. 
+List of Cost Stations and Special Service Stations - ITU 
+B. 
+Admirality List of Radio Signals Vol. 1 
+C. 
+Admirality List of Radio Signals Vol. 5 
+ 
+57. 
+W systemie GMDSS stosuje się radiopławy: 
+A. 
+systemu COSPAS-SARSAT nadające sygnały na częstotliwości 406 MHz i 121,5 
+MHz 
+B. 
+systemu INMARSAT-E pracujące w paśmie 1,6 GHz 
+C. 
+systemu COSPAS-SARSAT nadające sygnały na częstotliwości 406 MHz i 243 
+MHz 
+ 
+58. 
+W skład systemu COSPAS-SARSAT wchodzi blok satelitów poruszających się po 
+orbitach polarnych. Które z poniższych stwierdzeń jest prawdziwe: 
+A. 
+wysokość orbit polarnych wynosi około 3000 km  
+B. 
+wysokość orbit polarnych wynosi 850 - 1000 km 
+C. 
+wysokość orbit polarnych wynosi około 240 km 
+ 
+59. 
+W skład systemu COSPAS-SARSAT wchodzi blok satelitów poruszających się po 
+orbitach polarnych. Czas obiegu Ziemi przez satelitę poruszającego się po orbicie 
+polarnej wynosi: 
+A. 
+około 105 minut 
+B. 
+około 12 godzin 
+C. 
+około 24 godziny 
+ 
+60. 
+W skład systemu COSPAS-SARSAT wchodzi blok satelitów poruszających się po 
+orbitach polarnych. Przelatujący satelita „widzi” z orbity radiopławę przez: 
+A. 
+około 12-16 minut 
+B. 
+około 3 minuty 
+C. 
+około 30 minut 
+ 
+61. 
+W skład systemu COSPAS-SARSAT wchodzi blok satelitów geostacjonarnych 
+składający się z: 
+A. 
+3 satelitów 
+B. 
+12 – 15 satelitów 
+C. 
+4 – 6 satelitów 
+ 
+62. 
+Do określenia położenia radiopławy w systemie COSPAS-SARSAT wykorzystujemy: 
+ 
+ 
+A. 
+pomiar czasu przelotu sygnałów na trasie radiopława - satelita 
+B. 
+pomiar czasu przelotu sygnałów na trasie radiopława - satelita - stacja LUT 
+C. 
+zjawisko Dopplera 
+ 
+63. 
+Bateria litowa zasilająca radiopławę powinna zapewnić: 
+A. 
+nieprzerwaną pracę radiopławy przez 96 godzin 
+B. 
+nieprzerwaną pracę radiopławy przez 48 godzin 
+C. 
+nieprzerwaną pracę radiopławy do momentu odbioru sygnałów przez satelitę 
+ 
+64. 
+Sygnał o częstotliwość 121,5 MHz nadawany przez radiopławę systemu COSPAS-
+SARSAT służy do: 
+A. 
+ końcowego naprowadzania jednostek SAR na rozbitków (na radiopławę) 
+B. 
+do rozwiązania problemu niejednoznaczności określanej pozycji 
+C. 
+do 
+lokalizacji 
+położenia 
+radiopław 
+w 
+obszarze 
+pokrycia 
+satelitów 
+geostacjonarnych 
+ 
+65. 
+Dokładność lokalizacji radiopławy w systemie COSPAS-SARSAT wynosi: 
+A. 
+około 5 km w przypadku wykorzystania sygnałów o częstotliwości 406 MHz 
+B. 
+około 1 km w przypadku wykorzystania sygnałów o częstotliwości 406 MHz i 
+121,5 MHz 
+C. 
+około 2 km w przypadku wykorzystania sygnałów o częstotliwości 121,5 MHz 
+ 
+66. 
+Które z poniższych zdań jest prawdziwe? 
+A. 
+Zasięg wykrywania radiopław 121,5 MHz jest globalny. 
+B. 
+Częstotliwość 121,5 MHz nie jest śledzona przez segment satelitarny. 
+C. 
+Częstotliwość 121,5 MHz jest śledzona przez satelity geostacjonarne. 
+ 
+67. 
+Sygnały nadawane przez radiopławę na częstotliwości 406 MHz: 
+A. 
+nadawane są przez około 0,5 sekundy i powtarzane co 2 minuty 
+B. 
+nadawane są przez około 0,5 sekundy i powtarzane co 50 +/- 2,5 sekundy 
+C. 
+zawierają dane armatora 
+ 
+68. 
+Sygnały nadawane przez radiopławę na częstotliwości 406 MHz zawierają: 
+A. 
+informacje o producencie radioławy 
+B. 
+MID (Maritime Identification Digits) kod kraju 
+C. 
+datę i czas uruchomienia radiopławy 
+ 
+69. 
+Sygnały nadawane przez radiopławę na częstotliwości 406 MHz pozwalają na 
+identyfikację statku z którego pochodzi radiopława na podstawie zakodowanego: 
+A. 
+numeru MMSI 
+B. 
+MID (Maritime Identification Digits) - kodu kraju 
+C. 
+kodu armatora 
+ 
+70. 
+Radiopława systemu COSPAS-SARSAT ma: 
+A. 
+wbudowany sygnalizator dźwiękowy 
+B. 
+wbudowane źródło światła ciągłego 
+C. 
+wbudowany nadajnik do lokalizacji końcowego miejsca katastrofy (do 
+naprowadzania jednostek SAR) 
+ 
+71. 
+Radiopławy systemu COSPAS-SARSAT mogą być uruchomione: 
+ 
+ 
+A. 
+automatycznie za pomocą zwalniaka hydrostatycznego, gdy statek tonie 
+B. 
+przez wpisanie właściwego kodu 
+C. 
+zdalnie z RCC 
+ 
+72. 
+W przypadku uruchomienia radiopławy systemu COSPAS-SARSAT, czas jaki upływa 
+od jej uruchomienia do powiadomienia RCC wynosi: 
+A. 
+około 5 minut jeżeli radiopława znajduje się w zasięgu satelitów geostacjonarnych 
+B. 
+około 15 minut jeżeli radiopława została uruchomiona w dzień 
+C. 
+około 25 minut jeżeli radiopława została uruchomiona w nocy 
+ 
+73. 
+Obieg informacji o alarmowaniu w systemie COSPAS-SARSAT przebiega wg 
+schematu: 
+A. 
+radiopława → satelita biegunowy→LUT→MCC→RCC→jednostki SAR 
+B. 
+radiopława → satelita biegunowy→LUT→RCC→jednostki SAR 
+C. 
+radiopława→ satelita geostacjonarny→LUT→MCC→RCC→jednostki SAR 
+ 
+74. 
+W celu dokonania rejestracji radiopławy należy: 
+A. 
+zgłosić się do Urzędu Lotnictwa Cywilnego w Warszawie 
+B. 
+zgłosić się do Urzędu Komunikacji Elektronicznej 
+C. 
+zgłosić się do MRCC Gdynia 
+ 
+75. 
+Satelita biegunowy po odebraniu sygnałów z radiopławy 121,5 MHz: 
+A. 
+określa pozycję radiopławy i przekazuje tę informację do RCC 
+B. 
+określa pozycję radiopławy i przekazuje tę informację do stacji LUT 
+C. 
+satelita biegunowy nie odbiera sygnału 121,5 MHz 
+ 
+76. 
+Satelita biegunowy po odebraniu sygnałów z radiopławy 406 MHz: 
+A. 
+określa pozycję radiopławy i przekazuje tę informację do LUT 
+B. 
+retransmituje odebrane z radiopławy sygnały do satelity geostacjonarnego 
+C. 
+retransmituje odebrane z radiopławy sygnały do stacji LUT 
+ 
+77. 
+Określenie pozycji radiopławy w systemie COSPAS-SARSAT następuje w: 
+A. 
+RCC 
+B. 
+LUT 
+C. 
+na pokładzie satelity biegunowego 
+ 
+78. 
+Określenie pozycji radiopławy w oparciu o sygnały nadawane na częstotliwości 121,5 
+MHz jest możliwe w systemie COSPAS-SARSAT: 
+A. 
+nie jest możliwe 
+B. 
+zawsze 
+C. 
+tylko w obszarze A1 
+ 
+79. 
+Testowanie radiopławy polega na:  
+A. 
+wykonaniu raz w miesiącu testu zgodnie z instrukcją na obudowie radiopławy 
+B. 
+ręcznym uruchomieniu radiopławy i sprawdzeniu, czy zareagowały RCC 
+C. 
+wrzuceniu radiopławy do wody i sprawdzeniu, czy zacznie działać światło 
+błyskowe 
+ 
+80. 
+Które z poniższych zdań jest prawdziwe? 
+ 
+ 
+A. 
+Na obudowie satelitarnej pławy awaryjnej powinna być umieszczona tabliczka z 
+kodem identyfikacyjnym zaprogramowanym w nadajniku. 
+B. 
+Radiopława powinna być wyposażona w lampę o światłości 0,5 cd. 
+C. 
+Radiopława powinna mieć wbudowany transponder radarowy. 
+ 
+81. 
+Które z poniższych zdań jest prawdziwe? 
+A. 
+Częstotliwość 121,5 MHz transmitowana przez radiopławę systemu COSPAS - 
+SARSAT może być wykorzystana do namierzania przez jednostki SAR. 
+B. 
+Częstotliwość 121,5 MHz transmitowana przez radiopławę systemu COSPAS - 
+SARSAT będzie śledzona przez satelity zainstalowane na orbitach MEO. 
+C. 
+Częstotliwość 121,5 MHz transmitowana przez radiopławę systemu COSPAS - 
+SARSAT używana jest do transmisji pozycji radiopławy. 
+ 
+82. 
+Numer identyfikacyjny w postaci 974XXYYYY zarezerwowany jest dla: 
+A. 
+przeznaczonego na środki ratunkowe AIS SART. 
+B. 
+wbudowanego w radiopławę COSPAS - SARSAT transpondera AIS. 
+C. 
+urządzeń AIS przeznaczonych dla lokalizacji człowieka za burtą (MOB). 
+ 
+83. 
+W przypadku uruchomienia radiopławy w sytuacji, gdy nie ma zagrożenia, należy: 
+A. 
+natychmiast wyłączyć radiopławę 
+B. 
+natychmiast wyłączyć radiopławę i powiadomić o zaistniałym fakcie najbliższe 
+RCC 
+C. 
+natychmiast wyłączyć radiopławę i powiadomić o zaistniałym fakcie znajdujące 
+się w pobliżu statki 
+ 
+84. 
+Transponder radarowy służy do: 
+A. 
+lokalizacji rozbitków na miejscu katastrofy 
+B. 
+szybkiego powiadamiania RCC o katastrofie 
+C. 
+wykrywania jednostek znajdujących się w pobliżu 
+ 
+85. 
+Transponder radarowy współpracuje z radarami: 
+A. 
+w paśmie S 
+B. 
+w paśmie X 
+C. 
+pracującymi w paśmie 3 GHz 
+ 
+86. 
+Transponder radarowy nadaje swój sygnał: 
+A. 
+natychmiast po włączeniu 
+B. 
+po włączeniu i pobudzeniu przez radar pracujący w paśmie 9 GHz 
+C. 
+po zanurzeniu w wodzie morskiej 
+ 
+87. 
+Zasięg transpondera radarowego zależy: 
+A. 
+wysokości umieszczenia transpondera na tratwie ratunkowej 
+B. 
+od tego czy nadaje w paśmie X czy S 
+C. 
+od temperatury otoczenia 
+ 
+88. 
+Przy wysokości umieszczenia transpondera radarowego 1 m i antenie radaru statku 
+wykrywającego na wysokości 10-15 m, zasięg będzie wynosił: 
+A. 
+około 12 mil 
+B. 
+poniżej 2 mil 
+C. 
+5 do 7 mil 
+ 
+ 
+ 
+89. 
+Maksymalny zasięg transpondera radarowego przy wykrywaniu z helikoptera wynosi: 
+A. 
+15 mil  
+B. 
+30-40 mil 
+C. 
+60 mil 
+ 
+90. 
+Pojemność baterii transpondera radarowego powinna zapewnić pracę: 
+A. 
+minimum 96 godz. w stanie gotowości plus 8 godz. nadawania 
+B. 
+minimum 48 godz. w stanie gotowości plus 8 godz. nadawania 
+C. 
+minimum 24 godz. w stanie gotowości plus 8 godz. nadawania 
+ 
+91. 
+Sygnał z transpondera radarowego widziany jest na ekranie radaru w postaci: 
+A. 
+jasnego kółka w pozycji transpondera 
+B. 
+serii równo oddalonych od siebie kropek 
+C. 
+jasnego trójkąta w pozycji transpondera 
+ 
+92. 
+Transponder radarowy nadaje po pobudzeniu sygnał: 
+A. 
+na stałej częstotliwości 9,5 GHz 
+B. 
+w paśmie 9,2 – 9,5 GHz 
+C. 
+w paśmie 9,0 – 9,4 GHz 
+ 
+93. 
+Sygnał z transpondera radarowego widziany jest na ekranie radaru: 
+A. 
+w postaci łuków przy odległości do rozbitków poniżej 1 mili 
+B. 
+w postaci łuków przy odległości do rozbitków poniżej 3 mil 
+C. 
+w postaci koncentrycznych okręgów przy odległości do rozbitków poniżej 5 mil 
+ 
+94. 
+Sygnał z transpondera radarowego widziany jest na ekranie radaru: 
+A. 
+w postaci koncentrycznych okręgów przy odległości do rozbitków poniżej 1 mili 
+B. 
+w postaci koncentrycznych okręgów przy odległości do rozbitków poniżej 0,1 
+mili 
+C. 
+w postaci koncentrycznych okręgów przy odległości do rozbitków poniżej 2 mil 
+ 
+95. 
+Pozycję rozbitków na ekranie radaru wyznacza: 
+A. 
+najdalsza kropka 
+B. 
+najbliższy łuk 
+C. 
+najdalszy łuk 
+ 
+96. 
+Pozycję rozbitków na ekranie radaru wyznacza: 
+A. 
+najdalsza kropka 
+B. 
+najdalszy łuk 
+C. 
+najbliższa kropka 
+ 
+97. 
+Transponder radarowy nadaje swój sygnał w paśmie 9,2 – 9,5 GHz: 
+A. 
+aby uzyskać większą odległość wykrywania 
+B. 
+ponieważ trudno jest utrzymać stałą częstotliwość 
+C. 
+by umożliwić współpracę z wszystkimi radarami w paśmie X 
+ 
+98. 
+Rozbitkowie mogą poznać, że sygnał z transpondera radarowego został wykryty: 
+A. 
+przez sygnalizację świetlną lub akustyczną na transponderze 
+B. 
+ponieważ zostaną powiadomieni przez przenośny radiotelefon VHF 
+C. 
+nie wiedzą czy zostali wykryci 
+ 
+ 
+ 
+99. 
+Rozbitkowie mogą zwiększyć zasięg transpondera radarowego przez: 
+A. 
+podgrzanie transpondera własnym ciałem 
+B. 
+umieszczenie go jak najwyżej 
+C. 
+załączanie transpondera w cyklu: minuta pracy, minuta przerwy 
+ 
+100. Przy wykrywaniu transpondera można wyeliminować zakłócenia od opadów przez: 
+A. 
+zmianę zakresu radaru 
+B. 
+zmianę jasności zobrazowania radaru 
+C. 
+odstrojenie odbiornika radaru 
+ 
+101. W sytuacji, gdy na ekranie radaru widoczne są łuki, można przywrócić kropki przez: 
+A. 
+zmianę jasności zobrazowania 
+B. 
+odstrojenie radaru 
+C. 
+zmniejszenie wzmocnienia radaru 
+ 
+102. W radiotelefonii używana jest fala nośna: 
+A. 
+prostokątna  
+B. 
+trójkątna 
+C. 
+sinusoidalna 
+ 
+103. Amplituda fali nośnej to: 
+A. 
+maksymalna wartość napięcia wyrażona w woltach 
+B. 
+skuteczna wartość napięcia wyrażona w woltach 
+C. 
+średnia wartość napięcia wyrażona w woltach 
+ 
+104. Częstotliwość fali nośnej zależy od jej: 
+A. 
+amplitudy 
+B. 
+fazy 
+C. 
+długości 
+ 
+105. Fala radiowa o częstotliwości 156 MHz ma długość: 
+A. 
+około 20 metrów 
+B. 
+około 15 metrów 
+C. 
+około 2 metrów 
+ 
+106. Fala radiowa o długości 2 metrów ma częstotliwość: 
+A. 
+150 MHz 
+B. 
+1500 MHz 
+C. 
+1500 kHz 
+ 
+107. Prędkość rozchodzenia się fal to: 
+A. 
+300 000 km/s 
+B. 
+300 000 m/s 
+C. 
+300 000 km/godz 
+ 
+108. W nadajnikach VHF radiotelefonów morskich stosowana jest modulacja: 
+A. 
+amplitudy 
+B. 
+impulsowa 
+C. 
+częstotliwości / fazy 
+ 
+ 
+ 
+109. Emisja G3E to emisja: 
+A. 
+amplitudowa 
+B. 
+z modulacją fazy 
+C. 
+cyfrowa 
+ 
+110. Maksymalna moc statkowych radiotelefonów VHF wynosi: 
+A. 
+200 W 
+B. 
+5W 
+C. 
+25 W 
+ 
+111. Zmiana mocy radiotelefonu ma wpływ na: 
+A. 
+słyszalność dalekich stacji 
+B. 
+poziom szumów 
+C. 
+jego zasięg 
+ 
+112. Funkcja podwójnego nasłuchu w radiotelefonie VHF pozwala na: 
+A. 
+jednoczesny nasłuch dwóch dowolnych kanałów 
+B. 
+jednoczesny nasłuch kanału 16 i 70 
+C. 
+jednoczesny nasłuch kanału 16 i dowolnego roboczego 
+ 
+113. Przełączenie kanałów międzynarodowych na amerykańskie: 
+A. 
+zmienia moc nadawania we wszystkich kanałach 
+B. 
+zmienia niektóre kanały z simpleksowych na dupleksowe 
+C. 
+zmienia niektóre kanały z dupleksowych na simpleksowe 
+ 
+114. Funkcja blokady szumów odcina szumy i zakłócenia od głośnika poprzez: 
+A. 
+blokadę wzmacniacza wysokiej częstotliwości dla słabych sygnałów 
+B. 
+blokadę wzmacniacza częstotliwości akustycznej dla słabych sygnałów 
+C. 
+blokadę wzmacniacza wysokiej częstotliwości dla silnych sygnałów 
+ 
+115. Długość anteny prętowej nadajnika jest przede wszystkim uzależniona od: 
+A. 
+mocy nadajnika 
+B. 
+częstotliwości nadajnika 
+C. 
+amplitudy napięcia 
+ 
+116. Regulacja głośności odbiornika VHF odbywa się przez: 
+A. 
+zmianę wzmocnienia wzmacniacza akustycznego 
+B. 
+zastosowanie blokady szumów 
+C. 
+zmianę wzmocnienia wzmacniacza pośredniej częstotliwości 
+ 
+117. W akumulatorach kwasowych elektrolitem jest: 
+A. 
+kwas siarkowy 
+B. 
+wodny roztwór kwasu siarkowego 
+C. 
+wodny roztwór kwasu solnego 
+ 
+118. W trakcie ładowania akumulatorów kwasowych wydzielane są gazy. Jest to: 
+A. 
+wodór 
+B. 
+chlor 
+C. 
+azot 
+ 
+ 
+ 
+119. Na zaciskach kwasowego akumulatora statkowego o napięciu znamionowym 24 V 
+zmierzone napięcie wynosi 21 V. Oznacza to, że: 
+A. 
+akumulator jest całkowicie rozładowany 
+B. 
+akumulator jest częściowo rozładowany 
+C. 
+akumulator jest naładowany  
+ 
+120. Akumulatorów kwasowych nie wolno wyładowywać poniżej dopuszczalnego napięcia 
+końcowego które wynosi: 
+A. 
+1,75 V/ogniwo 
+B. 
+1,95 V/ogniwo 
+C. 
+1,6 V/ogniwo 
+ 
+121. Gęstość elektrolitu w akumulatorach kwasowych jest miarą naładowania akumulatora. 
+Zmierzona gęstość elektrolitu zwykłego akumulatora kwasowego w temperaturze 20º C 
+wynosi 1,28 g/cm³. Oznacza to, że: 
+A. 
+akumulator jest całkowicie rozładowany 
+B. 
+akumulator jest częściowo rozładowany 
+C. 
+akumulator jest całkowicie naładowany 
+ 
+122. Gęstość elektrolitu w akumulatorach kwasowych jest miarą naładowania akumulatora. 
+Zmierzona gęstość elektrolitu zwykłego akumulatora kwasowego w temperaturze 20º C 
+wynosi 1,10 g/cm³. Oznacza to, że: 
+A. 
+akumulator jest całkowicie rozładowany 
+B. 
+akumulator jest częściowo rozładowany 
+C. 
+akumulator jest całkowicie naładowany 
+ 
+123. Wraz ze spadkiem temperatury pojemność akumulatorów kwasowych: 
+A. 
+nie zmienia się 
+B. 
+spada o 0,5-1,0 % na stopień C 
+C. 
+wzrasta o około 1 % na stopień C 
+ 
+124. Gęstość elektrolitu całkowicie naładowanego akumulatora kwasowego w tropiku jest: 
+A. 
+mniejsza niż gęstość elektrolitu w temperaturze 20º C i wynosi 1,23  g/cm³ 
+B. 
+mniejsza niż gęstość elektrolitu w temperaturze 20º C i wynosi 1,15  g/cm³ 
+C. 
+taka sama jak w strefie umiarkowanej  
+ 
+125. Akumulatory kwasowe w przypadku wyłączenia z eksploatacji powinny być 
+przechowywane w stanie: 
+A. 
+naładowanym 
+B. 
+całkowicie rozładowanym 
+C. 
+naładowanym do 50 % pojemności znamionowej 
+ 
+126. W trakcie eksploatacji akumulatorów kwasowych zachodzi konieczność uzupełniania 
+elektrolitu. Uzupełnianie elektrolitu polega na dolewaniu do poszczególnych cel 
+akumulatora: 
+A. 
+kwasu siarkowego 
+B. 
+wody destylowanej 
+C. 
+wody 
+ 
+127. W trakcie niewłaściwej eksploatacji akumulatorów kwasowych następuje ich 
+zasiarczenie. Które z poniższych zjawisk świadczą o zasiarczeniu akumulatora: 
+ 
+ 
+A. 
+niski poziom elektrolitu 
+B. 
+silne grzanie elektrolitu w trakcie ładowania 
+C. 
+nalot na zaciskach akumulatora 
+ 
+128. Transponder AIS SART współpracuje z: 
+A. 
+wszystkimi radarami pracującymi w paśmie X 
+B. 
+transponderami AIS znajdującymi się na statkach 
+C. 
+wszystkimi radarami w paśmie S 
+ 
+129. Jak jest minimalny zasięg wykrycia transpondera AIS SART? 
+A. 
+Minimum 15 NM przez jednostkę w której antena jest zamontowana 15 m npm. 
+B. 
+Minimum 5 NM przez jednostkę w której antena jest zamontowana 15 m npm. 
+C. 
+Minimum 10 NM przez jednostkę w której antena jest zamontowana 15 m npm. 
+ 
+130. Co oznaczają cyfry 09 w numerze identyfikacyjnym transpondera  AIS SART 
+970091129? 
+A. 
+Kod identyfikacyjny producenta transpondera. 
+B. 
+Przynależność do danego rejonu geograficznego. 
+C. 
+Numer identyfikacyjny państwa bandery. 
+ 
+131. Jak jest minimalny zasięg wykrycia transpondera AIS SART przez samolot na 
+wysokości 1000 m? 
+A. 
+50 NM 
+B. 
+powyżej 100 NM 
+C. 
+30 NM 
+ 
+132. Które z poniższych informacji są zakodowane w transponderze AIS SART? 
+A. 
+MMSI statku 
+B. 
+CALL SIGN i MMSI statku 
+C. 
+9-cio cyfrowy numer identyfikacyjny transpondera 
+ 
+133. Które ze zdań jest prawdziwe? 
+A. 
+Transponder AIS SART nie ma nadanego numeru identyfikacyjnego.  
+B. 
+Numer identyfikacyjny transpondera  jest taki sam jak numer MMSI statku, na 
+którym się znajduje transponder. 
+C. 
+Numer identyfikacyjny transpondera AIS SART zawsze rozpoczyna się ciągiem 
+cyfr 970. 
+ 
+134. Jaki symbol został ustalony przez IMO dla wskazania transpondera AIS SART na 
+mapie elektronicznej? 
+A. 
+Migający statek w kolorze czerwonym. 
+B. 
+Okrąg ze skrzyżowanymi w środku liniami ciągłymi w kolorze czerwonym. 
+C. 
+Kwadrat ze skrzyżowanymi w środku liniami ciągłymi w kolorze czerwonym. 
+ 
+135. Baterie przeznaczone do zasilania przenośnych radiotelefonów awaryjnych VHF: 
+ 
+ 
+A. 
+powinny posiadać pojemność zapewniającą co najmniej 8 godzin pracy 
+radiotelefonu z pełną mocą w cyklu pracy 1:9 (6 sekund nadawanie, 6 sekund 
+odbiór bez blokady szumów, 48 sekund odbiór z blokada szumów) 
+B. 
+powinny posiadać pojemność zapewniającą co najmniej 48 godzin pracy 
+radiotelefonu z pełną mocą w cyklu pracy 1:9 (6 sekund nadawanie, 6 sekund 
+odbiór bez blokady szumów, 48 sekund odbiór z blokada szumów) 
+C. 
+powinny posiadać pojemność zapewniającą co najmniej 8 godzin pracy 
+radiotelefonu z pełną mocą 
+ 
+136. Baterie przeznaczone do zasilania awaryjnych transponderów radarowych (SART): 
+A. 
+powinny posiadać pojemność zapewniającą co najmniej 96 godzin pracy w stanie 
+czuwania i następnie umożliwiać nadawanie sygnałów przez 8 godzin 
+B. 
+powinny posiadać pojemność zapewniającą co najmniej 96 godzin pracy 
+C. 
+powinny posiadać pojemność zapewniającą co najmniej 48 godzin pracy w stanie 
+czuwania i następnie umożliwiać nadawanie sygnałów przez 8 godzin 
+ 
+137. Baterie przeznaczone do zasilania radiopław awaryjnych: 
+A. 
+powinny posiadać pojemność zapewniającą co najmniej 48 godzin pracy, w tym 
+nadawania sygnałów do lokalizacji i zasilanie światła błyskowego 
+B. 
+powinny posiadać pojemność zapewniającą co najmniej 96 godzin pracy, w tym 
+nadawania sygnałów do lokalizacji i zasilanie światła błyskowego 
+C. 
+powinny posiadać pojemność zapewniającą co najmniej 12 godzin pracy, w tym 
+nadawania sygnałów do lokalizacji i zasilanie światła błyskowego 
+ 
+138. Który z wymienionych wzorów określa zależność pomiędzy prędkością propagacji fali 
+(c [m/s]), jej częstotliwością (f [Hz]) i długością (λ [m]): 
+A. 
+f = c · λ 
+B. 
+f = λ / c 
+C. 
+f = c / λ 
+ 
+139. Prędkość rozchodzenia się fali elektromagnetycznej w wolnej przestrzeni wynosi: 
+A. 
+340 m/s 
+B. 
+300 km/s 
+C. 
+300 000 000 m/s 
+ 
+140. W czasie 5 µs fala elektromagnetyczna przebywa dystans: 
+A. 
+3 km 
+B. 
+1,5 km 
+C. 
+750 m 
+ 
+141. Jaka jest długość fali w wolnej przestrzeni, jeżeli jej częstotliwość wynosi 150 MHz: 
+A. 
+2 m 
+B. 
+20 m 
+C. 
+200 m 
+ 
+142. Od jakich czynników zależy zasięg łączności na falach VHF: 
+A. 
+od wysokości anteny nadawczej i odbiorczej 
+B. 
+od pory doby 
+C. 
+od szerokości geograficznej 
+ 
+ 
+ 
+143. Jeżeli antena nadajnika radiotelefonu VHF znajduje się na maszcie o wysokości 100 
+metrów to zasięg stacji wynosi: 
+A. 
+10 km  
+B. 
+40 km 
+C. 
+100 km 
+ 
+144. Jeżeli antena nadajnika radiotelefonu VHF znajduje się na maszcie o wysokości 64 
+metrów to zasięg stacji wynosi: 
+A. 
+16 km 
+B. 
+32 km 
+C. 
+64 km 
+ 
+145. Jeżeli antena nadajnika radiotelefonu VHF znajduje się na maszcie o wysokości 100 
+metrów, zaś antena odbiornika usytuowana jest na wysokości 25 m to zasięg odbioru  
+wynosi: 
+A. 
+30 km  
+B. 
+60 km 
+C. 
+90 km 
+ 
+146. W statkowych radiotelefonach VHF stosowane są: 
+A. 
+pionowe dipole o długości 0,25λ 
+B. 
+anteny w postaci pionowej linki o długości kilku metrów 
+C. 
+anteny typu Yagi 
+ 
+147. Antenę radiotelefonu VHF należy zamontować: 
+A. 
+możliwie najbliżej radiotelefonu 
+B. 
+w miejscu osłoniętym od wiatru i wody 
+C. 
+możliwie najwyżej z dala od innych anten 
+ 
+148. Zbyt bliskie ustawienie anteny radiotelefonu VHF w pobliżu metalowych konstrukcji 
+może spowodować: 
+A. 
+zmianę charakterystyki promieniowania anteny 
+B. 
+uszkodzenie anteny 
+C. 
+zmianę polaryzacji promieniowanej fali 
+ 
+149. W odbiornikach NAVTEX są stosowane: 
+A. 
+2-4 metrowe anteny prętowe (pionowe) 
+B. 
+anteny linkowe typu „Γ” lub „Τ” 
+C. 
+anteny w postaci kilku lub kilkunastometrowego masztu 
+ 
+150. Dookólną charakterystykę promieniowania (w płaszczyźnie poziomej) mają anteny: 
+A. 
+prętowe (pionowe) 
+B. 
+linkowe typu „Γ” lub „Τ” 
+C. 
+typu Yagi 
+ 
+ 
+ 
+ 
+PRAKTYCZNA  OBSŁUGA  URZĄDZEŃ  RADIOWYCH  
+PODSYSTEMÓW  GMDSS,  STOSOWANYCH  NA  OBSZARZE  
+MORZA  A1 
+(poprzez podkreślenie wskazano poprawną odpowiedź – dotyczy wybranych pytań) 
+ 
+ 
+ 
+rysunek do pytań 1 -12 
+ 
+1. 
+Włącz i przygotuj do pracy, dla łączności pokładowej radiotelefon VHF. 
+A. Obróć i ustaw [P1], wciśnij [1], wciśnij [7], wciśnij [SHIFT], wciśnij [9], ustaw 
+blokadę szumów. 
+B. Obróć [P1], wciśnij [2], wciśnij [SHIFT], wciśnij [7] 
+C. Obróć [P1], wciśnij, [0] wciśnij [SHIFT], wciśnij [6] 
+ 
+2. 
+Włącz i przygotuj do pracy, dla łączności alarmowej radiotelefon VHF. 
+A. Obróć i ustaw [P1], wciśnij [1], wciśnij [6], ustaw [P2] maksymalnie w prawo 
+B. Obróć i ustaw [P1], wciśnij [16], ustaw [P2] maksymalnie w lewo 
+C. Obróć i ustaw [P1], wciśnij [1], wciśnij [3], ustaw [P2] maksymalnie w położeniu 
+środkowym 
+ 
+3. 
+Dokonaj redukcji mocy radiotelefonu VHF. 
+A. Obróć i ustaw [P1], wciśnij [SHIFT], wciśnij [9] 
+B. Obróć i ustaw [P1], wciśnij [9] 
+C. Obróć i ustaw [P1], wciśnij [SHIFT], wciśnij [2] 
+ 
+4. 
+Ustaw podwójny nasłuch w radiotelefonie VHF na kanałach 14 i 16. 
+A. Obróć i ustaw [P1], wciśnij [SHIFT], wciśnij [6] 
+B. Obróć i ustaw [P1], wciśnij [1], wciśnij [4], wciśnij [SHIFT], wciśnij [6] 
+C. Obróć i ustaw [P1], wciśnij [16], wciśnij [SHIFT], wciśnij [6] 
+ 
+5. 
+Ustaw podświetlenie wskaźników w radiotelefonie VHF dla warunków dziennych i 
+nocnych. 
+A. Wciśnij [7], wciśnij [5] 
+B. Wciśnij [9], wciśnij [16] 
+C. Wciśnij [SHIFT], wciśnij [7] 
+ 
+ 
+ 
+6. 
+Sprawdź, które kanały są wpisane do pamięci skanowania radiotelefonu RT 2048 
+ 
+A. Wciśnij [SHIFT], wciśnij [5] 
+B. Wciśnij [SHIFT], wciśnij [2] 
+C. Wciśnij [SHIFT], wciśnij [1] i przytrzymaj 
+ 
+7. 
+Dodaj kanały 6,13 i 16 do listy skaningowej w radiotelefonie VHF. 
+A. Obróć [P1], wciśnij [6], wciśnij [SHIFT], wciśnij [2], wciśnij [1], wciśnij [3], 
+wciśnij [SHIFT], wciśnij [2] 
+B. Obróć [P1], wciśnij [6], wciśnij [SHIFT], wciśnij [1], wciśnij [3], wciśnij [SHIFT], 
+wciśnij [16] 
+C. Obróć [P1], wciśnij [6], wciśnij [SHIFT], wciśnij [1], wciśnij [1], wciśnij [3], 
+wciśnij [SHIFT], wciśnij [1] 
+ 
+8. 
+Nadaj ostrzeżenie nawigacyjne, przy użyciu radiotelefonu VHF. 
+ 
+A. Obróć [P1], wciśnij [SHIFT], wciśnij [8], nadaj komunikat 
+B. Obróć [P1], wciśnij [SHIFT], wciśnij [9], sprawdź moc, wciśnij [16] nadaj 
+zapowiedź komunikatu ostrzegawczego, wciśnij [1], wciśnij [3], nadaj komunikat 
+C. Obróć [P1], wciśnij [1], wciśnij [3], nadaj komunikat 
+ 
+9. 
+Nadaj komunikat alarmowy, przy użyciu radiotelefonu VHF. 
+A. Obróć [P1], wciśnij [SHIFT], wciśnij [9], sprawdź moc, wciśnij [16] nadaj 
+wywołanie alarmowe, po krótkiej przerwie nadaj komunikat alarmowy  
+B. Obróć [P1], wciśnij [SHIFT], wciśnij [9], sprawdź moc, wciśnij [16] nadaj 
+wywołanie alarmowe, wciśnij [1], wciśnij [3], nadaj komunikat alarmowy 
+C. Obróć [P1], wciśnij [SHIFT], wciśnij [9], sprawdź moc, wciśnij [1], wciśnij [3], 
+nadaj wywołanie alarmowe, i komunikat alarmowy  
+ 
+10. 
+Potwierdź odbiór alarmu przy użyciu radiotelefonu VHF. 
+A. Obróć [P1], wciśnij [1], wciśnij [3], nadaj „Mayday, 3x znak stacji zagrożonej, tu 3x 
+znak własnej stacji, RECEIVED MAYDAY”  
+B. Obróć [P1], wciśnij [16], sprawdź moc, nadaj „Mayday, 3x znak stacji zagrożonej, 
+tu 3x znak własnej stacji, RECEIVED MAYDAY” 
+C. Obróć [P1], wciśnij [SHIFT], wciśnij [8], nadaj „Mayday, 3x znak stacji zagrożonej, 
+tu 3x znak własnej stacji, RECEIVED MAYDAY” 
+ 
+11. 
+Wywołaj inny statek, przy użyciu radiotelefonu VHF i przeprowadź z nim zwykłą 
+korespondencję publiczną. 
+A. Obróć [P1], wciśnij [16], nadaj „znak wywoływanej stacji, 3x znak własnej stacji”, 
+po zgłoszeniu się wywoływanej stacji prowadź rozmowę 
+B. Obróć [P1], wciśnij [1], wciśnij [3], nadaj „znak wywoływanej stacji, 3x znak 
+własnej stacji”, po zgłoszeniu się wywoływanej stacji prowadź rozmowę 
+C. Obróć [P1], wciśnij [16], nadaj „znak wywoływanej stacji, 2x znak własnej stacji”, 
+po zgłoszeniu się wywoływanej stacji, uzgodnij kanał roboczy, ustaw go i prowadź 
+rozmowę 
+ 
+12. 
+Nadaj pośrednie alarmowanie za inny statek, będący w niebezpieczeństwie. 
+A. Obróć [P1], wciśnij [1], wciśnij [3], nadaj „Mayday relay, tu 3x znak własnej stacji, 
+treść komunikatu, Mayday” 
+ 
+ 
+B. Obróć [P1], wciśnij [16], nadaj „Pan Pan, tu 3x znak własnej stacji, treść 
+komunikatu, Pan Pan” 
+C. Obróć [P1], wciśnij [16], nadaj„3x Mayday relay, 3x nazwa wywoływanej stacji, tu 
+3x znak własnej stacji, treść komunikatu, Mayday” 
+ 
+ 
+ 
+ 
+rysunek do pytań 13 -21 
+ 
+ 
+13. 
+Wprowadź pozycję geograficzną do przystawki DSC VHF. 
+A. Obróć [VOL], wciśnij [FUNC], wciśnij [EDIT], wprowadź pozycję 
+B. Obróć [VOL], wciśnij [CALL], wciśnij [EDIT], wprowadź pozycję 
+C. Obróć [VOL], wciśnij [FUNC], wciśnij [>], wciśnij [NEXT], wprowadź czas i 
+pozycję, wciśnij [NEXT] 
+ 
+14. 
+Ustaw aktualny czas i strefę czasową w przystawce DSC VHF. 
+A. Obróć [VOL], wciśnij [FUNC], wciśnij [>] tyle razy, aż wyróżnione zostanie słowo 
+Time, wciśnij [NEXT] wprowadź aktualną strefę czasową i czas UTC, wciśnij 
+[NEXT], 
+B.  Obróć [VOL], wciśnij [CALL], wciśnij [>] tyle razy, aż wyróżnione zostanie słowo 
+Time, wciśnij [NEXT]  wprowadź aktualną strefę czasową i czas UTC, wciśnij 
+[NEXT], 
+C. Obróć [VOL], wciśnij [EDIT], wciśnij [>] tyle razy, aż wyróżnione zostanie słowo 
+Time, wprowadź aktualną strefę czasową i czas UTC, wciśnij [NEXT], 
+ 
+15. 
+ Wprowadź do rejestru stacji przystawki DSC VHF stację brzegową Lyngby. 
+A. Obróć [VOL], wciśnij [FUNC], wciśnij 2x [>], wciśnij [NEXT], wprowadź z 
+klawiatury słowo Lyngby, wciśnij [ENT], wprowadź z klawiatury 002191000, 
+wciśnij [NEXT], 
+B. Obróć [VOL], wciśnij [EDIT], z klawiatury słowo Lyngby, wciśnij [ENT], 
+wprowadź z klawiatury 002191000, wciśnij [NEXT], 
+C. Obróć [VOL], wciśnij [NEXT], wprowadź z klawiatury słowo Lyngby, wciśnij 
+[ENT], wprowadź z klawiatury 002191000, wciśnij [NEXT] 
+ 
+16. 
+Przetestuj przystawkę DSC VHF. 
+A. Obróć [VOL], wciśnij [FUNC], wciśnij [NEXT] 
+B. Obróć [VOL], wciśnij [FUNC], wciśnij [>] tyle razy, aż wyróżnione zostanie słowo 
+Test, wciśnij [NEXT] 
+C. Obróć [VOL], wciśnij [FUNC], wciśnij [CALL], wciśnij [NEXT] 
+ 
+ 
+ 
+17. 
+Nadaj za pomocą przystawki DSC VHF zapowiedź ostrzeżenia. 
+A. Obróć [VOL], wciśnij [CALL], wciśnij [EDIT], wybierz klawiszem [>] słowa All 
+ships, wciśnij [NEXT], wybierz klawiszem [>] słowo Safety, wciśnij [NEXT] 
+wciśnij [SEND] 
+B. Obróć [VOL], wciśnij [CALL], wciśnij, wybierz klawiszem [>] słowa All ships, 
+wciśnij [NEXT], wybierz klawiszem [>] słowo Safety, wciśnij [NEXT] tyle rzy, aż 
+pojawi się na ekranie Work chanel, wprowadź numer kanału, wciśnij [NEXT] 
+wciśnij [SEND] 
+C. Obróć [VOL], wciśnij [CALL], wciśnij [EDIT], wybierz klawiszem [>] słowa All 
+ships, wciśnij [NEXT], wybierz klawiszem [>] słowo Safety, wciśnij [NEXT] tyle 
+rzy, aż pojawi się na ekranie Work chanel, wprowdź numer kanału, wciśnij 
+[NEXT] wciśnij [SEND] 
+ 
+18. 
+Nadaj za pomocą przystawki DSC VHF wywołanie pośrednictwa w niebezpieczeństwie 
+innego statku. 
+A.  Obróć [VOL], wciśnij [CALL], wciśnij [EDIT], wybierz klawiszem [>] słowo 
+Distress, wciśnij [NEXT], wybierz klawiszem [>] słowa Distress relay, wciśnij 
+[NEXT], wybierz klawiszem [>] adres, wciśnij [NEXT], wprowadź pozycję statku 
+zagrożonego oraz rodzaj zagrożenia, wciśnij [NEXT], wciśnij [SEND] 
+B. Obróć [VOL], wciśnij [CALL], wciśnij [EDIT], wybierz klawiszem [>] słowo 
+Distress, wciśnij [NEXT], wybierz klawiszem [>] słowa Distress relay, wciśnij 
+[NEXT], wybierz klawiszem [>] adres, wciśnij [NEXT], wprowadź pozycję statku 
+zagrożonego oraz rodzaj zagrożenia, wciśnij [NEXT], wciśnij jednocześnie 
+[DISTRESS] i [SEND] 
+C. Obróć [VOL], wciśnij [FUNC], wybierz klawiszem [>] słowo Distress, wciśnij 
+[NEXT], wybierz klawiszem [>] słowa Distress relay, wciśnij [NEXT], wybierz 
+klawiszem [>] adres, wciśnij [NEXT], wprowadź pozycję statku zagrożonego oraz 
+rodzaj zagrożenia, wciśnij [NEXT], wciśnij jednocześnie [DISTRESS] i [SEND] 
+ 
+19. 
+Nadaj za pomocą przystawki DSC VHF zapowiedź prośby o pomoc medyczną do 
+innych statków. 
+A. Obróć [VOL], wciśnij [CALL], wybierz klawiszem [>] słowa All ships, wciśnij 
+[NEXT], wybierz klawiszem [>] słowo Urgency, wciśnij [NEXT] tyle rzy, aż 
+pojawi się na ekranie Work chanel, wprowadź numer kanału, wciśnij [NEXT] 
+wciśnij [SEND] 
+B. Obróć [VOL], wciśnij [CALL], wciśnij [EDIT], wybierz klawiszem [>] słowa All 
+ships, wciśnij [NEXT], wybierz klawiszem [>] słowo Urgency, wciśnij [NEXT] 
+tyle rzy, aż pojawi się na ekranie Work chanel, wprowdź numer kanału, wciśnij 
+[NEXT] wciśnij [SEND] 
+C. Obróć [VOL], wciśnij [FUNC], wciśnij [EDIT], wybierz klawiszem [>] słowa All 
+ships, wciśnij [NEXT], wybierz klawiszem [>] słowo Urgency, wciśnij [NEXT] 
+tyle rzy, aż pojawi się na ekranie Work chanel, wprowdź numer kanału, wciśnij 
+[SEND] 
+ 
+20. 
+Nadaj za pomocą przystawki DSC VHF wywołanie zwykłe w korespondencji 
+publicznej do innego statku. 
+A. Obróć [VOL], wciśnij [FUNC], wprowadź z klawiatury numer DSC żądanej stacji, 
+wciśnij [NEXT] tyle razy, aż pojawi się na ekranie Work chanel, wprowadź numer 
+kanału, wciśnij [SEND] 
+ 
+ 
+B. Obróć [VOL], wciśnij [EDIT], wprowadź z klawiatury numer DSC żądanej stacji, 
+wciśnij [NEXT] tyle razy, aż pojawi się na ekranie Work chanel, wprowadź numer 
+kanału, wciśnij [SEND] 
+C. Obróć [VOL], wciśnij [CALL], wciśnij [^], wprowadź z klawiatury numer DSC 
+żądanej stacji, wciśnij [NEXT] tyle razy, aż pojawi się na ekranie Work chanel, 
+wprowadź numer kanału, wciśnij [NEXT] wciśnij [SEND] 
+ 
+21. 
+Nadaj za pomocą przystawki DSC VHF wywołanie do stacji brzegowej w celu 
+przeprowadzenia rozmowy z operatorem. 
+A. Obróć [VOL], wciśnij [CALL], wciśnij [^], wprowadź z klawiatury numer DSC 
+żądanej stacji, wciśnij [NEXT] tyle razy, aż pojawią się na ekranie słowa Position 
+Omit, wybierz klawiszem [<] Position, wciśnij [NEXT] wciśnij [SEND] 
+B. Obróć [VOL], wciśnij [EDIT], wciśnij [^], wprowadź z klawiatury numer DSC 
+żądanej stacji, wciśnij [NEXT] tyle razy, aż pojawi się na ekranie Work chanel, 
+wprowadź numer kanału, wciśnij [SEND] 
+C. Obróć [VOL], wciśnij [FUNC], wciśnij [^], wprowadź z klawiatury numer DSC 
+żądanej stacji, wciśnij [NEXT] tyle razy, aż pojawi się na ekranie Work chanel, 
+wprowadź numer kanału, wciśnij [NEXT] wciśnij [SEND] 
+ 
+22. 
+Przetestuj radiopławę EPIRB 406 MHz. 
+A. Połącz wystające metalowe bolce na bokach radiopławy przewodem o długości 
+około 20 cm, obserwuj jej zachowanie, powinno być zgodne z opisem na obudowie,  
+B. Zdejmij radiopławę z obudowy i umieść ją w naczyniu z wodą morską, obserwuj jej 
+zachowanie, powinno być zgodne z opisem na obudowie, 
+C. Zdejmij radiopławę z obudowy, przesuń dźwignię w położenie TEST, obserwuj jej 
+zachowanie, powinno być zgodne z opisem na obudowie, 
+ 
+23. 
+Uruchom transponder radarowy, będąc na tratwie ratunkowej. 
+A. Przywiąż zabrany ze statku transponder radarowy do tratwy i wrzuć go do wody, 
+B. Przywiąż zabrany ze statku transponder radarowy do tratwy, wciśnij przycisk 
+uruchomienia i umieść go możliwie wysoko, 
+C. Zabrany ze statku transponder radarowy uruchom za pomocą odpowiedniego 
+przycisku i połóż go na podłodze tratwy. 
+ 
+24. 
+Przetestuj transponder radarowy. 
+A. Wciśnij na 5 sekund przycisk uruchomienia i obserwuj jego zachowanie powinno 
+być zgodne z opisem na transponderze, wyłącz transponder, 
+B. Zbliż transponder do radaru pracującego w paśmie X i obserwuj jego zachowanie 
+powinno być zgodne z opisem na transponderze, 
+C. Zbliż transponder do radiopławy EPIRB 406, uruchom go i sprawdź czy spowoduje 
+to uruchomienie automatyczne radiopławy. 

@@ -1,0 +1,47 @@
+54. Zero mapy na wodach gdzie wystepują pływy A _ Średni poziom morza
+talane jest jako: B Poziom średniej niskiej wody
+C Poziom najniższego pływu
+astronomicznego
+
+55. Godzina 15.00, pozycja jachtu na mapie w A 224”, 1,8 węzła
+»bliżu znaku "A". W tablicach pływów znaleziono, B 224%, 3,2 węzła
+> wysoka woda w Dover będzie o godzinie 18.04, o
+
+yw pośredni. Jaki jest aktualnie kierunek i szybkość C_[224%, 2,5 węzła
+ądu pływowego?
+
+6. Czy izobatę można zawsze traktować jako A__ Tak, zawsze
+zględnie pewną linię pozycyjną? p Nigdy, bo pomiary głębokośc
+dużym błędem
+
+Cc Tak, pod warunkiem, że przeb
+jest regularny
+
+57. Odległość do obiektu o znanej wysokości h (w z Tablic Nawigacyjnych lub ze
+etrach) i zmierzonym kącie pionowym a_ (w
+inutach) można ustalić ( D w milach morskich ): A 13 h
+
+D=—-
+7a
+
+ze wzoru
+
+* D=2 Va+ż
+
+C zewzoruD=2h tga
+
+58. Przy pierwszym włączaniu nowo A Włączyć zasilanie. Poza tym ni
+instalowanego GPS trzeba: robić, urządzenie będzie dział
+
+B Włączyć zasilanie, używając in
+obsługi ustawić podstawowe
+
+C Powinien to wykonać uprawn
+
+99. Jaka jest różnica pomiędzy mapą rastrową, a A Mapa rastrowa jest dokładnie
+apierową ? p W zastosowaniu do nawigacji
+żadnej
+
+C Mapy rastrowe sa mniej dokła
+
+mer arkusza: 20160729_095536455_0 Stri

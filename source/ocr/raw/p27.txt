@@ -1,0 +1,64 @@
+POLSKI ZWIĄZEK ZEGLARSKI
+al. ks. J. Poniatowskiego 1
+03-901 Warszawa
+tel. (227 54163 63; Tax (22) 541 63 69
+
+-mail:pyabiuroG©pya.org.pl, „pya.org.
+NAWIGACJA NIP 521-11-84-399, REGON 007014979
+185. Czy przy braku prądu na akwenie gdzie żegluje A Tak, bo brak jest znoszenia przez prąd
+jacht, kurs rzeczywisty = kątowi drogi nad dnem? Nigdy, bo należy zawsze jeszcze
+B uwzględnić dryf jachtu spowodowany
+wiatrem
+
+Tak, ale tylko w przypadku gdy jacht
+C żegluje kursami pełnymi (baksztag,
+
+fordewind)
+186. Jakimi sposobami można obliczyć poprawkę na A Tylko wykonując obliczenia
+prąd przy czynnym uwzględnianiu prądu? trygonometryczne
+
+B Wykonując wykres lub z tablic
+nawigacyjnych
+
+Cc Analizując już przebytą drogę i dryf jachtu
+spowodowany wiatrem
+
+187. Jak na mapach generalnych dużych obszarów A__W postaci tabliczek z wartością deklinacji
+
+podawana jest deklinacja magnetyczna? W postaci informacji zawartych w uwagach
+przy nagłówku mapy
+
+c W postaci izogon z zaznaczoną zmianą
+roczną
+
+188. Dewiacja magnetyczna to: Odchylenie igły magnetycznej
+A spowodowane polem magnetycznym
+ziemi
+Odchylenie igły magnetycznej
+
+B spowodowane polem magnetycznym
+jachtu
+
+Odchylenie igły magnetycznej
+C |spowodowane miejscowym anomaliami
+pola magnetycznego ziemi
+
+189. Dewiację można obliczyć: A Przez porównanie namiaru rzeczywistego i
+namiaru kompasowego na dany obiekt
+
+B Tylko przy użyciu specjalnych przyrządów
+do określania dewiacji
+
+Cc Przez wykonanie pomiarów natężenia pola
+
+magnetycznego jachtu
+190. Czy dewiacja dla danego jachtu jest wielkościa A Tak, jest zależna tylko od natężenia pola
+stałą niezaleznie od jego kursu? magnetycznego jachtu
+
+B Nie, bo zależy od kursu magnetycznego
+jachtu i zmienia się ze zmianą kursu
+
+W zasadzie tak, ale zależy od wielkości pola
+magnetycznego ziemi
+
+Numer arkusza: 20160729_095536455_0 Strona 27/56

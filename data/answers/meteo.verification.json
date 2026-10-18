@@ -1,0 +1,250 @@
+[
+ {
+  "id": 81,
+  "answer": "C",
+  "rule": "Admiralty List of Radio Signals (ALRS, vol. 3 Maritime Safety Information Services) i almanachy żeglarskie (np. Reeds) zawierają rozkłady, częstotliwości i zasięgi radiowych komunikatów pogodowych.",
+  "reason": "Dane do odbioru komunikatów (stacja, częstotliwość, godziny nadawania, obszary) podają Spisy Radiostacji Nautycznych / ALRS i almanachy. Locja opisuje akwen, a biuletyny biur pogody to już sama treść prognozy, nie informacja o sposobie jej odbioru.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 82,
+  "answer": "A",
+  "rule": "Skróty NAVTEX: LOW EXP = low expected, 12-HR FCST = 12-hour forecast; nazwa obszaru poprzedza prognozę wiatru.",
+  "reason": "Tekst '12-HR FCST FISHER SW 5 TO 6' to prognoza 12-godzinna dla obszaru Fisher: wiatr SW 5 do 6°B. 'German Bight 990' dotyczy spodziewanego niżu (sytuacji barycznej), a nie prognozy; w komunikacie nie ma widzialności ani stanu morza.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 83,
+  "answer": "A",
+  "rule": "Odbiornik NAVTEX programuje się przez wybór identyfikatorów stacji (B1) i typów wiadomości (B2); prognozy pogody mają typ E, który można wyłączyć (nie można wyłączyć tylko A, B, D i L).",
+  "reason": "Aby odbierać komunikaty pogodowe (prognozy, typ E) trzeba wybrać stację i zaznaczyć typ wiadomości. Odbiornik nie odbiera 'wszystkiego automatycznie', a sam symbol stacji nie gwarantuje odbioru prognoz.",
+  "confidence": "medium",
+  "doubt": "Ostrzeżenia meteorologiczne (typ B) są odbierane zawsze i nie można ich wyłączyć, więc dla samych ostrzeżeń odpowiedź C byłaby częściowo prawdziwa; jednak pełne 'komunikaty pogodowe' (prognozy, typ E) wymagają zaznaczenia typu wiadomości, stąd A jako odpowiedź egzaminacyjna."
+ },
+ {
+  "id": 84,
+  "answer": "C",
+  "rule": "W prognozach morskich kierunek wiatru podaje się literami (SW = południowo-zachodni), a siłę w stopniach Beauforta; 3°B = słaby, 4°B = umiarkowany.",
+  "reason": "SW to wiatr południowo-zachodni, liczby 3-4 to stopnie Beauforta (nie węzły), a 4°B to wiatr umiarkowany.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 85,
+  "answer": "B",
+  "rule": "Ciśnienie w komunikatach podaje się w hektopaskalach; średnie ciśnienie na poziomie morza wynosi 1013,25 hPa.",
+  "reason": "990 to wartość w hPa, niższa od średniej 1013 hPa, co jest typowe dla centrum niżu.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 86,
+  "answer": "B",
+  "rule": "Na polskich mapach synoptycznych IMGW centrum niżu oznacza się literą N (czerwoną), centrum wyżu literą W (niebieską); na mapach anglojęzycznych odpowiednio L i H.",
+  "reason": "Na rysunku czerwone N leży w środku układu izobar z frontami (niż nad Atlantykiem), a niebieskie W z wartością 1034 hPa w centrum wyżu na SE. To oznaczenia ośrodków barycznych, nie kierunków wiatru ani chmur.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 87,
+  "answer": "C",
+  "rule": "W wyżu na półkuli północnej wiatr krąży zgodnie z ruchem wskazówek zegara i jest odchylony na zewnątrz od centrum; w wyżu dominują ruchy zstępujące, małe zachmurzenie i brak opadów.",
+  "reason": "Na mapie centrum wyżu (W, ok. 1040 hPa) leży na wschód/północny wschód od Polski, izobara 1035 przebiega nad NE Polską, a Polska jest na zachodniej/południowo-zachodniej flance wyżu. Cyrkulacja zgodna z ruchem wskazówek zegara daje na zachodniej stronie wyżu wiatr z S, a po uwzględnieniu odchylenia na zewnątrz i położenia Polski w SW ćwiartce – wiatr SE-S. Silny wyż (temperatury ujemne na stacjach, brak frontów) to pogoda bezchmurna lub z małym zachmurzeniem.",
+  "confidence": "high",
+  "doubt": "Mapa jest niskiej rozdzielczości; położenie W na wschodzie i izobara 1035 nad Polską są jednak czytelne, a tylko odpowiedź C jest zgodna z wyżem."
+ },
+ {
+  "id": 88,
+  "answer": "A",
+  "rule": "Meteogram ICM (meteo.pl): pole prędkości wiatru w m/s (niebieskie – wiatr średni, czerwone kreski – porywy), strzałki kierunku wskazują, DOKĄD wieje wiatr; skala Beauforta: 2°B = 1,6-3,3 m/s, 3°B = 3,4-5,4 m/s.",
+  "reason": "Na początku doby prędkość wynosi ok. 4,5 m/s (tuż pod linią 5 m/s) = 3°B, na końcu ok. 3 m/s = 2°B. Strzałki na początku mają grot u góry po lewej, a trzon odchodzi w prawo-dół, czyli wskazują na NW – wiatr wieje ku NW, a więc z SE. Na końcu strzałki wskazują ku górze i lekko w prawo (N-NE), czyli wiatr wieje z S-SW. Odpowiedź A: SE 3°B na początku, S-SW 2°B na końcu.",
+  "confidence": "medium",
+  "doubt": "Jeśli przyjąć konwencję meteorologiczną (strzałka pokazuje, SKĄD wieje), początek byłby NW 3°B, ale wtedy koniec byłby SW/SSW 2°B, a nie SE jak w odpowiedzi C; żadna odpowiedź nie pasuje w tej konwencji, więc A jest jedyną spójną z odczytem. Prędkość na końcu doby (ok. 3 m/s) jest blisko granicy 2/3°B."
+ },
+ {
+  "id": 89,
+  "answer": "B",
+  "rule": "Niż przemieszczający się na wschód na północ od obserwatora (wzdłuż Bałtyku) daje po jego południowej stronie wiatry z sektora zachodniego; pogłębianie się niżu oznacza wzrost gradientu barycznego, czyli siły wiatru.",
+  "reason": "Zatoka Gdańska znajdzie się na południe od toru niżu wędrującego z Danii na wschód; na południowej flance niżu (cyrkulacja przeciwna do wskazówek zegara) wieje z W-SW, a pogłębianie się niżu oznacza nasilenie wiatru.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 90,
+  "answer": "C",
+  "rule": "Izobara – linia jednakowego ciśnienia (izoterma – temperatury, izohigra – wilgotności).",
+  "reason": "Izobary łączą punkty o jednakowej wartości ciśnienia zredukowanego do poziomu morza.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 91,
+  "answer": "C",
+  "rule": "Pomiar temperatury powietrza wymaga osłony przed promieniowaniem słonecznym i źródłami ciepła (klatka meteorologiczna).",
+  "reason": "Termometr powinien mierzyć temperaturę powietrza, a nie nagrzanego pokładu, silnika czy kuchenki, dlatego umieszcza się go w cieniu z dala od źródeł ciepła i w przewiewnym miejscu.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 92,
+  "answer": "B",
+  "rule": "Front ciepły – powietrze ciepłe nasuwa się na ustępujące chłodne; front chłodny – powietrze chłodne wypiera ciepłe; okluzja – połączenie obu.",
+  "reason": "Gdy masa ciepła napływa na chłodną (wślizguje się po klinie chłodnego powietrza), powierzchnię rozdziału nazywa się frontem ciepłym.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 93,
+  "answer": "A",
+  "rule": "Cumulus humilis/mediocris (chmury pięknej pogody) rozwijają się w ciągu dnia dzięki konwekcji i zanikają po południu; stałe ciśnienie i słabnący wiatr oznaczają brak nadchodzącego układu niżowego.",
+  "reason": "Na zdjęciu są chmury kłębiaste o płaskich podstawach, bez rozbudowy pionowej w Cb. Zanik chmur po południu przy stałym ciśnieniu i słabnącym wietrze to typowy przebieg dobowy w pogodzie wyżowej – nazajutrz podobna pogoda, bez opadów.",
+  "confidence": "high",
+  "doubt": "Niektóre chmury na zdjęciu są dość rozbudowane (Cu mediocris), ale treść pytania (zanikanie, stałe ciśnienie) jednoznacznie wyklucza B i C."
+ },
+ {
+  "id": 94,
+  "answer": "B",
+  "rule": "Przybliżony przelicznik: °B ≈ węzły/5 + 1 (czyli (węzły+5)/5); sprawdzenie: 10 kn → 3°B, 20 kn → 5°B, 30 kn → 7°B zgodnie z tabelą Beauforta.",
+  "reason": "Wzór (węzły+5)/5 daje wyniki zgodne ze skalą Beauforta w zakresie żeglarskim. Odpowiedź C jest błędna liczbowo (3 m/s to 2°B, 9 m/s to 5°B, nie 3°B), a A nieprawdziwa, bo przeliczenie przybliżone jest możliwe.",
+  "confidence": "high",
+  "doubt": "Wzór jest tylko przybliżeniem (np. 5 kn daje 2°B, 15 kn daje 4°B – zgodne), ale to jedyna poprawna opcja."
+ },
+ {
+  "id": 95,
+  "answer": "C",
+  "rule": "Jednostki prędkości wiatru w komunikatach zależą od kraju/służby: IMGW podaje m/s lub °B, Met Office °B, komunikaty USA i wiele innych – węzły.",
+  "reason": "Nie ma jednej obowiązującej jednostki; w Polsce i wielu krajach używa się m/s lub stopni Beauforta, gdzie indziej węzłów. Odpowiedzi A i B ('zawsze tylko') są fałszywe.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 96,
+  "answer": "A",
+  "rule": "Wiatr rzeczywisty = wiatr pozorny minus wektor prędkości jachtu (trójkąt prędkości); potrzebna jest prędkość i kurs jachtu.",
+  "reason": "Znając wiatr pozorny z wiatromierza oraz prędkość jachtu (z logu) i jego kurs, można wektorowo (graficznie lub z tablic) wyznaczyć wiatr rzeczywisty. Same tablice bez prędkości jachtu nie wystarczą.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 97,
+  "answer": "B",
+  "rule": "Tendencja baryczna: spadek 1 hPa/h to już sygnał pogorszenia, spadek ≥3 hPa/h (≥10 hPa/3h) zapowiada sztorm.",
+  "reason": "Szybki spadek ciśnienia 3 hPa w ciągu godziny oznacza zbliżanie się głębokiego, aktywnego niżu i rychłe nadejście silnego wiatru.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 98,
+  "answer": "B",
+  "rule": "Treść morskiego komunikatu radiowego: ostrzeżenia, sytuacja baryczna, prognoza wiatru (kierunek i siła), stanu morza, widzialności, opadów, temperatury.",
+  "reason": "Komunikaty radiowe podają przede wszystkim kierunek i siłę wiatru, zjawiska (opady, mgła), widzialność i temperaturę; nie podaje się wilgotności względnej ani rodzajów chmur.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 99,
+  "answer": "A",
+  "rule": "Punkt rosy to temperatura, do której trzeba ochłodzić powietrze (przy stałym ciśnieniu i zawartości pary), aby para wodna osiągnęła stan nasycenia, czyli wilgotność względną 100%.",
+  "reason": "Z definicji w temperaturze punktu rosy powietrze jest nasycone – wilgotność względna wynosi 100% i zaczyna się kondensacja (rosa, mgła).",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 100,
+  "answer": "A",
+  "rule": "Reguła Buys-Ballota (półkula N): stojąc plecami do wiatru, niż mamy po lewej ręce, nieco z przodu (ok. 2 rumby przed lewym trawersem), bo wiatr przyziemny jest odchylony od izobar ku centrum niżu o 20-40°.",
+  "reason": "Na kursie fordewind wiatr wieje od rufy, więc sternik patrzy 'plecami do wiatru' – centrum niżu leży z lewej burty, około 2 rumby przed lewym trawersem. 'Dokładnie przed dziobem' i 'po prawej ręce' są sprzeczne z regułą.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 101,
+  "answer": "B",
+  "rule": "Schemat morskiego komunikatu meteorologicznego (WMO/GMDSS, także IMGW): 1) ostrzeżenia (gale warnings), 2) sytuacja synoptyczna (baryczna), 3) prognoza na 12 (lub 24) godzin, 4) orientacyjna prognoza (outlook) na następne 12-24 godziny.",
+  "reason": "Pełny komunikat zawiera ostrzeżenia, opis sytuacji barycznej, prognozę właściwą i orientacyjny outlook; odpowiedzi A i C są niepełne.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 102,
+  "answer": "B",
+  "rule": "Mgła powstaje, gdy temperatura powietrza spada do punktu rosy (wilgotność względna → 100%); im wyższa wilgotność i wyraźniejszy spadek temperatury (np. wieczorem, nad zimną wodą), tym większe ryzyko mgły.",
+  "reason": "Znając wilgotność względną i tendencję temperatury, można ocenić, czy powietrze ochłodzi się do punktu rosy i powstanie mgła. Przy wilgotności 20% mgła praktycznie nie powstaje, więc C jest absurdalne.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 103,
+  "answer": "B",
+  "rule": "Bryza dzienna (morska) wieje w dzień od morza ku lądowi (ląd nagrzewa się szybciej – niż lokalny nad lądem); bryza nocna (lądowa) wieje w nocy od lądu ku morzu.",
+  "reason": "W dzień ląd jest cieplejszy od morza, powietrze nad lądem unosi się, a chłodniejsze powietrze znad morza napływa na ląd – bryza dzienna wieje od morza do lądu.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 104,
+  "answer": "A",
+  "rule": "Symbole frontów: czerwone półkola – front ciepły, niebieskie trójkąty – front chłodny, naprzemienne fioletowe półkola i trójkąty po tej samej stronie – front zokludowany.",
+  "reason": "Czerwona linia z półkolami po jednej stronie (w kierunku ruchu frontu) to front ciepły.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 105,
+  "answer": "C",
+  "rule": "Reguła Buys-Ballota i siła tarcia: w niżu na półkuli N wiatr krąży przeciwnie do wskazówek zegara i wieje nie wzdłuż izobar, lecz jest odchylony od nich ku centrum niżu o ok. 20-40° nad lądem (10-20° nad morzem), czyli wiatr 'wkręca się' do środka niżu.",
+  "reason": "Wiatr przyziemny w niżu wieje do środka niżu pod kątem 20-40° do izobar – tylko odpowiedź C mówi o wietrze skierowanym do środka. A (prostopadle) opisuje wiatr bez działania siły Coriolisa, B (na zewnątrz) opisuje wyż.",
+  "confidence": "medium",
+  "doubt": "Sformułowanie 'odchylony zgodnie z ruchem wskazówek zegara' jest dyskusyjne: wiatr w niżu krąży przeciwnie do wskazówek zegara, a odchylenie od kierunku geostroficznego ku centrum (w lewo) jest w istocie przeciwne do ruchu wskazówek. Jednak C jako jedyna zawiera poprawne elementy (do środka, 20-40° do izobary), więc egzaminator na pewno uznaje C."
+ },
+ {
+  "id": 106,
+  "answer": "C",
+  "rule": "Wilgotność względna = (wilgotność bezwzględna / wilgotność maksymalna w danej temperaturze) × 100%.",
+  "reason": "5 g/m3 : 10 g/m3 = 0,5, czyli 50%.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 107,
+  "answer": "C",
+  "rule": "Jednostką ciśnienia w meteorologii morskiej (WMO, IMGW, NAVTEX) jest hektopaskal (1 hPa = 1 mbar); milimetry słupa rtęci są jednostką historyczną.",
+  "reason": "W komunikatach meteorologicznych ciśnienie podaje się w hektopaskalach (np. 'niż 990').",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 108,
+  "answer": "C",
+  "rule": "Front chłodny: chłodne powietrze wypiera ciepłe, silna konwekcja, chmury Cumulonimbus, przelotne intensywne opady, burze, szkwały i skok wiatru (na półkuli N skręt w prawo, zwykle z SW na NW).",
+  "reason": "Przejście frontu chłodnego nad wodami na północ od Rozewia oznacza wzrost zachmurzenia (Cb), burze i szkwały; ciągły opad i słabnący wiatr są typowe dla frontu ciepłego, a brak opadów dla wyżu.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 109,
+  "answer": "C",
+  "rule": "W wyżu powietrze osiada (ruchy zstępujące), co hamuje tworzenie chmur – pogoda pogodna, bez opadów, słabe wiatry (zimą możliwe mgły i zamglenia).",
+  "reason": "Na obszarze wyżowym spodziewamy się małego zachmurzenia lub bezchmurnego nieba i braku opadów.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 110,
+  "answer": "B",
+  "rule": "Wilgotność względna wyrażana jest w procentach; mierzy się ją higrometrem (włosowym, psychrometrem); higrograf rejestruje przebieg wilgotności, g/m3 to jednostka wilgotności bezwzględnej.",
+  "reason": "Wilgotność względna to stosunek wyrażony w procentach, a przyrząd do jej pomiaru to higrometr.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 111,
+  "answer": "A",
+  "rule": "Przepisy żeglugowe na śródlądowych drogach wodnych (Dz.U. 2003 nr 212 poz. 2072): § 6.02 ust. 2 – małe statki ustępują z drogi innym (nie-małym) statkom, z wyjątkiem statków o dużej prędkości z § 6.01 bis, które nie mogą żądać ustępowania; § 6.03 bis ust. 3 – małe statki o napędzie mechanicznym ustępują małym statkom żaglowym.",
+  "reason": "Mały statek żaglowy musi ustąpić statkowi pasażerskiemu o napędzie mechanicznym (statek niebędący małym). Małemu statkowi motorowemu nie ustępuje (to on ustępuje żaglówce, § 6.03 bis ust. 3), a wodolot jako statek o dużej prędkości sam ma pozostawiać innym akwen i nie może żądać ustąpienia (§ 6.01 bis).",
+  "confidence": "high",
+  "doubt": null
+ }
+]

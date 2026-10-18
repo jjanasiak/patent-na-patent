@@ -1,0 +1,2121 @@
+[
+  {
+    "id": 1,
+    "question": "Na jachcie jest urządzenie sterowe ze sterociągami. Podczas rejsu stwierdzono luzy przy obracaniu koła sterowego. Jakie działania należy podjąć w pierwszej kolejności?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Założyć ster awaryjny i sterować przy jego pomocy",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie da się nic zrobić, w najbliższym porcie skorzystać z pomocy technicznej",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sprawdzić czy występują luzy na sterociągach i ewentualnie dociągnąć ściągacze sterociągów.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 2,
+    "question": "Co to jest system \"Lazy Jack\" i do czego służy?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "System linek łączących maszt z bomem, spełnia rolę topenanty i ułatwia zrzucanie i klarowanie grota, może spełniać też rolę pokrowca",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "System linek służących do refowania grota",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Pokrowiec do klarowania grota na bomie",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: spełnia role topenanty"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Czy pompa do wymiany oleju silnika wysokoprężnego jest dodatkowym zalecanym wyposażeniem?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie, ponieważ wymianę oleju wykonuje się tylko w autoryzowanym serwisie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tak, z uwagi na nisko umieszczony silnik i trudności z usuwaniem oleju z miski olejowej i możliwość zanieczyszczenia zęzy",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, ponieważ pompa wymiany oleju jest wyposażeniem obowiązkowym przewidzianym przepisami",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 4,
+    "question": "Co zrobić, gdy w trakcie pracy silnika zaburtowego z otworu kontrolnego przestanie lecieć woda?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wyłączyć natychmiast silnik",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zmniejszyć obroty nie gasząc silnika",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Na małych obrotach zdjąć pokrywę i polewać wodą cylindry silnika",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 5,
+    "question": "W jakim stosunku należy przygotowywać mieszankę oleju i benzyny do zaburtowego silnika dwusuwowego?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "wg. instrukcji fabrycznej dla danego silnika",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "1:80",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Dla takiego silnika nie należy stosować mieszanki",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 6,
+    "question": "Jakie parametry pracy silnika wbudowanego powinny być kontrolowane podczas pracy silnika?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko ciśnienie oleju",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wystarczy sprawdzać czy woda chłodząca odpływa prawidłowo za burtę",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Ciśnienie oleju, temperatura cieczy chłodzącej, poziom paliwa w zbiorniku rozchodowym",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 7,
+    "question": "Czy śruba napędowa o zmiennym skoku (t.zw. nastawna) pozwala na ruch jachtu wstecz bez przekładni nawrotnej?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie ponieważ zawsze kręci się prawoskrętnie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Śruba o zmiennym skoku umożliwia tylko zwiększenie prędkości jachtu bez zwiększenia obrotów śruby",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, ponieważ możliwa jest zmiana kąta łopat śruby",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 8,
+    "question": "Który z pokazanych obok krętlików najlepiej nadaje się do połączenia łańcucha z kotwicą?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "image_note": "krętlik oczkowy (dwa oczka połączone obrotowo), stal nierdzewna, na żółtym tle"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image_note": "krętlik kotwiczny widełkowo-przegubowy (łącznik kotwica-łańcuch z przegubem, pokazany pod kątem), stal nierdzewna, na żółtym tle"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image_note": "krętlik widełkowo-oczkowy (szekla widełkowa ze sworzniem + oczko), stal nierdzewna, na żółtym tle"
+      }
+    ],
+    "flags": [
+      "oryginał: krętlikow"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Która z pokazanych kotwic ma największą siłę trzymania?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "image_note": "kotwica admiralicji (czterołapowa składana, typ grapnel) z ruchomymi łapami, ciemna, na żółtym tle"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image_note": "kotwica pługowa (typu Delta/CQR), ocynkowana, na żółtym tle"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image_note": "kotwica Danfortha (płaska, z poprzeczką na pięcie), ocynkowana, na żółtym tle"
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 10,
+    "question": "O sprawności układu chłodzenia w silniku zaburtowym świadczy:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Łatwość uruchamiania zimnego silnika",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wypływająca z otworu kontrolnego pod silnikiem struga wody",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Czyste spaliny (brak dymu w spalinach)",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 11,
+    "question": "Jacht L=15 m, wyporność ok. 20 ton. Przy przekazaniu jachtu stwierdzono, że długość łańcucha kotwicznego wynosi 25 m. Czy można uznać, że jest to długość wystarczająca dla takiego jachtu?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zdecydowanie tak",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zdecydowanie nie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Trudno określić, bo należy wziąć pod uwagę kaliber łańcucha",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: pod uwage"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Jak na jachcie powinna być umieszczona butla gazowa?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W oddzielnym pomieszczeniu dostępnym z zewnątrz i otworami wentylacyjnymi",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wewnątrz jachtu z dala od źródeł ciepła",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W szafce w pobliżu kuchenki",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 13,
+    "question": "Jak powinno być prawidłowo rozwiązane odprowadzenie ścieków z WC na jachcie (ochrona środowiska)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bezpośrednio za burtę z zaworem odcinającym",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Do zbiornika z możliwością wypompowania za burtę",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Za burtę i do zbiornika za pomocą zaworu trójdrożnego lub innego układu zaworów. Zbiornik z odbiorem na ląd",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 14,
+    "question": "Jakie paliwo powinno być stosowane do zaburtowych silników dwusuwowych?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Czysta benzyna",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Czysta benzyna z dodatkiem oleju smarnego wg instrukcji obsługi",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tylko czysta benzyna wysokooktanowa",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 15,
+    "question": "Czy butle gazowe stosowane na jachtach w różnych krajach są zunifikowane?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie, każdy kraj ma inny typ butli i przyłączeń",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W części krajów Europy stosowane są te same typy butli i przyłączeń",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, są zunifikowane",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: sa zunifikowane"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "W czasie pracy silnika wbudowanego na jachcie zaobserwowano zbyt wysoką temperaturę silnika. Poziom płynu chłodzącego prawidłowy, pasek klinowy nieuszkodzony, prawidłowo napięty, tylko niewielki odpływ wody za burtę.. Jaka jest prawdopodobna przyczyna?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zatkany filtr wody chłodzącej i/lub uszkodzenie wirnika pompy",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zapowietrzenie wewnętrznego obiegu chłodzenia",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Uszkodzenie lub nawinięcie czegoś na śrubę ( liny lub tp.)",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: podwójna kropka po 'za burtę..'"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Bateria akumulatorów (12 V) o pojemności ok. 200 Ah, jest prawie całkowicie rozładowana. Ile godzin należy prawidłowo ją ładować jeżeli generator ma moc ok. 0,48 kW ?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ok. 10 godzin prądem 20 A",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Ok. 10 godzin prądem 10 A",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Ok. 5 godzin prądem 40 A",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: pojemnosci",
+      "oryginał: prawidlowo"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Na silniku zamocowano dodatkowy alternator do ładowania akumulatorów nawigacyjnych i oświetleniowych, czy można przełączać ładowanie tych baterii bez uszkodzenia układu prostującego?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, ponieważ alternator jest odporny na brak obciążenia",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, ponieważ alternator nie jest odporny na brak obciążenia",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, ponieważ układ prostujący jest odporny na brak obciążenia",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 19,
+    "question": "Na jachcie zainstalowane są akumulatory kwasowe obsługowe. Jakie podstawowe czynności konserwacyjne należy wykonywać?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wystarczy sprawdzać czy nie ma luzów na klemach",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Okresowo sprawdzać poziom kwasu i dolewać wody destylowanej",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Okresowo sprawdzać poziom kwasu i dolewać 50% roztwór kwasu siarkowego",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 20,
+    "question": "Przy próbie uruchomienia silnik nie obraca się i nie startuje. Sprawdzono napięcie akumulatorów, wynosi 12,8 V. Jakie czynności wykonać w pierwszej kolejności?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sprawdzić poziom paliwa w zbiorniku",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Naładować akumulatory do napięcia min. 13 V i ponowić próbę",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sprawdzić czy nie są obluzowane przewody od akumulatora i/lub rozrusznika",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Sprawdzic (A i C)"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Przy próbie uruchomienia silnik nie startuje. Sprawdzono napięcie akumulatorów, wynosi 10,5 V. Jak dalej postępować?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zdemontować rozrusznik i oddać go do przeglądu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Naładować akumulatory do napięcia min. 12,5 V i ponowić próbę",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zdemontować mechanizm sprzęgający rozrusznika (Bendix) i sprawdzić go",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Zdemontowac",
+      "oryginał: sprzegajacy"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Po przejęciu jachtu chcemy sprawdzić silnik. Jakie PODSTAWOWE czynności wykonać przed uruchomieniem ?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sprawdzić stan rurociągów wydechu, poziom paliwa w zbiorniku",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Sprawdzić stan zawieszenia silnika, stan sprzęgła silnik- wał śruby",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sprawdzić poziom oleju, poziom płynu chłodzącego, otwarcie zaworu wody zaburtowej",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: rurociąów"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Czy jacht o długości powyżej 7 m powinien posiadać znaki dzienne (kule, stożki itp.) zgodnie z MPZZM?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, trzy kule i stożek....",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tylko jedną kulę i stożek",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Jachty nie muszą pokazywać tych sygnałów",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 24,
+    "question": "Jacht posiada 3 przedziały mieszkalne, w środkowym jest kambuz i klapa do komory silnika. Ile gaśnic powinno być zainstalowanych na tym jachcie( bandera polska)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Cztery",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Trzy",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sześć",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 25,
+    "question": "Planowany jest dłuższy rejs ( ok. 1 miesiąc), silnik jest w dobrym stanie. Jakie minimum istotnych materiałów eksploatacyjnych do silnika wysokoprężnego powinno być zabrane na rejs?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Olej do wymiany, filtry oleju, paski klinowe, wirnik pompy chłodzącej",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Płyn chłodzący, zapasowe wtryskiwacze, zapasowy alternator",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zapasowa pompa wtryskowa, zapasowy rozrusznik, końcówki wtryskiwaczy",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: eksploatacyjnch"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Które z wymienionych elementów wyposażenia jachtu nie muszą posiadać atestu, ale powinny odpowiadać normom (bandera polska)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pasy ratunkowe, pasy bezpieczeństwa",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tratwy ratunkowe, reflektor radarowy",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Kompas, rakiety",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 27,
+    "question": "Jak powinna być zamocowana pneumatyczna tratwa ratunkowa na pokładzie?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pasami lub linkami ze zwalniakiem hydrostatycznym",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Pasami lub linkami z hakiem odrzutnym zwalnianym ręcznie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Pasami lub linkami z hakiem odrzutnym zwalnianym ręcznie i zwalniakiem hydrostatycznym",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 28,
+    "question": "Tratwa pneumatyczna zamocowana jest pasami z hakiem odrzutnym i zwalniakiem hydrostatycznym Które z tych urządzeń muszą być atestowane i/lub posiadać aktualną datę ważności?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko tratwa musi posiadać atest",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tratwa - atest, zwalniak hydrostatyczny - aktualną datę ważności",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tratwa - atest, hak odrzutny atest",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: musza",
+      "oryginał: date",
+      "oryginał: brak kropki przed 'Które'"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "Przy odbiorze pirotechniki ( na rejs pełnomorski) przekazano 8 rakiet czerwonych i pławkę \"pomarańczowy dym\". Czy jest to stan zgodny z przepisami (bandera polska)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, o ile posiadają aktualną datę ważności",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 30,
+    "question": "Przy odbiorze jachtu (na rejs pełnomorski) przekazano jedno koło ratunkowe z pławką świetlną. Czy jest to stan zgodny z przepisami (bandera polska)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, o ile posiadają ważny atest",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 31,
+    "question": "Jakie przepisy określają obowiązkowe wyposażenie jachtu morskiego polskiej bandery?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wszystko jest zawarte w Karcie Bezpieczeństwa jachtu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Załącznik nr 1 do Rozporządzenia Ministra T.B. i Gosp. Morskiej z 28.02.2012",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Kodeks Morski",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Rozporzadzenia"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Jacht posiada silnik z wydechem \"mokrym\". Jaką podstawową czynność kontrolną należy wykonać po uruchomieniu silnika.",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Natychmiast sprawdzić temperaturę płynu chłodzącego",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Obserwować barwę spalin",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sprawdzić czy odpływa woda chłodząca zewnętrznego obiegu chłodzącego",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Jaka podstawową",
+      "oryginał: chłodzacego",
+      "oryginał: chłodzaca zewnetrznego"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Jacht niesie spinaker. Przy zmianie kursu na pełniejszy należy:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Luzować bras, wybierać szot, wybierać kontrabras",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Luzować bras, luzować szot, wybierać kontrabras",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wybierać bras, luzować szot, luzować kontrabras",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: wybierac"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Jacht posiada hydrauliczne napinanie achtersztagu. W czasie postoju w porcie wskazane jest:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zmniejszyć ciśnienie i nieco zluzować achtersztag",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Pozostawić takie napięcie achtersztagu jakie było podczas żeglugi",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zwiększyć ciśnienie i mocniej napiąć achtersztag, bo na postoju nie pracuje fokżagiel",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: cisnienie (A)",
+      "oryginał: Zwiększyc cisnienie (C)"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Dla prawidłowego ustawienia SPINAKERBOMU potrzebne są liny:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bras, kontrabras, topenanta",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Bras, szot spinakera, topenanta",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Bras, kontrabras, fał spinakera",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: topenenta (A)"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Lina podtrzymująca bom, zazwyczaj zamocowana do jego noku to:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Topenanta",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Bras",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Obciągacz",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Obciagacz"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Pokazany na rysunku typ osprzętu żaglowego to:",
+    "question_image_note": "sylwetka jachtu jednomasztowego z czerwonym kadłubem: duży grot i dwa żagle przednie (dwa sztagi) na jednym maszcie",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Osprzęt typu kuter",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Osprzęt typu szkuner",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Osprzęt typu kecz",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: osprzetu",
+      "oryginał: Osprzet (B)"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Przy przeglądzie takielunku stałego jachtu morskiego SZCZEGÓLNĄ uwagę należy zwrócić na:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko na rodzaj stali użytej do produkcji lin, stan lin stalowych (brak pękniętych drutów i korozji).",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zabezpieczenia ściągaczy przed rozkręceniem, stan lin stalowych (brak pękniętych drutów i korozji), stan zawleczek na sworzniach, napięcie lin.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tylko stan lin stalowych (brak pękniętych drutów i korozji) i rodzaj końcówek lin do połączenia z okuciami.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: pęknietych (A i C)",
+      "oryginał: końcowek (C)"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "Wypożyczając jacht na tabliczce znamionowej producenta odczytano n/w informacje: CE, kategoria C, max. obciążenie 1000 kg, max. liczba osób 8. Czy takim jachtem (bandera polska) kapitan ze stopniem J.ST.M.może pływać w Chorwacji i na morzu Adriatyckim przy każdej pogodzie zgodnie z przepisami?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, jeżeli załoga nie przekroczy 8 osób",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tak, jeżeli załoga nie przekracza 8 osób, a jacht jest krótszy niż 18 m, przy wietrze do 80 Beauforta",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, o ile jacht jest krótszy niż 18 m, załoga nie przekracza 8 osób, przy wietrze do 60 Beauforta po wodach przybrzeżnych.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: obciązenie",
+      "oryginał: '80 Beauforta' i '60 Beauforta' (w skanie dosłownie 80/60, prawdopodobnie 8°/6° B) - zostawiono jak w skanie"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Jacht jest wyposażony w \"Autopilota\" i przy dużej fali od rufy autopilot sygnalizuje alarm i nie trzyma kursu. Co należy zrobić?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Odczekać pewien czas, Autopilot wróci na kurs",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Przełączyć Autopilot w tryb STAND BY i przejść na sterowanie ręczne",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Natychmiast chwycić koło sterowe i sterować ręcznie",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 41,
+    "question": "Na fragmencie mapy pokazanej na rysunku pokazana jest pława No2. Jaka jest charakterystyka światła tej pławy?",
+    "question_image_note": "fragment mapy morskiej: brzeg z napisem 'Crapaud of the Castle', czerwona pława stożkowa z opisem 'Q.R' i 'No2', obok osuch oznaczony 7 z indeksem 4 (podkreślone)",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Białe, przerywane",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Czerwone migawkowe",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Czerwone błyskowe",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 42,
+    "question": "Zamierzamy zakotwiczyć. Na polskiej mapie w wybranym miejscu są naniesione skróty jak na rysunku. Czy jest to dobre miejsce do zakotwiczenia?",
+    "question_image_note": "prostokąt z fragmentem mapy: głębokości 9 z indeksem 5, 8, 7 z indeksem 5 oraz skrót rodzaju dna 'ka.'",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, o ile mamy przynajmniej 30 m łańcucha",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 43,
+    "question": "Na fragmencie mapy pokazanej na rysunku znajduje się oznaczenie 74. Co ono oznacza?",
+    "question_image_note": "ten sam fragment mapy co w pytaniu 41: 'Crapaud of the Castle', pława Q.R No2, osuch 7 z indeksem 4 (podkreślone)",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Głębokość przy wysokiej wodzie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wysokość pokazanej obok wysepki",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Osuch 7,4 m ponad zero mapy przy niskiej wodzie",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Głebokość (A)",
+      "w treści pytania '74' - na rysunku jest to 7 z indeksem dolnym 4 podkreślone (7_4)",
+      "rysunek identyczny jak w pytaniu 41"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "W jaki sposób na mapach morskich oznaczana jest charakterystyka dna morskiego?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Odpowiednimi kolorami",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie podaje się takich informacji",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Skrótami literowymi",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 45,
+    "question": "W jakich pomocach nawigacyjnych (wydawnictwach) znajdziemy PEŁNĄ informację o światłach nawigacyjnych i ich charakterystyce?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W locjach i przewodnikach żeglarskich",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Na mapach i planach portów",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W spisach świateł i sygnałów nawigacyjnych",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 46,
+    "question": "Planując wejście do portu na wodach pływowych NAJWAŻNIEJSZE będzie sprawdzenie:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Głębokości na podejściu do portu i czy możliwe jest wejście do portu przy każdym stanie pływu.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Jak oznakowane jest wejście i podejście do portu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Jakie są zalecane sposoby cumowania w tym porcie z uwagi na możliwe zmiany poziomu wody spowodowane pływami.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 47,
+    "question": "W jakim wydawnictwie znajdziemy instrukcję nawigacyjną dotyczącą wejścia do danego portu?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W spisie świateł i sygnałów nawigacyjnych",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W locji danego akwenu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W Spisie Radiostacji Nautycznych (ALRS) cz. dot. operacji portowych i pilotażu",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 48,
+    "question": "Jakie minimum pomocy nawigacyjnych należy zaplanować na rejs po wodach duńskich i szwedzkich (Bałtyk - wody bez pływów).",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mapa elektroniczna do plotera,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Mapy na rejon żeglugi (poprawione), locje (z planami portów - marin), spis świateł",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Mapy na rejon żeglugi, Tablice pływów tom 2 (wody europejskie)",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: przecinek na końcu opcji A"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "W tablicach pływów podawana jest strefa czasu dla danego portu (Standart Port). Dla interesującego nas portu podano Time Zone - 0200, a z tablic odczytano moment wysokiej wody 1320. O której godzinie czasu okrętowego wystąpi ta wysoka woda jeżeli czas okrętowy jest o 1 godzinę późniejszy od UTC (GMT)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "11.20",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "12.20",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "13.20",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: interesujacego",
+      "oryginał: Standart Port (ang. Standard) - zostawiono"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Znajdujemy się na akwenie, gdzie występują prądy pływowe. Posługując się GPS/ploterem określono KD, ustawiono jacht w tym kierunku i odczytano na kompasie KK prowadzący do portu odległego o kilka godzin drogi. Czy utrzymywanie tego KK przez cały czas żeglugi gwarantuje nam osiągnięcie tego portu bez ewentualnych korekt kursu?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, o ile na całej tej trasie deklinacja magnetyczna będzie taka sama",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: wystepują"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Na rysunku pokazano fragment atlasu prądów pływowych. Jakie informacje można z niego odczytać?",
+    "question_image_note": "czarno-biały fragment atlasu prądów pływowych: nagłówek '(6½ hrs. after H.W. Dover)', brzeg z napisem 'Lymington', strzałki prądu skierowane na NE z liczbami '13,26'",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko, że pokazany prąd płynie na NE",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Sytuacja odnosi się do 6 godziny po HW w Dover, a prąd ma szybkość 13,26 m/ min. i płynie na NE",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sytuacja odnosi się do ok. 6 godziny po HW w Dover, prąd płynie na NE, szybkość prądu przy pływie kwadraturowym wynosi 1,3 węzła i 2,6 węzła przy pływie syzygijnym.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: odnośi (B)"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Dysponujemy TYLKO atlasem pływów i mapą danego akwenu. Czy jesteśmy w stanie ustalić kierunek i szybkość prądu dla danego momentu żeglugi?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, w atlasie podane są kierunki i szybkości prądu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tak, na mapie są podane punkty (romby z literą) pozwalające na znalezienie w tabeli kierunku i szybkości prądu.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: pozwalajace (B)"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Gdzie można znaleźć informacje o prądach pływowych?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko w Locjach danego akwenu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W Tablicach Pływów",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W atlasach prądów pływowych, mapach morskich, na mapach wektorowych z funkcją prądy pływowe",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 54,
+    "question": "Z jakich źródeł można uzyskać dane dotyczące pływów dla danego portu?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko z Admiralty Tide Tables",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tylko z tablic pływów publikowanych w różnych wydawnictwach (np. REED'S Almanac, Admiralty Tide Tables itp.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Z rozmaitych Tablic Pływów, z Portali internetowych, z programów komputerowych i z map wektorowych z funkcją pływy.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: brak nawiasu zamykającego w opcji B"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Jakie istotne dane podawane są w Tablicach Pływów dla danego portu głównego (Standard Port)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko momenty i wysokości pływu na każdy dzień.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tylko momenty i wysokości pływu oraz informacje o fazach księżyca",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Momenty i wysokości pływu, krzywa pływu, skok pływu syzygijnego i kwadraturowego",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 56,
+    "question": "Sektor latarni opisany w Spisie Latarń jako 180° - 270° (90°) to sektor pokazany na szkicu jako?",
+    "question_image_note": "szkic: latarnia (gwiazdka) na przecięciu osi, trzy sektory oznaczone prostokątami A (lewy dolny), B (prawy dolny), C (prawy górny), łuk w lewej górnej ćwiartce",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sektor A",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Sektor B",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sektor C",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 57,
+    "question": "Poniżej fragment informacji z Admiralty List of Lights. Jaka jest dokładna charakterystyka tej latarni ?",
+    "question_image_note": "wycinek z Admiralty List of Lights: 'Fl W 5s   82   28   Brown square brick tower, black lantern, white balcony   34   fl 0.1. F R on radio masts 180m SSE and 740m NNW'",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Światło błyskowe, zasięg 82 Mm, okres 5 sek, wysokość latarni 28 m, latarnia czarna.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Światło błyskowe białe, okres 5 sek. błysk 0,1 sek. zasięg 28 Mm, brązowa wieża wys. 34 m.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Światło błyskowe, zasięg świecenia 82 - 28 Mm, czarna latarnia, błysk 0,1 sek.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 58,
+    "question": "W Tablicach pływów dla portów głównych (Standard Port) podane są kolejne momenty i wysokości wód wysokich i niskich. Jak podawane są te dane dla portów dołączonych (Secondary Port)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W taki sam sposób, tylko w odrębnej części tablic",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tylko w postaci różnic czasu występowania wód wysokich i niskich",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W postaci różnic czasu i wysokości wód wysokich i niskich z uwzględnieniem skoku pływu.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 59,
+    "question": "Na polskiej mapie morskiej naniesione są oznaczenia jak na rysunku obok. Co one oznaczają?",
+    "question_image_note": "prostokąt z dwoma oznaczeniami głębokości: 2 z indeksem dolnym 5 oraz 3 z indeksem dolnym 4",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Głębokości odpowiednio 25m i 34 m",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Głębokości odpowiednio 2,5m i 3,4 m",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Głębokości odpowiednio 2 sążnie i 5 stóp, 3 sążnie 4 stopy",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Głebokości (A i B)"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Na kursie jachtu zaobserwowano cztery pławy jak na rysunku ustawione w czworokąt.Jak postąpić i co one oznaczają?",
+    "question_image_note": "żółta pława stożkowa ze żółtym znakiem szczytowym w kształcie X (znak specjalny), na wodzie",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zalecane kotwicowisko dla jachtów. Można wpłynąć.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Sprawdzić na mapie jaki obszar oznaczają. Jeżeli zakazany nie wpływać.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sieci rybackie, ominąć.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: brak spacji po 'czworokąt.'"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Na kursie zaobserwowano znak jak na rysunku. Jak go mijać i co oznacza ?",
+    "question_image_note": "pława w pionowe pasy niebiesko-żółte z żółtym znakiem szczytowym w kształcie krzyża (+), na wodzie (oznakowanie nowego wraku)",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Oś toru wodnego, mijać lewą burtą",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Takie znaki oznaczają rezerwaty przyrody, nie wpływać dalej.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Minąć nie za blisko, znak to tymczasowa pława wrakowa",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "brak-obrazka-w-drafcie"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Jaką charakterystykę światła mają pławy oznaczające rozgałęzienia toru wodnego?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Dowolną, światło czerwone lub zielone",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zawsze światło migawkowe czerwone lub zielone",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Światło błyskowe grupowe ( 2 + 1 ) czerwone lub zielone",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Światlo (C)"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Czy oznakowanie IALA (kardynalne i boczne) jest inne w regionie \"A\", a inne regionie \"B\"?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie, jest takie same.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Oznakowanie kardynalne jest takie same, a boczne jest inne",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zarówno kardynalne jak i boczne jest inne",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: brak 'w' przed 'regionie \"B\"'"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Jedna kratka na rysunku ( między strzałkami) odpowiada 0,5 sek. (kolor żółty- światło, kolor czarny-przerwa) Określić rodzaj i okres tego światła?",
+    "question_image_note": "pasek z naprzemiennymi kratkami żółtymi i czarnymi (żółta, czarna, żółta, czarna...), nad nim dwie strzałki wyznaczające jedną kratkę, na końcu napis 'itd.'",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Błyskowe, okres 2 sek. (Fl)",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Migające (Q)",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Blaskowe okres 1 sek (LFl)",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: rodaj"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "W Tablicach Pływów znaleziono dane pływu na dzień 23.10?. dla portu Cuxhaven jak na rysunku. Jaki jest skok pływu w tym dniu przed południem?",
+    "question_image_note": "żółta karteczka z wycinkiem tablic pływów: 23 | 0007 3.9 | 0705 0.4 | M 1235 3.8 | O 1927 0.5",
+    "options": [
+      {
+        "letter": "A",
+        "text": "4,3 m",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "3,4 m",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "4,2 m",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: '23.10?.' (znak zapytania w dacie, prawdopodobnie błąd składu) - zostawiono"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Żeglujemy na Zalewie Szczecińskim.W locji znaleźliśmy informację, że do portu Stepnica należy wchodzić w nabieżniku, stawa dolna z rombem, stawa górna z trójkątem. Zaobserwowano nabieżnik jak na rysunku. Jak zmienić kurs aby wejść w linię nabieżnika?",
+    "question_image_note": "dwie stawy kratownicowe: niższa z rombem na szczycie po lewej, wyższa z trójkątem (wierzchołkiem w dół) po prawej, nie w jednej linii",
+    "options": [
+      {
+        "letter": "A",
+        "text": "W prawo",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie należy zmieniać kursu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W lewo",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: znaleźlismy",
+      "oryginał: brak spacji po 'Szczecińskim.'"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Co oznacza pokazany na rysunku znak na mapie?",
+    "question_image_note": "czerwona strzałka (kontur) skierowana w górę, po lewej czerwona kropka, po prawej zielona kropka (symbol kierunku oznakowania na mapie)",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zalecany kierunek ruchu statków",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nakaz żeglugi we wskazanym kierunku",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Kierunek oznakowania toru wodnego",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 68,
+    "question": "Jacht idzie kursem 270°, na kursie zaobserwowano migające + długi blask. Co to światło może oznaczać i jak postępować?",
+    "question_image_note": "diagram charakterystyki światła: grupa sześciu krótkich żółtych błysków (trójkąty) + długi żółty blask (prostokąt), powtórzona dwa razy, napis 'itd.'",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Północny znak kardynalny, minąć prawą burtą",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Południowy znak kardynalny minąć prawą burtą po sprawdzeniu sytuacji na mapie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wschodni znak kardynalny, sprawdzić położenie na mapie i odpowiednio zmienić kurs",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: postepować"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Jacht wchodzący do portu na Bałtyku zaobserwował blisko wejścia pławę jak na rysunku. Jak ją minąć?",
+    "question_image_note": "czerwona pława stożkowa z czerwonym walcowym (prostokątnym) znakiem szczytowym i białym polem z krzyżem X na korpusie",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Prawą burtą",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Lewą burtą",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Można minąć z obu stron, oznacza oś toru wodnego",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Jak ja mimąć",
+      "oryginał: os toru wodnego (C)"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Jacht wychodzący z portu ma przed dziobem pławę jak na rysunku. Jak ją minąć?",
+    "question_image_note": "czerwona pława stożkowa z czerwonym walcowym (prostokątnym) znakiem szczytowym, na wodzie",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Prawą burtą",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Lewą burtą",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Można mijać z obu stron",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: wychodzacy",
+      "oryginał: Jak ja minąć",
+      "oryginał: Prawa burtą (A)"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Jacht wchodzący do portu ma przed dziobem pławę jak na rysunku. Zamierza płynąć głównym torem do portu. Jak ją minąć?",
+    "question_image_note": "czerwona pława stożkowa z zielonym poziomym pasem i czerwonym walcowym znakiem szczytowym, na wodzie",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Prawą burtą",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Lewą burtą",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Można mijać z obu stron",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: wchodzacy",
+      "oryginał: Jak ja minąć",
+      "oryginał: Prawa burta (A)"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Na Zatoce Gdańskiej zaobserwowano jeden ze znaków jak na rysunku. Co oznacza i jak postąpić?",
+    "question_image_note": "dwa znaki bezpiecznej wody w czerwono-białe pionowe pasy: pława kulista i pława stożkowa z czerwoną kulą na szczycie",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Akwen zakazany, nie wpływać poza znak",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Rezerwat przyrodniczy, nie wolno kotwiczyć",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Oś lub początek toru wodnego (t.zw. znak bezpiecznej wody). Obserwować dalsze znaki toru wodnego i płynąć wg. nich.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: poczatek (C)"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Na kursie jachtu zaobserwowano jeden z pokazanych znaków. Jak go można minąć?",
+    "question_image_note": "dwa znaki odosobnionego niebezpieczeństwa: pława stożkowa i tyka, czarne z czerwonym poziomym pasem, znak szczytowy dwie czarne kule jedna nad drugą",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko lewą burtą",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tylko prawą burtą",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W dowolny sposób prawą lub lewą burtą",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 74,
+    "question": "Po której stronie należy mijać taką pławę (system kardynalny)?",
+    "question_image_note": "żółta pława stożkowa z czarnym poziomym pasem w górnej części, znak szczytowy dwa czarne stożki wierzchołkami do siebie (klepsydra)",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Po jej stronie północnej",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Po jej stronie zachodniej",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Po jej stronie południowej",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 75,
+    "question": "Jacht płynący kursem 170° zaobserwował na kursie pławy jak na rysunku, najpierw pierwszą a dalej w prawo od kursu kolejną.. Jak płynąć aby ominąć niebezpieczeństwo?",
+    "question_image_note": "dwa rysunki obok siebie: lewy - pława stożkowa czarna u góry, żółta u dołu, znak szczytowy dwa czarne stożki wierzchołkami w górę; prawy - pława żółta z czarnym pasem, znak szczytowy dwa czarne stożki wierzchołkami do siebie (klepsydra)",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zmienić kurs w lewo i minąć obie pławy prawą burtą",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zmienić kurs w lewo i ominąć pierwszą pławę prawą burtą, a drugą pławę lewą burtą",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sprawdzić na mapie położenie niebezpieczeństwa. Po upewnieniu się zmienić kurs w prawo i minąć obie pławy lewą burtą.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: pierwszę",
+      "oryginał: podwójna kropka po 'kolejną..'",
+      "obrazek w drafcie (q75.png, 1585x221) jest przycięty - brak górnej części ze znakami szczytowymi"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Istnieje możliwość pobrania map różnych parametrów pogody (system GRIB) na kilka dni naprzód i korzystania z nich na morzu. Jakie wyposażenie jest potrzebne, aby z tego korzystać na jachcie.",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Specjalny odbiornik do pobierania tych danych",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Radioodbiornik z odpowiednim zakresem częstotliwości i komputer",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tylko dostęp do internetu i komputer",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 77,
+    "question": "Czy skala Petersena powiązana jest ze skalą Beauforta?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie, są to całkowicie różne skale",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Są wzajemnie zależne i ściśle powiązane",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Obie skale są równoważne, określają te same parametry, różnią się tylko nazwą",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: rózne (A)",
+      "oryginał: wzajemine (B)",
+      "oryginał: sa równoważne, określaja (C)"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Z jakich źródeł można uzyskać mapy synoptyczne podczas postoju w porcie?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jedynie w kapitanatach portów",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Jedynie z internetu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W kapitanatach portów oraz z urządzeń zainstalowanych na jachcie jak faksy pogodowe lub z Internetu",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 79,
+    "question": "Jakie dane zawsze zawarte są w morskim komunikacie pogodowym?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko prognoza siły i kierunku wiatru",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Ostrzeżenia, sytuacja baryczna, prognoza siły i kierunku wiatru, widzialność, stan morza, opady",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Prognoza siły i kierunku wiatru, prognoza orientacyjna na następny okres",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: nastepny (C)"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Jakie dane będą nam potrzebne do odbioru komunikatów pogodowych przez radiostację UKF?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko moment (czas) nadawania i nazwa stacji nadającej",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nazwa stacji i jej położenie oraz moment (czas) nadawania i kanał roboczy na którym pracuje stacja nadająca",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tylko moment (czas) nadawania, bo prognozy podawane są wyłącznie na kanale 16",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 81,
+    "question": "W jakich źródłach możemy znaleźć informacje potrzebne do odbioru morskich radiowych komunikatów pogodowych?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W locjach danego akwenu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W biuletynach Morskich Biur Pogody",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W Spisach Radiostacji Nautycznych (Admiralty List of Radio Signals) i/lub innych wydawnictwach (almanachach) dla żeglarzy podających te informacje.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: podajacych (C)"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Na ekranie odbiornika NAVTEX odczytano komunikat jak na rysunku. Jaka jest prognoza, na jaki okres?",
+    "question_image_note": "zielony ekran odbiornika NAVTEX z tekstem: 'LOW EXP GERMAN BIGHT 990' / '12-HR FCST FISHER SW 5 TO 6.'",
+    "options": [
+      {
+        "letter": "A",
+        "text": "prognoza na 12 godzin, wiatr SW 5 do 6, region Fisher",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Prognoza na 12 godzin, wiatr SW 5 potem 6, stan morza umiarkowany, region German Bight",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Prognoza na 12 godzin, wiatr SW 5 do 6, widzialność umiarkowana, stan morza 5 - 6",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 83,
+    "question": "Jakie dane dotyczące ustawień należy wprowadzić do odbiornika NAVTEX aby odbierać komunikaty pogodowe?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Symbol typu wiadomości i symbol stacji z której chcemy odbierać komunikaty",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nic nie trzeba wprowadzać urządzenie działa automatycznie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wystarczy symbol stacji, komunikaty pogodowe są zawsze odbierane",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: dotyczace"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "W prognozie pogody sformułowanie \"wiatr SW 3 - 4\" oznacza:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wiatr południowo-wschodni, umiarkowany",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wiatr południowo-zachodni, słaby, 3-4 węzłów",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wiatr południowo-zachodni, umiarkowany, 3-4 stopni Beauforta",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 85,
+    "question": "W komunikacie meteorologicznym wywieszonym w kapitanacie portu podano: niż nad Bałtykiem 990, przesuwa się na wschód. W jakich jednostkach podane jest ciśnienie i czy jest ono wyższe czy niższe od średniego ciśnienia na poziomie morza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W barach i jest niższe od średniego",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W hektopascalach ( HPa) i jest niższe od średniego",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W hektopascalach ( HPa) i jest wyższe od średniego",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: cisnienia"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Na polskiej mapie synoptycznej poszczególne skróty \" N, W\" oznaczają kolejno :",
+    "question_image_note": "fragment polskiej mapy synoptycznej Europy: izobary, front ciepły (czerwony) i chłodny (niebieski), litera N (czerwona) nad Wyspami Brytyjskimi/Atlantykiem, litera W (niebieska) z liczbą 1034 na południowym wschodzie, napis 'PPmc' nad Bałtykiem",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wiatry północne (North), wiatry zachodnie (West)",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Centrum niżu, centrum wyżu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Chmury niskie, chmury wysokie",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 87,
+    "question": "Na rysunku pokazano fragment mapy synoptycznej. Jakiej pogody możemy spodziewać się w Polsce?",
+    "question_image_note": "fragment mapy synoptycznej Europy Środkowej z Polską: izobary (1035), litera W (wyż) z liczbą 104x na wschodzie, napis 'PmC' na zachodzie, stacje synoptyczne z temperaturami (np. -1.3, -2.1, 9.5, 7.5)",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Opady, silne wiatry z N - NE",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Duże zachmurzenie, wiatr SW - W",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Brak lub małe zachmurzenie, wiatr SE - S",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: sine wiatry (A)",
+      "oryginał: małr zachmurzenie (C)"
+    ]
+  }
+]

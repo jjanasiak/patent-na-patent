@@ -1,0 +1,378 @@
+[
+ {
+  "id": 197,
+  "answer": "C",
+  "rule": "Rozp. w sprawie bezpiecznego uprawiania żeglugi przez jachty morskie (Dz.U. 2016 poz. 1557), zał. nr 1 cz. III poz. 7 i 8",
+  "reason": "W tabeli sprzętu nawigacyjnego sekstant i chronometr (lub zegar) mają w Rejonie 3 (pełnomorska) oznaczenie „–”, a w Rejonie 4 (oceaniczna) „Z” = wyposażenie zalecane. Nie są więc wymagane w żadnym rejonie, jedynie zalecane w żegludze oceanicznej.",
+  "confidence": "medium",
+  "doubt": "Za B: intuicja egzaminatorów często łączy sekstant z żeglugą oceaniczną; w Rejonie 4 sekstant jest przynajmniej „Z”. Przeciw B: „Z” to zalecenie, nie wymóg, więc zdanie „wymagane tylko w żegludze oceanicznej” jest literalnie nieprawdziwe. Za C: literalne brzmienie tabeli (nigdzie „1”). Wybieram C jako zgodne z obowiązującym tekstem; jeśli klucz PZŻ powstał na starszym brzmieniu tabeli, może wskazywać B."
+ },
+ {
+  "id": 198,
+  "answer": "C",
+  "rule": "Dz.U. 2016 poz. 1557, zał. nr 1 cz. III poz. 23 (AIS – „Z” we wszystkich rejonach)",
+  "reason": "System AIS jest w tabeli sprzętu nawigacyjnego oznaczony „Z” (zalecane) w Rejonach 1–4, więc jego niesprawność nie blokuje wyjścia w rejs. Nawigację prowadzi się na podstawie wymaganego sprzętu (kompas, GPS, mapy), nie AIS.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 199,
+  "answer": "B",
+  "rule": "Zasada oddziaływania prądu przeciwnego do fali (wind against tide) i wypłycenia na progu wejścia",
+  "reason": "Przy wietrze od morza fala wchodząca do portu spotyka na odpływie prąd wypływający z portu, który skraca i wypiętrza falę (przybój); dodatkowo niższy stan wody na progu wejścia powoduje jej załamywanie. Podczas przypływu prąd i fala są zgodne, a woda głębsza – fala łagodniejsza.",
+  "confidence": "high",
+  "doubt": "Za A: potocznie „przypływ” kojarzy się z napływem fali; przeciw A: fizyka fali na prądzie przeciwnym jednoznacznie wskazuje odpływ (klasyczna przestroga w locjach: „entrance dangerous on the ebb with onshore winds”)."
+ },
+ {
+  "id": 200,
+  "answer": "C",
+  "rule": "§ 6 pkt 1 rozporządzenia (planowanie podróży z uwzględnieniem prognoz i niebezpieczeństw); charakterystyka wejścia do Kołobrzegu",
+  "reason": "Wiatr NW 7–9°B to sztorm; wejście do Kołobrzegu przy silnym wietrze z sektora N–NW jest niebezpieczne (fala przybojowa, wąskie wejście), a prognoza zapowiada osłabienie do 4°B w ciągu doby. Bezpieczniej jest przeczekać w porcie i po osłabnięciu wiatru kontynuować rejs do Świnoujścia.",
+  "confidence": "medium",
+  "doubt": "Za B: przy NW wiatr jest baksztagowo-fordewindowy na Świnoujście i prognoza jest poprawiająca się; przeciw B: w chwili wyjścia wieje 7–9°B, a rezerwa czasowa (2 dni) pozwala poczekać – egzaminator PZŻ premiuje decyzję „zostać w porcie”."
+ },
+ {
+  "id": 201,
+  "answer": "B",
+  "rule": "Praktyka planowania rejsów turystycznych (przewodniki typu Dansk Havnelods / Nautisk Turist, mapy żeglarskie)",
+  "reason": "Na wodach duńskich jacht korzysta z dziesiątek małych portów jachtowych, których plany i dane znajdują się w przewodnikach żeglarskich i na mapach żeglarskich, a nie w locjach Admiralicji (pisanych dla statków handlowych) ani w polskich wydawnictwach BHMW (obejmujących głównie polskie wybrzeże).",
+  "confidence": "medium",
+  "doubt": "Za A: publikacje Admiralicji są oficjalnymi, pełnymi pomocami nawigacyjnymi; przeciw A: pytanie brzmi „NAJBARDZIEJ przydatne” dla rejsu jachtowego, a locje Admiralicji nie opisują małych marin. C odpada – BHMW nie wydaje szczegółowych pomocy dla wód duńskich."
+ },
+ {
+  "id": 202,
+  "answer": "A",
+  "rule": "Admiralty List of Radio Signals vol. 5 (NP285) – GMDSS; zawiera dział Search and Rescue z RCC/MRCC całego świata",
+  "reason": "ALRS tom 5 opisuje system GMDSS oraz organizację ratownictwa (ośrodki koordynacyjne RCC, systemy meldunkowe statków) dla wszystkich obszarów świata. Locje (Sailing Directions) zawierają tylko fragmentaryczne informacje o ratownictwie dla danego akwenu, a odpowiedź C jest nieprawdziwa.",
+  "confidence": "medium",
+  "doubt": "Część informacji o MRCC występuje też w ALRS vol. 1, ale pełny, światowy opis systemu ratownictwa (GMDSS, SAR) jest w tomie 5 – zgodnie z intencją pytania."
+ },
+ {
+  "id": 203,
+  "answer": "C",
+  "rule": "Dobra praktyka eksploatacji silnika; § 6 pkt 2 rozporządzenia (sprawdzenie stanu technicznego przed żeglugą)",
+  "reason": "Prawidłowość pracy silnika można ocenić dopiero po osiągnięciu temperatury roboczej: sprawdza się obieg chłodzenia (wypływ wody), ciśnienie oleju i stabilność temperatury. Kilkakrotne krótkie uruchomienia (A) lub 2–3 minuty (B) tego nie pokażą.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 204,
+  "answer": "A",
+  "rule": "Zasady planowania pływowego – podejście na wznoszącej się wodzie, śluzy otwierane w okolicy HW",
+  "reason": "Podchodząc ok. 1 godziny przed wysoką wodą mamy prawie maksymalną głębokość, słabnący prąd (stan bliski stojącej wody) i rosnący stan wody, który w razie dotknięcia dna zdejmie jacht z mielizny; śluzy portów pływowych zwykle pracują w oknie wokół HW.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 205,
+  "answer": "A",
+  "rule": "Tabela pływów z rysunku (dzień 23): HW 0007 3,9 m; LW 0705 0,4 m; HW 1235 3,8 m; LW 1927 0,5 m",
+  "reason": "Silny prąd pływowy w poprzek wąskiego (30 m) wejścia jest najsłabszy w chwili wody stojącej, czyli w okolicy HW/LW; najbezpieczniej wejść przy HW, gdy dodatkowo głębokość jest największa. HW = 1235, a zatem okno 12.00–13.00. Godziny 09–10 to środek przypływu (ok. 3 h po LW 0705 – maksymalny prąd), a 15–16 to środek odpływu (ok. 3 h po HW 1235 – też maksymalny prąd).",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 206,
+  "answer": "B",
+  "rule": "Planowanie meteorologiczne – unikanie halsowania pod wiatr 6–7°B, wykorzystanie prognozowanej zmiany",
+  "reason": "KD 030° przy wietrze N 6–7°B oznacza ostre halsowanie pod silny wiatr na 130 Mm (ok. 260 Mm drogi po wodzie). Prognoza na kolejne 24 h daje WNW 4–5°B, czyli wiatr półwiatrowo-baksztagowy; odczekanie kilkunastu godzin pozwoli odbyć przejście pod żaglami. 48 h to niepotrzebna strata czasu.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 207,
+  "answer": "C",
+  "rule": "Zasada 3–5 głębokości dla łańcucha (więcej na dnie mulistym i przy silnym wietrze)",
+  "reason": "Na 8 m głębokości minimum 3×8 = 24 m łańcucha; dno muliste trzyma gorzej, więc należy wydać ok. 4×8 ≈ 32–35 m. 15 m i 20 m to mniej niż 3 głębokości – kotwica nie trzyma.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 208,
+  "answer": "B",
+  "rule": "Obowiązki kapitana po awarii (dokumentacja zdarzenia, protokół awaryjny, zawiadomienie armatora i ubezpieczyciela)",
+  "reason": "Po poważnym uszkodzeniu kapitan sporządza protokół awaryjny i wpis do dziennika, dokumentuje szkodę zdjęciami, przesyła protokół armatorowi i ubezpieczycielowi oraz uzgadnia z ubezpieczycielem naprawę. Pozostałe odpowiedzi pomijają protokół lub ubezpieczyciela.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 209,
+  "answer": "B",
+  "rule": "§ 6 pkt 3 rozporządzenia (Dz.U. 2016 poz. 1557); § 13 rozkład alarmowy",
+  "reason": "Kapitan ma obowiązek zaznajomić załogę ze sposobami wzywania pomocy, procedurami alarmowymi (MOB, pożar, przeciek, opuszczenie jachtu) oraz z użyciem środków ratunkowych i bezpieczeństwa – to szkolenie ma pierwszeństwo przed instruktażem manewrowym.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 210,
+  "answer": "A",
+  "rule": "§ 6 pkt 2 rozporządzenia (sprawdzenie stanu jachtu, środków ratunkowych i środków wzywania pomocy)",
+  "reason": "Dla 2-dobowej żeglugi bez portu krytyczne są zapasy wody i paliwa, stan akumulatorów, wyposażenie ratunkowe i pirotechniczne, urządzenia kotwiczne oraz sprawność łączności – elementy wymienione w A. Odbijacze, cumy czy ster strumieniowy mają znaczenie drugorzędne.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 211,
+  "answer": "B",
+  "rule": "Geometria halsowania: droga = D / cos(kąt do wiatru)",
+  "reason": "Kąt martwy 120° oznacza, że jacht płynie najwyżej 60° od wiatru na każdym halsie. Przebyta droga = D / cos 60° = D / 0,5 = 2D, czyli wydłużenie o 100%. (Dla kąta martwego 90°: D/cos45° = 1,41D, czyli ok. 40% – stąd dystraktor C.)",
+  "confidence": "high",
+  "doubt": "Jedyne zastrzeżenie: gdyby egzaminator interpretował „kąt martwy 120°” jako kąt 120° między halsami przy 60° do wiatru – rachunek jest ten sam (60° od wiatru), więc wynik 100% pozostaje."
+ },
+ {
+  "id": 212,
+  "answer": "A",
+  "rule": "Praktyka planowania – średnia prędkość jachtu ~12 m ok. 5 w",
+  "reason": "Jacht jednokadłubowy ok. 12 m (prędkość kadłubowa ok. 7–7,5 w) osiąga realistycznie średnią ok. 5 w, czyli ok. 120 Mm na dobę. 65 Mm jest przebiegiem małego jachtu, 200 Mm – szybkiego wielokadłubowca lub jachtu regatowego.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 213,
+  "answer": "C",
+  "rule": "Planowanie meteorologiczne – prognozy numeryczne GRIB; (por. zał. nr 1 cz. IV pkt 1 lit. d – obowiązek posiadania urządzenia do odbioru prognoz w Rejonie 4)",
+  "reason": "Bez możliwości odbioru prognoz w morzu najpełniejsze zabezpieczenie daje pobranie przed wyjściem prognostycznych map GRIB na cały planowany okres (7 dni) i zachowanie ich na pokładzie; bieżąca mapa z portu (A) jest ważna tylko kilkanaście–kilkadziesiąt godzin, a mapa miesięczna (B) to klimatologia, nie prognoza.",
+  "confidence": "medium",
+  "doubt": "Za B: mapy miesięczne (routeing charts) to standardowa pomoc do planowania oceanicznego, a prognozy >5 dni są mało wiarygodne; przeciw B: pytanie dotyczy konkretnego tygodniowego przelotu, a nie klimatologii. Dodatkowo sam scenariusz (brak urządzenia do odbioru prognoz w Rejonie 4) jest niezgodny z rozporządzeniem, ale pytanie nie o to pyta."
+ },
+ {
+  "id": 214,
+  "answer": "A",
+  "rule": "§ 6 pkt 3 rozporządzenia; dobra praktyka morska",
+  "reason": "Poza szkoleniem alarmowym załoga musi przede wszystkim umieć stawiać, zrzucać i refować żagle, obsługiwać kotwicę i uruchomić silnik – to czynności decydujące o bezpieczeństwie jachtu w morzu. Radar, autopilot, odsalacz czy silnik pontonu to wyposażenie drugorzędne.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 215,
+  "answer": "A",
+  "rule": "Dz.U. 2016 poz. 1557, zał. nr 1 cz. VI (apteczka – przypis: „Zaleca się, aby wyposażenie apteczki było zgodne z rozp. Ministra Zdrowia z 3.11.2003 r.”)",
+  "reason": "Rozporządzenie wymaga posiadania apteczki, ale jej zawartość jedynie zaleca (odesłanie do rozporządzenia MZ w zależności od przeznaczenia jachtu i rejonu). Na miesięczny rejs typowa apteczka pierwszej pomocy lub samochodowa jest niewystarczająca; skład należy dobrać z lekarzem.",
+  "confidence": "high",
+  "doubt": "Formalnie istnieje rozporządzenie MZ z 2003 r. dla jednostek pływających, lecz wobec jachtów ma ono charakter zalecenia („zaleca się”), co potwierdza odpowiedź A."
+ },
+ {
+  "id": 216,
+  "answer": "A",
+  "rule": "Dz.U. 2016 poz. 1557, zał. nr 1 cz. VI – wyposażenie pokładowe",
+  "reason": "Jacht musi być wyposażony co najmniej w „nożyce do cięcia olinowania w przypadku jachtów żaglowych o długości co najmniej 12 m”. Jacht 14 m spełnia ten warunek; średnica lin nie ma znaczenia dla samego obowiązku.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 217,
+  "answer": "C",
+  "rule": "Dz.U. 2016 poz. 1557, zał. nr 1 cz. III poz. 21 Radar, przypis 8: „Dotyczy jachtów o długości co najmniej 20 m”",
+  "reason": "Radar jest wymagany w Rejonach 2–4, ale przypis 8 ogranicza ten wymóg do jachtów o długości co najmniej 20 m; mniejsze jachty muszą mieć tylko reflektor radarowy. Odpowiedź C („tylko jachty o LOA większej niż 20 m”) odpowiada temu progowi.",
+  "confidence": "high",
+  "doubt": "Drobna nieścisłość redakcyjna: przepis mówi „co najmniej 20 m”, a odpowiedź „większej niż 20 m” – nie zmienia to wyboru."
+ },
+ {
+  "id": 218,
+  "answer": "A",
+  "rule": "Dz.U. 2016 poz. 1557, zał. nr 1 cz. IV pkt 2 (Rejon 3: stacjonarny radiotelefon VHF z DSC); Prawo telekomunikacyjne – obsługa urządzeń radiowych w służbie morskiej wymaga świadectwa operatora (co najmniej SRC)",
+  "reason": "W żegludze pełnomorskiej jacht musi mieć stacjonarny VHF DSC, a obsługa radiostacji morskiej wymaga świadectwa operatora, więc w załodze musi być osoba ze świadectwem (SRC/LRC/GOC). Odpowiedź C jest fałszywa, a B pomija fakt, że w rejsie pełnomorskim radiotelefon jest obowiązkowy.",
+  "confidence": "medium",
+  "doubt": "Za B: twierdzenie „tylko gdy jacht ma UKF” jest ogólnie poprawne i wynika z Prawa telekomunikacyjnego; przeciw B: pytanie wyraźnie dotyczy rejsu pełnomorskiego, gdzie VHF jest obowiązkowy, więc warunek z B jest zawsze spełniony i egzaminator oczekuje A."
+ },
+ {
+  "id": 219,
+  "answer": "C",
+  "rule": "Locja Bałtyku / charakterystyka portów otwartego wybrzeża (Władysławowo, Łeba, Darłowo – wejścia od N, próg, przybój)",
+  "reason": "Porty otwartego wybrzeża środkowego mają wejścia skierowane na północ; przy silnym wietrze z sektora N fala przybojowa i spłycenia przy główkach czynią wejście niebezpiecznym, natomiast przy wietrze z sektora S (od lądu) wejście jest bezpieczne. Nie są więc portami schronienia w każdych warunkach.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 220,
+  "answer": "C",
+  "rule": "Dz.U. 2016 poz. 1557, zał. nr 1 cz. VI (wymienia osprzęt kotwiczny i cumowniczy, bez liny holowniczej); dobra praktyka morska",
+  "reason": "Rozporządzenie nie wymienia liny holowniczej wprost, ale dobra praktyka morska nakazuje mieć długą, mocną linę (holowanie, dryfkotwa, dodatkowa cuma, kotwica zapasowa). Odpowiedź B, choć formalnie poprawna co do braku przepisu, prowadzi do złego wniosku.",
+  "confidence": "high",
+  "doubt": "Za B: literalnie przepisy nie wymagają liny holowniczej; przeciw B: pytanie dotyczy tego, czy linę mieć – egzaminator PZŻ oczekuje odpowiedzi w duchu dobrej praktyki (C)."
+ },
+ {
+  "id": 221,
+  "answer": "A",
+  "rule": "Zasady wyboru portu schronienia (locja: dostępność wejścia w ciężkich warunkach)",
+  "reason": "Port schronienia musi być osiągalny w ciężkiej pogodzie: decyduje szerokość i głębokość wejścia, jego ekspozycja na falę oraz możliwość manewrowania w porcie przy silnym wietrze. Usługi, tankowanie czy naprawy są kwestiami drugorzędnymi.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 222,
+  "answer": "C",
+  "rule": "UKHO – Admiralty Notices to Mariners online (Searchable/Weekly NtM, bezpłatne), korekta map wg cz. II NtM",
+  "reason": "Poprawki do map angielskich są dostępne bezpłatnie w internecie (ADMIRALTY Notices to Mariners, wyszukiwarka wg numeru mapy); można je wydrukować wraz z blokami korekcyjnymi i nanieść samodzielnie, co jest najszybsze. Oddanie do firmy (A) nie jest „jedyną możliwością”, a wypożyczanie numerów NtM (B) jest wolniejsze i niepełne.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 223,
+  "answer": "C",
+  "rule": "Zasady planowania przejścia – planowanie na mapach generalnych (małoskalowych), wykonanie na mapach drogowych i planach",
+  "reason": "Do wstępnego planowania długiego rejsu (trasa, porty etapowe, odległości, czasy przelotów) służą mapy generalne o małej skali obejmujące cały akwen; mapy drogowe i plany portów są potrzebne dopiero do wykonania przejścia.",
+  "confidence": "medium",
+  "doubt": "Za B: „atlas map” (np. atlas żeglarski) też pozwala objąć całą trasę; przeciw B: termin nie jest standardową kategorią pomocy nawigacyjnych, a w nomenklaturze PZŻ mapy dzieli się na generalne/drogowe/plany – stąd C."
+ },
+ {
+  "id": 224,
+  "answer": "B",
+  "rule": "Admiralty Notices to Mariners (Weekly Edition), Section V – Amendments to Admiralty List of Lights and Fog Signals",
+  "reason": "Spisy świateł Admiralicji poprawia się na bieżąco: poprawki ukazują się co tydzień w cz. V cotygodniowych Notices to Mariners (także online). Nowe edycje roczne nie zwalniają z nanoszenia poprawek tygodniowych.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 225,
+  "answer": "C",
+  "rule": "Admiralty Notices to Mariners (Weekly Edition), Section IV – Amendments to Admiralty Sailing Directions; zał. nr 1 cz. III przypis 2 (publikacje aktualne i poprawione)",
+  "reason": "Locje Admiralicji poprawia się co tydzień na podstawie cz. IV Weekly NtM (dostępnej w internecie); suplementy do locji nie są już wydawane. Rozporządzenie wymaga, by publikacje nawigacyjne były aktualne i poprawione.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 226,
+  "answer": "C",
+  "rule": "Dz.U. 2016 poz. 1557, zał. nr 1 cz. I Uwagi ogólne pkt 2 i 3 (zwalniaki hydrostatyczne i tratwy muszą mieć aktualny atest)",
+  "reason": "Przepis wymaga, by tratwa była certyfikowana z aktualnym atestem, a zwalniak hydrostatyczny miał ważny atest i był prawidłowo zamocowany – to należy sprawdzić w pierwszym rzędzie, bo decyduje o legalności i sprawności środka ratunkowego. Stan łoża i opakowania jest sprawdzany w dalszej kolejności.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 227,
+  "answer": "B",
+  "rule": "Dz.U. 2016 poz. 1557, zał. nr 1 cz. I Uwagi ogólne pkt 5 (pasy/kamizelki w żegludze całodobowej muszą mieć lampki wg Kodeksu LSA, SOLAS III/34)",
+  "reason": "W rejsie pełnomorskim (żegluga całodobowa) pasy i kamizelki ratunkowe muszą być wyposażone w lampki spełniające wymagania Kodeksu LSA (SOLAS). Instrukcja i osłona przeciwbryzgowa nie są wymagane przepisami.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 228,
+  "answer": "C",
+  "rule": "Prawo telekomunikacyjne – pozwolenie radiowe (licencja) dla stacji statkowej; rozporządzenie w sprawie świadectw operatora urządzeń radiowych",
+  "reason": "Radiostacja jachtowa (także przenośna VHF) wymaga pozwolenia radiowego (licencji) z przydzielonym sygnałem wywoławczym/MMSI, a jej obsługa – co najmniej jednej osoby ze świadectwem operatora (np. SRC). Odpowiedź B jest fałszywa, A pomija licencję.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 229,
+  "answer": "B",
+  "rule": "MPZZM prawidło 33 a) i Załącznik III pkt 1 c) (zasięg słyszalności gwizdka statku < 20 m – 0,5 Mm); zał. nr 1 cz. II rozporządzenia (sprzęt sygnałowy zgodny z COLREG)",
+  "reason": "Jacht 15 m (≥ 12 m) musi mieć gwizdek zgodny z Załącznikiem III, którego zasięg słyszalności dla statków poniżej 20 m wynosi 0,5 Mm. Odpowiedź A („jakiekolwiek urządzenie”) dotyczy statków < 12 m (prawidło 33 b), a C jest fałszywa.",
+  "confidence": "medium",
+  "doubt": "Według obowiązującego brzmienia prawidła 33 a) (poprawki 2007, w mocy od 2009) dzwon jest wymagany dopiero od 20 m, więc dla 15 m dzwon nie jest obowiązkowy; pytanie pochodzi z czasów pierwotnego brzmienia (gwizdek i dzwon od 12 m). Mimo to B pozostaje jedyną odpowiedzią poprawnie opisującą wymóg gwizdka 0,5 Mm."
+ },
+ {
+  "id": 230,
+  "answer": "C",
+  "rule": "MPZZM prawidło 25 b) (statek żaglowy o długości mniejszej niż 20 m może nosić światła burtowe i rufowe połączone w jednej latarni na topie masztu); zał. nr 1 cz. II rozporządzenia",
+  "reason": "Rysunek przedstawia latarnię trójkolorową (sektory zielony, czerwony, biały), dozwoloną prawidłem 25 b) wyłącznie na statkach żaglowych krótszych niż 20 m i tylko w żegludze pod żaglami. Dla jachtu < 20 m jest to wystarczające oświetlenie pozycyjne pod żaglami.",
+  "confidence": "medium",
+  "doubt": "Za A: jacht mający „tylko” latarnię trójkolorową nie może pokazać świateł pod silnikiem ani światła kotwicznego, więc jako kompletne wyposażenie pełnomorskie jest niewystarczające; przeciw A: pytanie ogranicza się do „żeglugi pod żaglami”. Uwaga: polski tekst w pliku źródłowym zawiera stary próg 12 m – obowiązujący COLREG mówi o 20 m, co odpowiada odpowiedzi C."
+ },
+ {
+  "id": 231,
+  "answer": "A",
+  "rule": "Planowanie dłuższych przelotów – czas przejścia zależy od prędkości jachtu, prądów stałych i klimatologii (routeing charts)",
+  "reason": "Dla długich przelotów istotne są: realna prędkość jachtu pod żaglami, prądy stałe (oceaniczne) na trasie i długoterminowe dane meteorologiczne (rozkład wiatrów, sztormów). Prądy pływowe i skok pływu mają znaczenie lokalnie przy podejściach, a naprawy w portach są kwestią drugorzędną.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 232,
+  "answer": "A",
+  "rule": "Mapy morskie (symbole akwenów zamkniętych/poligonów) i ostrzeżenia nawigacyjne (NAVTEX, Nawigacyjne Ostrzeżenia Lokalne, NtM)",
+  "reason": "Akweny stale lub okresowo zamknięte (poligony, strefy ćwiczeń) są naniesione na mapy, a terminy ich zamknięcia ogłaszane są w ostrzeżeniach nawigacyjnych (NAVTEX, ostrzeżenia lokalne, wiadomości żeglarskie). Pławy ani statki zabezpieczające nie są jedynym źródłem informacji.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 233,
+  "answer": "B",
+  "rule": "MPZZM prawidło 10 b), j)",
+  "reason": "Jachty mogą korzystać z systemu rozgraniczenia ruchu, ale statek o długości mniejszej niż 20 m lub statek żaglowy nie powinien przeszkadzać bezpiecznemu przejściu statku o napędzie mechanicznym idącego torem kierunkowym (prawidło 10 j).",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 234,
+  "answer": "A",
+  "rule": "Admiralty Tidal Stream Atlases (np. NP209 Orkney and Shetland, NP218 North Coast of Ireland and West Coast of Scotland)",
+  "reason": "Wody Szkocji charakteryzują się silnymi prądami pływowymi (kilka węzłów w cieśninach i wokół przylądków); poza tablicami pływów niezbędny jest atlas prądów pływowych, który pozwala zaplanować przejścia z prądem i uniknąć stref przeciwprądu i fal.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 235,
+  "answer": "C",
+  "rule": "Technika sztormowania na wiatr (żegluga ostrym kursem w fali)",
+  "reason": "Sztormując na wiatr należy ostrzyć przed nadejściem grzbietu fali, aby przyjąć go niemal dziobem i nie dać się przewrócić, a po jego przejściu odpadać w dolinie, by nabrać prędkości i zmniejszyć uderzenia. Stały kąt 70° wystawia burtę na załamujące się grzbiety; odpadanie przed grzbietem grozi przechyłem i wywrotką.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 236,
+  "answer": "A",
+  "rule": "Admiralty Routeing Charts (seria 5124–5128, mapy miesięczne oceanów)",
+  "reason": "Routeing charts podają dla każdego miesiąca róże wiatrów, prądy, częstość sztormów, zasięg lodów, mgły i zalecane trasy – są to najdokładniejsze pomoce do planowania przelotów oceanicznych. Locje i podręczniki meteorologii mają charakter opisowy i ogólny.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 237,
+  "answer": "C",
+  "rule": "§ 12 ust. 1–2 i zał. nr 1 cz. I rozporządzenia w sprawie bezpiecznego uprawiania żeglugi przez jachty morskie (pierwotnie Dz.U. 2012 poz. 326, t.j. Dz.U. 2016 poz. 1557)",
+  "reason": "Rodzaj i liczbę środków pirotechnicznych w zależności od rejonu żeglugi i długości jachtu określa załącznik nr 1 do rozporządzenia o bezpiecznym uprawianiu żeglugi przez jachty morskie. Świadectwo klasy dotyczy stanu technicznego, a karta bezpieczeństwa określa rejon i liczbę osób, nie szczegółową listę pirotechniki.",
+  "confidence": "medium",
+  "doubt": "Data w odpowiedzi C („28.02.2008”) jest błędna – rozporządzenie MTBiGM pochodzi z 28.02.2012 r. (Dz.U. 2012 poz. 326); mimo to C jest jedyną odpowiedzią wskazującą właściwe źródło. Za A: na jachtach podlegających inspekcji karta bezpieczeństwa potwierdza zgodność wyposażenia, lecz sama nie określa rodzaju i ilości pirotechniki."
+ },
+ {
+  "id": 238,
+  "answer": "A",
+  "rule": "§ 13 ust. 1–4 rozporządzenia (Dz.U. 2016 poz. 1557); zał. nr 3 (wytyczne do rozkładu alarmowego)",
+  "reason": "§ 13 ust. 1: „Na jachcie morskim powinien zostać opracowany rozkład alarmowy” – obowiązek dotyczy wszystkich jachtów morskich; na jachtach z załogą poniżej 5 osób może być zastąpiony zasadami postępowania ustalonymi przez armatora i ćwiczeniami, ale nie ma zwolnienia ze względu na długość 15 m.",
+  "confidence": "medium",
+  "doubt": "Za C: ust. 4 dopuszcza na jachtach z załogą < 5 osób zastąpienie rozkładu zasadami postępowania, co przypomina próg „powyżej 5 osób”; przeciw C: przepis nie zna kryterium długości 15 m, a zasady postępowania nadal muszą być określone – więc egzaminator najpewniej uznaje A."
+ },
+ {
+  "id": 239,
+  "answer": "C",
+  "rule": "Dz.U. 2016 poz. 1557, zał. nr 1 cz. III poz. 10 i przypis 2",
+  "reason": "Wymóg posiadania aktualnych map „mogą wypełnić wektorowe mapy elektroniczne, pod warunkiem posiadania na jachcie wersji papierowej map lub zdublowania systemu”. Brak map papierowych jest więc dopuszczalny tylko przy zdublowanym systemie map wektorowych.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 240,
+  "answer": "B",
+  "rule": "Wytyczne ERC (pierwsza pomoc – hipotermia): izolacja od zimna, pasywne ogrzewanie, ciepłe słodkie napoje u przytomnego poszkodowanego, zakaz alkoholu; nagłe przypadki w żegludze (PZŻ)",
+  "reason": "Postępowanie: zapobiec dalszej utracie ciepła (folia NRC, koc, śpiwór, osłona od wiatru), przytomnemu i zdolnemu do połykania podać ciepłe, słodkie (niealkoholowe) płyny jako źródło energii, i jak najszybciej zapewnić pomoc lekarską. Alkohol rozszerza naczynia i pogłębia wychłodzenie, więc A odpada.",
+  "confidence": "medium",
+  "doubt": "Za C: przy hipotermii umiarkowanej/ciężkiej (zaburzenia świadomości) nie podaje się nic doustnie z powodu ryzyka zachłyśnięcia, a pytanie nie precyzuje stanu świadomości; przeciw C: w materiałach PZŻ i w pierwszej pomocy standardowo uczy się „ciepłe, słodkie napoje – nie alkohol”, co odpowiada B."
+ },
+ {
+  "id": 241,
+  "answer": "C",
+  "rule": "Wytyczne ERC 2010/2015/2021 – BLS dorosłych: 30 uciśnięć : 2 oddechy",
+  "reason": "Od wytycznych ERC 2005 resuscytację krążeniowo-oddechową prowadzi się w stosunku 30 uciśnięć klatki piersiowej do 2 wdechów ratowniczych, niezależnie od liczby ratowników. Stosunek 15:2 to stare wytyczne (i obecnie RKO dzieci przez ratowników medycznych), 5:1 – nieaktualny.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 242,
+  "answer": "A",
+  "rule": "Wytyczne ERC – schemat BLS: ocena przytomności, udrożnienie dróg oddechowych, ocena oddechu (i oznak krążenia)",
+  "reason": "Po wyjęciu nieprzytomnego z wody w pierwszej kolejności ocenia się oddech (i tętno/oznaki krążenia), bo brak oddechu wymaga natychmiastowego rozpoczęcia resuscytacji (u topielca od 5 oddechów ratowniczych). Obrażenia i reakcja źrenic są sprawdzane później.",
+  "confidence": "high",
+  "doubt": null
+ },
+ {
+  "id": 243,
+  "answer": "C",
+  "rule": "Procedura przeciwpożarowa na jachcie – odcięcie źródła energii elektrycznej",
+  "reason": "Zapach tlącej się izolacji wskazuje na zwarcie lub przeciążenie instalacji; należy natychmiast odciąć zasilanie głównym wyłącznikiem akumulatorów (lub zdjąć klemy), co usuwa źródło ciepła, a dopiero potem lokalizować uszkodzenie i przygotować gaśnicę.",
+  "confidence": "high",
+  "doubt": null
+ }
+]

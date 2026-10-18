@@ -1,0 +1,67 @@
+70. Po zakotwiczeniu i naniesieniu pozycji z GPS A Błędne wskazania GPS
+
+cazało się, że pozycja na mapie nie jest prawidłowa Niezgodność systemu opraco
+ozycja jachtu na lądzie). Co może być systemem GPS i nie uwzględr
+jprawdopodobniej przyczyną takiej sytuacji? Jacht B poprawek podanych na mapi
+gluje w nocy na akwenie z dużą ilością stare wydania map)
+ebezpieczeństw, ale dobrze oznakowanym (pławy,
+
+tarnie sektorowe nabieżniki itp.). Jaka nawigacja na C Uszkodzenie anteny GPS
+
+kim akwenie jest bezpieczniejsza?
+
+71. Jacht żegluje w nocy na akwenie z dużą ilością A _ Wyłącznie w oparciu o ploter
+ebezpieczeństw, ale dobrze oznakowanym (pławy, Dobrze przygotowana nawig:
+tarnie sektorowe nabieżniki itp.). Jaka nawigacja na B ploter jako pomoc
+
+kim akwenie jest bezpieczniejsza? =" R" -
+C Typowa nawigacja zliczeniow
+
+72. Kurs jachtu względem wody wynosi 120”, A Poprawka na prąd =O*, szybk
+ybkość 5 w, kierunek prądu 300”, szybkość 1 w. Jaka względem dna wzrośnie
+dzie poprawka na prąd i jaki będzie wpływ prądu
+
+1 szybkość jachtu? g Poprawka na prąd = 300', szy!
+
+względem dna wzrośnie
+
+Cc Poprawka na prąd =O*, szybk:
+względem dna zmaleje
+
+73. Przy przeliczaniu namiaru burtowego na namiar A Od sumy kąta kursowego i ku
+mpasowy, (pomiar w systemie okrężnym O* - 360”) kompasowego należy odjąć 3
+
+śli wynik przekroczy 360, to: . Od sumy kąta kursowego i ku
+
+kompasowego należy odjąć 1
+
+C Do sumy kąta kursowego i ku
+kompasowego należy dodać
+
+74. Odbiornik nawigacji satelitarnej GPS pokazuje A  Względem wody
+ędkość jachtu (jest tylko jedna opcja). Jaka to B Względem dna
+ędkość?
+
+Cc Wypadkowa prędkości wzglę«
+dna
+
+/5. Która para lini pozycyjnych da najdokładniejszą A Dwa namiary na różne obiekt
+szycję? Nabieżnik i krąg z kąta pozion
+dwoma obiektami
+
+C Namiariizobata
+
+76. Na horyzoncie własnie ukazało się A W ogólejest to niemożliwe
+dentyfikowane światło latarni. Czy można określić Tak, trzeba tylko mieć Spis Św
+Jległość i w jaki sposób? B Lights)
+
+C_ Nie, bo nie znamy wysokości |
+
+77. Wykonany został namiar kompasowy (Nk). Jak go A _ Przeliczyć na namiar rzeczywi
+ykreślić na mapie? B Wykreślić Nk zgodnie z wykor
+namiarem
+
+Cc Uwzględnić deklinację w dan)
+żeglugi i wykreślić na mapie n
+
+mer arkusza: 20160729_095536455_0 Stri

@@ -1,0 +1,57 @@
+35, Czy przy braku prądu na akwenie gdzie żegluje A Tak, bo brak jest znoszenia pr:
+cht, kurs rzeczywisty = kątowi drogi nad dnem? Nigdy, bo należy zawsze jeszc
+B uwzględnić dryf jachtu spowe
+
+wiatrem
+
+Tak, ale tylko w przypadku gd
+C żegluje kursami pełnymi (bak
+
+fordewind)
+36. Jakimi sposobami można obliczyć poprawkę na A Tylko wykonując obliczenia
+ąd przy czynnym uwzględnianiu prądu? trygonometryczne
+
+B Wykonując wykres lub z tablic
+nawigacyjnych
+
+Cc Analizując już przebytą drogę
+spowodowany wiatrem
+
+37. Jak na mapach generalnych dużych obszarów A __W postaci tabliczek z wartości
+>dawana jest deklinacja magnetyczna? W postaci informacji zawartyc
+przy nagłówku mapy
+
+c W postaci izogon z zaznaczon
+roczną
+
+38. Dewiacja magnetyczna to: Odchylenie igły magnetyczne
+A spowodowane polem magne
+ziemi
+
+Odchylenie igły magnetyczne
+B spowodowane polem magne
+jachtu
+
+Odchylenie igły magnetyczne
+C |spowodowane miejscowym a
+pola magnetycznego ziemi
+
+39, Dewiację można obliczyć: A Przez porównanie namiaru rz:
+namiaru kompasowego na da
+
+B Tylko przy użyciu specjalnych
+do określania dewiacji
+
+Cc Przez wykonanie pomiarów n
+
+magnetycznego jachtu
+0. Czy dewiacja dla danego jachtu jest wielkościa A Tak, jest zależna tylko od natę
+ałą niezaleznie od jego kursu? magnetycznego jachtu
+
+B Nie, bo zależy od kursu magn:
+jachtu i zmienia się ze zmianą
+
+W zasadzie tak, ale zależy od v
+magnetycznego ziemi
+
+mer arkusza: 20160729_095536455_0 Stri

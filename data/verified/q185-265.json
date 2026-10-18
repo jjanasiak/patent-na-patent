@@ -1,0 +1,1910 @@
+[
+  {
+    "id": 185,
+    "question": "Czy przy braku prądu na akwenie gdzie żegluje jacht, kurs rzeczywisty = kątowi drogi nad dnem?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, bo brak jest znoszenia przez prąd",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nigdy, bo należy zawsze jeszcze uwzględnić dryf jachtu spowodowany wiatrem",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, ale tylko w przypadku gdy jacht żegluje kursami pełnymi (baksztag, fordewind)",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 186,
+    "question": "Jakimi sposobami można obliczyć poprawkę na prąd przy czynnym uwzględnianiu prądu?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko wykonując obliczenia trygonometryczne",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wykonując wykres lub z tablic nawigacyjnych",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Analizując już przebytą drogę i dryf jachtu spowodowany wiatrem",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 187,
+    "question": "Jak na mapach generalnych dużych obszarów podawana jest deklinacja magnetyczna?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W postaci tabliczek z wartością deklinacji",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W postaci informacji zawartych w uwagach przy nagłówku mapy",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W postaci izogon z zaznaczoną zmianą roczną",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 188,
+    "question": "Dewiacja magnetyczna to:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Odchylenie igły magnetycznej spowodowane polem magnetycznym ziemi",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Odchylenie igły magnetycznej spowodowane polem magnetycznym jachtu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Odchylenie igły magnetycznej spowodowane miejscowymi anomaliami pola magnetycznego ziemi",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: miejscowym anomaliami"
+    ]
+  },
+  {
+    "id": 189,
+    "question": "Dewiację można obliczyć:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Przez porównanie namiaru rzeczywistego i namiaru kompasowego na dany obiekt",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tylko przy użyciu specjalnych przyrządów do określania dewiacji",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Przez wykonanie pomiarów natężenia pola magnetycznego jachtu",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 190,
+    "question": "Czy dewiacja dla danego jachtu jest wielkością stałą niezależnie od jego kursu?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, jest zależna tylko od natężenia pola magnetycznego jachtu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, bo zależy od kursu magnetycznego jachtu i zmienia się ze zmianą kursu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W zasadzie tak, ale zależy od wielkości pola magnetycznego ziemi",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: wielkościa",
+      "oryginał: niezaleznie"
+    ]
+  },
+  {
+    "id": 191,
+    "question": "Informacja o wartości deklinacji magnetycznej w danym obszarze podawana jest:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W locjach danego akwenu i przewodnikach dla żeglarzy",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tylko na specjalnych mapach",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Na mapach morskich i na mapach izogon",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Tyko"
+    ]
+  },
+  {
+    "id": 192,
+    "question": "Na jachcie (bandera polska) mamy komplet map papierowych i innych pomocy nawigacyjnych na rejon żeglugi, nie ma GPS. Czy jest to wystarczające wg. obowiązujących przepisów?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, bo to pozwala na prowadzenie nawigacji",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, bo zawsze wymagany jest GPS",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, o ile będzie to żegluga po wodach osłoniętych",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 193,
+    "question": "Czarterujemy w Norwegii jacht z zamiarem rejsu do Szkocji i z powrotem? Na jakie sprawy powinniśmy GŁÓWNIE zwrócić uwagę przy załatwianiu czarteru?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Czy jacht jest dopuszczony do takiej żeglugi, czy ma odpowiednie wyposażenie i na jaki akwen ma ubezpieczenie?",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Jakiej mocy ma silnik, jaka jest pojemność zbiorników paliwa",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Pod jaką banderą zarejestrowany jest jacht, jakie ma wyposażenie radiowe",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 194,
+    "question": "Jakie PODSTAWOWE materiały naprawcze dot. armatury poniżej linii wodnej powinny znajdować się na jachcie?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zapasowe zawory i przewody wszystkich średnic zastosowanych na jachcie przejść zaburtowych.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Kołki drewniane i opaski zaciskowe do wszystkich średnic przejść zaburtowych",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zestawy płótna szklanego i żywic z utwardzaczami do laminowania ewentualnych otworów.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 195,
+    "question": "Na jachcie mamy ploter i komplet map wektorowych na rejon żeglugi. Czy jest to wystarczające wg. obowiązujących przepisów?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, bo to pozwala na prowadzenie nawigacji",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, bo wymagane są równolegle mapy papierowe",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, o ile mamy dwa odbiorniki GPS",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 196,
+    "question": "Jacht posiada Kartę Bezp. (bandera polska) na żeglugę oceaniczną. Czy wychodząc na pływanie na Zalew Szczeciński i niemieckie wody osłonięte musimy mieć na pokładzie pełne wyposażenie?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, na jachcie powinno być zawsze wyposażenie odpowiadające max. zakresowi żeglugi",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "To zależy od wymagań przepisów obowiązujących w Niemczech",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie, wystarczy wyposażenie na żeglugę w rejonie 2 ujęte z zał. nr 1 Rozporządzenia Ministra T. B. i G.M. z 28.02.2012 r.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 197,
+    "question": "Czy na jachcie w żegludze pełnomorskiej wymagane jest posiadanie sekstantu i chronometru?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak jest to wymagane",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, jest to wymagane tylko w żegludze oceanicznej",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie, takie wyposażenie nie jest wymagane na jachtach",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 198,
+    "question": "Na jachcie mamy zainstalowane urządzenie AIS, ale stwierdzono, że nie działa. Czy możemy wyjść w rejs z nienaprawionym urządzeniem?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie, to urządzenie musi być sprawne",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, bo bez tego urządzenia nie będzie można prowadzić prawidłowej nawigacji",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, bo na jachtach urządzenie nie jest obowiązkowe tylko zalecane",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 199,
+    "question": "Dużej fali przybojowej w wejściu do portu przy wietrze od morza do wejścia można spodziewać się:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Podczas przypływu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Podczas odpływu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie ma to znaczenia decyduje tylko głębokość morza",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 200,
+    "question": "Jacht znajduje się w porcie Ronne na Bornholmie. Planowane jest wejście do portu Kołobrzeg i zakończenie rejsu w 2 dni później w Świnoujściu, wiatr NW 7/9 °B, odebrano prognozę na następne 24 godziny NW 6/4 °B. Jaką decyzję powinien podjąć kapitan biorąc pod uwagę bezpieczeństwo żeglugi?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wyjść z portu i kontynuować żeglugę zgodnie z pierwotnym planem",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wyjść z portu, ale zrezygnować z wejścia do Kołobrzegu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Pozostać w porcie i po osłabnięciu wiatru kontynuować rejs do Świnoujścia",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Jaką decyzje"
+    ]
+  },
+  {
+    "id": 201,
+    "question": "Planowany jest rejs z Polski na wody duńskie. Jakie wydawnictwa będą NAJBARDZIEJ przydatne w takim rejsie?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Publikacje Admiralicji ( Pilots, List of Lights, Charts)",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Przewodniki z planami portów jachtowych, żeglarskie mapy akwenu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Polskie wydawnictwa Biura Hydrograficznego Marynarki Wojennej",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 202,
+    "question": "W jakim wydawnictwie można znaleźć pełną informację o ratownictwie na wodach całego świata?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Admiralty List of Radio Signals vol 5.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Admiralty Sailing Directions",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie ma takiego wydawnictwa, są tylko wydawnictwa poszczególnych krajów",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 203,
+    "question": "Sprawdzenie prawidłowości pracy silnika powinno polegać na:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sprawdzeniu poziomu oleju i kilkakrotnym uruchomienie silnika na krótki czas.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Sprawdzeniu poziomu płynu chłodzącego, oleju, stanu paliwa w zbiorniku i uruchomienie silnika na 2 - 3 minuty.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sprawdzeniu poziomu oleju, płynu chłodzącego i uruchomieniu silnika na czas pozwalający określić prawidłowość chłodzenia, ciśnienia oleju i utrzymania właściwej temperatury.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: 'kilkakrotnym uruchomienie' w opcji A (niezgodność przypadków, pozostawiono)"
+    ]
+  },
+  {
+    "id": 204,
+    "question": "Planując wejście do portu pływowego (postój za śluzą) najkorzystniej będzie planować podejście:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ok. 1 godziny przed wysoką wodą w tym porcie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Ok. 1 godziny po wysokiej wodzie w tym porcie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Blisko momentu niskiej wody w tym porcie",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 205,
+    "question": "Wejście do portu pływowego ma szerokość 30m, silny prąd pływowy jest równoległy do brzegu. Dane pływów na rysunku. O której godzinie wejście będzie najbezpieczniejsze?",
+    "question_image_note": "tabela pływów (żółta karteczka): dzień 23 – 0007 3.9, 0705 0.4, 1235 3.8, 1927 0.5",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Między 12.00, a 13.00",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Między 09.00 a 10.00",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Między 15.00 a 16.00",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Miedzy (opcja C)"
+    ]
+  },
+  {
+    "id": 206,
+    "question": "Planowane jest przejście Świnoujście - Karlskrona pod żaglami - w miarę możliwości bez silnika (odl. 130 Mm, KD=30°). Prognoza; wiatr N 6-7, prognoza na następne 24 godziny WNW 4-5. Jak będzie najkorzystniej zaplanować wyjście?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wychodzić jak najszybciej",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Odczekać z wyjściem kilkanaście godzin",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Odczekać co najmniej 48 godzin",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: nastepne",
+      "oryginał: wyjscie",
+      "oryginał: conajmniej"
+    ]
+  },
+  {
+    "id": 207,
+    "question": "Jaką długość łańcucha wydać przy kotwiczeniu na głębokości 8 m, (wg. mapy dno jest muliste) ?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "15 m",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "20 m",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "35 m",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: dlugość"
+    ]
+  },
+  {
+    "id": 208,
+    "question": "Przy dobijaniu do nabrzeża uszkodzono poważnie kosz dziobowy. Jak dalej postępować?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sporządzić wpis do dziennika, wykonać zdjęcia, porozumieć się z ubezpieczycielem co do zorganizowania naprawy.A.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Sporządzić protokół awaryjny i wpis do dziennika, wykonać zdjęcia, wysłać protokół do ubezpieczyciela i armatora. Porozumieć się z ubezpieczycielem co do organizacji naprawy.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sporządzić wpis do dziennika i powiadomić armatora, zorganizować naprawę.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: zbędne 'A.' na końcu opcji A (pozostawiono jak w skanie)"
+    ]
+  },
+  {
+    "id": 209,
+    "question": "Po zaokrętowaniu załogi przed wyjściem w rejs kapitan powinien w PIERWSZEJ KOLEJNOŚCI:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zapoznać załogę z obsługą urządzeń do stawiania żagli, pracą odbijaczami i cumami, komendami stosowanymi przy manewrach",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zapoznać załogę z rolami alarmowymi, rozmieszczeniem sprzętu ratunkowego i sygnalizacyjnego oraz zasadami bezpiecznej pracy na jachcie.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zapoznać załogę z obsługą windy kotwicznej, zasadami bezpiecznej pracy cumami, komendami stosowanymi przy manewrach i rozdzielić stanowiska przy manewrach portowych",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 210,
+    "question": "Planowana żegluga ok. 2 doby bez zachodzenia do portu. Jacht odpowiednio wyposażony. Przed wyjściem w rejs NAJWAŻNIEJSZE będzie sprawdzenie:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Stanu zapasów: wody, paliwa, stanu akumulatorów oraz wyposażenia ratunkowego, stanu urządzeń kotwicznych, sprzętu pirotechnicznego, sprawności urządzeń łączności",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Stanu zapasów: żywności, sprzętu bosmańskiego, paliwa, oleju do silnika oraz stanu odbijaczy i zapasowych cum",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Stanu zapasów: części zapasowych do silnika, wody oraz działania kabestanów i steru strumieniowego",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 211,
+    "question": "Z jakim średnim wydłużeniem drogi jachtu powinniśmy się liczyć przy konieczności halsowania dokładnie pod wiatr (kąt martwy jachtu ok. 120°)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "ok. 60% drogi",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "ok. 100% drogi",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "ok. 40 % drogi",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 212,
+    "question": "Jacht jednokadłubowy ma długość ok. 12 m. Jaki średni przebieg dobowy można przyjąć dla tego jachtu przy planowaniu rejsu?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "ok. 120 Mm",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "ok. 65 Mm",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "ok. 200 Mm",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 213,
+    "question": "Planujemy dłuższy przelot oceaniczny ok. 1 tygodnia (np. Dania - Islandia). Na jachcie nie ma urządzeń do odbioru bieżących prognoz czy map pogody. Jakie źródła informacji meteorologicznych zapewnią najpełniejsze zabezpieczenie rejsu?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Bieżąca mapa pogody uzyskana w porcie wyjścia",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Miesięczna mapy pogody dla tego akwenu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Dane z systemu GRIB, pobranie prognostycznych map pogody na 7 dni (wydrukowanie ich lub zachowanie w pamięci komputera)",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: 'Miesięczna mapy' w opcji B (pozostawiono)"
+    ]
+  },
+  {
+    "id": 214,
+    "question": "Przed wyjściem w morze poza szkoleniem alarmowym NAJWAŻNIEJSZE będzie zapoznanie załogi:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Z systemem stawiania, zrzucania i refowania żagli, obsługą urządzeń kotwicznych, uruchamianiem silnika",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Z obsługą radiotelefonu, plotera, silnika zaburtowego pontonu, sposobami cumowania",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Z funkcjami i obsługą autopilota i radaru oraz odsalacza wody morskiej",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 215,
+    "question": "Jak należy zaplanować wyposażenie apteczki jachtowej na dłuższy rejs ( ok. 1 miesiąca)",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie ma przepisów w tym zakresie, są tylko zalecenia, najlepiej skonsultować to z lekarzem",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zakupić typową apteczkę (t.zw. pierwszej pomocy)",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wystarczy typowa apteczka samochodowa",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 216,
+    "question": "Czy na jachcie o długości 14 m powinny być nożyce do cięcia olinowania (bandera polska)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zależy to od średnicy lin olinowania stałego",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 217,
+    "question": "Czy jachty w żegludze pełnomorskiej muszą być wyposażone w radar (bandera polska)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, wszystkie jachty",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, jachty nie muszą mieć radaru",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, ale tylko jachty o LOA większej niż 20 m",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 218,
+    "question": "Kompletujemy załogę na rejs pełnomorski. Czy w składzie załogi musi być osoba posiadająca świadectwo radiooperatora?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, bo na jachcie musi być radiotelefon UKF",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tylko w przypadku kiedy jacht jest wyposażony w radiotelefon UKF",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie, bo do obsługi radiotelefonu UKF nie potrzebne są żadne uprawnienia",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 219,
+    "question": "Planujemy rejs po południowym Bałtyku. Czy porty: Władysławowo, Łeba, Darłowo możemy traktować jako porty schronienia w przypadku ciężkich warunków meteorologicznych?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, w każdych warunkach",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, niezależnie od kierunku wiatru",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zależy to od kierunku i siły wiatru, przy wietrze z sektorów N - nie, wchodzenie jest niebezpieczne, przy wietrze z sektorów S - tak",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 220,
+    "question": "Czy wychodząc w rejs powinniśmy na jachcie mieć długą linę holowniczą?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, wymagają tego przepisy",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, bo przepisy tego nie wymagają",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, bo dobra praktyka morska tego wymaga niezależnie od przepisów",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 221,
+    "question": "Planując możliwość skorzystania z portów schronienia na trasie naszego rejsu należy JAKO DECYDUJĄCE WARUNKI brać pod uwagę:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Szerokość i głębokość wejścia, możliwości manewrowe w porcie w trudnych warunkach",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Czy port zapewnia odpowiednie usługi, tankowanie paliwa i wody np.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Czy w porcie jest możliwość wykonania napraw żagli, silnika np.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: DECYDUJACE"
+    ]
+  },
+  {
+    "id": 222,
+    "question": "Przygotowując się do rejsu okazało się, że mapy (angielskie) nie są poprawione. Do planowanego wyjścia w morze jest niewiele czasu. Jak najszybciej można dokonać korekty?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jedyna możliwość to jak najszybciej oddać je do korekty w firmie prowadzącej takie usługi",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Postarać się wypożyczyć ostatnie numery Notices to Mariners i wykonać korektę",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W Internecie wejść na stronę Searchable Notices to Mariners wydrukować poprawki i nanieść je na mapę",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 223,
+    "question": "Do planowania dłuższego rejsu, porty, czasy przelotów (np. Gdynia - Dublin) najprościej posłużyć się:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kompletem map drogowych i planów portów",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Atlasem map",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Mapami generalnymi",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 224,
+    "question": "Czy spisy świateł (List of Lights) przed rejsem muszą być bieżąco poprawiane?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie, trzeba się posługiwać aktualnymi corocznymi wydaniami",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tak, poprawki wydawane są co tydzień",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, poprawki wydawane są co miesiąc",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 225,
+    "question": "Czy locje powinny być przed rejsem poprawiane?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie, trzeba się posługiwać aktualnymi wydaniami",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, należy tylko sprawdzać czy wydano nowe suplementy",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, poprawki wydawane są co tydzień (np. dla angielskich w Notices to Mariners cz. IV do pobrania w Internecie)",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 226,
+    "question": "Przed rejsem sprawdzamy sprzęt ratunkowy. Na co w pierwszym rzędzie należy zwrócić uwagę sprawdzając tratwę ratunkową?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Łoże tratwy, liny lub pasy mocujące",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Stan opakowania tratwy, oznakowanie, zamocowanie linki operacyjnej",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Czy atest tratwy jest ważny, czy zwalniak jest prawidłowo zamocowany i ma ważny atest",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 227,
+    "question": "Jakie dodatkowe wyposażenie powinny mieć pasy ratunkowe (rejs pełnomorski)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wodoodporną instrukcję użytkowania",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Działającą lampkę zgodną z wymaganiami konwencji SOLAS",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Osłonę przeciw bryzgową na głowę i twarz",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 228,
+    "question": "Jakie dokumenty powinny być na jachcie wyposażonym w radiotelefon UKF?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko jedna osoba powinna mieć świadectwo radio-telefonisty",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Jeżeli jest to radiotelefon przenośny nie potrzebne są żadne dokumenty",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Licencja na radiostację i co najmniej jedna osoba powinna mieć świadectwo radio-telefonisty",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 229,
+    "question": "Sprawdzamy wyposażenie jachtu (długość 15 m) przed rejsem pełnomorskim. Jakie wyposażenie do sygnalizacji dźwiękowej powinno być na jachcie?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie ma specjalnych wymagań jakiekolwiek urządzenie dające donośny sygnał",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Gwizdek ( słyszalność przynajmniej 0,5 Mm) i dzwon",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Jachty nie muszą mieć takiego wyposażenia",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 230,
+    "question": "Sprawdzamy wyposażenie jachtu przed rejsem pełnomorskim. Jacht posiada tylko latarnię sektorową na topie masztu jak na rysunku. Czy jest to wystarczające wyposażenie do żeglugi pod żaglami?",
+    "question_image_note": "rysunek latarni sektorowej trójkolorowej (sektory: biały, czerwony, zielony) – widok z góry",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tak, dla każdej jednostki pod żaglami",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, ale dla jachtu krótszego od 20 m",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 231,
+    "question": "Dla bezpiecznego planowania dłuższych przelotów jachtu istotniejsze będą informacje o:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Szybkości jachtu pod żaglami, prądach stałych występujących na tym akwenie, długoterminowych danych meteorologicznych",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Prądach pływowych i skoku pływu, występujących na tym akwenie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Portach i możliwościach napraw w tych portach",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: wystepujących"
+    ]
+  },
+  {
+    "id": 232,
+    "question": "Planując trasę rejsu należy brać pod uwagę istnienie akwenów stale lub okresowo zamkniętych dla żeglugi. Gdzie można znaleźć informacje na ten temat.",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Akweny są zaznaczane na mapach, okresy zamknięcia podawane w ostrzeżeniach nawigacyjnych",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Informacje podawane są tylko ze statków zabezpieczających takie akweny",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Takie akweny są oznakowane pławami",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: zamknietych",
+      "oryginał: Akweny sa",
+      "oryginał: zabezpieczjacych"
+    ]
+  },
+  {
+    "id": 233,
+    "question": "Na trasie planowanego rejsu są systemy rozgraniczenia ruchu, czy jachty mogą korzystać z toru w takim systemie zgodnie z Międzynarodowymi Przepisami o Zapobieganiu Zderzeniom.......",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie, jest to zakazane",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tak, ale statki o mniejszej długości niż 20m nie powinny przeszkadzać statkom korzystającym z toru.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, bez żadnych ograniczeń",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Międznarodowymi",
+      "oryginał: korzystajacym"
+    ]
+  },
+  {
+    "id": 234,
+    "question": "Planujemy rejs na wody Szkocji. Jakie wydawnictwo poza Tablicami Pływów będzie najbardziej przydatne w takim rejsie?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Atlas prądów pływowych dla tego akwenu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Przewodnik turystyczny głównych portów",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Poradnik dot. warunków meteorologicznych na tym akwenie",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 235,
+    "question": "Który ze sposobów pokonywania fali przy sztormowaniu będzie najbezpieczniejszy?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Odpadanie przed nadejściem wierzchołka fali i ostrzenie po jego przejściu.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Utrzymywanie jachtu pod stałym kątem do nadchodzącej fali ok. 70°",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Ostrzenie przed nadejściem wierzchołka fali i odpadanie po jego przejściu",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: nadchodzacej"
+    ]
+  },
+  {
+    "id": 236,
+    "question": "Przy planowaniu dalszych przelotów oceanicznych NAJDOKŁADNIEJSZĄ pomocą nawigacyjną będą:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mapy miesięczne warunków meteorologicznych (Routeing Charts)",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Locje akwenów, gdzie planowana jest żegluga",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Dane z podręczników meteorologii (dział dot. układu wiatrów na kuli ziemskiej)",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 237,
+    "question": "Przy sprawdzaniu przed rejsem rodzaju i ilości wyposażenia jachtu w środki pirotechniczne należy kierować się:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kartą bezpieczeństwa jachtu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Świadectwem klasy jachtu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Załącznikiem nr 1 do Rozporządzenia MTBiGM z 28.02.2008 r.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Rozporzadzenia"
+    ]
+  },
+  {
+    "id": 238,
+    "question": "Czy na jachtach morskich (bandera polska) muszą być opracowane rozkłady alarmowe (na piśmie)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, na wszystkich",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, na jachtach takie rozkłady nie są obowiązkowe",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, ale tylko na jachtach o długości większej niż 15 m i załodze powyżej 5 osób",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: rozklady",
+      "oryginał: wiekszej"
+    ]
+  },
+  {
+    "id": 239,
+    "question": "Czy na jachtach dopuszcza się brak map papierowych ?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, mapy wektorowe wystarczą",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, w żadnym wypadku",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak o ile system obsługujący mapy wektorowe będzie zdublowany.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: obsługujacy"
+    ]
+  },
+  {
+    "id": 240,
+    "question": "Hipotermia jest to stan organizmu z obniżoną temperaturą wewnętrzną spowodowany czynnikami zewnętrznymi jak np. woda, wiatr itp. Jak postępować z taką osobą?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zabezpieczyć przed dalszą utratą ciepła np. folia NRC, koc, śpiwór. Poszkodowanemu można podać alkohol. Jak najszybciej zapewnić opiekę lekarską",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zabezpieczyć przed dalszą utratą ciepła np. folia NRC, koc, śpiwór. Poszkodowanemu podać ciepłe osłodzone płyny. Jak najszybciej zapewnić opiekę lekarską",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zabezpieczyć przed dalszą utratą ciepła np. folia NRC, koc, śpiwór. Nie podawać nic do picia. Jak najszybciej zapewnić opiekę lekarską",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 241,
+    "question": "Prowadząc sztuczne oddychanie i pośredni masaż serca wykonujemy:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "15 uciśnięć mostka i 2 wdmuchnięcia powietrza,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "5 uciśnięć mostka i 1 wdmuchnięcie powietrza,",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "30 uciśnięć mostka i 2 wdmuchnięcia powietrza",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 242,
+    "question": "Po podjęciu nieprzytomnego człowieka z wody należy w PIERWSZEJ KOLEJNOŚCI sprawdzić:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Oddech i tętno",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Czy nie jest zraniony",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Reakcję źrenic na światło",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 243,
+    "question": "Na jachcie czuć zapach tlącej się izolacji. Co zrobić w pierwszej kolejności?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jak najszybciej zlokalizować miejsce uszkodzenia",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Przygotować gaśnicę i czekać gdzie pojawi się dym",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wyłączyć główny wyłącznik akumulatorów lub zdjąć klemy z akumulatora",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 244,
+    "question": "W celu ugaszenia gaśnicą pożaru w komorze silnika należy:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wyłączyć silnik, lekko uchylić pokrywę/wejście do komory i natychmiast użyć gaśnicy",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Otworzyć szeroko pokrywę/wejście do komory, sprawdzić co się pali i dopiero użyć gaśnicy",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Otworzyć szeroko pokrywę/wejście do komory i gasić ogień wodą podawaną z za burty",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 245,
+    "question": "Oparzenia zaopatrujemy poprzez:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Szybkie ochłodzenie oparzonego miejsca przez polewanie zimną wodą i nałożenie jałowego opatrunku.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nałożenie tłustego kremu lub oliwy i jałowego opatrunku",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Przemycie alkoholem i nałożenie opatrunku",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 246,
+    "question": "Przed rozpoczęciem sztucznego oddychania u osoby nieprzytomnej należy:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Udrożnić drogi oddechowe i prowadzić akcję sztucznego oddychania",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zabezpieczyć poszkodowaną osobę przed utratą ciepła i prowadzić akcję",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Przenieść osobę poszkodowaną na miękkie podłoże i rozpocząć akcję",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 247,
+    "question": "Radiopława EPIRB to urządzenie służące do:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Lokalizacji rozbitków przy użyciu radaru statkowego",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Alarmowania w niebezpieczeństwie na częstotliwościach UKF",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Alarmowania i lokalizacji obiektu będącego w niebezpieczeństwie",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 248,
+    "question": "Transponder radarowy to urządzenie do:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Lokalizacji rozbitków przy użyciu radaru innego statku",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wykrywania pław wyposażonych w urządzenie \"RACON\"",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Emisji sygnałów radarowych umożliwiających identyfikację naszego statku",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 249,
+    "question": "Jacht znajduje się na morzu z dala od lądu. Czy uruchomienie pławy EPIRB zapewni odebranie alarmu w niebezpieczeństwie?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie jest to pewne bo zależy to od typu radiopławy i jej zasięgu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tak, bo zasięg radiopławy jest globalny",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie, bo radiopława ma zasięg analogiczny do radiotelefonu UKF",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 250,
+    "question": "W jakim obszarze działa polska Morska Służba Poszukiwania i Ratownictwa (SAR)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Całe morze Bałtyckie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Bałtyk południowy i wybrzeże polskie ( bez Bornholmu)",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tylko strefa polskich wód terytorialnych",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 251,
+    "question": "W polskiej strefie Morskiej Służby Poszukiwania i Ratownictwa (SAR) łączność radiową w niebezpieczeństwie zapewniają:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kapitanaty portów polskich",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Radiostacja \"Witowo Radio\" i jej ekspozytury",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Specjalne radiostacje SAR",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 252,
+    "question": "Jaki jest tok postępowania po odbiorze alarmu w niebezpieczeństwie przez stację brzegową?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Stacja alarmuje Morskie Ratownicze Centrum Koordynacyjne danego obszaru, a MRCC organizuje akcje ratowniczą. Łączność utrzymuje stacja i/lub jednostki ratownicze.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Stacja nawiązuje łączność z wzywającym pomocy i współpracuje z najbliższą stacją ratowniczą.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Stacja po przekazaniu alarmu do MRCC nie uczestniczy dalej w prowadzonej akcji.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 253,
+    "question": "Jakich częstotliwości UKF używa się dla łączności w niebezpieczeństwie i współpracy z SAR?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Alarmowanie cyfrowe Ch 70, łączność na fonii Ch 16",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Alarmowanie cyfrowe Ch 70, łączność na fonii Ch 16 lub inne uzgodnione kanały",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wyłącznie kanału 16",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 254,
+    "question": "Na jachcie zauważono pęknięcie okucia mocującego sztag. Jakie działania należy podjąć?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zrzucić przednie żagle, zainstalować zastępcze sztagi ( z fałów itp.), rozeznać możliwość wpięcia sztagu do innego okucia, kierować się do najbliższego portu.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zainstalować zastępcze sztagi, zrzucić wszystkie żagle, kontynuować żeglugę na silniku",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zmienić kurs na pełny baksztag lub fordewind, zrzucić przednie żagle, zainstalować zastępcze sztagi i napiąć je, rozeznać możliwość wpięcia sztagu do innego okucia. Podjąć decyzję co do dalszej żeglugi stosownie do okoliczności.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 255,
+    "question": "Na jachcie zauważono pęknięcia drutów jednej z nawietrznych want. Jakie działania należy podjąć?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Natychmiast wykonać zwrot przez sztag, zrzucić żagle, zainstalować prowizoryczną wantę, po rozpatrzeniu sytuacji kontynuować żeglugę na silniku.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Natychmiast zrzucić żagle, zainstalować prowizoryczną wantę, żeglować na zredukowanych żaglach do najbliższego portu.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Natychmiast zrzucić żagle, dokonać oględzin wanty, jeżeli uszkodzone jest mniej niż 50% drutów, płynąć na silniku do najbliższego portu",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 256,
+    "question": "Kto ogłasza alarm \"Człowiek za burtą\" ( MOB) ?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Kapitan, po wywołaniu go na pokład;",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Kapitan, po wywołaniu załogi na pokład;",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Osoba, która pierwsza zauważyła wypadnięcie człowieka",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 257,
+    "question": "Po wyłowieniu człowieka, który wypadł za burtę stwierdzono, że jest nieprzytomny ale oddycha. Co robić ?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Natychmiast rozpocząć akcję resuscytacyjną i wezwać pomoc.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Jak najszybciej płynąć do portu i tam zapewnić mu pomoc lekarską.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Ułożyć człowieka w pozycji bezpiecznej i zabezpieczyć przed utratą ciepła. Wezwać pomoc",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 258,
+    "question": "Jakie środki bezpieczeństwa osobistego i w jakiej ilości powinny być na jachcie (bandera polska)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pasy ratunkowe dla całej załogi, Pasy bezpieczeństwa dla całej załogi",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Pasy ratunkowe dla całej załogi, pasy bezpieczeństwa dla jednej wachty",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Pasy ratunkowe dla całej załogi + 1, pasy bezpieczeństwa co najmniej dla połowy załogi",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 259,
+    "question": "Jacht nabiera wody, kapitan zarządził zwodowanie zamocowanej na pokładzie tratwy ratunkowej. Jak to przeprowadzić?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Odpiąć tratwę z łoża, wyrzucić za burtę. Tratwa sama się rozwinie.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Sprawdzić czy linka operacyjna jest zamocowana. Odpiąć tratwę z łoża, wyrzucić tratwę za burtę. Wybierać linkę operacyjną do oporu, po rozwinięciu dociągnąć tratwę do burty",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Odpiąć tratwę z łoża, sprawdzić czy linka operacyjna jest zamocowana, wywlec linkę operacyjną do oporu. Po rozwinięciu tratwy zwodować ją.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 260,
+    "question": "Przy odbiorze jachtu (rejs pełnomorski, 5 osób załogi) stwierdzono, że na jachcie jest tylko 6 pneumatycznych pasów ratunkowych z uprzężą i linkami z karabińczykami. Czy jest to wyposażenie spełniające polskie przepisy?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, całkowicie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak pod warunkiem, że pasy posiadają lampki zgodne z warunkami konwencji SOLAS",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 261,
+    "question": "Kapitan zadecydował o wezwaniu pomocy przy pomocy pławki \"pomarańczowy dym\". Jak ją uruchomić?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zdjąć korek zabezpieczający, zapalić ładunek przy pomocy zapałek lub zapalniczki, postawić pławkę na pokładzie.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zdjąć korek zabezpieczający, wcisnąć przycisk zapalający, postawić pławkę na pokładzie.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zdjąć korek zabezpieczający, pociągnąć za linkę zapalnika, wrzucić pławkę do wody.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 262,
+    "question": "Po znalezieniu się w wodzie stwierdzamy, że pneumatyczna kamizelka ratunkowa nie wypełniła się gazem. Co należy zrobić?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nic się nie da zrobić, można tylko zmienić kamizelkę na inną.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Rozsunąć zamek błyskawiczny kamizelki i znaleźć rurkę do jej napełniania. Napełnić ustami kamizelkę .",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Założyć zapasowy nabój do napełniania i napełnić kamizelkę.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: spacja przed kropką na końcu opcji B (pozostawiono)"
+    ]
+  },
+  {
+    "id": 263,
+    "question": "Jacht na pełnym morzu. Prognoza na najbliższy czas 8 - 9°B. Jak przygotować jacht?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sprzątnąć z pokładu żagle, które nie będą używane, sklarować sprzęt pod pokładem, zarefować żagle, przygotować żagle sztormowe, sprawdzić silnik",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Sklarować sprzęt pod pokładem, postawić dryfkotwę, przygotować pirotechnikę.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sprawdzić i ewentualnie uruchomić silnik, być w gotowości do zrzucenia żagli.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 264,
+    "question": "W jakiej sytuacji wybrać metodę równoczesnego sztormowania pod żaglami i na silniku?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Jeżeli musimy sztormować w bejdewindzie z uwagi na bliski ląd po zawietrznej",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Jeżeli zależy nam na utrzymaniu dużej szybkości",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Jeżeli obawiamy się utraty sterowności w przypadku porwania żagli",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 265,
+    "question": "Na jachcie fok zwijany jest na rolerze, a grot do masztu. Czy w przypadku sztormowania lepiej będzie pozostawić zmniejszony fok na rolerze czy postawić mały fok na sztagu wewnętrznym (baby sztag)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pozostawić zmniejszony fok na rolerze",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Postawić mały fok na sztagu wewnętrznym",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie ma to znaczenia byle zmniejszenie powierzchni żagli było takie samo",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  }
+]

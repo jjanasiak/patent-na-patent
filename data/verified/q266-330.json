@@ -1,0 +1,1614 @@
+[
+  {
+    "id": 266,
+    "question": "W przypadku wypadnięcia człowieka za burtę oficer (członek załogi) wachtowy w pierwszej kolejności powinien wykonać następujące czynności (jacht pod żaglami):",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ogłosić alarm, rzucić środki ratunkowe (koło lub t.p.), wcisnąć przycisk MOB (GPS, Ploter), uruchomić silnik, wyznaczyć natychmiast obserwatora, dalsze działanie pod komendą kapitana.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Ogłosić alarm, rzucić środki ratunkowe (koło lub t.p.), obserwować człowieka, rozpocząć manewr pod żaglami, zapisać pozycje z GPS, dalsze działanie pod komendą kapitana",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Ogłosić alarm, rzucić środki ratunkowe (koło lub t.p.), czekać na komendy kapitana",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 267,
+    "question": "Jacht na skutek uszkodzenia steru dryfuje w kierunku zawietrznego brzegu. Wystrzelono czerwone rakiety i nadano sygnał May Day. Po pewnym czasie zaobserwowano przy brzegu pomarańczowy dym. Co to oznacza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Prawdopodobnie jakaś inna jednostka wzywa pomocy",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Ten brzeg jest niebezpieczny, starajcie się tu nie sztrandować.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Widzimy was, pomocy udzielimy jak najprędzej.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 268,
+    "question": "Kapitan zdecydował się sztrandować. Na brzegu do którego płynie jacht wystrzelono czerwoną rakietę. Co to oznacza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Widzimy was i możemy udzielić pomocy",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Lądowanie tutaj jest nadzwyczaj niebezpieczne",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Podejście jednostki ratowniczej do was jest niemożliwe",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 269,
+    "question": "Odebrany został sygnał May Day. Po chwili stacja brzegowa zawiadomiła, że statki w pobliżu proszone są o pomoc i po pewnym czasie zaobserwowano samolot, który nisko okrążył jacht, a potem odleciał kursem ok. 30°. Co to oznacza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Samolot dał znać, że nasza pomoc jest niepotrzebna.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Samolot naprowadza nas na jednostkę potrzebującą pomocy",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Samolot poszukuje jednostki wzywającej pomocy i sprawdzał czy to nie nasza jednostka",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 270,
+    "question": "Kapitan zdecydował się sztrandować. Na brzegu do którego płynie jacht wystrzelono czerwoną rakietę, a na prawo od niej białą rakietę. Co to oznacza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Widzimy was i możemy udzielić pomocy",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Starajcie się lądować w kierunku wskazanym białą rakietą.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Podejście jednostki ratowniczej do was jest niemożliwe",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 271,
+    "question": "Na jachcie jest ciężko ranny członek załogi. Wezwano pomocy i otrzymano informację, że do jachtu płynie jednostka ratownicza. Po pewnym czasie zaobserwowano na horyzoncie kolejno trzy białe rakiety. Co to oznacza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Widzę was i płynę do was.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie widzę waszej jednostki, nadajcie sygnał identyfikujący waszą jednostkę",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Taki sygnał nic nie oznacza. Raczej nie ma nic wspólnego z nami.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 272,
+    "question": "Na jachcie jest człowiek mocno poparzony, ale sprawny. Wezwano pomoc i nadleciał helikopter. Jak postępować?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zrzucić żagle, możliwie oczyścić pokład ze sprzętu, na silniku iść powoli pod wiatr, nawiązać łączność z helikopterem przy pomocy radiotelefonu UKF i postępować ściśle według jego wskazówek.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Ustawić jacht w dryfie, czekać aż helikopter opuści ratownika na pokład i zabierze poszkodowanego.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zrzucić żagle, iść powoli z wiatrem, czekać na podanie z helikoptera liny z pętlą.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 273,
+    "question": "Zaobserwowano wydobywanie się dymu z bakisty rufowej, po otwarciu klapy pokazał się płomień. Jak postępować?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ogłosić alarm, otworzyć klapę i sprawdzić co się pali, przygotować gaśnice i gasić pożar. Po ugaszeniu dokładnie zbadać pomieszczenie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Natychmiast zamknąć klapę, ogłosić alarm, zmienić kurs jachtu na bejdewind, przygotować gaśnice i po lekkim uchyleniu klapy gasić pożar. Po ugaszeniu dokładnie zbadać pomieszczenie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Ogłosić alarm, otworzyć klapę i sprawdzić co się pali, gasić pożar wodą czerpaną zza burty. Po ugaszeniu dokładnie zbadać pomieszczenie",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: z za burty (opcja C)"
+    ]
+  },
+  {
+    "id": 274,
+    "question": "W trakcie żeglugi bezpieczniej poruszać się po pokładzie po burcie:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zawietrznej,",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nawietrznej,",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie ma to znaczenia",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 275,
+    "question": "W celu zabezpieczenia załogi przy poruszaniu się na pokładzie w ciężkich warunkach najkorzystniejsze jest zainstalowanie:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Mocnych uchwytów w kilku miejscach pozwalających na wpinanie pasa bezpieczeństwa",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Relingów wzdłuż całej nadbudówki",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Taśm albo lin rozpiętych od dziobu do rufy",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 276,
+    "question": "Przy złamaniu kończyny należy:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ułożyć poszkodowanego w koi, podać środki przeciwbólowe, płynąć jak najszybciej do portu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Ułożyć poszkodowanego w t.zw. pozycji bezpiecznej, płynąć jak najszybciej do portu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Usztywnić 2 przyległe stawy, ułożyć chorego wygodnie, podać środki przeciwbólowe, możliwie szybko wezwać pomoc lekarską",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 277,
+    "question": "Czy na Zatoce Gdańskiej i Zalewie Szczecińskim działa służba ratownictwa morskiego SAR?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, z centrum koordynacyjnym w Gdyni i Stacjami ratownictwa w portach.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, SAR działa tylko na pełnym morzu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nie, działa tam tylko WOPR",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 278,
+    "question": "Zaobserwowano, że znajdujący się w pobliżu jacht ma podniesiony sygnał jak na rysunku. Co należy zrobić?",
+    "question_image_note": "schematyczna jednostka na wodzie (kadłub z kratownicowym masztem o trójkątnym szczycie); na maszcie podniesiona czerwona prostokątna flaga, a pod nią czarna kula",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Taki sygnał nic nie oznacza, kontynuować swoje pływanie.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Jacht stoi na mieliźnie, nie podchodzić w pobliże",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Jacht wzywa pomocy, podejść i podjąć odpowiednie działania",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 279,
+    "question": "Członek załogi przewrócił się na pokładzie, ma silny ból klatki piersiowej szczególnie przy wdechu. Jak postępować z poszkodowanym?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Umieścić go w pozycji półsiedzącej w miejscu najmniej narażonym na kołysanie, założyć okrężną opaskę z szerokiego bandaża na klatkę piersiową, podać środki przeciwbólowe",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Ułożyć go w pozycji bezpiecznej, w miejscu dobrze wentylowanym",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Podawać ciepłe płyny i środki przeciwkaszlowe",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: okrężna opaskę (opcja A)"
+    ]
+  },
+  {
+    "id": 280,
+    "question": "Przy pracach konserwacyjnych członek załogi oparzył się kwasem z akumulatora. Jak postępować?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nałożyć na miejsce oparzone sterylny opatrunek",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Starannie i długo płukać miejsce oparzone wodą, a następnie roztworem sody oczyszczonej lub mydła. Nałożyć sterylny opatrunek.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nałożyć na miejsce oparzone okład alkaliczny np. z mydła",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: np.z mydła (opcja C)"
+    ]
+  },
+  {
+    "id": 281,
+    "question": "Przy wychodzeniu z jachtu członek załogi doznał urazu stawu skokowego ( ból i zasinienie) jak należy postępować?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nałożyć ciasny bandaż, trzymać nogę w cieple",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Unieruchomić całą kończynę, wzywać natychmiast pomoc lekarską",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zastosować zimne okłady przez 15 - 30 minut, unieruchomić staw, podać środki przeciwbólowe",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: oklady (opcja C)"
+    ]
+  },
+  {
+    "id": 282,
+    "question": "Na jachcie jest ranny członek załogi. Wezwano pomoc. Przyleciał helikopter. Kto kieruje akcją, jakie są obowiązki kapitana?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Akcją kieruje załoga helikoptera, kapitan powinien nawiązać łączność i przygotować jacht, załogę i poszkodowanego",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Akcją kieruje kapitan, który powinien nawiązać łączność z helikopterem i ustalać działania",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Akcją kieruje MRCC, kapitan powinien tylko utrzymać żądany kurs i prędkość jachtu.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: helikloptera (opcja A)",
+      "oryginał: żadany (opcja C)"
+    ]
+  },
+  {
+    "id": 283,
+    "question": "Jak powinna być przygotowana załoga i jak działać w przypadku konieczności opuszczenia jachtu?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie za ciężkie ubranie, założone pasy ratunkowe, jak najszybciej wejść do tratwy",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Ubrani jak najcieplej, założone pasy ratunkowe, zabrać sprzęt łączności i sygnalizacyjny, żywność, apteczkę",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Ubrani jak najcieplej, założone pasy ratunkowe, natychmiast po wejściu do tratwy wzywać pomocy środkami pirotechnicznymi, jeżeli jest ręczny radiotelefon UKF prowadzić ciągły nasłuch na kanale 16.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: łaczności (opcja B)",
+      "oryginał: wejsciu (opcja C)"
+    ]
+  },
+  {
+    "id": 284,
+    "question": "Jacht znajduje się w zatoce Hano na N od Bornholmu siła wiatru wzrosła do NE 10°B. Jaki wybrać stosunkowo najbezpieczniejszy sposób sztormowania?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Sztormowanie z wiatrem na foku sztormowym, wejście za Bornholm po stronie zachodniej, ewentualne wejście do portu schronienia.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Sztormowanie w dryfie bez żagli, w razie potrzeby użycie silnika",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Żagle maksymalnie zarefowane, wspomaganie silnikiem, starać się podejść pod południowe wybrzeże szwedzkie.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: wejscie (2x, opcja A)"
+    ]
+  },
+  {
+    "id": 285,
+    "question": "Jacht ma dość wysoką burtę. Człowiek w wodzie jest przy burcie, przytomny może współpracować. Jak najlepiej wciągnąć go na pokład?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Dwóch najsilniejszych członków załogi wciąga go na pokład na śródokręciu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Podać pętlę z grubej liny, którą powinien założyć pod pachy, wciągać wolnym fałem",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Podać mu linę, którą powinien na sobie zawiązać i wciągać go tą liną",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: wspólpracować (pytanie)",
+      "oryginał: wciaga (opcja A)",
+      "oryginał: założyc (opcja B)",
+      "oryginał: wciagać (opcja C)"
+    ]
+  },
+  {
+    "id": 286,
+    "question": "Najważniejsze czynności przygotowawcze do sztormowania na pełnym morzu to:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Szczelne zamknięcie luków, klap itp. sprawdzenie pomp zęzowych, usunięcie z pokładu zbędnego sprzętu, postawienie lub przygotowanie żagli sztormowych",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Przegląd środków pirotechnicznych, sprawdzenie stanu pasów ratunkowych, przygotowanie apteczki.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Przygotowanie ciepłego posiłku dla załogi, zamknięcie zaworów zaburtowych WC, sprawdzenie stanu baterii przenośnych radiotelefonów UKF,",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: do sztormowaniu (pytanie)",
+      "oryginał: radiotelefonow (opcja C)"
+    ]
+  },
+  {
+    "id": 287,
+    "question": "W jakich sytuacjach sztormowych możemy spodziewać się wzrostu wysokości i nieregularności fali?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Na wodach pływowych, kiedy prąd pływowy zmieni kierunek na przeciwny do kierunku wiatru",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Na wodach pływowych, kiedy prąd pływowy zmieni kierunek na zgodny z kierunkiem wiatru",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Na wodach pływowych, w okresie bliskim wystąpienia niskiej wody",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 288,
+    "question": "W jakich sytuacjach sztormowych możemy spodziewać się wzrostu wysokości i nieregularności fali?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W sytuacji, kiedy następuje szybka zmiana kierunku nadal silnego wiatru do kierunku występującej fali, np. o 45° - 90°",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W sytuacji wyjścia ze strefy przybrzeżnej na otwarte morze",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W sytuacji zbliżania się do brzegu nawietrznego",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: W sytacji (opcja A)",
+      "oryginał: występujacej (opcja A)"
+    ]
+  },
+  {
+    "id": 289,
+    "question": "W przypadku cięższych warunków atmosferycznych należy unikać żeglugi w obszarach:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Gdzie stałe prądy mają kierunek zgodny z kierunkiem wiatru",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Gdzie występuje wzmocnienie szybkości prądów ( np. przylądki, obszary o silniejszym prądzie itp.)",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Gdzie głębokość morza jest znaczna, aż do bezpośredniej bliskości lądu",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: głebokośc (opcja C)"
+    ]
+  },
+  {
+    "id": 290,
+    "question": "Czy przy sztrandowaniu na polskim wybrzeżu możemy liczyć na pomoc BEZPOŚREDNIO z lądu.",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, ale TYLKO przy pomocy helikoptera jest to ewentualnie możliwe",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, Na polskim wybrzeżu są stacje ratownictwa brzegowego dysponujące odpowiednim sprzętem do ratownictwa z brzegu.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: liczyc (pytanie)",
+      "oryginał: dysponujace (opcja C)",
+      "pytanie w oryginale zakończone kropką zamiast znaku zapytania"
+    ]
+  },
+  {
+    "id": 291,
+    "question": "Jeden z klawiszy radiotelefonu VHF opisany jest jako \"DW\" oznacza to:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wybór poziomu mocy nadajnika radiotelefonu: 1W lub 25W",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wybór podwójnego nasłuchu na kanale 16 i dowolnym innym",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wybór podwójnego nasłuchu na dwóch dowolnych kanałach",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: nadajnka (opcja A)",
+      "oryginał: nasluchu (opcja C)"
+    ]
+  },
+  {
+    "id": 292,
+    "question": "Podczas mgły usłyszano przed dziobem jachtu sygnał \"jeden długi dźwięk\", na jachcie nie ma radaru, sygnał powtarza się. Jak zareagować?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zmniejszyć szybkość, nadawać sygnały mgłowe, ustalić w którą stronę przemieszcza się sygnał, gotowość do manewrów",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Kontynuować kurs i szybkość, to statek przecinający nasz kurs, wkrótce się oddali",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zatrzymać się, pozostać w dryfie, aż statek się oddali",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 293,
+    "question": "Czy podczas żeglugi we mgle powinno się używać normalnych sygnałów manewrowych np. moje maszyny pracują wstecz \" . . . \"",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "To zależy od akwenu i typu statku",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "pytanie w oryginale bez znaku zapytania"
+    ]
+  },
+  {
+    "id": 294,
+    "question": "Na jaki zasięg radiotelefonu UKF można liczyć przy nawiązywaniu łączności?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "60 - 70 Mm",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "70 - 80 Mm",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "30 - 40 Mm",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 295,
+    "question": "Na jachcie jest radiostacja pośredniofalowa i UKF. Na jakich kanałach/częstotliwościach prowadzi się korespondencję w niebezpieczeństwie na tych urządzeniach na fonii?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pośredniofalowa 2187,5 kHz, UKF kanał 70",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Pośredniofalowa 2182 kHz, UKF kanał 16",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Pośredniofalowa 2187,5 kHz, UKF kanał 6",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 296,
+    "question": "Czy po wciśnięciu przycisku \"DISTRESS\" radiotelefon nada sygnał alarmowy?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko raz",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Będzie go powtarzał, jeżeli nie wciśniemy przycisku \"STOP\"",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zawsze powtórzy sygnał alarmowy trzy razy",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 297,
+    "question": "Na jakim kanale w obszarze A1 może być nadawane wezwanie w niebezpieczeństwie (DSC), a na jakim zawiadomienie w niebezpieczeństwie?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wezwanie(DSC) kanał 70 (automatycznie), zawiadomienie kanał 16 na fonii",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wezwanie i zawiadomienie zawsze tylko na kanale 16",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wezwanie i zawiadomienie zawsze tylko na kanale 70",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 298,
+    "question": "Na płynącym w pobliżu jachcie jakiś człowiek macha rękami jak na rysunku. Jak zareagować?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "To pozdrowienie, odpowiedzieć podobnie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "To wzywanie pomocy, podejść jak najbliżej, nawiązać łączność",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "To ostrzeżenie, idziecie ku niebezpieczeństwu",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "brak-ilustracji-w-skanie: pytanie odwołuje się do rysunku, ale w oryginale (s. 45) nie ma żadnej ilustracji"
+    ]
+  },
+  {
+    "id": 299,
+    "question": "Przy odbiorze pirotechniki ( na rejs pełnomorski) przekazano 8 rakiet czerwonych i pławkę \"pomarańczowy dym\". Czy jest to stan zgodny z przepisami (bandera polska)?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, o ile posiadają ważny atest (datę ważności)",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, o ile są w dobrym stanie technicznym",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 300,
+    "question": "Jakie dokumenty powinny być na jachcie wyposażonym w radiotelefon UKF.",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie są potrzebne żadne dokumenty",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Zezwolenie na urządzenie (Licencja) państwa bandery",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zezwolenie na urządzenie (Licencja), jeden z członków załogi musi mieć świadectwo operatora",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Nie sa (opcja A)",
+      "pytanie w oryginale zakończone kropką zamiast znaku zapytania"
+    ]
+  },
+  {
+    "id": 301,
+    "question": "W przypadku braku łączności radiowej albo trudności językowych można posłużyć się sygnałami skrótowymi (literowymi) Kodu Sygnałowego. Gdzie znaleźć informacje o takich sygnałach?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "W locjach ( cz. ogólna, informacje o danym kraju)",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W \"Admiralty List of Radio Signals\"",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "W książce \"Międzynarodowy Kod Sygnałowy\"",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Miedzynarodowy Kod Sygnalowy (opcja C)"
+    ]
+  },
+  {
+    "id": 302,
+    "question": "Statek idący równolegle z jachtem skierował przed dziób jachtu światło reflektora. Co to oznacza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie wiadomo, może coś zaobserwował na morzu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Spodziewa się pilota i daje mu znać gdzie jest",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Ostrzeżenie dla jachtu, aby nie zmieniał kursu w stronę statku",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 303,
+    "question": "Statek idący w pobliżu jachtu nadał sygnał: pięć krótkich dźwięków. Co to oznacza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Statek pilotowy pełniący służbę pilotową",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Uwaga! nie rozumiem waszych zamiarów",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Moje maszyny pracują wstecz",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: dźwieków (pytanie)",
+      "oryginał: pełniacy służbe (opcja A)"
+    ]
+  },
+  {
+    "id": 304,
+    "question": "Czy jachty powinny być wyposażone w dzwon?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, ale tylko dłuższe od 12 m",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, wszystkie",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 305,
+    "question": "Czy jachty powinny mieć gwizdek ( ZGODNY Z WYMAGANIAMI MPZZM) do nadawania sygnałów dźwiękowych?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie, takie urządzenia muszą mieć tylko większe statki",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Tak, wszystkie jachty powinny mieć takie urządzenie odpowiadające wymaganiom MPZZM",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, ale tylko dłuższe od 12 m, krótsze mogą mieć urządzenia nie odpowiadające normom MPZZM",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: urzadzenia (opcja A)",
+      "oryginał: urzadzenia nie odpowiadajace (opcja C)"
+    ]
+  },
+  {
+    "id": 306,
+    "question": "Na kanale 16 nadano komunikat: All stations... x3, Seelonce distress. Chcemy nawiązać łączność z mariną, która pracuje na kanale 69. Czy zgodnie z przepisami możemy to zrobić?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie, bo obowiązuje cisza radiowa",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nawiązujemy łączność, bo cisza radiowa dotyczy tylko kanału 16",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Słuchać na kanale 16 i jeżeli nastąpi przerwa w korespondencji przejść na kanał 69 i nawiązać łączność.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Nie , bo obowiazuje (opcja A)",
+      "oryginał: kanłu (opcja B)",
+      "oryginał: nastapi (opcja C)"
+    ]
+  },
+  {
+    "id": 307,
+    "question": "Chcemy nawiązać łączność, ale na kanale 16 słyszymy korespondencję w niebezpieczeństwie, po pewnym czasie usłyszeliśmy komunikat: All stations.. x3, SEELONCE FEENEE. Co to oznacza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zapowiedź komunikatu dotyczącego niebezpieczeństwa",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Koniec ciszy radiowej",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Należy nadal czekać, cisza radiowa obowiązuje",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: nawiązac (pytanie)"
+    ]
+  },
+  {
+    "id": 308,
+    "question": "Jeden z członków załogi przypadkowo wcisnął przycisk radiotelefonu \"DISTRESS\". Co powinniśmy zrobić?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wyłączyć na chwilę radiotelefon, następnie włączyć go i po usłyszeniu stacji brzegowej nadać: Cancel my distress alert.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Ustawić kanał 16 i słuchać czy ktoś nawiąże z nami korespondencję. Po nawiązaniu łączności nadać: ? nazwa nadającego do nas x 3: this is ?(nazwa jachtu) x 3, cancel my distress alert",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wyłączyć na chwilę radiotelefon, następnie włączyć go i nadać komunikat: All stations? x3 this is ?(nazwa jachtu) x 3, cancel my distress alert of ?. ( data, godzina)",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: nadjącego (opcja B)",
+      "oryginał: dstress (opcje B i C)",
+      "znaki ? w opcjach B i C występują w oryginale (prawdopodobnie błąd kodowania znaków w źródle) – zachowane"
+    ]
+  },
+  {
+    "id": 309,
+    "question": "Na kanale 16 zaczęliśmy wywoływać stację brzegową, chcemy zamówić rozmowę telefoniczną. Po chwili usłyszeliśmy komunikat: All stations? x3, Seelonce distress. Co to oznacza?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Stacja brzegowa prosi aby chwilę zaczekać.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Za chwilę zostanie podane ostrzeżenie nawigacyjne",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Jest to wezwanie do zachowania ciszy radiowej bo prowadzona jest korespondencja ze statkiem w niebezpieczeństwie.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: rozmowe telefoniczną . (pytanie)",
+      "oryginał: co to oznacza? (mała litera, pytanie)",
+      "oryginał: chwile (opcja A)",
+      "znak ? po All stations występuje w oryginale (prawdopodobnie błąd kodowania) – zachowany"
+    ]
+  },
+  {
+    "id": 310,
+    "question": "Jak bezpiecznie użyć czerwonej pochodni ręcznej?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zdjąć korek zabezpieczający, pociągnąć linkę spustową i skierować wylot w dół",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Trzymać pochodnię jedną ręką, drugą nacisnąć spust i zapalić pochodnię",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zdjąć korek zabezpieczający, skierować wylot w górę, trzymać pochodnię z dala od siebie wylotem w górę, uruchomić zgodnie z instrukcją na obudowie",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: pociagnąć (opcja A)"
+    ]
+  },
+  {
+    "id": 311,
+    "question": "Czy od jednostki ratowniczej możemy żądać holowania jachtu?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tak, ratownictwo obejmuje ratowanie załogi i jachtu",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, ratownictwo obejmuje tylko ratowanie ludzi",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, jeżeli ratowanie ludzi może odbyć się tylko w ten sposób (np. bardzo poważne niebezpieczeństwo przy ewakuacji, decyduje jednostka ratownicza)",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 312,
+    "question": "Jacht znajdujący się ok. 25 Mm na północ od Ustki nadał sygnał \"May Day\" jakiej pomocy może się spodziewać?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Po odebraniu sygnału zgłosi się za pośrednictwem stacji brzegowej MRCC/MRCK Gdynia lub Świnoujście, które powiadomią o rodzaju pomocy.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie wiadomo, należy oczekiwać helikoptera lub jednostki ratowniczej",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Należy nawiązać łączność z najbliższym kapitanatem portu i uzgodnić rodzaj pomocy",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: znajdujacy (pytanie)",
+      "oryginał: posrednictwem (opcja A)"
+    ]
+  },
+  {
+    "id": 313,
+    "question": "Na jachcie usłyszano korespondencję na kanale 16: May Day, May Day, May Day, this is yacht Regina SPG 1234, my position is ??.., I have fire on board, immediate help necessary, 5 persons on board. Upłynęło kilka minut, nie słychać żadnej korespondencji. Co należy zrobić?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nadać komunikat May Day Relay, dalszą akcją zajmie się stacja brzegowa.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Natychmiast próbować nawiązać kontakt z tą jednostką i płynąć do niej.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Nadać komunikat May Day Relay, jeżeli nie ma odzewu stacji brzegowej nawiązać kontakt z tą jednostką i płynąć do niej",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: korespondencje (pytanie)",
+      "oryginał: nawiazać (opcja C)",
+      "znaki ??.. w pytaniu występują w oryginale – zachowane"
+    ]
+  },
+  {
+    "id": 314,
+    "question": "Musimy wzywać pomocy. Jak uruchomić pławkę dymną?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wyrzucić pławkę za burtę uruchomi się samoczynnie.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Odkręcić korek zabezpieczający, pociągnąć linkę zapłonu, trzymać wysoko w ręku.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Odkręcić korek zabezpieczający, pociągnąć linkę zapłonu, wrzucić pławkę do wody",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: wzywac, uruchomic (pytanie)",
+      "oryginał: zabezpieczajacy (opcje B i C)",
+      "oryginał: załponu (opcje B i C)"
+    ]
+  },
+  {
+    "id": 315,
+    "question": "Jak bezpiecznie użyć rakiety spadochronowej?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Zdjąć korek zabezpieczający, pociągnąć linkę spustową i skierować wylot w górę",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Trzymać rakietę jedną ręką, drugą nacisnąć spust i wystrzelić rakietę w górę",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zdjąć korek zabezpieczający, skierować wylot w górę celując z dala od takielunku jachtu i wystrzelić rakietę wg. instrukcji na obudowie",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: pociagnąć (opcja A)"
+    ]
+  },
+  {
+    "id": 316,
+    "question": "Czy całą załogę należy przed rejsem zapoznać z obsługą środków pirotechnicznych",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie, środki pirotechniczne powinien obsługiwać tylko kapitan lub wyznaczony oficer",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nie, środki pirotechniczne powinna obsługiwać tylko osoba posiadająca certyfikat Indywidualnych technik ratunkowych",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tak, najlepiej przy instruktażu dotyczącym rozkładów alarmowych",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "pytanie w oryginale bez znaku zapytania",
+      "oryginał: posiadajaca, Inywidualnych (opcja B)",
+      "oryginał: dotyczacym rozkladów (opcja C)"
+    ]
+  },
+  {
+    "id": 317,
+    "question": "Jak powinny być przechowywane środki pirotechniczne na jachcie?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Nie jest to istotne, tylko z dala od źródeł ciepła",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "W miejscu łatwo dostępnym znanym całej załodze, najlepiej w wodoszczelnym pojemniku",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Każdy rodzaj oddzielnie w szafkach lub bakistach",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 318,
+    "question": "Kanał 16 w łączności radiotelefonicznej służy do:",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Tylko do korespondencji w niebezpieczeństwie",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Do wywołania, łączności w niebezpieczeństwie, łączności pilnej i bezpieczeństwa",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tylko do łączności w niebezpieczeństwie, łączności pilnej i bezpieczeństwa",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: słuzy (pytanie)"
+    ]
+  },
+  {
+    "id": 319,
+    "question": "Przejmując jacht i przygotowując się do rejsu chcemy się upewnić co do sprawności radiopławy EPIRB. Na co należy zwrócić uwagę?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Czy bateria nie jest przedatowana (spr. w ateście), czy zwalniak hydrostatyczny nie jest przedatowany (spr. oznaczenie na obudowie), wykonać test sprawdzający",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Wykonać test sprawdzający, jeżeli jest pozytywny nie trzeba nic więcej robić",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sprawdzić świadectwo radiopławy i wykonać test sprawdzający",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: radioplawy, zwrócic (pytanie)",
+      "oryginał: Wykonac, wiecej (opcja B)",
+      "oryginał: Sprawdzic, wykonac (opcja C)"
+    ]
+  },
+  {
+    "id": 320,
+    "question": "Usłyszano komunikat na kanale 16: Securite, securite, securite, All stations, All stations, All stations, gale warning, working channels. Co należy zrobić?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Pozostać na kanale 16 i czekać na podanie komunikatu.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Nawiązać łączność ze stacją nadającą komunikat i ustalić kanał do odbioru komunikatu",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Sprawdzić na jakim kanale pracuje najbliższa stacja (np. Admiralty List of Radio Signals tom 3), ustawić ten kanał i słuchać komunikatu",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: nalezy (pytanie)",
+      "oryginał: czekac (opcja A)",
+      "oryginał: ze stacja (opcja B)",
+      "oryginał: np.Admiralty List of RadioSignals (opcja C)"
+    ]
+  },
+  {
+    "id": 321,
+    "question": "Kiedy należy używać procedury SECURITE, a kiedy procedury PAN PAN?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "SECURITE dla wiadomości dot. bezpieczeństwa i ostrzeżeń, PAN PAN dla pilnych wiadomości dotyczących bezpieczeństwa lub niebezpieczeństwa, ale bez wzywania natychmiastowej pomocy.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "SECURITE tylko do ostrzeżeń, PAN PAN dla pilnych wiadomości adresowanych do konkretnych stacji.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "SECURITE dla wiadomości dot. bezpieczeństwa i ostrzeżeń, PAN PAN dla pilnych wiadomości dotyczących tylko pomocy lekarskiej.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: dotyczacych, niebezpieczenstwa (opcja A)",
+      "oryginał: dotyczacych (opcja C)"
+    ]
+  },
+  {
+    "id": 322,
+    "question": "Kiedy należy używać procedury MAY DAY, a kiedy procedury PAN PAN?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "MAY DAY tylko przy bezpośrednim zagrożeniu życia lub jednostki, PAN PAN jeżeli potrzebna jest pomoc, ale nie natychmiastowa",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "MAY DAY tylko przy bezpośrednim zagrożeniu dot. jednostki, PAN PAN jeżeli potrzebna jest pomoc techniczna",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "MAY DAY tylko przy bezpośrednim zagrożeniu życia lub jednostki, PAN PAN tylko do ostrzegania innych jednostek.",
+        "image_note": null
+      }
+    ],
+    "flags": []
+  },
+  {
+    "id": 323,
+    "question": "Jak należy rozumieć termin: WEZWANIE W NIEBEZPIECZEŃSTWIE I ZAWIADOMIENIE W NIEBEZPIECZEŃSTWIE?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wezwanie to tylko podanie nazwy jednostki i sygnału wywoławczego/MMSI, a zawiadomienie to podanie wszystkich informacji dot. niebezpieczeństwa.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Oznacza to samo tylko inaczej sformułowane.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Wezwanie dotyczy naszej jednostki, a zawiadomienie dotyczy innej jednostki w niebezpieczeństwie.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: wywolawczego (opcja A)"
+    ]
+  },
+  {
+    "id": 324,
+    "question": "Zauważono podniesiony na statku sygnał. Co on oznacza?",
+    "question_image_note": "prostokątna flaga MKS podzielona pionowo na dwie równe części: lewa połowa żółta, prawa połowa ciemnoniebieska",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Trzymajcie się z daleka ode mnie, manewruję z trudem",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Chcę nawiązać z wami łączność",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zatrzymać się, natychmiast!!",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Zatrzymać sie (opcja C)"
+    ]
+  },
+  {
+    "id": 325,
+    "question": "Zauważono podniesiony na statku sygnał. Co on oznacza?",
+    "question_image_note": "prostokątna flaga MKS podzielona po przekątnej (z lewego górnego do prawego dolnego rogu): górna prawa część czerwona, dolna lewa część żółta",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Człowiek za burtą",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Chcę nawiązać z wami łączność",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Zatrzymać się natychmiast",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: Zatrzymać sie (opcja C)"
+    ]
+  },
+  {
+    "id": 326,
+    "question": "Jachtowi grozi zatonięcie, kapitan jachtu zdecydował wezwać pomoc przy pomocy radiotelefonu UKF. Jaką procedurę powinien zastosować?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Włączyć radiotelefon na kanał 16 i nadać MAY DAY ( X 3), this is NAZWA JACHTU i dalej rodzaj niebezpieczeństwa, potrzebną pomoc.",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Włączyć radiotelefon na kanał 16 i wcisnąć przycisk Distress, po chwili nadać MAY DAY ( X 3), this is NAZWA JACHTU, sygnał wywoławczy i/lub MMSI, po usłyszeniu odpowiedzi stacji brzegowej lub statku nadać ponownie MAY DAY, nazwę i sygnał wywoławczy, pozycję, rodzaj niebezpieczeństwa, ilość osób, potrzebną pomoc.",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Włączyć radiotelefon na kanał 16 i wcisnąć przycisk Distress, po chwili nadać MAY DAY ( X 3), this is NAZWA JACHTU, sygnał wywoławczy i/lub MMSI, pozycję, rodzaj niebezpieczeństwa, ilość osób, potrzebną pomoc.C.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: niebezpieczenstwa (opcje A i B)",
+      "oryginał: wywolawczy (opcja B)",
+      "oryginał: opcja C kończy się zbędnym \"C.\" po \"pomoc.\" – zachowane jak w skanie"
+    ]
+  },
+  {
+    "id": 327,
+    "question": "Który z sygnałów podanych na rysunkach jest sygnałem wzywania pomocy?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "",
+        "image_note": "schematyczna jednostka na wodzie (kadłub z kratownicowym masztem o trójkątnym szczycie); na maszcie czerwona prostokątna flaga, a pod nią czarna kula"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image_note": "statek (brązowo-czerwony kadłub, nadbudówka na dziobie) w dzień; na przednim maszcie dwa czarne stożki wierzchołkami do siebie (klepsydra), na tylnym maszcie jeden czarny stożek wierzchołkiem w dół"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image_note": "sylwetka statku w nocy (ciemnoniebieskie tło); na maszcie nad nadbudówką dwa czerwone światła jedno nad drugim w linii pionowej"
+      }
+    ],
+    "flags": [
+      "brak-obrazka-w-drafcie: opcja A w skanie jest obrazkiem (draft ma tekst \"Bud\" i image=null)"
+    ]
+  },
+  {
+    "id": 328,
+    "question": "Zauważono podniesiony na statku sygnał. Co on oznacza?",
+    "question_image_note": "prostokątna flaga MKS podzielona pionowo na dwie równe części: lewa połowa biała, prawa połowa czerwona",
+    "options": [
+      {
+        "letter": "A",
+        "text": "Trzymajcie się z daleka ode mnie, manewruję z trudem",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Mam nurka pod wodą, Uwaga!",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Mam pilota na pokładzie",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: pod woda (opcja B)"
+    ]
+  },
+  {
+    "id": 329,
+    "question": "W nocy na kursie zaobserwowano światło: trzy krótkie błyski, trzy długie światła, trzy krótkie błyski, sygnał powtarza się, jaka powinna być reakcja kapitana?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Ustawić kanał 16 radiotelefonu UKF i prowadzić nasłuch",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Natychmiast skierować jacht w kierunku w którym widziano sygnały",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Ustawić kanał 16 radiotelefonu UKF i prowadzić nasłuch. Natychmiast skierować jacht w kierunku w którym widziano sygnały. Nadać May Day Relay jeżeli nie ma reakcji stacji brzegowej",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: trzy krótki błyski (pytanie)"
+    ]
+  },
+  {
+    "id": 330,
+    "question": "Na pełnym morzu jacht nabiera wody, przecieku nie można opanować. W zasięgu widoczności nie widać żadnych jednostek. Wysłano sygnał Distress (May Day) przy pomocy UKF, brak odpowiedzi. Jak NAJLEPIEJ/NAJBEZPIECZNIEJ dalej postępować?",
+    "question_image_note": null,
+    "options": [
+      {
+        "letter": "A",
+        "text": "Wzywać pomocy środkami pirotechnicznymi",
+        "image_note": null
+      },
+      {
+        "letter": "B",
+        "text": "Uruchomić pławę EPIRB, przygotować się do opuszczenia jachtu, nie przełączać/wyłączać UKF",
+        "image_note": null
+      },
+      {
+        "letter": "C",
+        "text": "Tylko wywiesić sygnały optyczne wzywania pomocy.",
+        "image_note": null
+      }
+    ],
+    "flags": [
+      "oryginał: jednostek.Wysłano (brak spacji, pytanie)"
+    ]
+  }
+]

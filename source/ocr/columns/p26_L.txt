@@ -1,0 +1,66 @@
+78. Jaki znak ma poprawka na prąd w zależności od
+irsu jachtu i kierunku prądu
+
+Prąd z lewej burty poprawka '
+
+burty poprawka "-
+
+B Prąd z lewej burty poprawka '
+burty poprawka "+"
+
+Prąd z lewej burty poprawka '
+
+burty poprawka "-", ale jeżeli
+C zgodny lub przeciwny do kur:
+poprawka "0"
+79. Wykonujemy namiar na latarnię. Czy dla A Tak, zawsze
+liczenia namiaru rzeczywistego potrzebny jest B Nie
+- 7
+Jczyt kursu kompasowego w momencie namiaru? C_|To zależy od typu kompasu i r
+30. Na jachcie jest echosonda. Co przede wszystkim A Czyczujnik sondy nie jest zab
+
+czy od lini wodnej, czy od czu
+
+Cc Czy sonda posiada opcję alarr
+ona ustawiona
+
+31. Jak prawidłowo powinna być oznakowana sonda A Węzłami co 5 metrów
+czna (system przyjety w Polsce) B Węzłamico1 m
+
+Znakami co 1 mi kolorowymi
+C |5m niebieska-czerwona-biak
+(niebo-dach-ściana-piach)
+
+32. Dla jakich kątów przecięcia lini pozycyjnych A Kąt przecięcia od 300 do 150C
+»>zycję można okreslić jako względnie dokładną? B Tylko dla kąta 900
+
+Nie ma to znaczenia, ważna je
+C dokładność wyznaczenia każc
+
+pozycyjnej
+
+33. Zliczenie graficzne drogi polega na: (Uwaga
+róty: Kąd drogi nad dnem - Kd, Kurs rzeczywisty - Kr,
+Irs magnetyczny - Km)
+
+Wykreślaniu na mapie Kd i od
+tym kursie przebytych odlegk
+
+B Wykreślaniu na mapie Kk i od
+tym kursie przebytych odległ
+
+C Wykreślaniu na mapie Km i oc
+tym kursie przebytych odlegk
+
+34. Jacht żegluje kursem kompasowym (Kk) jak A Znaleźć w tabeli dewiację (de
+liczyć kurs rzeczywisty (Kr) obliczyć Kr ze wzoru Kr = Kk +
+
+Znaleźć w tabeli dewiację (de
+B obliczyć Kr ze wzoru Kr=Kk +
+dew
+
+Znaleźć w tabeli dewiację (de
+C obliczyć Kr ze wzoru Kr=Kk -
+magn.
+
+mer arkusza: 20160729_095536455_0 Stri

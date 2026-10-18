@@ -1,0 +1,455 @@
+{
+ "section": "nawigacja",
+ "sources_legend": {
+  "ROZP-2012": "Rozporządzenie MTBiGM z 28.02.2012 r. w sprawie bezpiecznego uprawiania żeglugi przez jachty morskie (tekst jednolity Dz.U. 2016 poz. 1557)",
+  "NAV": "Podstawy nawigacji morskiej: podręczniki nawigacji dla żeglarzy (np. J. Czajewski „Nawigacja dla żeglarzy”, Admiralty Manual of Navigation) i tablice nawigacyjne",
+  "UKHO": "Publikacje i mapy Admiralicji brytyjskiej (UKHO): mapy, Chart 5011 (symbole i skróty), Tidal Stream Atlases, List of Lights, katalog map",
+  "PRAKTYKA": "Wiedza podręcznikowa i dobra praktyka morska (podręczniki żeglarstwa morskiego, np. „Jachtowy sternik morski”)"
+ },
+ "answers": [
+  {
+   "id": 156,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Log burtowy: mierzy się czas, w jakim pływający przedmiot (np. kawałek drewna) przebywa odległość od dziobu do rufy, czyli długość jachtu. Prędkość = 12 m / 6 s = 2 m/s. Jeden węzeł to 1852 m/h = 0,514 m/s, więc 2 m/s ≈ 3,9 węzła, czyli około 4 węzłów.",
+   "sources": [
+    "NAV (pomiar prędkości logiem burtowym; 1 w = 1852 m/h ≈ 0,514 m/s)"
+   ],
+   "hint": "Podziel długość przez czas, dostaniesz metry na sekundę. Ile metrów na sekundę to jeden węzeł?"
+  },
+  {
+   "id": 157,
+   "answer": "C",
+   "confidence": "B",
+   "explanation": "Po naciśnięciu MOB ploter zapamiętuje pozycję i od razu liczy namiar i odległość z bieżącej pozycji jachtu do tego punktu; to właśnie te dwie liczby pozwalają sternikowi wrócić do człowieka, zwłaszcza gdy stracono go z oczu. Same współrzędne punktu (A) trzeba by dopiero przeliczać na kurs, a dane o ruchu jachtu (B) nie mówią, gdzie płynąć.",
+   "sources": [
+    "PRAKTYKA (funkcja MOB w ploterach i odbiornikach GPS: namiar i odległość do zapamiętanego punktu)"
+   ],
+   "hint": "Co sternik musi wiedzieć, żeby zawrócić do człowieka: parę liczb ze współrzędnymi czy „w którą stronę i jak daleko”?"
+  },
+  {
+   "id": 158,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Odwzorowanie Merkatora jest wiernokątne (loksodroma to linia prosta), ale nie wiernoodległościowe: skala rośnie wraz z szerokością geograficzną (w przybliżeniu jak 1/cos φ), dlatego minuta szerokości na ramce bocznej jest coraz dłuższa ku biegunom, a Grenlandia wygląda jak Afryka. Odległości odmierza się więc na ramce bocznej na wysokości pomiaru, nie jedną skalą dla całej mapy.",
+   "sources": [
+    "NAV (odwzorowanie Merkatora: wiernokątne, zmienna skala długości z szerokością geograficzną)"
+   ],
+   "hint": "Dlaczego na mapie świata Merkatora Grenlandia jest wielka jak Afryka? To ta sama własność."
+  },
+  {
+   "id": 159,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Róża ma 32 rumby po 11,25°. Kierunki główne: N 0°, E 90°, S 180°, W 270°; międzygłówne: NE 45°, SE 135°, SW 225°, NW 315°; NNE leży w połowie między N a NE, czyli 22,5°. Prawdziwa jest więc tylko zależność SW = 225°.",
+   "sources": [
+    "NAV (róża kompasowa: rumb = 11,25°, kierunki międzygłówne co 45°)"
+   ],
+   "hint": "Policz: SW leży dokładnie w połowie między S (180°) a W (270°)."
+  },
+  {
+   "id": 160,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Każda mapa ma niepowtarzalny numer katalogowy (np. Admiralty Chart 2288) i według tego numeru się ją zamawia; katalog map (Admiralty Catalogue of Charts, katalog BHMW) pokazuje na schematach zasięg każdej mapy, co pozwala wybrać komplet na trasę. Tytuły i skale się powtarzają, więc zamawianie „po tytule” jest niejednoznaczne, a kupowanie wszystkich map na akwen jest niepotrzebne i kosztowne.",
+   "sources": [
+    "UKHO (Catalogue of Admiralty Charts and Publications: numeracja map i schematy pokrycia)",
+    "PRAKTYKA (kompletowanie map na rejs)"
+   ],
+   "hint": "Każda mapa ma numer, jak książka ISBN. Po czym dystrybutor pozna, o którą Ci chodzi?"
+  },
+  {
+   "id": 161,
+   "answer": "A",
+   "confidence": "A",
+   "explanation": "Jedna mila morska to z definicji jedna minuta łuku południka, więc odległości odmierza się cyrklem na bocznej (południkowej) ramce mapy Merkatora, na wysokości tej szerokości, na której leży mierzony odcinek, bo skala zmienia się z szerokością. Ramka dolna podaje minuty długości geograficznej, które maleją ku biegunom (1' długości = cos φ mili) i nie nadają się do pomiaru odległości.",
+   "sources": [
+    "NAV (pomiar odległości na mapie Merkatora: 1 Mm = 1' szerokości geograficznej na ramce bocznej)"
+   ],
+   "hint": "Która ramka mapy ma podziałkę w minutach szerokości, a która w minutach długości? Tylko jedna z nich to mile."
+  },
+  {
+   "id": 162,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Dryf (znos przez wiatr) zależy od stosunku bocznej siły wiatru i fali do oporu bocznego kadłuba: im wolniej płynie jacht, tym mniejsza siła nośna miecza lub kilu i tym większy kąt dryfu, a stan morza (fala, przechyły) dodatkowo zwiększa znos. Długość linii wodnej, wyporność czy typ ożaglowania mają wpływ pośredni i mniejszy. Dlatego z podanych odpowiedzi największe znaczenie mają szybkość jachtu i stan morza.",
+   "sources": [
+    "NAV (dryf jachtu: zależność od prędkości, siły wiatru i falowania; poprawka na wiatr w zliczeniu)",
+    "PRAKTYKA"
+   ],
+   "hint": "Kiedy kil pracuje jak skrzydło i trzyma jacht na kursie: gdy jacht płynie szybko czy gdy ledwo się posuwa?"
+  },
+  {
+   "id": 163,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Jacht płynął dokładnie wzdłuż południka (λ bez zmian, kurs 000°), więc przebyta droga to różnica szerokości: 54°39' − 54°35' = 4'. Jedna minuta szerokości geograficznej to jedna mila morska, więc jacht przebył 4 Mm.",
+   "sources": [
+    "NAV (różnica szerokości Δφ w minutach = odległość w milach przy kursie 000°/180°)"
+   ],
+   "hint": "Odejmij szerokości. Ile mil to jedna minuta szerokości?"
+  },
+  {
+   "id": 164,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "Na wodach pływowych poziom odniesienia głębokości (zero mapy, Chart Datum) na mapach brytyjskich i większości współczesnych map to najniższy pływ astronomiczny LAT (Lowest Astronomical Tide), czyli najniższy poziom wody, jaki może wystąpić w średnich warunkach meteorologicznych. Dzięki temu głębokość na mapie prawie nigdy nie jest większa od rzeczywistej. Średni poziom morza jest zerem map na akwenach bezpływowych (np. Bałtyk), a średnia niska woda była stosowana dawniej.",
+   "sources": [
+    "UKHO (Admiralty Chart 5011 i nagłówki map: Chart Datum = LAT)",
+    "NAV (poziomy odniesienia głębokości)"
+   ],
+   "hint": "Kartograf wybiera zero tak, żeby woda praktycznie nigdy nie była płytsza niż na mapie. Który poziom to gwarantuje?"
+  },
+  {
+   "id": 165,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "Wysoka woda w Dover o 18:04, godzina 15:00, czyli 3 godziny przed HW. W tabeli prądów dla rombu A wiersz „3 h przed HW” podaje kierunek 224° i prędkość 3,2 w na syzygium (Sp) oraz 1,8 w na kwadraturze (Np). Pływ pośredni to połowa drogi między syzygium a kwadraturą, więc prędkość wynosi około (3,2 + 1,8)/2 = 2,5 węzła przy kierunku 224°.",
+   "sources": [
+    "UKHO (tabele prądów pływowych na mapach: Tidal Streams referred to HW at Dover, kolumny Sp i Np; interpolacja dla pływu pośredniego)",
+    "NAV"
+   ],
+   "hint": "Policz, ile godzin brakuje do HW w Dover, znajdź ten wiersz, a potem weź średnią z dwóch kolumn prędkości."
+  },
+  {
+   "id": 166,
+   "answer": "C",
+   "confidence": "B",
+   "explanation": "Izobata (linia jednakowej głębokości) może być linią pozycyjną, gdy jej przebieg jest regularny i wyraźny (np. równoległy do brzegu, z jednoznacznym gradientem głębokości): wtedy zmierzona sondą głębokość, po uwzględnieniu wysokości pływu i zanurzenia czujnika, lokalizuje jacht na tej izobacie. Przy dnie nieregularnym lub płaskim ta sama głębokość występuje w wielu miejscach i izobata nic nie mówi. Pomiar sondą nie jest obarczony dużym błędem, więc odpowiedź B jest nieprawdziwa.",
+   "sources": [
+    "NAV (izobata jako linia pozycyjna; nawigacja sondą)"
+   ],
+   "hint": "Linia pozycyjna musi być jednoznaczna. Kiedy głębokość 20 m jest jedną linią na mapie, a kiedy plątaniną?"
+  },
+  {
+   "id": 167,
+   "answer": "A",
+   "confidence": "A",
+   "explanation": "Odległość do obiektu o wysokości h (m), gdy zmierzono sekstantem kąt pionowy α (minuty): D = h / (1852 · tg α); ponieważ tg α ≈ α · π/(180·60), otrzymujemy D [Mm] ≈ 1,856 · h/α ≈ (13/7) · h/α, co jest wzorem z odpowiedzi A, stablicowanym też w tablicach nawigacyjnych. Wzór B (2√a + 2√h) to wzór na odległość widzialności światła (zasięg geograficzny z wysokości oka i światła), a C jest bezsensowny wymiarowo.",
+   "sources": [
+    "NAV (odległość z kąta pionowego: D = 13/7 · h/α; tablice nawigacyjne)",
+    "NAV (zasięg geograficzny światła: D = 2,08(√h + √e) – dla porównania)"
+   ],
+   "hint": "Kąt pionowy w minutach i wysokość w metrach: wzór z liczbą 13/7 pochodzi z przeliczenia radianów na minuty i metrów na mile. Drugi wzór z pierwiastkami służy do czegoś innego (horyzont)."
+  },
+  {
+   "id": 168,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Nowo zainstalowany odbiornik GPS trzeba skonfigurować według instrukcji: ustawić układ odniesienia map (datum, zwykle WGS 84, zgodny z mapą), jednostki (mile, węzły, metry), format pozycji, strefę czasową, kurs rzeczywisty lub magnetyczny, ewentualne offsety anteny i alarmy; pierwsze uruchomienie wymaga też pobrania almanachu (kilka minut nieba). Bez tego odbiornik działa, ale może podawać pozycję w innym datum niż mapa. Serwis nie jest potrzebny.",
+   "sources": [
+    "PRAKTYKA (instrukcje obsługi odbiorników GPS: ustawienia podstawowe, datum, jednostki)",
+    "NAV (zgodność datum GPS i mapy)"
+   ],
+   "hint": "Co odbiornik musi wiedzieć, żeby jego pozycja pasowała do Twojej mapy i Twoich jednostek? Kto mu to powie?"
+  },
+  {
+   "id": 169,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Mapa rastrowa to cyfrowy skan (obraz) oficjalnej mapy papierowej, z tą samą treścią, symboliką i dokładnością, tylko wyświetlany na ekranie i zgeoreferencjonowany. W nawigacji nie ma między nimi różnicy merytorycznej; różnica dotyczy nośnika i wygody (zoom, pozycja GPS na mapie). Mapy wektorowe to inna technologia (obiekty z atrybutami), ale pytanie dotyczy rastrowych.",
+   "sources": [
+    "NAV (mapy elektroniczne: rastrowe RNC jako skan mapy papierowej, wektorowe ENC)"
+   ],
+   "hint": "Raster to po prostu zdjęcie mapy papierowej. Czy zdjęcie może być dokładniejsze albo mniej dokładne od oryginału?"
+  },
+  {
+   "id": 170,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "GPS podaje pozycję w układzie WGS 84. Jeśli mapa jest opracowana w innym układzie odniesienia (starsze wydania, lokalne datum, np. ED 50 lub Pułkowo 42), pozycja GPS naniesiona bez poprawki może różnić się od rzeczywistej nawet o setki metrów, stąd „jacht na lądzie”. Na mapie w nagłówku podana jest informacja o datum i poprawka, którą należy dodać do pozycji satelitarnej (lub przestawić datum w odbiorniku). Awaria odbiornika lub anteny dawałaby brak pozycji albo błąd losowy, nie systematyczne przesunięcie przy stojącym na kotwicy jachcie.",
+   "sources": [
+    "NAV (układy odniesienia map: WGS 84 a datum mapy; uwaga „Satellite-Derived Positions” w nagłówku map Admiralicji)",
+    "UKHO (nagłówki map: poprawki do pozycji satelitarnych)"
+   ],
+   "hint": "Pozycja jest stała (jacht na kotwicy), a mimo to leży na lądzie. Co przesuwa punkt o stałą wartość? Sprawdź nagłówek mapy.",
+   "flags": [
+    "tekst-scalony: treść pytania zawiera w oryginale pełną treść pytania 171; odpowiedzi dotyczą tylko pierwszej części (pozycja GPS na lądzie)"
+   ]
+  },
+  {
+   "id": 171,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Na akwenie pełnym niebezpieczeństw, ale dobrze oznakowanym, najbezpieczniejsza jest nawigacja pilotowa: przygotowane wcześniej kursy między znakami, sektory latarń, nabieżniki, kąty niebezpieczne i odległości, prowadzona według tego, co widać, z ploterem i GPS jako pomocą i kontrolą. Poleganie wyłącznie na ploterze grozi błędem datum, zawieszeniem urządzenia lub nieaktualną mapą elektroniczną, a nawigacja zliczeniowa jest zbyt mało dokładna między skałami.",
+   "sources": [
+    "NAV (nawigacja pilotowa: nabieżniki, sektory świateł, kąty i odległości niebezpieczne)",
+    "PRAKTYKA (zasada niepolegania na jednym źródle pozycji)"
+   ],
+   "hint": "Latarnie sektorowe i nabieżniki ustawiono właśnie po to, żeby prowadzić statki bez elektroniki. Jak nazywa się nawigacja, która z nich korzysta?"
+  },
+  {
+   "id": 172,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "Prąd o kierunku 300° jest dokładnie przeciwny do kursu 120° (różnica 180°), więc nie znosi jachtu w bok: poprawka na prąd wynosi 0°, kąt drogi nad dnem równa się kursowi, a prędkość względem dna maleje do 5 − 1 = 4 węzłów. Prędkość wzrosłaby tylko przy prądzie zgodnym z kursem.",
+   "sources": [
+    "NAV (trójkąt prędkości: prąd przeciwny do kursu zmniejsza prędkość nad dnem, poprawka 0°)"
+   ],
+   "hint": "Ile stopni dzieli 120° od 300°? Co to oznacza dla kierunku, w którym prąd pcha jacht?"
+  },
+  {
+   "id": 173,
+   "answer": "A",
+   "confidence": "A",
+   "explanation": "Namiar kompasowy = kurs kompasowy + kąt kursowy (liczony okrężnie 0–360° od dziobu w prawo). Jeżeli suma przekracza 360°, odejmuje się 360°, bo pełny obrót wraca do tego samego kierunku (np. Kk 300° + KK 90° = 390° → Nk 030°). Operacje z 180° służą do liczenia namiaru odwrotnego, nie do redukcji wyniku.",
+   "sources": [
+    "NAV (namiar burtowy, kąt kursowy, namiar kompasowy: Nk = Kk + KK, modulo 360°)"
+   ],
+   "hint": "Kierunek 390° to ten sam kierunek co… ile? Co trzeba odjąć?"
+  },
+  {
+   "id": 174,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Odbiornik GPS wyznacza kolejne pozycje względem Ziemi i z ich zmian liczy prędkość, więc pokazuje prędkość nad dnem (SOG, speed over ground) i kurs nad dnem (COG), czyli ruch wypadkowy z uwzględnieniem prądu i dryfu. Prędkość względem wody mierzy log; „wypadkowa względem wody i dna” nie ma sensu fizycznego.",
+   "sources": [
+    "NAV (GPS: SOG/COG względem dna; log: prędkość względem wody)"
+   ],
+   "hint": "Satelity nie widzą wody, tylko to, jak przesuwa się Twoja pozycja po kuli ziemskiej."
+  },
+  {
+   "id": 175,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Nabieżnik (dwa obiekty w jednej linii) daje linię pozycyjną wyznaczoną bez przyrządu, praktycznie bez błędu, a krąg pozycyjny z kąta poziomego zmierzonego sekstantem między dwoma obiektami jest dokładniejszy od namiaru kompasowego, bo nie zależy od dewiacji, deklinacji ani kołysania kompasu. Dwa zwykłe namiary obarczone są błędem kompasu i odczytu (ok. 1–2°), a izobata jest najmniej precyzyjną linią pozycyjną.",
+   "sources": [
+    "NAV (dokładność linii pozycyjnych: nabieżnik, krąg z kąta poziomego, namiar, izobata)"
+   ],
+   "hint": "Która linia pozycyjna nie zależy w ogóle od błędów kompasu? Jest w jednej z odpowiedzi dwa razy."
+  },
+  {
+   "id": 176,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Moment, w którym światło latarni „wynurza się” zza horyzontu (lub za nim znika), pozwala obliczyć odległość ze wzoru na zasięg geograficzny: D [Mm] = 2,08 (√H + √e), gdzie H to wysokość światła nad poziomem morza (ze Spisu Świateł, z uwzględnieniem wysokości pływu), a e wysokość oka obserwatora; są na to także tablice. Spis Świateł jest więc niezbędny i wystarczający, bo podaje wysokość latarni.",
+   "sources": [
+    "NAV (zasięg geograficzny światła, metoda „wynurzania/zanurzania” światła; tablice zasięgu widzialności)",
+    "UKHO (Admiralty List of Lights: wysokość światła nad poziomem morza)"
+   ],
+   "hint": "W chwili, gdy światło pojawia się na horyzoncie, jesteś dokładnie na granicy jego zasięgu geograficznego. Co trzeba znać, żeby ten zasięg policzyć, i gdzie to jest zapisane?"
+  },
+  {
+   "id": 177,
+   "answer": "A",
+   "confidence": "A",
+   "explanation": "Mapa jest zorientowana według północy rzeczywistej, więc na mapie wykreśla się namiary rzeczywiste. Namiar kompasowy przelicza się: Nr = Nk + dewiacja (dla kursu kompasowego w chwili namiaru) + deklinacja (z mapy, zaktualizowana o zmianę roczną), z uwzględnieniem znaków. Uwzględnienie samej deklinacji (C) pomija dewiację, a wykreślenie surowego Nk (B) daje błąd równy całkowitej poprawce kompasu.",
+   "sources": [
+    "NAV (poprawka kompasu: Nr = Nk + dew + dekl; wykreślanie namiarów na mapie)"
+   ],
+   "hint": "Na mapie nie ma północy kompasowej, tylko rzeczywista. Jakie dwie poprawki dzielą jedną od drugiej?"
+  },
+  {
+   "id": 178,
+   "answer": "C",
+   "confidence": "B",
+   "explanation": "W polskiej konwencji zliczenia KDd = KDw + pp: prąd działający z lewej burty znosi jacht w prawo, więc poprawka na prąd ma znak „+”, a prąd z prawej burty znosi w lewo, znak „−”. Gdy prąd jest dokładnie zgodny z kursem lub przeciwny, nie znosi jachtu w bok i poprawka wynosi 0° (zmienia się tylko prędkość nad dnem, jak w pytaniu 172). Odpowiedź C zawiera regułę znaków z odpowiedzi A i uzupełnia ją o ten przypadek, więc jest najpełniejsza; A nie jest błędna, ale niekompletna.",
+   "sources": [
+    "NAV (poprawka na prąd pp: znak + przy znosie w prawo, − przy znosie w lewo; KDd = KDw + pp)"
+   ],
+   "hint": "Ta sama reguła znaków co przy dryfie: w prawo plus, w lewo minus. A co, gdy prąd nie znosi w bok wcale?",
+   "flags": [
+    "sporne: odpowiedź A podaje tę samą regułę znaków bez przypadku prądu zgodnego/przeciwnego; C jest pełniejsza"
+   ]
+  },
+  {
+   "id": 179,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Dewiacja zależy od kursu, jakim idzie jacht, a nie od kierunku namiaru: tabela dewiacji jest ułożona według kursów kompasowych. Aby namiar kompasowy zamienić na rzeczywisty, trzeba więc znać kurs kompasowy w chwili namiaru i z tabeli odczytać dla niego dewiację (Nr = Nk + dew(Kk) + dekl). Dotyczy to namiarów kompasem głównym; przy ręcznym kompasie namiarowym dewiację zwykle pomija się jako nieznaną i małą, ale zasada pozostaje ta sama.",
+   "sources": [
+    "NAV (tabela dewiacji według kursów kompasowych; przeliczanie namiarów kompasowych na rzeczywiste)"
+   ],
+   "hint": "Tabela dewiacji ma w pierwszej kolumnie kursy, nie namiary. Co więc trzeba odczytać w chwili namiaru?",
+   "flags": [
+    "uwaga: dla ręcznego kompasu namiarowego dewiację zwykle pomija się; odpowiedź A dotyczy zasady ogólnej"
+   ]
+  },
+  {
+   "id": 180,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Najważniejsze jest ustalenie, od jakiego poziomu echosonda liczy głębokość: od czujnika (odczyt mniejszy o zanurzenie czujnika niż od linii wodnej), od linii wodnej (po wprowadzeniu offsetu dodatniego) czy pod kilem (offset ujemny). Bez tego ten sam odczyt „1,5 m” może oznaczać zapas pod kilem albo dotknięcie dna. Czystość czujnika i alarm są ważne, ale drugorzędne wobec interpretacji wskazania.",
+   "sources": [
+    "PRAKTYKA (echosonda: offset czujnika, odczyt pod kilem / od linii wodnej)",
+    "NAV (porównywanie głębokości z mapą: redukcja do zera mapy)"
+   ],
+   "hint": "Sonda pokazuje 1,5 m. Czy to zapas pod kilem, czy głębokość od powierzchni? Od czego to zależy?"
+  },
+  {
+   "id": 181,
+   "answer": "C",
+   "confidence": "B",
+   "explanation": "Sonda ręczna (lina z ciężarkiem) w systemie stosowanym w Polsce jest oznakowana znakami (węzełkami, skórkami) co 1 m, a pełne piątki metrów kolorowymi opaskami w stałej kolejności: 5 m niebieska, 10 m czerwona, 15 m biała, 20 m żółta, co pozwala odczytać głębokość po ciemku dotykiem i zapamiętać kolejność mnemotechniką „niebo-dach-ściana-piach”. Same węzły co 1 m lub co 5 m nie pozwalają odróżnić, który to metr.",
+   "sources": [
+    "NAV (sonda ręczna: oznakowanie linki sondy, system polski)",
+    "PRAKTYKA"
+   ],
+   "hint": "Sondować trzeba także nocą, po omacku. Jak odróżnić 7 m od 12 m, mając tylko palce?"
+  },
+  {
+   "id": 182,
+   "answer": "A",
+   "confidence": "A",
+   "explanation": "Błąd pozycji z przecięcia dwóch linii pozycyjnych rośnie, gdy kąt między nimi jest ostry lub bliski 180°: wtedy niewielki błąd namiaru przesuwa punkt przecięcia daleko wzdłuż drugiej linii. Za dobre przyjmuje się kąty przecięcia od 30° do 150° (optymalnie 90°, a przy trzech liniach 60°). Dokładność samych linii jest ważna, ale geometria przecięcia też.",
+   "sources": [
+    "NAV (dokładność pozycji z linii pozycyjnych: kąt przecięcia 30–150°, optymalnie 90°)"
+   ],
+   "hint": "Narysuj dwie linie przecinające się pod kątem 10° i przesuń jedną o grubość ołówka. Jak daleko ucieknie punkt przecięcia?"
+  },
+  {
+   "id": 183,
+   "answer": "A",
+   "confidence": "A",
+   "explanation": "Zliczenie graficzne polega na wykreśleniu na mapie kąta drogi nad dnem (KDd, czyli kursu rzeczywistego poprawionego o dryf i znos) i odmierzaniu na tej linii przebytych odległości z logu i czasu. Kurs kompasowy i magnetyczny nie są kierunkami względem północy rzeczywistej mapy i nie uwzględniają dryfu ani prądu, więc ich wykreślanie dałoby fałszywą drogę.",
+   "sources": [
+    "NAV (zliczenie graficzne drogi: KDd i odległości z logu)"
+   ],
+   "hint": "Mapa jest w północy rzeczywistej, a jacht faktycznie przesuwa się po dnie. Który z kursów opisuje właśnie ruch po dnie?"
+  },
+  {
+   "id": 184,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Kurs rzeczywisty = kurs kompasowy + dewiacja + deklinacja (Kr = Kk + dew + dekl), gdzie obie poprawki wstawia się ze znakiem: wschodnie (E) dodatnie, zachodnie (W) ujemne. Dewiację odczytuje się z tabeli dla danego kursu kompasowego, deklinację z mapy (zaktualizowaną o zmianę roczną). Sama dewiacja (A) daje tylko kurs magnetyczny, a odejmowanie obu poprawek (C) odwraca znaki.",
+   "sources": [
+    "NAV (poprawka kompasu: Kr = Kk + dew + dekl; Km = Kk + dew)"
+   ],
+   "hint": "Od kompasu do mapy są dwa kroki: najpierw dewiacja (jacht), potem deklinacja (Ziemia). Oba ze znakiem."
+  },
+  {
+   "id": 185,
+   "answer": "B",
+   "confidence": "C",
+   "explanation": "Kąt drogi nad dnem KDd = Kr + dryf (poprawka na wiatr) + poprawka na prąd. Bez prądu znika znos, ale jacht pod żaglami (i w mniejszym stopniu na silniku) ma zawsze pewien dryf od wiatru, zwłaszcza na kursach ostrych; dlatego KDd nie równa się Kr i dryf trzeba uwzględnić, choćby był mały. Odpowiedź C („tylko kursami pełnymi”) nie jest ścisła, bo na baksztagu dryf też występuje, a A ignoruje dryf. Pewność C, bo słowo „nigdy” w odpowiedzi B jest zbyt kategoryczne (przy bezwietrznej pogodzie na silniku KDd ≈ Kr), ale to B oddaje zasadę zliczenia.",
+   "sources": [
+    "NAV (zliczenie: KDd = Kr + dryf + poprawka na prąd; dryf zależy od kursu względem wiatru)"
+   ],
+   "hint": "Prąd to nie jedyna rzecz, która przesuwa jacht w bok względem kursu. Co jeszcze pcha go z boku, nawet gdy woda stoi?",
+   "flags": [
+    "sporne: odpowiedź C (brak dryfu tylko na kursach pełnych) jest przybliżeniem, a B używa słowa „nigdy”; zasada zliczenia wskazuje B"
+   ]
+  },
+  {
+   "id": 186,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Czynne uwzględnianie prądu to wyznaczenie takiego kursu względem wody, by droga nad dnem była zamierzona. Rozwiązuje się trójkąt prędkości graficznie na mapie (wektor prądu i wektor prędkości jachtu) albo z tablic nawigacyjnych (tablice poprawki na prąd), a obliczenia trygonometryczne są tylko jedną z możliwości. Analiza przebytej drogi to bierne uwzględnianie prądu po fakcie.",
+   "sources": [
+    "NAV (czynne uwzględnianie prądu: trójkąt prędkości na mapie, tablice nawigacyjne)"
+   ],
+   "hint": "Trójkąt prędkości można narysować na mapie cyrklem i linijką. Czy do tego potrzebny jest sinus?"
+  },
+  {
+   "id": 187,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "Na mapach generalnych obejmujących duże obszary deklinacja zmienia się znacznie w obrębie mapy, więc podaje się ją w postaci izogon, czyli linii łączących punkty o jednakowej deklinacji, z podaną wartością, rokiem i zmianą roczną. Tabliczki lub róże deklinacyjne z wartością dla jednego miejsca stosuje się na mapach drogowych i planach, gdzie deklinacja jest praktycznie stała.",
+   "sources": [
+    "NAV (deklinacja na mapach: róże kompasowe z deklinacją na mapach szczegółowych, izogony na mapach generalnych)",
+    "UKHO (Chart 5011: izogony)"
+   ],
+   "hint": "Jedna liczba nie opisze deklinacji na mapie całego Atlantyku. Jak kartograf pokazuje wartość zmieniającą się w przestrzeni?"
+  },
+  {
+   "id": 188,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Dewiacja to odchylenie igły kompasu od południka magnetycznego spowodowane polem magnetycznym samego jachtu (żelazo kadłuba, silnik, instalacje, głośniki); zależy od kursu i jest ujęta w tabeli dewiacji. Odchylenie od południka geograficznego wywołane polem Ziemi to deklinacja, a lokalne anomalie pola ziemskiego są osobnym zjawiskiem zaznaczanym na mapach.",
+   "sources": [
+    "NAV (dewiacja: pole magnetyczne statku; deklinacja: pole magnetyczne Ziemi)"
+   ],
+   "hint": "Deklinacja jest winą Ziemi, dewiacja winą jachtu. Która odpowiedź obwinia jacht?"
+  },
+  {
+   "id": 189,
+   "answer": "A",
+   "confidence": "A",
+   "explanation": "Dewiację dla danego kursu wyznacza się porównując namiar na obiekt o znanym namiarze rzeczywistym (nabieżnik, odległa latarnia) z namiarem kompasowym: dew = Nr − dekl − Nk. Powtarzając to na kolejnych kursach (np. co 15°) sporządza się tabelę dewiacji. Nie trzeba specjalnych przyrządów ani pomiaru natężenia pola; kompensację dewiacji (nie jej pomiar) wykonuje się magnesami.",
+   "sources": [
+    "NAV (wyznaczanie dewiacji: porównanie namiaru rzeczywistego nabieżnika z namiarem kompasowym na różnych kursach)"
+   ],
+   "hint": "Znasz prawdziwy kierunek nabieżnika z mapy. Kompas pokazuje inny. Różnica, po odjęciu deklinacji, to właśnie to, czego szukasz."
+  },
+  {
+   "id": 190,
+   "answer": "B",
+   "confidence": "A",
+   "explanation": "Dewiacja zmienia się wraz z kursem jachtu, bo przy obrocie jachtu jego własne pole magnetyczne ustawia się pod różnymi kątami do pola Ziemi; dlatego tabela dewiacji podaje osobne wartości dla kursów co 10–15°, a na kursach przeciwnych dewiacja zwykle zmienia znak. Nie jest więc wielkością stałą.",
+   "sources": [
+    "NAV (tabela i krzywa dewiacji w funkcji kursu magnetycznego)"
+   ],
+   "hint": "Gdyby dewiacja była stała, tabela dewiacji miałaby jedną linijkę. Ile ich ma?"
+  },
+  {
+   "id": 191,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "Deklinację magnetyczną podaje się na mapach morskich: w różach kompasowych (wartość, rok i zmiana roczna) na mapach szczegółowych oraz w postaci izogon na mapach generalnych; istnieją też specjalne mapy izogon (magnetyczne) dla całego globu. Locje i przewodniki zawierają ją tylko wyrywkowo i nie są podstawowym źródłem.",
+   "sources": [
+    "NAV (źródła deklinacji: róże kompasowe map, izogony, mapy magnetyczne)"
+   ],
+   "hint": "Pierwsze miejsce, w które patrzy nawigator po deklinację, to róża kompasowa na mapie. A dla całego oceanu?"
+  },
+  {
+   "id": 192,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "W tabeli sprzętu nawigacyjnego załącznika nr 1 odbiornik satelitarnego systemu nawigacyjnego (np. GPS, poz. 20) jest wymagany w Rejonach 2, 3 i 4, a w Rejonie 1 (żegluga osłonięta) nie jest wymagany. Komplet map i pomocy bez GPS wystarcza więc tylko w żegludze osłoniętej; w żegludze przybrzeżnej i dalszej GPS jest obowiązkowy.",
+   "sources": [
+    "ROZP-2012, załącznik nr 1, cz. III „Sprzęt nawigacyjny”, poz. 20 (odbiornik GPS: wymagany w Rejonach 2–4)",
+    "ROZP-2012, § 4 (rejony pływania)"
+   ],
+   "hint": "W tabeli sprzętu nawigacyjnego przy GPS w jednym rejonie stoi kreska, w pozostałych jedynka. W którym kreska?"
+  },
+  {
+   "id": 193,
+   "answer": "A",
+   "confidence": "B",
+   "explanation": "Rejs z Norwegii do Szkocji to żegluga pełnomorska przez Morze Północne; przy czarterze trzeba przede wszystkim sprawdzić, czy jacht ma dopuszczenie (kategorię projektową, dokumenty) do takiej żeglugi, czy jego wyposażenie ratunkowe, nawigacyjne i radiowe odpowiada temu rejonowi oraz czy polisa ubezpieczeniowa obejmuje planowany akwen (wiele polis czarterowych ogranicza się do wód przybrzeżnych lub jednego kraju). Moc silnika, zbiorniki, bandera czy radio to sprawy ważne, ale podrzędne.",
+   "sources": [
+    "PRAKTYKA (czarter jachtu na rejs pełnomorski: dopuszczenie, wyposażenie, zakres ubezpieczenia)",
+    "ROZP-2012, § 5 (wymagania dla jachtu w żegludze morskiej w zależności od rejonu)"
+   ],
+   "hint": "Co może sprawić, że w ogóle nie wolno Ci wypłynąć tym jachtem na Morze Północne albo że po awarii zostaniesz bez odszkodowania?"
+  },
+  {
+   "id": 194,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Podstawowy zestaw awaryjny do armatury podwodnej to miękkie drewniane kołki (czopy) o średnicach wszystkich przejść zaburtowych, przywiązane przy każdym zaworze, oraz opaski zaciskowe do węży; kołek wbity w pęknięty zawór lub kingston zatrzymuje przeciek natychmiast. Komplet zapasowych zaworów trudno wymienić w morzu (trzeba by odciąć wodę), a laminowanie w zalewanej zęzie jest nierealne; to materiały do napraw w porcie.",
+   "sources": [
+    "PRAKTYKA (wyposażenie awaryjne: kołki drewniane przy przejściach zaburtowych, opaski zaciskowe)",
+    "ROZP-2012, załącznik nr 1, cz. VI (zestaw narzędzi i części zapasowych do prac naprawczych)"
+   ],
+   "hint": "Pękł zawór pod linią wodną i woda leje się do środka. Czym zatkasz otwór w 10 sekund?"
+  },
+  {
+   "id": 195,
+   "answer": "B",
+   "confidence": "B",
+   "explanation": "Przypis 2 do tabeli sprzętu nawigacyjnego w załączniku nr 1: wektorowe mapy elektroniczne mogą spełnić wymóg posiadania map „pod warunkiem posiadania na jachcie wersji papierowej map lub zdublowania systemu”. Sam ploter z kompletem map wektorowych bez map papierowych i bez drugiego, niezależnego systemu map nie wystarcza; przepis nie mówi o dwóch odbiornikach GPS, lecz o zdublowaniu całego systemu map (drugie urządzenie z mapami i zasilaniem). Dlatego z podanych odpowiedzi poprawna jest B, z zastrzeżeniem, że alternatywą dla map papierowych jest zdublowany system.",
+   "sources": [
+    "ROZP-2012, załącznik nr 1, cz. III poz. 10 i przypis 2 (mapy elektroniczne: wersja papierowa lub zdublowanie systemu)"
+   ],
+   "hint": "Przypis 2 pod tabelą sprzętu nawigacyjnego stawia alternatywę: albo papier, albo coś zdublowanego. Czy drugi odbiornik GPS to to samo, co drugi system map?",
+   "flags": [
+    "uwaga: przepis dopuszcza zamiast map papierowych zdublowanie systemu map elektronicznych (nie dwa odbiorniki GPS); przy jednym ploterze odpowiedź B"
+   ]
+  },
+  {
+   "id": 196,
+   "answer": "C",
+   "confidence": "A",
+   "explanation": "Rozporządzenie określa wyposażenie jachtu „w zależności od długości jachtu oraz rejonu pływania” (§ 12 ust. 1), a rejony definiuje § 4: Zalew Szczeciński to Rejon 1 (żegluga osłonięta), a niemieckie wody osłonięte Zatoki Pomorskiej odpowiadają Rejonowi 1 lub 2. Karta bezpieczeństwa na żeglugę oceaniczną określa maksymalny dopuszczalny rejon, ale na konkretny rejs wystarczy wyposażenie wymagane dla rejonu, w którym faktycznie się żegluje; załącznik nr 1 podaje osobne wymagania dla każdego rejonu. Przepisy niemieckie nie regulują wyposażenia jachtu pod polską banderą.",
+   "sources": [
+    "ROZP-2012, § 12 ust. 1 (wyposażenie w zależności od rejonu pływania) i § 4 (rejony)",
+    "ROZP-2012, załącznik nr 1 (wyposażenie według rejonu żeglugi)"
+   ],
+   "hint": "§ 12 rozporządzenia mówi, od czego zależy wymagane wyposażenie. Czy od tego, co jacht może, czy od tego, gdzie płynie?",
+   "flags": [
+    "uwaga: odpowiedź C mówi o „rejonie 2”, a Zalew Szczeciński to według § 4 Rejon 1 (żegluga osłonięta); zasada (wyposażenie według rejonu faktycznej żeglugi) pozostaje poprawna"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+. W tablicach pływów podawana jest strefa czasu A 11.20
+
+a danego portu (Standart Port). Dla interesujacego B 12.20
+1$5 portu podano Time Zone - 0200, a z tablic C 1320
+Jczytano moment wysokiej wody 1320. O której :
+»dzinie czasu okrętowego wystąpi ta wysoka woda
+
+żeli czas okrętowy jest o 1 godzinę późniejszy od
+
+TC (GMT)?
+
+. Znajdujemy się na akwenie, gdzie wystepują A Tak
+ądy pływowe. Posługując się GPS/ploterem B Nie
+
+(reślono KD, ustawiono jacht w tym kierunku i
+Jczytano na kompasie KK prowadzący do portu
+lległego o kilka godzin drogi. Czy utrzymywanie
+go KK przez cały czas żeglugi gwarantuje nam
+iągnięcie tego portu bez ewentualnych korekt
+
+Cc Tak, o ile na całej tej trasie deł
+magnetyczna będzie taka san
+
+Irsu?
+
+|. Na rysunku pokazano fragment atlasu prądów A _ Tylko, że pokazany prąd płyni
+ywowych. Jakie informacje można z niego Sytuacja odnośi się do 6 godz
+Jczytać? B Dover, a prąd ma szybkość 13
+
+płynie na NE
+ri z Sytuacja odnosi się do ok. 6 g
+kk w Dover, prąd płynie na NE, sz
+C przy pływie kwadraturowym |
+węzła i 2,6 węzła przy pływie
+. Dysponujemy TYLKO atlasem pływów i mapą A Tak, w atlasie podane są kieru
+
+nego akwenu. Czy jesteśmy w stanie ustalić
+erunek i szybkość prądu dla danego momentu
+
+szybkości prądu
+Tak, na mapie są podane punl
+
+i?
+glugi? B literą) pozwalajace na znalezić
+kierunku i szybkości prądu.
+C Nie
+3. Gdzie można znaleźć informacje o prądach A __ Tylko w Locjach danego akwe
+ywowych? B W Tablicach Pływów
+
+W atlasach prądów pływowyc
+C |morskich, na mapach wektorc
+funkcją prądy pływowe
+
+l. Z jakich źródeł można uzyskać dane dotyczące A Tylko z Admiralty Tide Tables
+
+ywów dla danego portu? Tylko z tablic pływów publiko
+B różnych wydawnictwach (np.
+Almanac, Admiralty Tide Tabli
+
+Z rozmaitych Tablic Pływów, z
+internetowych, z programów
+
+C komputerowych i z map wekt
+funkcją pływy.
+
+mer arkusza: 20160729_095536455_0 St
